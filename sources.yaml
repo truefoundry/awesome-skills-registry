@@ -30,10 +30,6 @@ sources:
   # --- Multi-skill repos (each skill_dir -> separate registry entry) ---
   - url: https://github.com/garrytan/gbrain
     skills_path: skills/
-  
-  - url: https://github.com/anthropics/skills
-    skills_path: skills/
-    is_official: true
   - url: https://github.com/tech-leads-club/agent-skills
     skills_path: packages/skills-catalog/skills/
 

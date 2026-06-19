@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * 0"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "sources.yaml"
 
 permissions:
   contents: write
@@ -28,6 +32,9 @@ jobs:
 
       - name: Install dependencies
         run: uv sync --locked
+
+      - name: Validate sources (fail on duplicate GitHub sources)
+        run: uv run python scripts/lint_sources.py
 
       - name: Install GitHub CLI
         run: |

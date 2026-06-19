@@ -1,0 +1,30 @@
+name: Validate Sources
+
+on:
+  pull_request:
+    paths:
+      - "sources.yaml"
+  push:
+    branches: [main]
+    paths:
+      - "sources.yaml"
+
+jobs:
+  validate-sources:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Check for duplicate GitHub sources
+        run: uv run python scripts/lint_sources.py
