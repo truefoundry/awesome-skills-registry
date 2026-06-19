@@ -1,6 +1,6 @@
 <h1 align="center">TrueFoundry Skills Registry</h1>
 
-![TrueFoundry Skills Registry — the open agent skills ecosystem](images/2026-06-19_18.12.25.png)
+![TrueFoundry Skills Registry — the open agent skills ecosystem](images/tf_banner.svg)
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
