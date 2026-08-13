@@ -19,6 +19,10 @@ sources:
       - hf-mcp/skills/
     is_official: true
 
+  - url: https://github.com/Orkas-AI/Orkas-VideoStudio
+    skills_path: packages/skills/
+    is_official: true
+
   - url: https://github.com/stripe/ai
     skills_path: skills/
     is_official: true
