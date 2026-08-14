@@ -145,6 +145,8 @@ sources:
     is_official: true
   - url: https://github.com/lawvable/awesome-legal-skills
     skills_path: skills/
+  - url: https://github.com/leechen298/Code2Skill
+    skills_path: skills/
   - url: https://github.com/Leonxlnx/taste-skill
     skills_path: skills/
   - url: https://github.com/makenotion/claude-code-notion-plugin
