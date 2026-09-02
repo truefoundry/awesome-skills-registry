@@ -303,3 +303,7 @@ sources:
   # - url: https://github.com/VoltAgent/awesome-agent-skills
   # - url: https://github.com/VoltAgent/awesome-codex-subagents
   # - url: https://github.com/heilcheng/awesome-agent-skills
+
+  # BulkPublish social media content skills
+  - url: https://github.com/azeemkafridi/bulkpublish-api
+    skills_path: skills/social-media-content-skills/
