@@ -86,6 +86,9 @@ sources:
     skills_path: skills/
   - url: https://github.com/CloudAI-X/threejs-skills
     skills_path: skills/
+  - url: https://github.com/Continuum-AI-Corp/OrcaReplay
+    skills_path: skills/
+    is_official: true
   - url: https://github.com/czlonkowski/n8n-skills
     skills_path: skills/
   - url: https://github.com/deanpeters/Product-Manager-Skills
