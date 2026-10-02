@@ -32,6 +32,8 @@ sources:
     skills_path: skills/
   - url: https://github.com/tech-leads-club/agent-skills
     skills_path: packages/skills-catalog/skills/
+  - url: https://github.com/alapha888/agent-skills-en
+    skills_path: skills/
 
   # --- Sourced from: https://github.com/VoltAgent/awesome-agent-skills ---
 
