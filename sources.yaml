@@ -27,6 +27,20 @@ sources:
     skills_path: skills/
     is_official: true
 
+  - url: https://github.com/prisma/skills
+    skills_paths:
+      - prisma-cli/
+      - prisma-client-api/
+      - prisma-compute/
+      - prisma-database-setup/
+      - prisma-driver-adapter-implementation/
+      - prisma-mongodb-upgrade/
+      - prisma-orm-setup/
+      - prisma-postgres/
+      - prisma-postgres-setup/
+      - prisma-upgrade-v7/
+    is_official: true
+
   # --- Multi-skill repos (each skill_dir -> separate registry entry) ---
   - url: https://github.com/garrytan/gbrain
     skills_path: skills/
