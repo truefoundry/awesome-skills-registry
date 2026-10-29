@@ -297,6 +297,9 @@ sources:
       - pm-product-strategy/
       - pm-toolkit/
 
+  - url: https://github.com/YannisKiefer/harvey-specter
+    skills_path: skills/
+
   # --- Awesome-list repos (NOT scannable — link directories, no SKILL.md files) ---
   # These are curated README-based discovery sources, not skill containers.
   # Future: parse README for GitHub links to add new entries above.
