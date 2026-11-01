@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-lateral-movement-in-network
+display_name: detecting-lateral-movement-in-network
+description: Identifies lateral movement techniques in enterprise networks by analyzing
+  authentication logs, network flows, SMB traffic, and RDP sessions using Zeek, Velociraptor,
+  and SIEM correlation rules to detect attackers moving between systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-lateral-movement-in-network
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

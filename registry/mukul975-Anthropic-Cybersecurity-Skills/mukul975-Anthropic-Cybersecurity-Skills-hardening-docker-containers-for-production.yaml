@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hardening-docker-containers-for-production
+display_name: hardening-docker-containers-for-production
+description: 'Hardens Dockerfiles, images, and per-container runtime settings against
+  the CIS Docker Benchmark v1.8.0: non-root users, dropped capabilities, read-only
+  root filesystem, seccomp and AppArmor profiles, and minimal multi-stage builds,
+  validated with docker-bench-security, Hadolint, and Dockle. Use when preparing a
+  container or Dockerfile for production, or auditing images and runtime flags against
+  CIS Docker controls. Keywords: Dockerfile, USER, --cap-drop, read-only rootfs, seccomp,
+  AppArmor, multi-stage, Hadolint, Dockle. Do not use for the Docker daemon''s own
+  configuration - use hardening-docker-daemon-configuration.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hardening-docker-containers-for-production
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

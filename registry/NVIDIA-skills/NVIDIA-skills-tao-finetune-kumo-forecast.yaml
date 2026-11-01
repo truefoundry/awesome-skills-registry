@@ -1,0 +1,21 @@
+id: NVIDIA-skills-tao-finetune-kumo-forecast
+display_name: tao-finetune-kumo-forecast
+description: "Kumo-Forecast \u2014 transformer-based multivariate time series forecasting\
+  \ with DARR (context-enhanced kNN retrieval), interpretability, and fine-tuning.\
+  \ Use when the user asks to \"forecast with Kumo-Forecast\", \"run forecasting inference\"\
+  , \"use perform_forecasting\", \"DARR mode\", \"context-enhanced forecasting\",\
+  \ \"lag horizon attribution\", \"interpretability\", \"fine-tune forecasting\",\
+  \ \"fine-tune forecasting with automl\", \"hyper-parameter optimization with forecasting\"\
+  , or mentions \"kumo-forecast\", \"moment_head_512_6hr\", or \"run8_best_model_cr\"\
+  ."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-finetune-kumo-forecast
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

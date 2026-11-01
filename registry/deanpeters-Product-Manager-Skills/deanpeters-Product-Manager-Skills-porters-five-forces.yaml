@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-porters-five-forces
+display_name: porters-five-forces
+description: Read an industry's structure through Porter's Five Forces with documented
+  signals per rating, ending at the profit pool. Use when weighing market entry or
+  when margins erode and nobody can say why.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/porters-five-forces
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

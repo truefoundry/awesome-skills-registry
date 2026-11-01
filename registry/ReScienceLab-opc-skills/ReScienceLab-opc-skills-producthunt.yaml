@@ -1,0 +1,16 @@
+id: ReScienceLab-opc-skills-producthunt
+display_name: producthunt
+description: Search and retrieve content from Product Hunt. Get posts, topics, users,
+  and collections via the GraphQL API. Use when user mentions Product Hunt, PH, or
+  product launches.
+authors:
+- ReScienceLab
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/producthunt
+  repo: ReScienceLab/opc-skills
+metadata:
+  stars: 1888
+added_at: '2026-11-01'

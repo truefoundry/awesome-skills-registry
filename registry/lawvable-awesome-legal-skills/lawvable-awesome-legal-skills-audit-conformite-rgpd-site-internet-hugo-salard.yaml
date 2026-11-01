@@ -1,0 +1,27 @@
+id: lawvable-awesome-legal-skills-audit-conformite-rgpd-site-internet-hugo-salard
+display_name: audit-rgpd-site-internet
+description: "Audit de conformit\xE9 RGPD complet d'un site internet. R\xE9alise une\
+  \ observation syst\xE9matique du site selon une checklist de 10 sections (mentions\
+  \ l\xE9gales, h\xE9bergeur, formulaires, newsletter, politique de confidentialit\xE9\
+  , cookies et bandeau, mots de passe, trackers et mesure d'audience, sous-traitants\
+  \ et transferts hors UE, accessibilit\xE9 du recueil des droits) plus une annexe\
+  \ 22 items reproduisant les exigences des articles 13 et 14 RGPD. Produit un rapport\
+  \ structur\xE9 avec niveau de conformit\xE9 global, points bloquants (risque 3),\
+  \ points de vigilance (risque 2), recommandations prioritaires et notes techniques.\
+  \ Le skill est tool-agnostique : il fonctionne avec un outil de navigation automatique\
+  \ (Claude in Chrome, Cowork ou \xE9quivalent) ou en mode d\xE9grad\xE9 copier-coller.\
+  \ Triggers : \"audit RGPD site\", \"audit site internet\", \"v\xE9rifie ce site\"\
+  , \"scanne ce site\", \"audit conformit\xE9 site\", \"audite la conformit\xE9 de\
+  \ [URL]\", \"audit cookies site\", \"audit politique de confidentialit\xE9 site\"\
+  ."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/audit-conformite-rgpd-site-internet-hugo-salard
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

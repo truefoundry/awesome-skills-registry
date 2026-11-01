@@ -1,0 +1,15 @@
+id: transloadit-skills-integrate-asset-delivery-with-transloadit-smartcdn-in-nextjs
+display_name: integrate-asset-delivery-with-transloadit-smartcdn-in-nextjs
+description: Add server-side Transloadit Smart CDN URL signing for an explicitly configured
+  asset to a Next.js App Router project.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/integrate-asset-delivery-with-transloadit-smartcdn-in-nextjs
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

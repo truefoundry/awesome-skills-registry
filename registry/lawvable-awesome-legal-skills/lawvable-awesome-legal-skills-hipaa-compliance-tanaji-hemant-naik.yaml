@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-hipaa-compliance-tanaji-hemant-naik
+display_name: hipaa-compliance
+description: "Expert HIPAA compliance assistant for healthcare and software contexts.\
+  \ Use this skill whenever the user mentions HIPAA, PHI (Protected Health Information),\
+  \ ePHI, covered entities, business associates, healthcare data privacy, medical\
+  \ records, health information security, BAA (Business Associate Agreements), or\
+  \ any compliance review involving patient data. Also trigger for requests to draft\
+  \ privacy notices, HIPAA policies, consent forms, security risk assessments, or\
+  \ breach notification letters. Use for developers building healthcare software who\
+  \ need technical safeguard guidance (encryption, access controls, audit logs), compliance\
+  \ officers reviewing documents or procedures, and anyone asking \"is this HIPAA\
+  \ compliant?\" or \"what does HIPAA require for X?\". When in doubt about whether\
+  \ a healthcare or data privacy question falls under this skill \u2014 use it."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hipaa-compliance-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

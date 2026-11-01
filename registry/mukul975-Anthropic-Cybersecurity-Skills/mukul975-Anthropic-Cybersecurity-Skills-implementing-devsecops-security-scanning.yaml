@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-devsecops-security-scanning
+display_name: implementing-devsecops-security-scanning
+description: Integrates SAST, DAST, and SCA into CI/CD pipelines using Semgrep for
+  SAST, Trivy for SCA and container scanning, OWASP ZAP for DAST, and Gitleaks for
+  secrets detection. Use when setting up automated security scanning in CI/CD, shifting
+  security left, meeting compliance mandates (SOC 2, PCI-DSS, ISO 27001), or gating
+  deployments on critical vulnerabilities.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-devsecops-security-scanning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

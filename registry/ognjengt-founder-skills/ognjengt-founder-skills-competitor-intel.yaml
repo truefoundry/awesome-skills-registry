@@ -1,0 +1,17 @@
+id: ognjengt-founder-skills-competitor-intel
+display_name: competitor-intel
+description: Analyzes competitors using web research to provide verified business
+  metrics, actionable leverage strategies, and predicted next moves. Use when user
+  needs competitive intelligence, competitor analysis, market positioning insights,
+  or strategic leverage opportunities.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/competitor-intel
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

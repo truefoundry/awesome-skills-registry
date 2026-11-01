@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-mapping-attack-paths-with-bloodhound-ce
+display_name: mapping-attack-paths-with-bloodhound-ce
+description: Collect Active Directory data with SharpHound and Entra ID data with
+  AzureHound, ingest into BloodHound Community Edition, and analyze on-prem, cloud,
+  and hybrid attack paths using built-in queries and custom Cypher. Use during authorized
+  red-team or penetration-test engagements to map privilege-escalation chains toward
+  domain/tenant compromise.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mapping-attack-paths-with-bloodhound-ce
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-active-directory-penetration-test
+display_name: performing-active-directory-penetration-test
+description: Conduct a focused Active Directory penetration test using BloodHound,
+  Impacket, Certipy, Rubeus, and NetExec to enumerate domain objects, discover attack
+  paths, exploit Kerberos weaknesses, escalate privileges via ADCS/DCSync, and demonstrate
+  domain compromise. Use when running an authorized AD pentest from a standard domain
+  user foothold toward Domain Admin or Enterprise Admin.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-active-directory-penetration-test
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

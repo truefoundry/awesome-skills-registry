@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-prepare-image-with-transloadit
+display_name: transform-prepare-image-with-transloadit
+description: Prepare local images for a website with orientation correction, resizing,
+  compression and format conversion using the prepare-image Builtin and the official
+  Transloadit CLI.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-prepare-image-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

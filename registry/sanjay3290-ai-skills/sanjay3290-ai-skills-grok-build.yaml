@@ -1,0 +1,20 @@
+id: sanjay3290-ai-skills-grok-build
+display_name: grok-build
+description: 'Orchestrate coding work by delegating well-specified implementation
+  tasks to xAI''s Grok Build CLI (grok) running headlessly, while the coding assistant
+  plans, writes the task specs, reviews every diff, and owns the result. Use when
+  user says: ''use grok'', ''grok build'', ''delegate to grok'', ''have grok implement'',
+  ''have grok execute'', ''have grok build'', ''send to grok'', ''execute this plan
+  with grok''. Executes a Markdown implementation plan task-by-task, or ad-hoc tasks
+  with an inline spec.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/grok-build
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: NVIDIA-skills-bionemo-evo2-nim
+display_name: evo2-nim
+description: Generate and analyze DNA sequences using NVIDIA's Evo 2 BioNeMo NIM microservice.
+  Use for Evo2/Evo 2, DNA generation, genomic sequence generation, hosted generation,
+  local Docker deployment, local forward passes, layer outputs, logits, sampled probabilities,
+  and BioNeMo NIM workflows.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-evo2-nim
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

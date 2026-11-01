@@ -1,0 +1,21 @@
+id: google-skills-assured-workloads-basics
+display_name: assured-workloads-basics
+description: Provisions, inspects, updates, and deletes Google Cloud Assured Workloads
+  V1 compliant folders, CMEK settings, Sovereign Controls by Partners, and service
+  usage restrictions. Use when creating, listing, describing, updating, or deleting
+  an Assured Workloads workload for any compliance regime or data boundary (FedRAMP,
+  DoD IL2/IL4/IL5, ITAR, CJIS, Healthcare, Sovereign Controls by Partners, or Regional
+  Data Boundaries). Don't use for brownfield assessments or custom frameworks (use
+  assuredworkloads-environment-assessor or assuredworkloads-frameworks-*), or non-compliant
+  folders.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/assured-workloads-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

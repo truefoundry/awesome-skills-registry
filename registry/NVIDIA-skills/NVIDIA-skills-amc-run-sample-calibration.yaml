@@ -1,0 +1,16 @@
+id: NVIDIA-skills-amc-run-sample-calibration
+display_name: amc-run-sample-calibration
+description: Run end-to-end calibration on the shipped sample dataset (sdg_08_2_sample_data_010926.zip)
+  against a running AMC microservice. Use when user says 'test sample dataset', 'run
+  sample calibration', 'verify AMC install', or 'launch and test'.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/amc-run-sample-calibration
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

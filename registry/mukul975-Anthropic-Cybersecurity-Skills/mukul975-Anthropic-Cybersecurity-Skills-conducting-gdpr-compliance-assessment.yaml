@@ -1,0 +1,26 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-gdpr-compliance-assessment
+display_name: conducting-gdpr-compliance-assessment
+description: "Conduct comprehensive GDPR compliance assessments by evaluating data\
+  \ processing activities against EU Regulation 2016/679, including Article 30 records\
+  \ of processing, lawful basis validation, data subject rights implementation, Data\
+  \ Protection Impact Assessments (DPIAs) under Article 35, breach notification procedures,\
+  \ international transfer safeguards (SCCs, adequacy decisions), and technical/organizational\
+  \ measures under Article 32. Use when processing personal data of EU residents,\
+  \ preparing for supervisory authority audits, implementing privacy-by-design for\
+  \ new systems, scoping compliance gaps for M&A due diligence, assessing third-party\
+  \ processors, or responding to data subject access requests at scale. Incorporates\
+  \ 2026 guidance from ICO, EDPB, and post-Data (Use and Access) Act 2025 UK-GDPR\
+  \ considerations. Do not use for implementing specific Article 32 controls \u2014\
+  \ use implementing-gdpr-data-protection-controls; or for DSAR automation \u2014\
+  \ use implementing-gdpr-data-subject-access-request."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-gdpr-compliance-assessment
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

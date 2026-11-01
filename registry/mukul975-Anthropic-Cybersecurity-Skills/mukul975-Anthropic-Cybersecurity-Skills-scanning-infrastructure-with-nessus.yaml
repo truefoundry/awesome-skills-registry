@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-scanning-infrastructure-with-nessus
+display_name: scanning-infrastructure-with-nessus
+description: Tenable Nessus is the industry-leading vulnerability scanner used to
+  identify security weaknesses across network infrastructure including servers, workstations,
+  network devices, and operating systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scanning-infrastructure-with-nessus
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

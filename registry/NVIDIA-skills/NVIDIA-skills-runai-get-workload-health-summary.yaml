@@ -1,0 +1,15 @@
+id: NVIDIA-skills-runai-get-workload-health-summary
+display_name: runai-get-workload-health-summary
+description: Summarizes scoped Run:ai workload health or one workload. Not for root
+  cause, quota, cluster health, fleet utilization, history, or mutations.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/runai-get-workload-health-summary
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

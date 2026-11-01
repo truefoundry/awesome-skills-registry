@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-containing-active-breach
+display_name: containing-active-breach
+description: Executes containment strategies to stop active adversary operations and
+  prevent lateral movement during a confirmed security breach. Implements short-term
+  and long-term containment using network segmentation, endpoint isolation, credential
+  revocation, and access control modifications. Activates for requests involving breach
+  containment, lateral movement prevention, network isolation, active threat containment,
+  or live incident response.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/containing-active-breach
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

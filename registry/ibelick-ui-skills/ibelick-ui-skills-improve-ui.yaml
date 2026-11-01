@@ -1,0 +1,18 @@
+id: ibelick-ui-skills-improve-ui
+display_name: improve-ui
+description: Audit an existing product surface against its own design evidence, identify
+  verified UI problems, and write self-contained implementation plans for another
+  agent. Strictly read-only on product source. Use when asked to review, refine, improve,
+  or clean up an interface without replacing its identity; investigate design-system
+  drift; or prepare a design handoff.
+authors:
+- ibelick
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/improve-ui
+  repo: ibelick/ui-skills
+metadata:
+  stars: 10422
+added_at: '2026-11-01'

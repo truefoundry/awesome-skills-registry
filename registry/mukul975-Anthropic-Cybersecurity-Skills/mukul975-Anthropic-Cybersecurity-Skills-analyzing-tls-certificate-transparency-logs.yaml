@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-tls-certificate-transparency-logs
+display_name: analyzing-tls-certificate-transparency-logs
+description: Queries Certificate Transparency logs via crt.sh and pycrtsh to detect
+  phishing domains, unauthorized certificate issuance, and shadow IT. Monitors newly
+  issued certificates for typosquatting and brand impersonation using Levenshtein
+  distance. Use for proactive phishing domain detection and certificate monitoring.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-tls-certificate-transparency-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-marketing-ideas
+display_name: marketing-ideas
+description: Generate 5 creative, cost-effective marketing ideas with channels, messaging,
+  and engagement rationale. Use when brainstorming marketing campaigns, planning product
+  promotion, or looking for creative marketing tactics.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-marketing-growth/skills/marketing-ideas
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

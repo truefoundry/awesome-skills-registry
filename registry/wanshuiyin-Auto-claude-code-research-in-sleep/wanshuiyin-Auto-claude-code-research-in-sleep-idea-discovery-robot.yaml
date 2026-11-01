@@ -1,0 +1,20 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-idea-discovery-robot
+display_name: idea-discovery-robot
+description: "Workflow 1 adaptation for robotics and embodied AI. Orchestrates robotics-aware\
+  \ literature survey, idea generation, novelty check, and critical review to go from\
+  \ a broad robotics direction to benchmark-grounded, simulation-first ideas. Use\
+  \ when user says \\\"robotics idea discovery\\\", \\\"\u673A\u5668\u4EBA\u627Eidea\\\
+  \", \\\"embodied AI idea\\\", \\\"\u673A\u5668\u4EBA\u65B9\u5411\u63A2\u7D22\\\"\
+  , \\\"sim2real \u9009\u9898\\\", or wants ideas for manipulation, locomotion, navigation,\
+  \ drones, humanoids, or general robot learning."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/idea-discovery-robot
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

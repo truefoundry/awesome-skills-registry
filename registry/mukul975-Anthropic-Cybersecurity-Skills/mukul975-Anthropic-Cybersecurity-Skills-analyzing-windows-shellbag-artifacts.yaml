@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-windows-shellbag-artifacts
+display_name: analyzing-windows-shellbag-artifacts
+description: Analyze Windows Shellbag (BagMRU) registry artifacts with SBECmd and
+  Shellbags Explorer to reconstruct folder browsing activity and prove user interaction
+  with directories, including removable media and network shares, even after the folders
+  are deleted. Use when reconstructing a user's folder access history or proving access
+  to a since-removed directory in DFIR work.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-windows-shellbag-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

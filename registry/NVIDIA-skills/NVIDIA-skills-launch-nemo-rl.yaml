@@ -1,0 +1,16 @@
+id: NVIDIA-skills-launch-nemo-rl
+display_name: launch-nemo-rl
+description: Playbook for launching, monitoring, stopping, and debugging NeMo-RL recipes
+  on a Kubernetes cluster via the nrl-k8s CLI. Covers ephemeral vs long-lived RayCluster
+  modes, iterating on runs, and debugging hung or failed training jobs.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/launch-nemo-rl
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

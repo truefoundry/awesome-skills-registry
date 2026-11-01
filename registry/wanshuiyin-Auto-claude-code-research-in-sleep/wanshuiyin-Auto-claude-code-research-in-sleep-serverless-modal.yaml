@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-serverless-modal
+display_name: serverless-modal
+description: "Run GPU workloads on Modal \u2014 training, fine-tuning, inference,\
+  \ batch processing. Zero-config serverless: no SSH, no Docker, auto scale-to-zero.\
+  \ Use when user says \"modal run\", \"modal training\", \"modal inference\", \"\
+  deploy to modal\", \"need a GPU\", \"run on modal\", \"serverless GPU\", or needs\
+  \ remote GPU compute."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/serverless-modal
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-browser-isolation-for-zero-trust
+display_name: implementing-browser-isolation-for-zero-trust
+description: Deploys remote browser isolation (RBI) as a core component of a Zero
+  Trust architecture. Implements isolation policies with URL categorization and risk-based
+  routing, content disarming and reconstruction (CDR) for file sanitization, data
+  loss prevention controls within isolated sessions, and integration with Secure Web
+  Gateway and ZTNA platforms. Based on Cloudflare Browser Isolation, Menlo Security,
+  and Zscaler RBI approaches. Use when hardening web access against zero-day exploits,
+  phishing, credential theft, and browser-based data exfiltration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-browser-isolation-for-zero-trust
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

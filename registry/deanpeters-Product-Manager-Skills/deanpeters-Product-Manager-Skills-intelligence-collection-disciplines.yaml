@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-intelligence-collection-disciplines
+display_name: intelligence-collection-disciplines
+description: 'Run competitive research like an intelligence agency: eight collection
+  disciplines (OSINT to MASINT), signal-to-inference chains, and fusion. Use when
+  one-source research isn''t enough.'
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/intelligence-collection-disciplines
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

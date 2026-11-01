@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nvshmem-tune-performance
+display_name: nvshmem-tune-performance
+description: Route NVSHMEM tuning to data collection, remote transport, NIC-to-PE
+  mapping, or TMA. Do not use for unrelated CUDA, NCCL, or application tuning.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvshmem-tune-performance
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

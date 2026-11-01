@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-icelandic-privacy-review-magnus-smarason
+display_name: Icelandic Privacy Review
+description: "Use this skill when asked to review data protection or privacy compliance\
+  \ under Icelandic law and GDPR. Triggers on requests involving personal data processing,\
+  \ privacy policies, DPIA assessments, kennitala handling, Pers\xF3nuvernd filings,\
+  \ or cross-border data transfers from Iceland."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icelandic-privacy-review-magnus-smarason
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

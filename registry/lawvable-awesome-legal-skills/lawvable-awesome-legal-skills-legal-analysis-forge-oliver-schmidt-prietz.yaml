@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-legal-analysis-forge-oliver-schmidt-prietz
+display_name: legal-analysis-forge-oliver-schmidt-prietz
+description: "EU Digital Regulation Legal Analysis Forge \u2014 generates a tailored\
+  \ expert prompt for structured legal analysis of an EU digital-regulation document,\
+  \ optionally executes it in-session, and always produces a plain-English explainer\
+  \ alongside the formal output. Handles Regulations, Directives, Commission Guidelines,\
+  \ EDPB Opinions, CJEU and AG judgments, national DPA decisions, codes of conduct,\
+  \ and draft consultations across the EU digital stack."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-analysis-forge-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

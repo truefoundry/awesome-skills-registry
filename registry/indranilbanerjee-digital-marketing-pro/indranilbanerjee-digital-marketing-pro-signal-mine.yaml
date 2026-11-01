@@ -1,0 +1,15 @@
+id: indranilbanerjee-digital-marketing-pro-signal-mine
+display_name: signal-mine
+description: Mine raw signals (news, threads, sales notes) into content angles. "turn
+  this industry news into ideas"
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/signal-mine
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 920
+added_at: '2026-11-01'

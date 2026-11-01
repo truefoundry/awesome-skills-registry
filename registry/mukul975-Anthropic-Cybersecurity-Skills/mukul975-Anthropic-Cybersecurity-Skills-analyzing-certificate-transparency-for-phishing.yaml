@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-certificate-transparency-for-phishing
+display_name: analyzing-certificate-transparency-for-phishing
+description: Monitor Certificate Transparency logs using crt.sh and Certstream to
+  detect phishing domains, lookalike certificates, and unauthorized certificate issuance
+  targeting your organization.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-certificate-transparency-for-phishing
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

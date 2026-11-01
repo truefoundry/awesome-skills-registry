@@ -1,0 +1,15 @@
+id: NVIDIA-skills-digital-health-clinical-asr-setup
+display_name: digital-health-clinical-asr-setup
+description: 'Stage 1 of Clinical ASR Flywheel. Use when bootstrapping a cycle: NVCF+MW
+  disclosure, NVIDIA_API_KEY check, deps install, TTS+ASR smoke test.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/digital-health-clinical-asr-setup
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

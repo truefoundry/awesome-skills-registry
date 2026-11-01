@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-abuse-detection-with-rate-limiting
+display_name: implementing-api-abuse-detection-with-rate-limiting
+description: Implements API abuse detection using token bucket, sliding window, and
+  fixed window rate-limiting algorithms backed by Redis, including adaptive limits
+  that tighten during detected attacks and relax during normal traffic. Use when defending
+  APIs against DDoS, brute force login attempts, credential stuffing, or scraping
+  abuse and you need to design or tune rate-limiting logic.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-abuse-detection-with-rate-limiting
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

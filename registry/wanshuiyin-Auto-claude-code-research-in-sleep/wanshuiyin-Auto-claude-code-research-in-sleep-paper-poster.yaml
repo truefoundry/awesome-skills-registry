@@ -1,0 +1,15 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-poster
+display_name: paper-poster
+description: "DEPRECATED \u2014 superseded by /paper-poster-html. Kept only as a redirect\
+  \ for muscle memory; do not use for new posters."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-poster
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

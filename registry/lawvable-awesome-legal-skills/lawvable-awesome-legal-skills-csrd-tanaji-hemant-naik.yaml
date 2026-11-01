@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-csrd-tanaji-hemant-naik
+display_name: csrd
+description: "Expert CSRD (Corporate Sustainability Reporting Directive, EU 2022/2464)\
+  \ compliance advisor. Use this skill whenever a user asks about CSRD, European Sustainability\
+  \ Reporting Standards (ESRS), double materiality assessment, sustainability reporting\
+  \ obligations, ESG disclosure, CSRD scope and thresholds, value chain reporting,\
+  \ XBRL digital tagging, third-party assurance, CSRD gap assessments, CSRD implementation\
+  \ timelines, ESRS E1\u2013E5 environmental standards, ESRS S1\u2013S4 social standards,\
+  \ ESRS G1 governance, CSRD vs GRI/TCFD/SASB alignment, or any EU corporate sustainability\
+  \ reporting question. Trigger even if the user only mentions \"ESG reporting Europe\"\
+  , \"sustainability disclosure EU\", or \"non-financial reporting\"."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/csrd-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

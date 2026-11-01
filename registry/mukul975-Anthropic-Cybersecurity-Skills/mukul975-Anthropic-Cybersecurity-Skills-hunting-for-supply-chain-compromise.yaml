@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-supply-chain-compromise
+display_name: hunting-for-supply-chain-compromise
+description: Runs a hypothesis-driven threat hunt for supply-chain compromise (T1195)
+  by querying SIEM/EDR logs for trojanized software updates, compromised dependencies,
+  unauthorized code modifications, and tampered build artifacts. Use when hunting
+  after threat intel flags a compromised vendor/dependency, scoping a build-pipeline
+  compromise, or reviewing update/build integrity.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-supply-chain-compromise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

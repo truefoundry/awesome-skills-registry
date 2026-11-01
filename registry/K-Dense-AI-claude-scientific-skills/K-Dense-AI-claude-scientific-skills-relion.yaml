@@ -1,0 +1,17 @@
+id: K-Dense-AI-claude-scientific-skills-relion
+display_name: relion
+description: Validates and executes RELION single-particle cryo-EM refinement and
+  half-map postprocessing. Supports STAR optics/acquisition checks, particle-stack
+  consistency, gold-standard half sets, soft-mask validation, diagnostic Fourier shell
+  correlation, and restart guidance.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/relion
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

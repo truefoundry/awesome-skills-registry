@@ -1,0 +1,17 @@
+id: garrytan-gbrain-idea-lineage
+display_name: idea-lineage
+description: 'Trace one idea''s evolution through the brain: first mention, best articulation,
+  related concepts, reversals, contradictions, abandoned branches, and the current
+  live version. Use for single-idea conceptual lineage, not broad concept-map synthesis
+  or structured entity metrics.'
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/idea-lineage
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

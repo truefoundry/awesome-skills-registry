@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-international-criminal-court-jeanne-sulzer
+display_name: icc-jeanne-sulzer
+description: "Research, drafting, and analysis involving the International Criminal\
+  \ Court (Rome Statute system). Enforces a verification-first methodology \u2014\
+  \ every case-law, decision, filing, warrant, and statement citation is verified\
+  \ against an authoritative primary source (icc-cpi.int, legal-tools.org) in the\
+  \ current conversation before it appears in an output. Foundational texts (Rome\
+  \ Statute, Elements of Crimes, RPE, Regulations of the Court) may be cited from\
+  \ project knowledge when present. Use whenever the user is working with ICC case\
+  \ law, OTP statements, ASP documents, or ICC procedure."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/international-criminal-court-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

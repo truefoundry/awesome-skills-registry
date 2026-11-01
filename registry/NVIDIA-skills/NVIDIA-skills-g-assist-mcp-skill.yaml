@@ -1,0 +1,16 @@
+id: NVIDIA-skills-g-assist-mcp-skill
+display_name: g-assist-mcp-skill
+description: Use this skill to check or change this machine's NVIDIA display and GPU
+  settings, such as resolution, refresh rate, V-Sync, G-SYNC, brightness, color, and
+  GPU performance.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/g-assist-mcp-skill
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

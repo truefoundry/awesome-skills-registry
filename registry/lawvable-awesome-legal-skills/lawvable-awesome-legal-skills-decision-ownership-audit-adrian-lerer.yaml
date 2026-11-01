@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-decision-ownership-audit-adrian-lerer
+display_name: decision-ownership-audit-ignacio-adrian-lerer
+description: Audits AI-assisted legal, compliance, governance, and institutional decisions
+  before reliance to determine whether the responsible human or institution has enough
+  access to the evidence, reasoning basis, uncertainty, authority, and review path
+  to genuinely own the decision rather than merely approve, sign, or transmit it.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/decision-ownership-audit-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

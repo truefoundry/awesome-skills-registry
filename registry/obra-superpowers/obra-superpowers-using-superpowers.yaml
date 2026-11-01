@@ -1,0 +1,15 @@
+id: obra-superpowers-using-superpowers
+display_name: using-superpowers
+description: Use when starting any conversation - establishes how to find and use
+  skills, requiring skill invocation before ANY response including clarifying questions
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/using-superpowers
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

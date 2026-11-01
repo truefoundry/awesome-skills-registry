@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-icelandic-labour-law-magnus-smarason
+display_name: Icelandic Labour Law
+description: "Use this skill when asked about Icelandic employment law, labour relations,\
+  \ workplace rights, or collective agreements. Triggers on questions about hiring,\
+  \ termination, working conditions, parental leave, trade unions, collective bargaining,\
+  \ workplace safety, or the F\xE9lagsd\xF3mur labour court in Iceland."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icelandic-labour-law-magnus-smarason
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

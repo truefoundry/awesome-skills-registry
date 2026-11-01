@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-ccpa-cpra-tanaji-hemant-naik
+display_name: ccpa
+description: "California Consumer Privacy Act (CCPA) and California Privacy Rights\
+  \ Act (CPRA) compliance advisor \u2014 business threshold analysis, consumer rights\
+  \ fulfillment (access, delete, correct, opt-out of sale/sharing, limit SPI, ADMT\
+  \ opt-out), privacy notice drafting, service provider vs. contractor vs. third-party\
+  \ classification, sensitive personal information (SPI) handling, data minimization,\
+  \ opt-out mechanisms (including GPC), cybersecurity audits and risk assessments\
+  \ (live since Jan 1, 2026), ADMT obligations (effective 2026, deadline Jan 1, 2027),\
+  \ CPPA enforcement (Disney $2.75M, PlayOn $1.1M, Ford $375K), penalty exposure,\
+  \ GDPR comparison, and gap assessments for businesses operating in or targeting\
+  \ California residents."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ccpa-cpra-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

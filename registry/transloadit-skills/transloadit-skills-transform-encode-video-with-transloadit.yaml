@@ -1,0 +1,15 @@
+id: transloadit-skills-transform-encode-video-with-transloadit
+display_name: transform-encode-video-with-transloadit
+description: Encode a local video for web playback as MP4 or WebM using the encode-video
+  Builtin and the official Transloadit CLI.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-encode-video-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: huggingface-skills-trl-training
+display_name: trl-training
+description: "Post-train LLMs with TRL (Transformers Reinforcement Learning) \u2014\
+  \ SFT, DPO, GRPO, KTO, and reward-model training. Use when writing or debugging\
+  \ training code with the TRL Python API or the trl CLI."
+authors:
+- huggingface
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/trl-training
+  repo: huggingface/skills
+metadata:
+  stars: 11243
+added_at: '2026-11-01'

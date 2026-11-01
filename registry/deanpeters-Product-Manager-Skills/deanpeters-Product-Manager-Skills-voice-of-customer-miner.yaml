@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-voice-of-customer-miner
+display_name: voice-of-customer-miner
+description: "Mine public reviews, app stores, and forums for unmet needs, competitor\
+  \ weaknesses, and switching triggers \u2014 with quoted evidence. Use when you want\
+  \ customer voice without waiting on interviews."
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/voice-of-customer-miner
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

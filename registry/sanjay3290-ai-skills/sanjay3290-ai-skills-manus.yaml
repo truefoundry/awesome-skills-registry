@@ -1,0 +1,19 @@
+id: sanjay3290-ai-skills-manus
+display_name: manus
+description: Delegate complex, long-running tasks to Manus AI agent for autonomous
+  execution. Use when user says 'use manus', 'delegate to manus', 'send to manus',
+  'have manus do', 'ask manus', 'check manus sessions', or when tasks require deep
+  web research, market analysis, product comparisons, stock analysis, competitive
+  research, document generation, data analysis, or multi-step workflows that benefit
+  from autonomous agent execution with parallel processing.
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/manus
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-load-issues
+display_name: load-issues
+description: Load all open issues from GitHub and save them as markdown files
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/git/skills/load-issues
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

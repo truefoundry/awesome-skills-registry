@@ -1,0 +1,17 @@
+id: realkimbarrett-advertising-skills-avatar-extraction
+display_name: avatar-extraction
+description: "Use when you need to define exactly who the buyer is, what they want,\
+  \ what they\u2019ve tried, and what\u2019s driving their decisions. Trigger on \"\
+  target audience\", \"ideal client\", \"who is this for\", \"avatar\", \"customer\
+  \ profile\"."
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/foundations/avatar-extraction
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

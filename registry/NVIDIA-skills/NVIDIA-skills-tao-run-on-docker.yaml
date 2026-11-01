@@ -1,0 +1,21 @@
+id: NVIDIA-skills-tao-run-on-docker
+display_name: tao-run-on-docker
+description: "The Docker execution platform for TAO jobs \u2014 a local daemon or\
+  \ a remote GPU box via DOCKER_HOST=ssh://user@host. Implements the four-verb consumer\
+  \ contract (submit/status/logs/cancel) over the docker CLI, wired to the job-record,\
+  \ tao-data-io staging, and the redact lint, on top of the underlying docker conventions\
+  \ (--gpus, mounts, NGC auth, inspection, data-root relocation, error modes). Use\
+  \ to run any single-node TAO container action on Docker without the SDK. Trigger\
+  \ keywords \u2014 docker, docker run, run on docker, DOCKER_HOST, remote docker,\
+  \ nvcr.io, --gpus, single-node GPU job."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-run-on-docker
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

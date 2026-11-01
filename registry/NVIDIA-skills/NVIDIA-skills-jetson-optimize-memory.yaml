@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-optimize-memory
+display_name: jetson-optimize-memory
+description: Reclaim DRAM by disabling unused subsystems across MB1 BCT, MB2 BCT,
+  kernel reserved-memory, and SWIOTLB. Use for headless or no-camera Jetson deployments;
+  not for CPU/GPU frequency tuning.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-optimize-memory
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

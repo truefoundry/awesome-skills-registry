@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-cloud-asset-inventory-with-cartography
+display_name: performing-cloud-asset-inventory-with-cartography
+description: Run Cartography to sync AWS, GCP, or Azure resources into a Neo4j graph
+  database, mapping relationships such as IAM permission chains, network paths, and
+  cross-account trust. Use when building a cloud asset inventory, querying the graph
+  to identify attack paths, or generating security reports across multi-cloud infrastructure.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-cloud-asset-inventory-with-cartography
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

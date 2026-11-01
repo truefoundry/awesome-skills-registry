@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-cloud-waf-rules
+display_name: implementing-cloud-waf-rules
+description: Deploys and tunes Web Application Firewall rules on AWS WAF, Azure WAF,
+  and Cloudflare, covering managed rule sets, custom business-logic rules, rate limiting,
+  bot management, and false-positive reduction. Use when deploying new apps behind
+  a cloud WAF, when pentests reveal injection/XSS flaws, when facing bot or credential-stuffing
+  traffic, or when compliance (e.g. PCI-DSS) mandates a WAF.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-cloud-waf-rules
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

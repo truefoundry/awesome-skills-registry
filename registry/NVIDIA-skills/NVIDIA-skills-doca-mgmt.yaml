@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-mgmt
+display_name: doca-mgmt
+description: "Use this skill when the user is doing hands-on DOCA Management programming\
+  \ against BlueField / ConnectX devices \u2014 standing up a management or representor\
+  \ context (doca_mgmt_dev_ctx / doca_mgmt_dev_rep_ctx), querying device caps (data-direct,\
+  \ caps-general), toggling congestion-control global status, modifying diagnostics-data,\
+  \ setting ICM quotas, or issuing a raw firmware command via doca_mgmt_raw_cmd with\
+  \ the right scope (CONFIGURATION / DEBUG_READ_ONLY / DEBUG_WRITE / DEBUG_WRITE_FULL).\
+  \ Trigger even when the user does not say \"DOCA Management\" \u2014 typical implicit\
+  \ phrasings include \"fleet tool that walks every BlueField and reads device state\"\
+  , \"toggle data-direct on a VF\", \"set an ICM quota per representor\", \"send a\
+  \ raw firmware command from C\", \"DOCA_ERROR_IO_FAILED from raw_cmd\", or \"fwctl\
+  \ ioctl is failing\". Refuse and route elsewhere for mlxconfig direct operation,\
+  \ BFB / firmware reflash, streaming telemetry, doca_caps CLI snapshots, or DOCA\
+  \ install itself \u2014 those belong to other skills."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-mgmt
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

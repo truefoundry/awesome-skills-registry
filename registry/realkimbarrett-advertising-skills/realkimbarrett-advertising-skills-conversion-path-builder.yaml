@@ -1,0 +1,15 @@
+id: realkimbarrett-advertising-skills-conversion-path-builder
+display_name: conversion-path-builder
+description: Design the optimal funnel from click to conversion. Trigger on "funnel",
+  "conversion path", "booked calls".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operator-os/conversion-path-builder
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: google-skills-agent-platform-skill-registry
+display_name: agent-platform-skill-registry
+description: Interact with the Gemini Enterprise Agent Platform Skill Registry to
+  create and search for available skills. Use this skill to enable agents to register
+  functionality or discover new capabilities.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-skill-registry
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

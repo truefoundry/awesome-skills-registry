@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nemotron-speech
+display_name: nemotron-speech
+description: "Routes NVIDIA Nemotron Speech (Formerly Riva) NIM tasks \u2014 deploys,\
+  \ runs, and tests ASR, TTS, and NMT NIMs on build.nvidia.com or self-hosted."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemotron-speech
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

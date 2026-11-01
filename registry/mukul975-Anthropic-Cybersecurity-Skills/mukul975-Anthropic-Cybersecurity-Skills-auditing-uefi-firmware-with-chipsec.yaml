@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-uefi-firmware-with-chipsec
+display_name: auditing-uefi-firmware-with-chipsec
+description: Use Intel CHIPSEC to assess platform firmware configuration, SPI flash
+  write protection, BIOS lock, SMM/SMRR, and Secure Boot variable state, dump SPI
+  flash, and triage UEFI variables for firmware-level threats.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-uefi-firmware-with-chipsec
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

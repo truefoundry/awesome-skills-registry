@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-modal-and-overlay-patterns
+display_name: modal-and-overlay-patterns
+description: Modals, drawers, bottom sheets and popovers, each with its scope and
+  blocking level. Use when designing dialogs, confirmations, side panels or action
+  sheets.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/modal-and-overlay-patterns
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

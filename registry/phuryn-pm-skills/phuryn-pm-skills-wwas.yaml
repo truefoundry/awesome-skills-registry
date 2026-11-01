@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-wwas
+display_name: wwas
+description: "Create product backlog items in Why-What-Acceptance format \u2014 independent,\
+  \ valuable, testable items with strategic context. Use when writing structured backlog\
+  \ items, breaking features into work items, or using the WWA format."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/wwas
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: google-skills-cloud-network-insights
+display_name: cloud-network-insights
+description: Guides and automates setup, onboarding, and synthetic monitoring operations
+  for Cloud Network Insights in Google Cloud and Broadcom AppNeta. Use when enabling
+  Cloud Network Insights, deploying or troubleshooting Monitoring Points across cloud
+  and on-premises environments, configuring Network or Web monitoring policies and
+  AppNeta alarm rules, configuring alert policies, querying path alarms and performance
+  metrics, or verifying synthetic path reachability. Don't use for generic network
+  observability, VPC Flow Logs, Cloud NAT, or VPC firewall debugging.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-network-insights
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

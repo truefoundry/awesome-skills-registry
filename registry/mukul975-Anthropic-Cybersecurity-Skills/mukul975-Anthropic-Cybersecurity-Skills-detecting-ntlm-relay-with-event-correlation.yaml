@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-ntlm-relay-with-event-correlation
+display_name: detecting-ntlm-relay-with-event-correlation
+description: Detect NTLM relay attacks (T1557.001) by correlating Windows Event 4624
+  LogonType 3 for IP-to-hostname mismatches, identifying Responder/LLMNR poisoning
+  artifacts, auditing SMB/LDAP signing, and flagging NTLMv2-to-NTLMv1 downgrades.
+  Use for hunting credential relay in NTLM-enabled AD, investigating auth-source anomalies,
+  building SIEM correlation rules, or responding to PetitPotam/DFSCoerce/PrinterBug
+  alerts.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-ntlm-relay-with-event-correlation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

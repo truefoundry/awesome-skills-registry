@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-aws-cloudtrail-anomalies
+display_name: detecting-aws-cloudtrail-anomalies
+description: Detect unusual API call patterns in AWS CloudTrail logs using boto3,
+  statistical baselining, and behavioral analysis to identify credential compromise,
+  privilege escalation, and unauthorized resource access.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-aws-cloudtrail-anomalies
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

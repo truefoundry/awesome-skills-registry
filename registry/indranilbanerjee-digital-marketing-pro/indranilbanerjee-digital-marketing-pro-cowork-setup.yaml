@@ -1,0 +1,15 @@
+id: indranilbanerjee-digital-marketing-pro-cowork-setup
+display_name: cowork-setup
+description: 'Set up DMP for team use in Cowork: sandbox check, Drive folders, saved
+  routing. "set up DMP for my team in Cowork"'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cowork-setup
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 920
+added_at: '2026-11-01'

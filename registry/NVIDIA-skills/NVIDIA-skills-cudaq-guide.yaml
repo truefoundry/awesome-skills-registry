@@ -1,0 +1,15 @@
+id: NVIDIA-skills-cudaq-guide
+display_name: cudaq-guide
+description: Use for CUDA-Q setup, simulation targets, QPU access, and @cudaq.kernel
+  authoring guidance.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cudaq-guide
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

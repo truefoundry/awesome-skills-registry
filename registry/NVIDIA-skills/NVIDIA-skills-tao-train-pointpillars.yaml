@@ -1,0 +1,19 @@
+id: NVIDIA-skills-tao-train-pointpillars
+display_name: tao-train-pointpillars
+description: "PointPillars for 3D object detection from LiDAR point clouds. Encodes\
+  \ point clouds into a pseudo-image via a pillar-based representation, then applies\
+  \ 2D detection \u2014 used in autonomous driving and robotics. Use when training,\
+  \ evaluating, exporting, pruning, retraining, or running inference for a TAO PointPillars\
+  \ model. Trigger phrases include \"train PointPillars\", \"LiDAR 3D detection\"\
+  , \"point-cloud object detection\", \"pillar-based 3D detector\"."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-pointpillars
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

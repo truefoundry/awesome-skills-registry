@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-disk-forensics-investigation
+display_name: performing-disk-forensics-investigation
+description: Conduct disk forensics investigations using forensic imaging, file system
+  analysis, and timeline reconstruction, with tools such as FTK Imager, Autopsy, and
+  The Sleuth Kit, for evidence acquisition, deleted file recovery, and artifact examination.
+  Use when a security incident requires forensic analysis of persistent storage or
+  when evidence must be preserved for legal or HR proceedings.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-disk-forensics-investigation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

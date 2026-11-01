@@ -1,0 +1,15 @@
+id: NVIDIA-skills-dali-dynamic-mode
+display_name: dali-dynamic-mode
+description: 'DALI imperative dynamic mode (`nvidia.dali.experimental.dynamic`, ndd):
+  use when working on ndd code or migrating pipelines; skip pipeline-only tasks.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/dali-dynamic-mode
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

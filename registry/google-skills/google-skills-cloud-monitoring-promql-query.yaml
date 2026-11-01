@@ -1,0 +1,17 @@
+id: google-skills-cloud-monitoring-promql-query
+display_name: cloud-monitoring-promql-query
+description: Generates valid PromQL queries from Cloud Monitoring metric descriptors
+  and resource parameters. Use when asked to create, generate, write, or format PromQL
+  queries, PromQL strings, or PromQL aggregations for Cloud Monitoring metrics and
+  resources. Don't use for raw metric discovery or metric selection.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-monitoring-promql-query
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

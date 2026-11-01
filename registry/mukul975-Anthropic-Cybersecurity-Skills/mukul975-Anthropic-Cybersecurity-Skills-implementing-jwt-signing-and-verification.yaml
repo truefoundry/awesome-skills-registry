@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-jwt-signing-and-verification
+display_name: implementing-jwt-signing-and-verification
+description: Implements secure JWT (RFC 7519) signing and verification using HMAC-SHA256,
+  RSA-PSS, ES256, and EdDSA, including token expiration, claims validation, and defenses
+  against algorithm-confusion, none-algorithm, and key-injection attacks. Use when
+  adding or hardening JWT-based authentication/authorization, or when auditing token
+  verification code for common JWT vulnerabilities.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-jwt-signing-and-verification
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

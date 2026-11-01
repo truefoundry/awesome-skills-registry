@@ -1,0 +1,19 @@
+id: NVIDIA-skills-nemo-rl-brev-etiquette
+display_name: nemo-rl-brev-etiquette
+description: Brev instance operating guidance for NeMo-RL agents working in /home/ubuntu/RL
+  with limited workspace disk, a larger /ephemeral volume, and optional /home/ubuntu/RL/.env
+  secrets. Use when running nemo-rl-auto-research campaigns, experiments, training
+  jobs, model or dataset downloads, shared cache-heavy commands, log-producing runs,
+  checkpoint generation, W&B or Hugging Face authenticated workflows, or any workflow
+  that may create large files on Brev.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-rl-brev-etiquette
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

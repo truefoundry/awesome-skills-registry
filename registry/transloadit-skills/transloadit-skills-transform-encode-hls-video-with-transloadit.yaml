@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-encode-hls-video-with-transloadit
+display_name: transform-encode-hls-video-with-transloadit
+description: One-off HLS encoding (local video -> HLS renditions + playlist) using
+  Transloadit via the `transloadit` CLI. Prefer builtin templates (`builtin/encode-hls-video@latest`)
+  and download outputs locally via `-o`.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-encode-hls-video-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

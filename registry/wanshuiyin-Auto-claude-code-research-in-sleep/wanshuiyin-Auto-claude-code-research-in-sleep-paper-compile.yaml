@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-compile
+display_name: paper-compile
+description: "Compile LaTeX paper to PDF, fix errors, and verify output. Use when\
+  \ user says \\\"\u7F16\u8BD1\u8BBA\u6587\\\", \\\"compile paper\\\", \\\"build PDF\\\
+  \", \\\"\u751F\u6210PDF\\\", or wants to compile LaTeX into a submission-ready PDF."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-compile
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

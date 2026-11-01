@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-resolve-fixed-pr-comments
+display_name: resolve-fixed-pr-comments
+description: Verify what PR review comments have been addressed (committed/pushed
+  OR uncommitted local changes) and resolve the threads that are genuinely fixed or
+  no longer relevant.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/git/skills/resolve-fixed-pr-comments
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

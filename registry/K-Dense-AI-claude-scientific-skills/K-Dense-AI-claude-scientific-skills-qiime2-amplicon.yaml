@@ -1,0 +1,17 @@
+id: K-Dense-AI-claude-scientific-skills-qiime2-amplicon
+display_name: qiime2-amplicon
+description: Processes paired-end 16S amplicon reads into QIIME 2 ASVs and taxonomy
+  with retained artifact provenance. Checks paired FASTQ manifests, primer orientation
+  diagnostics, predicted post-trimming overlap, sample IDs, runtime versions and read
+  retention, and guides selection of compatible taxonomic classifiers.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/qiime2-amplicon
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

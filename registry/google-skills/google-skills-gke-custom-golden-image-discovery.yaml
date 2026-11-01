@@ -1,0 +1,19 @@
+id: google-skills-gke-custom-golden-image-discovery
+display_name: gke-custom-golden-image-discovery
+description: Discovers golden base images for creating GKE custom node images based
+  on technical specifications or context clues. Use when finding the golden base image
+  for custom GKE node creation, mapping cluster configuration parameters (GKE version,
+  OS, architecture, accelerators, gVisor, cgroups) to image names, or querying GKE
+  base image maps. Don't use for general GKE cluster creation (use gke-cluster-creation)
+  or standard node pool management (use gke-basics).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-custom-golden-image-discovery
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

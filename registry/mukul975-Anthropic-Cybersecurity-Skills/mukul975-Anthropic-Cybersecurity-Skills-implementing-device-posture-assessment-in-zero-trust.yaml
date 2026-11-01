@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-device-posture-assessment-in-zero-trust
+display_name: implementing-device-posture-assessment-in-zero-trust
+description: Implements device posture assessment as a zero trust access control by
+  integrating endpoint health signals from CrowdStrike ZTA, Microsoft Intune, and
+  Jamf into conditional access policies that enforce compliance before granting access.
+  Use when requiring device health checks before app access, wiring posture signals
+  into conditional access, or implementing the CISA Zero Trust device pillar.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-device-posture-assessment-in-zero-trust
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-prioritize-features
+display_name: prioritize-features
+description: Prioritize a backlog of feature ideas based on impact, effort, risk,
+  and strategic alignment with top 5 recommendations. Use when prioritizing a feature
+  backlog, making scope decisions, or ranking product ideas.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/prioritize-features
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

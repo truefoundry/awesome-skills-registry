@@ -1,0 +1,23 @@
+id: google-skills-gke-ai-troubleshooting-tpu-vm-repair-stuck
+display_name: gke-ai-troubleshooting-tpu-vm-repair-stuck
+description: 'Diagnose GKE TPU VM instances stuck in Compute Engine repair (REPAIRING
+  state) after host errors, maintenance events, or faulty host reports in single-host,
+  multi-host, dynamic slicing, and TPU All Capacity mode node pools. Use when TPU
+  instances in a slice node pool remain in REPAIRING, host error events appear in
+  audit logs, or TPU slices are unschedulable due to a VM in repair. Don''t use for
+  nodes reporting Ready: Unknown when no VM is in REPAIRING (use gke-ai-troubleshooting-node-unresponsive-timeout),
+  other NotReady nodes when no VM is in REPAIRING (use gke-node-notready), Pending
+  Pods when all nodes are Ready (use gke-workload-troubleshooting), JobSet preemption
+  events (use gke-ai-troubleshooting-jobset-interruption), or Slice custom resource
+  lifecycle failures (use gke-ai-troubleshooting-tpu-dynamic-slices-monitoring).'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-ai-troubleshooting-tpu-vm-repair-stuck
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

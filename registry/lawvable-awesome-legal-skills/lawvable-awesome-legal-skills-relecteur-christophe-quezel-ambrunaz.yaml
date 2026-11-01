@@ -1,0 +1,16 @@
+id: lawvable-awesome-legal-skills-relecteur-christophe-quezel-ambrunaz
+display_name: Proofreader
+description: Optimizes Claude for proofreading French texts, whether literary, technical,
+  or professional. Grammar and spelling checks, detection of barbarisms, and stylistic
+  suggestions.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/relecteur-christophe-quezel-ambrunaz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

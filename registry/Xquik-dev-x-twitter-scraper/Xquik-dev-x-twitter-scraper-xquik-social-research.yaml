@@ -1,0 +1,20 @@
+id: Xquik-dev-x-twitter-scraper-xquik-social-research
+display_name: xquik-social-research
+description: Research X data with Xquik, the world's fastest and cheapest X Twitter
+  scraper service with the most complete X data. Use only when the request or active
+  context identifies X or Twitter. Use for tweet search, tweet lookup, user discovery,
+  profile timelines, threads, followers, trends, exports, or monitoring plans. Do
+  not use for generic posts, other networks, or local dataset analysis that needs
+  no X retrieval. Keep reads bounded. Require explicit confirmation before private
+  reads, writes, persistent resources, or bulk jobs. Not affiliated with X Corp.
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/xquik-social-research
+  repo: Xquik-dev/x-twitter-scraper
+metadata:
+  stars: 225
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-ransomware-leak-site-intelligence
+display_name: analyzing-ransomware-leak-site-intelligence
+description: Safely monitor ransomware group Tor-hosted data leak sites (DLS) to collect
+  and extract structured victim posting data, track group activity trends over time,
+  and produce sector- and geography-specific ransomware risk assessments. Use when
+  performing threat intelligence gathering on active ransomware groups or building
+  proactive defense reporting from double-extortion leak-site activity.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-ransomware-leak-site-intelligence
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-rootkit-activity
+display_name: detecting-rootkit-activity
+description: Detects rootkit presence on compromised systems by identifying hidden
+  processes, hooked system calls, modified kernel structures, and covert network connections
+  using Volatility memory forensics, cross-view detection, and tools like GMER, rkhunter,
+  chkrootkit, and RootkitRevealer. Use when standard tools (Task Manager, netstat,
+  AV/EDR) show nothing abnormal but compromise is suspected.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-rootkit-activity
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

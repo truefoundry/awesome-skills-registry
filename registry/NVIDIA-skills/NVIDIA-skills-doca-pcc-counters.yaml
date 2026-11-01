@@ -1,0 +1,24 @@
+id: NVIDIA-skills-doca-pcc-counters
+display_name: doca-pcc-counters
+description: "Use this skill when the user is invoking the DOCA PCC Counters tool\
+  \ \u2014 the `pcc_counters.sh` bash script under the DOCA tools directory \u2014\
+  \ to arm and read the fixed firmware/hardware PCC (Programmable Congestion Control)\
+  \ diagnostic counters (CNP, RTT, WRED-drop, etc.) on a ConnectX / BlueField device\
+  \ via mst + the mlx5 debugfs `diag_cnt` interface. The script takes two positional\
+  \ args \u2014 `set | query` and an mst device path \u2014 with no `--help` or subcommands.\
+  \ Trigger even without \"pcc_counters.sh\" or \"PCC counters\": \"how do I read\
+  \ the CNP / RTT / WRED-drop counters\", \"PCC counter stuck at zero\", \"the script\
+  \ says Bad Device\", or \"is congestion control dropping packets on this port?\"\
+  . Route elsewhere for writing a custom PCC algorithm (doca-pcc), factory firmware\
+  \ PCC config, DOCA install, or fleet-wide CC tuning."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-pcc-counters
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-just-in-time-access-provisioning
+display_name: implementing-just-in-time-access-provisioning
+description: Implements Just-In-Time (JIT) access provisioning to eliminate standing
+  privileges by granting temporary, time-bound access, covering approval workflows,
+  automatic expiration/revocation, and PAM/IGA integration. Use when designing access
+  approval workflows or replacing standing privileged accounts with time-bound, zero-trust-aligned
+  grants.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-just-in-time-access-provisioning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

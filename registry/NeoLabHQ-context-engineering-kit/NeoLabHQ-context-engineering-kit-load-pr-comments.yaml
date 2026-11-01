@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-load-pr-comments
+display_name: load-pr-comments
+description: Use to load open/unresolved PR review comments then aggregate them as
+  tasks in .specs/comments/*.md for parallel agents to fix.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/git/skills/load-pr-comments
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

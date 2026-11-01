@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow-scene-edit
+display_name: i4h-workflow-scene-edit
+description: Edit an existing workflow Scene or task contract. Use for assets, layout,
+  cameras, randomization, task text, or success rules; do not use to create a new
+  workflow.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-scene-edit
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

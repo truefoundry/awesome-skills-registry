@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-climate-aligned-contracts-the-chancery-lane-project
+display_name: climate-aligned-contracts-felix-cohen
+description: 'Draft, adapt, and review contracts and clauses aligned with The Chancery
+  Lane Project''s methodology for reducing carbon emissions through legal agreements.
+  Use when Claude needs to: (1) Draft new climate-aligned clauses (e.g., net zero
+  commitments, carbon accounting, supply chain decarbonization), (2) Adapt or modify
+  existing contracts to incorporate climate objectives, (3) Review and analyze clauses
+  for alignment with climate goals and decarbonization strategies, (4) Provide guidance
+  on The Chancery Lane Project''s house style and drafting methodology for climate-conscious
+  legal work.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/climate-aligned-contracts-the-chancery-lane-project
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

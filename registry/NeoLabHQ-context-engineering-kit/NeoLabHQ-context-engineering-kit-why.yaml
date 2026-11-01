@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-why
+display_name: why
+description: Iterative Five Whys root cause analysis drilling from symptoms to fundamentals
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/kaizen/skills/why
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

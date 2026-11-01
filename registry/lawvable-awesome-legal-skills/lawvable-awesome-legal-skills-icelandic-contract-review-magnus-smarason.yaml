@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-icelandic-contract-review-magnus-smarason
+display_name: Icelandic Contract Review
+description: Use this skill when asked to review, analyze, or draft a contract governed
+  by Icelandic law. Triggers on requests involving Icelandic commercial agreements,
+  consumer contracts, sales agreements, service contracts, or any contract where Icelandic
+  mandatory rules may apply.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icelandic-contract-review-magnus-smarason
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

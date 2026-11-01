@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-s7comm-protocol-security-analysis
+display_name: performing-s7comm-protocol-security-analysis
+description: Perform security analysis of Siemens S7comm and S7CommPlus protocols
+  used by SIMATIC S7 PLCs to identify vulnerabilities including replay attacks, integrity
+  bypass, unauthorized CPU stop commands, and program download manipulation exploiting
+  weaknesses in S7-300, S7-400, S7-1200, and S7-1500 controllers.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-s7comm-protocol-security-analysis
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

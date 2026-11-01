@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-experiment-bridge
+display_name: experiment-bridge
+description: "Workflow 1.5: Bridge between idea discovery and auto review. Reads EXPERIMENT_PLAN.md,\
+  \ implements experiment code, deploys to GPU, collects initial results. Use when\
+  \ user says \"\u5B9E\u73B0\u5B9E\u9A8C\", \"implement experiments\", \"bridge\"\
+  , \"\u4ECE\u8BA1\u5212\u5230\u8DD1\u5B9E\u9A8C\", \"deploy the plan\", or has an\
+  \ experiment plan ready to execute."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/experiment-bridge
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

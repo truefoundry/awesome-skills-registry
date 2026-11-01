@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hardening-windows-endpoint-with-cis-benchmark
+display_name: hardening-windows-endpoint-with-cis-benchmark
+description: Hardens Windows endpoints using CIS (Center for Internet Security) Benchmark
+  recommendations to reduce attack surface, enforce security baselines, and meet compliance
+  requirements. Use when deploying new Windows workstations or servers, remediating
+  audit findings, or establishing organization-wide security baselines. Activates
+  for requests involving Windows hardening, CIS benchmarks, GPO security baselines,
+  or endpoint configuration compliance.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hardening-windows-endpoint-with-cis-benchmark
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

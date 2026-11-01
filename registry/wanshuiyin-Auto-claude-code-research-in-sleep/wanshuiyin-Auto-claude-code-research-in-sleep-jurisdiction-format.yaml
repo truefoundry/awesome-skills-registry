@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-jurisdiction-format
+display_name: jurisdiction-format
+description: "Compile patent application into jurisdiction-specific filing format.\
+  \ Use when user says \"\u683C\u5F0F\u8F6C\u6362\", \"jurisdiction format\", \"\u56FD\
+  \u5BB6\u683C\u5F0F\", \"compile patent\", or wants formatted patent documents for\
+  \ CN/US/EP filing."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/jurisdiction-format
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-aws-verified-access-for-ztna
+display_name: configuring-aws-verified-access-for-ztna
+description: Configure AWS Verified Access to provide VPN-less zero trust network
+  access to internal apps, combining identity trust providers (IAM Identity Center,
+  Okta/OIDC), device posture providers (CrowdStrike, Jamf), Cedar policy authoring,
+  and Terraform deployment. Use when replacing VPN access with ZTNA, writing Cedar
+  access policies, or deploying Verified Access instances, groups, and endpoints across
+  AWS accounts.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-aws-verified-access-for-ztna
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

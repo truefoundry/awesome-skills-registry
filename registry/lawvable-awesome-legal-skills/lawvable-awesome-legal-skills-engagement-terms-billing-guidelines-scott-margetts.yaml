@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-engagement-terms-billing-guidelines-scott-margetts
+display_name: engagement-terms-billing-guidelines
+description: "Outside counsel guidelines (OCGs) \u2014 drafting, review, gap analysis,\
+  \ and targeted updates for in-house legal teams. Build new OCGs calibrated to maturity\
+  \ level (light, standard, comprehensive), review existing OCGs against 15-component\
+  \ best practice framework, add or update specific sections (AI policy, AFA terms,\
+  \ D&I, rate review), and produce GC briefing notes for internal buy-in. Trigger\
+  \ on: 'draft billing guidelines', 'outside counsel guidelines', 'OCG', 'billing\
+  \ expectations', 'review our guidelines', 'update the AI clause', 'what should our\
+  \ billing guidelines cover', 'we don't have billing guidelines', 'firms aren't following\
+  \ our guidelines', 'rate review terms', 'GC briefing on billing guidelines', 'AFA\
+  \ policy', 'block billing', 'prohibited fees', 'staffing expectations for outside\
+  \ counsel'."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engagement-terms-billing-guidelines-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: qdrant-skills-qdrant-performance-optimization
+display_name: qdrant-performance-optimization
+description: 'Navigation hub linking sub-skills for proactive Qdrant tuning: search
+  speed, indexing performance, and memory usage optimization. Use when planning configuration
+  or capacity changes to improve speed and efficiency. For diagnosing an active production
+  slowdown or analyzing live metrics, use qdrant-monitoring instead.'
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-performance-optimization
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

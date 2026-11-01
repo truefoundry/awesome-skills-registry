@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-optical-inspection
+display_name: tao-train-optical-inspection
+description: Optical Inspection for defect detection using Siamese networks. Compares
+  image pairs to detect manufacturing defects, anomalies, or quality issues. Use when
+  training, evaluating, exporting, or running inference for a TAO Optical Inspection
+  model on AOI / quality-control data. Trigger phrases include "train optical inspection",
+  "AOI defect detection", "Siamese defect classifier", "PCB / manufacturing inspection".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-optical-inspection
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,29 @@
+id: lawvable-awesome-legal-skills-legitimate-interest-oliver-schmidt-prietz
+display_name: legitimate-interest
+description: "GDPR Legitimate Interest Assessment (LIA) \u2014 Guided assessment for\
+  \ Art. 6(1)(f) GDPR using the EDPB three-step test. Based on EDPB Guidelines 1/2024,\
+  \ EDPB Opinion 28/2024 (AI models), the OSS Case Digest on Legitimate Interest (McIntyre\
+  \ 2026), CNIL AI guidance (June 2025), ICO guidance, and key CJEU case law. Use\
+  \ when: (1) user needs to assess whether legitimate interest is appropriate, (2)\
+  \ user asks about Art. 6(1)(f), \"Interessenabw\xE4gung\", \"berechtigtes Interesse\"\
+  , \"balancing test\", or \"LIA\", (3) user wants to document a legitimate interest\
+  \ assessment, (4) user mentions the three-step test, (5) user evaluates necessity\
+  \ or proportionality under Art. 6(1)(f), (6) user discusses direct marketing, fraud\
+  \ prevention, IT security, employee monitoring, AI training, web scraping, or credit\
+  \ checks in context of legal basis, (7) user handles a right to object (Art. 21),\
+  \ (8) user asks about children's data, profiling, or cross-border data sharing under\
+  \ legitimate interest, (9) user compares legitimate interest against other legal\
+  \ bases. Do NOT use for: consent assessments (Art. 6(1)(a)), contract performance\
+  \ (Art. 6(1)(b)), DPIA workflows, or pure ePrivacy/cookie compliance questions \u2014\
+  \ though the skill does address the ePrivacy/GDPR overlap where relevant."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legitimate-interest-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

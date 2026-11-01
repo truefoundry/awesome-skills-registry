@@ -1,0 +1,15 @@
+id: prompt-security-clawsec-picoclaw-security-guardian
+display_name: picoclaw-security-guardian
+description: Picoclaw security posture skill with advisory awareness, configuration
+  drift detection, and supply-chain verification guidance.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/picoclaw-security-guardian
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

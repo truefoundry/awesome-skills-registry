@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-eu-data-act-oliver-schmidt-prietz
+display_name: eu-data-act-oliver-schmidt-prietz
+description: Practitioner skill for advising on EU Regulation 2023/2854 (Data Act).
+  Covers Chapters II-VII (IoT data access, mandatory B2B sharing, unfair contract
+  terms, public-sector exceptional need, cloud switching, third-country governmental
+  access) and Chapter VIII (interoperability and smart contracts, gate-only). Use
+  when the user asks about Data Act rights or obligations, drafts a Data Act notice
+  or letter, reviews a data-sharing or cloud-switching contract under the Data Act,
+  runs a Data Act gap analysis, or asks how the Data Act interacts with GDPR, the
+  DMA, the Trade Secrets Directive, or sectoral law. Triggers include "Data Act",
+  "Datengesetz", "Regulation (EU) 2023/2854", "Art. 4(1) request", "Art. 5(1) third-party
+  request", "trade-secret handbrake", "cloud switching obligations", "Chapter VI",
+  "Ch V exceptional need", and references to specific Data Act articles or recitals.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-data-act-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

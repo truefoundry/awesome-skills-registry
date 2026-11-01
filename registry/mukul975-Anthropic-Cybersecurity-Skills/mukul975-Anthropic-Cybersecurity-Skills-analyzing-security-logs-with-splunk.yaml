@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-security-logs-with-splunk
+display_name: analyzing-security-logs-with-splunk
+description: Leverages Splunk Enterprise Security and SPL (Search Processing Language)
+  to investigate security incidents through log correlation, timeline reconstruction,
+  and anomaly detection. Covers Windows event logs, firewall logs, proxy logs, and
+  authentication data analysis. Activates for requests involving Splunk investigation,
+  SPL queries, SIEM log analysis, security event correlation, or log-based incident
+  investigation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-security-logs-with-splunk
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

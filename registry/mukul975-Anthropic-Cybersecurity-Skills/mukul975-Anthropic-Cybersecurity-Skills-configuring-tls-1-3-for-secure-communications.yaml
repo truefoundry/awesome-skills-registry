@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-tls-1-3-for-secure-communications
+display_name: configuring-tls-1-3-for-secure-communications
+description: Configures TLS 1.3 (RFC 8446) on servers, covering cipher suite and key-exchange
+  group selection, and validates the resulting configuration with openssl s_client
+  and testssl.sh. Use when deploying or hardening TLS 1.3 for secure communications,
+  or when testing a server for common TLS misconfigurations and vulnerabilities.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-tls-1-3-for-secure-communications
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-soc-playbook-for-ransomware
+display_name: building-soc-playbook-for-ransomware
+description: Builds a structured SOC incident response playbook for ransomware attacks
+  covering detection, containment, eradication, and recovery phases with specific
+  SIEM queries, isolation procedures, and decision trees. Use when SOC teams need
+  formalized response procedures for ransomware incidents aligned to NIST SP 800-61
+  and MITRE ATT&CK ransomware techniques.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-soc-playbook-for-ransomware
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

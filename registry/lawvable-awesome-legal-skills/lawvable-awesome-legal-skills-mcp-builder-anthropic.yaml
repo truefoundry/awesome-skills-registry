@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-mcp-builder-anthropic
+display_name: mcp-builder
+description: Guide for creating high-quality MCP (Model Context Protocol) servers
+  that enable LLMs to interact with external services through well-designed tools.
+  Use when building MCP servers to integrate external APIs or services, whether in
+  Python (FastMCP) or Node/TypeScript (MCP SDK).
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mcp-builder-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

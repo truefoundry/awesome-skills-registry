@@ -1,0 +1,17 @@
+id: ReScienceLab-opc-skills-banner-creator
+display_name: banner-creator
+description: Create banners using AI image generation. Discuss format/style, generate
+  variations, iterate with user feedback, crop to target ratio. Use when user wants
+  to create a banner, header, hero image, cover image, GitHub banner, Twitter header,
+  or readme banner.
+authors:
+- ReScienceLab
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/banner-creator
+  repo: ReScienceLab/opc-skills
+metadata:
+  stars: 1888
+added_at: '2026-11-01'

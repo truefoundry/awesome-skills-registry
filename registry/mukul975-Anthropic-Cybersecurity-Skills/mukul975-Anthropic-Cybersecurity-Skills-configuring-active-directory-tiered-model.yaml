@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-active-directory-tiered-model
+display_name: configuring-active-directory-tiered-model
+description: Implement Microsoft's Enhanced Security Admin Environment (ESAE) tiered
+  administration model for Active Directory, covering Tier 0/1/2 separation, privileged
+  access workstations (PAWs), administrative forest design, and authentication policy
+  silos. Use when designing or hardening AD privileged-access architecture, segmenting
+  Domain/Enterprise Admin accounts into tiers, or containing lateral movement and
+  credential theft (pass-the-hash, Kerberoasting, golden tickets).
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-active-directory-tiered-model
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

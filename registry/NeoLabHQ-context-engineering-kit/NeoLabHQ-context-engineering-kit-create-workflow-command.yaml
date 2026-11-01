@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-create-workflow-command
+display_name: create-workflow-command
+description: Create a workflow command that orchestrates multi-step execution through
+  sub-agents with file-based task prompts
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/customaize-agent/skills/create-workflow-command
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

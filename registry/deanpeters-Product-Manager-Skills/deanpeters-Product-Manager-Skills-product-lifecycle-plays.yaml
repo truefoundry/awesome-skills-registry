@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-product-lifecycle-plays
+display_name: product-lifecycle-plays
+description: Map a product's lifecycle stage and choose between extension, replacement,
+  and retirement plays. Use when a product is maturing or declining and the next move
+  isn't obvious.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/product-lifecycle-plays
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

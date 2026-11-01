@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-second-order-sql-injection
+display_name: performing-second-order-sql-injection
+description: Detect and exploit second-order SQL injection vulnerabilities where malicious
+  input is stored in a database and later executed in an unsafe SQL query during a
+  different application operation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-second-order-sql-injection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

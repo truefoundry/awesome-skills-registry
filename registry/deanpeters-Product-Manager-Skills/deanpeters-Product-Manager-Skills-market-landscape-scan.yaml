@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-market-landscape-scan
+display_name: market-landscape-scan
+description: Map a market's segments, players, substitutes, and whitespace with cited
+  evidence. Use when entering or re-evaluating a market before sizing, positioning,
+  or picking competitors to study.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/market-landscape-scan
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-advanced-persistent-threats
+display_name: hunting-advanced-persistent-threats
+description: Proactively hunts for Advanced Persistent Threat (APT) activity within
+  enterprise environments using hypothesis-driven searches across endpoint telemetry,
+  network logs, and memory artifacts. Use when conducting scheduled threat hunting
+  cycles, investigating anomalous behavior flagged by UEBA, or validating that known
+  APT TTPs are not present in the environment. Activates for requests involving MITRE
+  ATT&CK, Velociraptor, osquery, Zeek, or threat hunting playbooks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-advanced-persistent-threats
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

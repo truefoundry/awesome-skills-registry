@@ -1,0 +1,22 @@
+id: NVIDIA-skills-tao-setup-nvidia-gpu-host
+display_name: tao-setup-nvidia-gpu-host
+description: Host setup for TAO GPU backends. Checks and, after user approval, installs
+  minimum-compatible NVIDIA driver, CUDA Toolkit, and NVIDIA Container Toolkit versions
+  for Docker/local-Docker and Kubernetes GPU worker hosts. TAO-wide defaults can be
+  overridden by the selected model's runtime profile. The `--check-only` path works
+  on any Linux distribution; `--install` automates debian-family (Ubuntu/Debian/Pop!_OS/Mint/Zorin/Raspbian),
+  rhel-family (Fedora/RHEL/Rocky/AlmaLinux), and suse-family (openSUSE/SLES) hosts,
+  and prints actionable manual-install steps for everything else. Use when the user
+  asks to "set up an NVIDIA GPU host", "check TAO Docker GPU runtime", or prepare
+  a Kubernetes GPU worker for TAO.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-setup-nvidia-gpu-host
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: realkimbarrett-advertising-skills-performance-diagnosis
+display_name: performance-diagnosis
+description: Diagnose why campaigns are underperforming. Trigger on "low performance",
+  "high CPL", "bad ads".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operator-os/performance-diagnosis
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

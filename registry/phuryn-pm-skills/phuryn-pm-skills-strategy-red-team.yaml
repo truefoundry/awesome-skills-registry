@@ -1,0 +1,18 @@
+id: phuryn-pm-skills-strategy-red-team
+display_name: strategy-red-team
+description: "Red-team a PRD, roadmap, or strategy by attacking its load-bearing assumptions\
+  \ before reality does. Steelmans then attacks each claim, ranks failure modes by\
+  \ impact \xD7 likelihood \xD7 cheapness-to-test, and returns the cheapest test and\
+  \ kill criteria for each. Use when stress-testing a plan, pressure-testing a strategy,\
+  \ challenging assumptions, or preparing a doc for executive review."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/strategy-red-team
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

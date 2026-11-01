@@ -1,0 +1,25 @@
+id: NVIDIA-skills-doca-comm-channel-admin
+display_name: doca-comm-channel-admin
+description: "Use this skill to enumerate host\u2194DPU DOCA comch (formerly Comm\
+  \ Channel) servers and connections via the shipped doca_comm_channel_admin binary\
+  \ \u2014 listing comch-capable devices and decoding the per-device server / connection\
+  \ table (server name, PID, in-use / max, PCIe address). The shipped binary is a\
+  \ SINGLE-SHOT SCAN-AND-PRINT tool with no registered arguments \u2014 NO list /\
+  \ inspect / drain / restart subcommands; one inventory pass over every comch-capable\
+  \ doca_dev on this side. Channel reset / drain / restart go to doca-comch (program\
+  \ side), doca-setup / doca-hardware-safety (driver reload), or BFB / RShim \u2014\
+  \ NOT to this binary. Trigger on phrasings like \"list comch servers\", \"which\
+  \ channels are active on this BlueField\", or \"verify admin tool sees same channel\
+  \ as program.\" Refuse and route elsewhere for the comch programming API, library\
+  \ install, protocol design, channel reset, or general orientation."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-comm-channel-admin
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

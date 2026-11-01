@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nvshmem-select-remote-transport
+display_name: nvshmem-select-remote-transport
+description: Select an NVSHMEM remote transport from target system and kernel evidence.
+  Use for inter-node selection, compatibility checks, or configuration.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvshmem-select-remote-transport
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

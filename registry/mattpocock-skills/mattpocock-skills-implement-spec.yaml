@@ -1,0 +1,14 @@
+id: mattpocock-skills-implement-spec
+display_name: implement-spec
+description: Implement the result of /to-spec and /to-tickets in code.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/implement-spec
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

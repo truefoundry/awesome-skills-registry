@@ -1,0 +1,20 @@
+id: resend-resend-skills-agent-email-inbox
+display_name: agent-email-inbox
+description: "Use when building any system where email content triggers actions \u2014\
+  \ AI agent inboxes, automated support handlers, email-to-task pipelines, or any\
+  \ workflow processing untrusted inbound email. Always use this skill when the user\
+  \ wants to receive emails and act on them programmatically, even if they don't mention\
+  \ \"agent\" \u2014 the skill contains critical security patterns (sender allowlists,\
+  \ content filtering, sandboxed processing) that prevent untrusted email from controlling\
+  \ your system."
+authors:
+- resend
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/agent-email-inbox
+  repo: resend/resend-skills
+metadata:
+  stars: 208
+added_at: '2026-11-01'

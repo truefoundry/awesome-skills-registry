@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-en-uk-legal-translation-wouter-van-den-berg
+display_name: legal-translation
+description: 'Translate legal documents from any language into English while preserving
+  .docx formatting and translating track changes and headers/footers. Use this skill
+  whenever the user asks to translate a legal document, contract, deed, agreement,
+  or any formal legal text into English. Also trigger when the user mentions translating
+  .docx files that contain legal content, or asks for a "format-preserving translation"
+  of a legal document. This skill covers all legal domains: finance, M&A, corporate,
+  IP, real estate, regulatory, consumer, taxes, litigation, SaaS and more. Even if
+  the user just says "translate this contract" or "translate this into English", use
+  this skill if the document is legal in nature.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/en-uk-legal-translation-wouter-van-den-berg
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

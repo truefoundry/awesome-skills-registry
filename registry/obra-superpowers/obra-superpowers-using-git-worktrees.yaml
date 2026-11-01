@@ -1,0 +1,16 @@
+id: obra-superpowers-using-git-worktrees
+display_name: using-git-worktrees
+description: Use when starting feature work that needs isolation from current workspace
+  or before executing implementation plans - ensures an isolated workspace exists
+  via native tools or git worktree fallback
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/using-git-worktrees
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

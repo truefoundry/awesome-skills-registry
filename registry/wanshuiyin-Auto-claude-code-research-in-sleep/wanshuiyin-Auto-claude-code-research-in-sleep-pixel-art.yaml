@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-pixel-art
+display_name: pixel-art
+description: "Generate pixel art SVG illustrations for READMEs, docs, or slides. Use\
+  \ when user says \"\u753B\u50CF\u7D20\u56FE\", \"pixel art\", \"make an SVG illustration\"\
+  , \"README hero image\", or wants a cute visual."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/pixel-art
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

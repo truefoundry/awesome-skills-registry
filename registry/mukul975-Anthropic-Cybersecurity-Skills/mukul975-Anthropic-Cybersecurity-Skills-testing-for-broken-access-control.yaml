@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-broken-access-control
+display_name: testing-for-broken-access-control
+description: Systematically tests web applications and APIs for broken access control
+  (OWASP A01:2021), including privilege escalation, missing function-level checks,
+  insecure direct object references, and multi-tenant data leakage, using Burp Suite
+  with the Authorize extension. Use during authorized penetration tests or RBAC/multi-tenant
+  authorization audits.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-broken-access-control
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

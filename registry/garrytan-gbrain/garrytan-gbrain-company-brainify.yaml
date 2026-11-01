@@ -1,0 +1,19 @@
+id: garrytan-gbrain-company-brainify
+display_name: company-brainify
+description: "Extract a sanitized shared team/company brain from a personal brain.\
+  \ Strips internal ratings, compensation, performance assessments, retention and\
+  \ political dynamics from pages, takes, and facts across the full scan scope (people,\
+  \ companies, meetings, dailies, cross-references \u2014 not just people/), verifies\
+  \ with grep + retrieval passes, and purges sensitive git history behind the data-loss-gate\
+  \ confirmation card. Also runs as a report-only re-audit on an existing shared brain."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/company-brainify
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

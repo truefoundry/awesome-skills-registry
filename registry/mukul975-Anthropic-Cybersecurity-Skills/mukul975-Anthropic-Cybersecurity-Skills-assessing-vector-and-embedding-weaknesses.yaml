@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-assessing-vector-and-embedding-weaknesses
+display_name: assessing-vector-and-embedding-weaknesses
+description: Test RAG vector stores (Pinecone, Qdrant, Weaviate, Chroma, pgvector,
+  FAISS) for embedding inversion, cross-tenant data leakage, and data poisoning per
+  OWASP LLM08:2025. Use when performing an authorized security assessment of a RAG
+  pipeline's retrieval layer or auditing multi-tenant vector-store isolation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/assessing-vector-and-embedding-weaknesses
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

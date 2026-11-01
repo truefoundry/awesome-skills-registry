@@ -1,0 +1,20 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-widgets
+display_name: makepad-2.0-widgets
+description: "CRITICAL: Use for Makepad 2.0 widget catalog and usage. Triggers on:\
+  \ makepad widget, makepad View, makepad Button, makepad Label, makepad TextInput,\
+  \ makepad PortalList, makepad Dock, makepad Modal, makepad Image, makepad CheckBox,\
+  \ makepad Slider, makepad DropDown, widget catalog, widget reference, widget list,\
+  \ SolidView, RoundedView, ScrollYView, FoldHeader, Splitter, FileTree, \u7EC4\u4EF6\
+  , \u63A7\u4EF6, \u89C6\u56FE, \u6309\u94AE, \u6807\u7B7E, \u8F93\u5165\u6846, \u5217\
+  \u8868, \u6A21\u6001\u6846"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-widgets
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

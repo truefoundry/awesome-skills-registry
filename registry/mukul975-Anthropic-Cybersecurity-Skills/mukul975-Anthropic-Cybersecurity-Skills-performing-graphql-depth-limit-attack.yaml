@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-graphql-depth-limit-attack
+display_name: performing-graphql-depth-limit-attack
+description: Execute and test GraphQL depth limit attacks using deeply nested recursive
+  queries to identify denial-of-service vulnerabilities in GraphQL APIs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-graphql-depth-limit-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

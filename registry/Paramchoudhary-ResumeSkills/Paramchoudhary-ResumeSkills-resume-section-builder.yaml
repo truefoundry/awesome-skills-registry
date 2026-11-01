@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-resume-section-builder
+display_name: resume-section-builder
+description: Create targeted resume sections optimized for different experience levels
+  and roles
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resume-section-builder
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

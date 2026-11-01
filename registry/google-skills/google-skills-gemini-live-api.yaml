@@ -1,0 +1,20 @@
+id: google-skills-gemini-live-api
+display_name: gemini-live-api
+description: "Generates a Gemini LiveAPI client service class in the user's chosen\
+  \ programming language. Use when the user wants to build, scaffold, or integrate\
+  \ a client that connects to the Gemini Enterprise LiveAPI websocket endpoint, handles\
+  \ session setup/resumption, bearer token refresh, and sending/receiving `ClientMessage`/`ServerMessage`\
+  \ protos. Don't use for general (non-live, non-bidirectional) Gemini API usage such\
+  \ as one-shot `generateContent`, embeddings, image/video generation, or fine-tuning\
+  \ \u2014 use the `gemini-api` skill for those."
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gemini-live-api
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

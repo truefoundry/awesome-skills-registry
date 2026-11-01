@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-mbridge-perf-moe-long-context
+display_name: nemo-mbridge-perf-moe-long-context
+description: Long-context MoE training guidance for Megatron Bridge. Covers CP sizing,
+  selective recompute, dispatcher choices, and practical patterns from DSV3, Qwen3,
+  and Qwen3-Next long-context experiments.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-perf-moe-long-context
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

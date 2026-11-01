@@ -1,0 +1,18 @@
+id: NVIDIA-skills-nvflare-convert-pytorch
+display_name: nvflare-convert-pytorch
+description: Convert existing plain or manual PyTorch training code into an NVFLARE
+  federated job using Client API model exchange, local validation, and job export;
+  use when the user names plain PyTorch or preliminary source inspection identifies
+  one plain-PyTorch owner, and not for Lightning, other frameworks, deployment, POC/production
+  lifecycle, or experiment workflows.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvflare-convert-pytorch
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

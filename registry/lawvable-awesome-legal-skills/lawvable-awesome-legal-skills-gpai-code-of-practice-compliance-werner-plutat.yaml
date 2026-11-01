@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-gpai-code-of-practice-compliance-werner-plutat
+display_name: gpai-code-of-practice
+description: Assess compliance with the EU General-Purpose AI (GPAI) Code of Practice
+  under the AI Act (Regulation (EU) 2024/1689). Use when asked to determine GPAI model
+  provider obligations, assess Code of Practice compliance, evaluate transparency
+  or copyright requirements for GPAI models, check systemic risk obligations, build
+  a GPAI compliance roadmap, or prepare for AI Office requests. Covers all three Code
+  chapters (Transparency, Copyright, Safety & Security), the 12 commitments and their
+  measures, systemic risk classification (Article 51), provider obligations (Articles
+  53 and 55), open-source exemptions, enforcement timeline, Commission/AI Office supervision,
+  and DACH-specific overlays such as BSI cybersecurity and works council implications.
+  Triggers on phrases like "GPAI compliance", "Code of Practice assessment", "GPAI
+  model obligations", "systemic risk evaluation", "AI Act transparency requirements",
+  "GPAI copyright policy", "general-purpose AI compliance".
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gpai-code-of-practice-compliance-werner-plutat
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

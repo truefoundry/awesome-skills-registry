@@ -1,0 +1,22 @@
+id: qdrant-skills-qdrant-search-quality
+display_name: qdrant-search-quality
+description: Diagnoses and improves Qdrant search relevance. Use when someone reports
+  'search results are bad', 'wrong results', 'low precision', 'low recall', 'irrelevant
+  matches', 'missing expected results', or asks 'how to improve search quality?',
+  'which embedding model?', 'should I use hybrid search?', 'how to combine keyword
+  and vector search / fusion / RRF / prefetch?', 'should I use reranking?', 'relevance
+  feedback?', 'how to measure retrieval quality?', 'build a golden set', 'ground truth
+  dataset', 'how to score recall@k?', 'is my improvement real / statistically significant?',
+  or 'should I fine-tune my embedding model?'. Also use when search quality degrades
+  after quantization, model change, or data growth.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-search-quality
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-deception-with-honeypots
+display_name: implementing-network-deception-with-honeypots
+description: Deploy and manage network honeypots using OpenCanary, T-Pot, or Cowrie
+  to detect unauthorized access, lateral movement, and attacker reconnaissance.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-deception-with-honeypots
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

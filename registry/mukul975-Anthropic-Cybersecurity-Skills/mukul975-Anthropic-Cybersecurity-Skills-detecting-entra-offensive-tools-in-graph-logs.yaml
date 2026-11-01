@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-entra-offensive-tools-in-graph-logs
+display_name: detecting-entra-offensive-tools-in-graph-logs
+description: Hunt AADGraphActivityLogs and MicrosoftGraphActivityLogs in Microsoft
+  Sentinel/Log Analytics using KQL to fingerprint offensive Entra ID enumeration tools
+  such as ROADtools, AADInternals, and AzureHound, including User-Agent signatures,
+  roadrecon endpoint sweeps, and sign-in correlation. Use when investigating suspicious
+  Microsoft Graph API activity, Entra ID reconnaissance, or building Sentinel analytics
+  rules to detect these tools.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-entra-offensive-tools-in-graph-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

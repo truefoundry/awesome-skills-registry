@@ -1,0 +1,16 @@
+id: qdrant-skills-minimize-latency
+display_name: qdrant-minimize-latency
+description: Guides Qdrant query latency optimization. Use when someone asks 'search
+  is slow', 'how to reduce latency', 'p99 is too high', 'tail latency', 'single query
+  too slow', 'how to make search faster', or 'latency spikes'.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-scaling/minimize-latency
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

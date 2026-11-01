@@ -1,0 +1,17 @@
+id: google-skills-gke-backup-dr
+display_name: gke-backup-dr
+description: 'Configures Backup for GKE: the BackupRestore cluster addon, BackupPlan
+  and RestorePlan resources, restore workflows, and CMEK-encrypted backups. Use for
+  backup policies, disaster recovery, or GKE cluster restores. Don''t use for database
+  backups.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-backup-dr
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

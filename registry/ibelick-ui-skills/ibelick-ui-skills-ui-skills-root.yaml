@@ -1,0 +1,15 @@
+id: ibelick-ui-skills-ui-skills-root
+display_name: ui-skills-root
+description: Use before UI-related work to select the smallest useful UI Skills context
+  through the ui-skills CLI.
+authors:
+- ibelick
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ui-skills-root
+  repo: ibelick/ui-skills
+metadata:
+  stars: 10422
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-firmware-extraction-with-binwalk
+display_name: performing-firmware-extraction-with-binwalk
+description: Performs firmware image extraction and analysis using binwalk to identify
+  embedded filesystems, compressed archives, bootloaders, kernel images, and cryptographic
+  material. Covers entropy analysis for detecting encrypted or compressed regions,
+  recursive extraction of nested archives, SquashFS/CramFS/JFFS2 filesystem mounting,
+  and string analysis for credential and configuration discovery. Activates for requests
+  involving firmware reverse engineering, IoT device analysis, embedded system security
+  assessment, or router/camera firmware extraction.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-firmware-extraction-with-binwalk
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

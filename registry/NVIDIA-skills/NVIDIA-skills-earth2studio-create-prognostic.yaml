@@ -1,0 +1,15 @@
+id: NVIDIA-skills-earth2studio-create-prognostic
+display_name: earth2studio-create-prognostic
+description: Create Earth2Studio prognostic (time-stepping forecast) model wrappers.
+  Do NOT use for diagnostic models, data sources, or installation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/earth2studio-create-prognostic
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

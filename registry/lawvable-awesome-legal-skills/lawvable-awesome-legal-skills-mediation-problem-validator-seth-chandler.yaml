@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-mediation-problem-validator-seth-chandler
+display_name: mediation-problem-validator
+description: Evaluate completed mediation-competition problems consisting of general
+  information and confidential packets for both sides. Use when asked to validate,
+  audit, score, quality-control, or assess competition readiness; identify factual,
+  numerical, chronological, authority, commercial-logic, or confidentiality defects;
+  test mediation usefulness, BATNAs, settlement corridors, information asymmetry,
+  and opportunities for firmness, cooperation, imagination, and clarification; or
+  produce an author-only validation report. Perform a qualified partial review when
+  packets are missing. Diagnose by default; do not generate a new problem or edit
+  source packets unless repairs are expressly requested. Requires access to all supplied
+  files and a host capable of reading their formats; otherwise disclose the unreviewed
+  material and resulting limits.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mediation-problem-validator-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-mobile-app-certificate-pinning-bypass
+display_name: performing-mobile-app-certificate-pinning-bypass
+description: Bypasses SSL/TLS certificate pinning implementations in Android and iOS
+  applications to enable traffic interception during authorized security assessments.
+  Covers OkHttp, TrustManager, NSURLSession, and third-party pinning library bypass
+  techniques using Frida, Objection, and custom scripts. Activates for requests involving
+  certificate pinning bypass, SSL pinning defeat, mobile TLS interception, or proxy-resistant
+  app testing.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-mobile-app-certificate-pinning-bypass
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

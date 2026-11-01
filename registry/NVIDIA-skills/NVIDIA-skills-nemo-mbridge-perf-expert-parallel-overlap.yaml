@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-mbridge-perf-expert-parallel-overlap
+display_name: nemo-mbridge-perf-expert-parallel-overlap
+description: Validate and use MoE expert-parallel communication overlap in Megatron-Bridge,
+  including overlap_moe_expert_parallel_comm, delay_wgrad_compute, and flex dispatcher
+  backends such as DeepEP and HybridEP.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-perf-expert-parallel-overlap
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

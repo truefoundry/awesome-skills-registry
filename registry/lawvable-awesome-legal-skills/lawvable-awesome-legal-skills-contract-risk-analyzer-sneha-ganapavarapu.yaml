@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-contract-risk-analyzer-sneha-ganapavarapu
+display_name: contract-risk-analyzer-sneha-ganapavarapu
+description: Analyses contracts for risk across five critical clauses (Limitation
+  of Liability, Indemnities, IP Ownership, Data Protection, Termination). Built for
+  founders with no legal background. Flags red flags, explains risks in plain language,
+  and provides negotiation guidance.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/contract-risk-analyzer-sneha-ganapavarapu
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

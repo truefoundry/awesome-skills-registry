@@ -1,0 +1,16 @@
+id: NVIDIA-skills-amc-setup-calibration-stack
+display_name: amc-setup-calibration-stack
+description: Launch AutoMagicCalib microservice and web UI from NGC release images
+  via Docker Compose. Use when user says 'deploy auto calibration', 'launch auto calibration',
+  'launch AMC', 'start MS+UI', or 'set up auto-magic-calib'. Requires NGC API key.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/amc-setup-calibration-stack
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-proposition-audit-anthony-searle
+display_name: proposition-audit-anthony-searle
+description: Post-hoc verification and trust audit of AI-generated factual and interpretive
+  claims. Classifies claims by type and salience, routes them to domain-appropriate
+  sources, scores trustworthiness on a tiered scale with an Interpolated verdict for
+  plausible-but-unsupported detail, and assesses rhetorical fairness on interpretive
+  claims. Designed for clinical-negligence and healthcare-law practice in England
+  and Wales, with general applicability beyond.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/proposition-audit-anthony-searle
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-recovering-deleted-files-with-photorec
+display_name: recovering-deleted-files-with-photorec
+description: Recovers deleted files from disk images and storage media using PhotoRec's
+  file signature-based carving engine, which works regardless of file system damage
+  or corruption. Use when recovering deleted or lost files from a forensic disk image,
+  damaged storage device, or corrupted file system during evidence recovery.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/recovering-deleted-files-with-photorec
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

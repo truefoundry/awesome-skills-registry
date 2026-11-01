@@ -1,0 +1,24 @@
+id: NoizAI-skills-text-to-music
+display_name: text-to-music
+description: 'Use this skill whenever the user wants to generate a song or music with
+  vocals from a text description and/or lyrics, or cover an existing song in a new
+  style. Triggers include: any mention of ''make a song'', ''generate music'', ''text
+  to music'', ''compose'', ''write and sing a song'', ''jingle'', ''theme song'',
+  ''birthday song'', ''song with lyrics'', ''cover'', ''cover version'', ''remake
+  this song as jazz'', ''sing this song in another style'', or requests like ''turn
+  these lyrics into a song'' or ''make a lo-fi track about coffee''. Also use when
+  the user supplies lyrics and wants them sung, wants a song modeled on a reference
+  track, wants new lyrics sung over an existing melody, or wants to extract lyrics
+  from a song for covering. Do NOT use for short sound effects (use sound-fx), speech/voiceover
+  (use tts), or pure instrumental tracks (not supported).'
+authors:
+- NoizAI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/text-to-music
+  repo: NoizAI/skills
+metadata:
+  stars: 532
+added_at: '2026-11-01'

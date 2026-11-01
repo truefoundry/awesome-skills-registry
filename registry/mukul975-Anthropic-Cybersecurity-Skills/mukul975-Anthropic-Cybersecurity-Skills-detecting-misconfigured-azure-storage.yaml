@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-misconfigured-azure-storage
+display_name: detecting-misconfigured-azure-storage
+description: Audit Azure Storage accounts for public blob containers, missing encryption,
+  overly permissive SAS tokens, disabled logging, and network access violations using
+  Azure CLI, PowerShell, and Microsoft Defender for Storage. Use for storage security
+  audits across subscriptions, responding to Defender for Storage anonymous-access
+  alerts, verifying compliance controls, or setting security baselines when onboarding
+  a subscription.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-misconfigured-azure-storage
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: NVIDIA-skills-bionemo-kermt-pretrain-scratch
+display_name: kermt-pretrain-scratch
+description: "Pretrain a fresh KERMT model from scratch on a user-provided corpus.\
+  \ Builds a new vocabulary from the corpus, instantiates the model architecture from\
+  \ defaults, and launches pretrain_ddp.py inside the kermt container (detached for\
+  \ long runs). Unlike kermt-continue-pretrain, no starting checkpoint is loaded \u2014\
+  \ the model is randomly initialized."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-kermt-pretrain-scratch
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

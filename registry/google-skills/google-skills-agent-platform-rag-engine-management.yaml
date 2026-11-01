@@ -1,0 +1,18 @@
+id: google-skills-agent-platform-rag-engine-management
+display_name: agent-platform-rag-engine-management
+description: Manage and query Agent Platform RAG Engine Corpora and retrieve grounded
+  contexts using the Google GenAI SDK. Use when listing RAG corpora or files, inspecting
+  a corpus, retrieving contexts, or generating content grounded in a RAG corpus. Do
+  not use for standard database queries (use SQL/Spanner skills), Google Workspace
+  RAG, or other RAG products like gRAG.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-rag-engine-management
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

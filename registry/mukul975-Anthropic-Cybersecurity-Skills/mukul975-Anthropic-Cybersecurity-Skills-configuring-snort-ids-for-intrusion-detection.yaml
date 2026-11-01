@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-snort-ids-for-intrusion-detection
+display_name: configuring-snort-ids-for-intrusion-detection
+description: Installs, configures, and tunes Snort 3 to monitor network traffic for
+  malicious activity using custom and community rulesets, preprocessors, and alert
+  output plugins. Use when deploying network-based intrusion detection at key boundaries,
+  writing custom Snort rules, tuning rulesets to reduce false positives, or integrating
+  Snort alerts with a SIEM.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-snort-ids-for-intrusion-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

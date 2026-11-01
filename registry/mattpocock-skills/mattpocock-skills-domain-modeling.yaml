@@ -1,0 +1,15 @@
+id: mattpocock-skills-domain-modeling
+display_name: domain-modeling
+description: Build and sharpen a project's domain model. Use when discussing codebase
+  terminology, writing or editing a GLOSSARY.md, or recording or editing an ADR.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/domain-modeling
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

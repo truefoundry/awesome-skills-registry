@@ -1,0 +1,24 @@
+id: NVIDIA-skills-doca-dpa
+display_name: doca-dpa
+description: "Use this skill when the user is doing hands-on DOCA DPA host-side work\
+  \ on a BlueField \u2014 creating the `doca_dpa` Core context, loading a DPACC-compiled\
+  \ DPA app image (`doca_dpa_app`), creating DPA threads, launching kernels via `doca_dpa_kernel_launch_update_*`,\
+  \ draining `doca_dpa_completion`, running `doca_dpa_cap_*` discovery, choosing between\
+  \ the DPA comm component (inter-DPA messaging) and the DPA verbs component (in-kernel\
+  \ RDMA), or debugging `DOCA_ERROR_*` from `doca_dpa_*`. Trigger even without \"\
+  DOCA DPA\" or \"Data-Path Accelerator\": \"run compute on the DPA from my host\"\
+  , \"DPA kernel hangs, no completion\", \"DOCA_ERROR_DRIVER on launch\", \"DOCA/DPACC\
+  \ version skew\", or \"does this BlueField expose a DPA\". Route elsewhere for DPA-side\
+  \ kernel programming itself, DPACC compiler internals, host\u2194DPU messaging (doca-comch),\
+  \ host-side RDMA (doca-rdma), and GPU-initiated networking (doca-gpunetio)."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-dpa
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

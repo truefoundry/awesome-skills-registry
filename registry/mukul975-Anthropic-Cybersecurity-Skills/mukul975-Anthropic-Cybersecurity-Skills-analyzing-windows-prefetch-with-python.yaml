@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-windows-prefetch-with-python
+display_name: analyzing-windows-prefetch-with-python
+description: Parse Windows Prefetch (.pf) files with the windowsprefetch Python library
+  to reconstruct application execution history, run counts, and accessed file/volume
+  lists. Use when investigating renamed or masquerading binaries, verifying program
+  execution timelines, or hunting for suspicious execution patterns in incident response.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-windows-prefetch-with-python
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-intelligence-enrichment-in-splunk
+display_name: building-threat-intelligence-enrichment-in-splunk
+description: Build automated IOC enrichment pipelines in Splunk Enterprise Security
+  by ingesting threat feeds into KV Store collections and correlating them against
+  security events via lookup tables, modular inputs, and the Threat Intelligence Framework.
+  Use when wiring threat intel into Splunk correlation searches to flag IOC matches
+  and cut SOC triage time.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-intelligence-enrichment-in-splunk
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

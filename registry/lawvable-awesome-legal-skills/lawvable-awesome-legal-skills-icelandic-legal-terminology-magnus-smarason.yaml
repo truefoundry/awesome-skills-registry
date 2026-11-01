@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-icelandic-legal-terminology-magnus-smarason
+display_name: Icelandic Legal Terminology
+description: Use this skill when asked to translate, explain, or map Icelandic legal
+  terms to English (or vice versa). Triggers on requests involving Icelandic legal
+  vocabulary, legal translation, understanding Icelandic statutes or court decisions,
+  or cross-referencing Icelandic and common law concepts.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icelandic-legal-terminology-magnus-smarason
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

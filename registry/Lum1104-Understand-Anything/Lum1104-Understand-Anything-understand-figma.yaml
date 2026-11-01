@@ -1,0 +1,16 @@
+id: Lum1104-Understand-Anything-understand-figma
+display_name: understand-figma
+description: Analyze a Figma file via the Figma REST API and generate an interactive
+  design knowledge graph (pages, screens, components, component sets, instances, design
+  tokens) with a kind:"design" dashboard.
+authors:
+- Lum1104
+is_official: false
+tags: []
+category: none
+source:
+  path: /understand-anything-plugin/skills/understand-figma
+  repo: Lum1104/Understand-Anything
+metadata:
+  stars: 89414
+added_at: '2026-11-01'

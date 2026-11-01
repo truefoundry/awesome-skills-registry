@@ -1,0 +1,17 @@
+id: stripe-ai-stripe-pay
+display_name: stripe-pay
+description: Helps users send funds to another Stripe business, transfer money to
+  a Stripe Profile handle or network ID, or ask whether an agent can pay a Stripe
+  business. Use Stripe Directory to find or verify a recipient when the user doesn't
+  provide an exact Stripe Profile handle or network ID.
+authors:
+- stripe
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/stripe-pay
+  repo: stripe/ai
+metadata:
+  stars: 2018
+added_at: '2026-11-01'

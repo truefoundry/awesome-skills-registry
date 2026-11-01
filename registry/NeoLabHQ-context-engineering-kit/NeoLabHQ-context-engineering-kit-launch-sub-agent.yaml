@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-launch-sub-agent
+display_name: launch-sub-agent
+description: Launch an intelligent sub-agent with automatic model selection based
+  on task complexity, specialized agent matching, Zero-shot CoT reasoning, and mandatory
+  self-critique verification
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/launch-sub-agent
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

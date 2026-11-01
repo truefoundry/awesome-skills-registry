@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-startup-canvas
+display_name: startup-canvas
+description: Generate a Startup Canvas combining Product Strategy (9 sections) and
+  Business Model (costs + revenue) for a new product. An alternative to BMC and Lean
+  Canvas that separates strategy from business model. Use when launching a new product
+  or evaluating a startup concept.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-strategy/skills/startup-canvas
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-opa-gatekeeper-for-policy-enforcement
+display_name: implementing-opa-gatekeeper-for-policy-enforcement
+description: 'Deploys OPA Gatekeeper via Helm as a Kubernetes admission controller
+  and writes ConstraintTemplates with Rego plus instantiated Constraints to validate,
+  mutate, or deny resource requests at admission time. Use when enforcing custom policy-as-code
+  at admission on Kubernetes v1.24+, blocking non-compliant workloads before scheduling,
+  or expressing a rule that built-in controls cannot. Keywords: Gatekeeper, ConstraintTemplate,
+  Constraint, Rego, admission webhook, audit, mutation. Do not use for the standard
+  pod security profiles that Pod Security Admission already covers - use implementing-pod-security-admission-controller.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-opa-gatekeeper-for-policy-enforcement
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

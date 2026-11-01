@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-isds-arbitrators-cameron-russell
+display_name: isds-arbitrators
+description: Arbitrator research tool for investor-State dispute settlement (ISDS).
+  The tool can summarize arbitrators' experience, with deliverables grounded in primary
+  documents; it can also help find arbitrators based on the issues faced in a particular
+  case. Use when the user asks about an arbitrator ("tell me about arbitrator X",
+  "X, Y and Z"), wants help choosing or shortlisting arbitrators for a case, or asks
+  about appointments, dissents, issue track records (e.g. FET, expropriation), challenge
+  risk, double-hatting, or tribunal composition. Profiles are grounded in the UNCTAD
+  ISDS Navigator dataset plus targeted live lookups (ICSID); deep verification retrieves
+  the actual decisions. Sibling of isds-research.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/isds-arbitrators-cameron-russell
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

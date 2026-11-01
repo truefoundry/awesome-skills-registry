@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nv-generate-mr-brain-finetune
+display_name: nv-generate-mr-brain-finetune
+description: Used for finetuning NV-Generate-CTMR MR-Brain v1 for T1, T2, FLAIR, SWI,
+  or MRA data from a NIfTI datalist. Not for clinical or production data approval.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nv-generate-mr-brain-finetune
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

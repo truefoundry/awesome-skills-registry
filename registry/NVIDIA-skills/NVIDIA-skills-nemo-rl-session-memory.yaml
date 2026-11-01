@@ -1,0 +1,18 @@
+id: NVIDIA-skills-nemo-rl-session-memory
+display_name: nemo-rl-session-memory
+description: 'Manage durable working-session memory for coding agents. Use when a
+  user asks to preserve or recover agent context across disconnects, VS Code restarts,
+  long-running work, handoffs, or any session where important state should be written
+  periodically under the repo''s session directory. Do NOT use for: simple questions,
+  short tasks, one-off commands, linting, or code review.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-rl-session-memory
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

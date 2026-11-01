@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-aws-account-enumeration-with-scout-suite
+display_name: performing-aws-account-enumeration-with-scout-suite
+description: Run the agentless, open-source ScoutSuite tool (via pip install and the
+  `scout` CLI) against an AWS account to enumerate resources across services, identify
+  misconfigurations, and generate an interactive HTML security report. Use when assessing
+  an AWS account's overall security posture with read-only IAM credentials, such as
+  during a cloud security audit or compliance review.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-aws-account-enumeration-with-scout-suite
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: prompt-security-clawsec-soul-guardian
+display_name: soul-guardian
+description: Drift detection + baseline integrity guard for agent workspace files
+  with automatic alerting support
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/soul-guardian
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

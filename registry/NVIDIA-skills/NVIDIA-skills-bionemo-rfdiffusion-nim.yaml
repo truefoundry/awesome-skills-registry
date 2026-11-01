@@ -1,0 +1,17 @@
+id: NVIDIA-skills-bionemo-rfdiffusion-nim
+display_name: rfdiffusion-nim
+description: Run RFDiffusion protein backbone design via NVIDIA NIM. Use for de novo
+  protein backbones, motif scaffolding, binder design, hotspot residues, contigs syntax,
+  diffusion steps, hosted NVIDIA API calls, local Docker deployment, and PDB backbone
+  outputs for ProteinMPNN sequence design.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-rfdiffusion-nim
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

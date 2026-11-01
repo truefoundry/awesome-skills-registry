@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-google-workspace-phishing-protection
+display_name: implementing-google-workspace-phishing-protection
+description: "Configures Google Workspace advanced phishing and malware protection\
+  \ settings in the Admin Console \u2014 pre-delivery message scanning, attachment\
+  \ protection, spoofing/impersonation detection, and Enhanced Safe Browsing enforcement.\
+  \ Use when hardening Gmail against phishing, spoofing, and malware, or when tuning\
+  \ Workspace email security policies."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-google-workspace-phishing-protection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

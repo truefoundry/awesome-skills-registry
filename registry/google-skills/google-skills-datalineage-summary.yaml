@@ -1,0 +1,19 @@
+id: google-skills-datalineage-summary
+display_name: datalineage-summary
+description: Summarizes data lineage graphs on Google Cloud to help users debug data
+  quality issues and understand data provenance for BigQuery and Cloud Storage. Use
+  when summarizing upstream and downstream data flows, and presenting complex lineage
+  data as an intuitive Markdown report. Don't use for generic BigQuery queries, editing
+  lineage relationships, or downstream deprecation. Don't use for downstream blast-radius
+  impact analysis (use datalineage-bigquery-asset-impact-analysis skill instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/datalineage-summary
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

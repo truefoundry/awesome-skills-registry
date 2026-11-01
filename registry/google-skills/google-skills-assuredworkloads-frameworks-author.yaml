@@ -1,0 +1,17 @@
+id: google-skills-assuredworkloads-frameworks-author
+display_name: assuredworkloads-frameworks-author
+description: Authors custom cloud controls and customized frameworks for Assured Workloads
+  when built-in resources cannot satisfy core requirements. Use when creating or synthesizing
+  custom data boundary resources. Don't use for browsing or mapping existing built-in
+  frameworks (use assuredworkloads-frameworks-navigator instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/assuredworkloads-frameworks-author
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

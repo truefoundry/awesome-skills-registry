@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-due-diligence-gate-adrian-lerer
+display_name: lawve-public-due-diligence-gate-ignacio-adrian-lerer
+description: Use for due diligence, legal-financial risk review, investment or business
+  transaction checklists, and preliminary screening where facts, documents, assumptions,
+  legal uncertainty, debt/equity, assets/liabilities, contracts, tax, regulatory,
+  compliance, technology/product, and financial-model issues must be separated clearly.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/due-diligence-gate-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

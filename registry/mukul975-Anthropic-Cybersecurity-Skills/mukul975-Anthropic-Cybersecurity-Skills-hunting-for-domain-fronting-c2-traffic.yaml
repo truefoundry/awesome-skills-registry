@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-domain-fronting-c2-traffic
+display_name: hunting-for-domain-fronting-c2-traffic
+description: Detects domain fronting C2 traffic by analyzing SNI-vs-HTTP-Host-header
+  mismatches in proxy logs and inspecting TLS certificate discrepancies with pyOpenSSL.
+  Use when hunting for command-and-control traffic hidden behind legitimate CDN domains,
+  or when investigating proxy/TLS logs for signs of domain fronting evasion.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-domain-fronting-c2-traffic
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

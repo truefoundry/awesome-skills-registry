@@ -1,0 +1,20 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-performance
+display_name: makepad-2.0-performance
+description: "CRITICAL: Use for Makepad 2.0 performance optimization and debugging.\
+  \ Triggers on: makepad performance, makepad debug, makepad profiling, makepad gc,\
+  \ new_batch, texture_caching, render optimization, draw batching, mod.gc, garbage\
+  \ collection, memory, debug logging, troubleshoot, ViewOptimize, PortalList, CachedView,\
+  \ render tree, invisible text, text disappears, UI freezes, scroll stuttering, \u6027\
+  \u80FD, \u8C03\u8BD5, \u4F18\u5316, \u5783\u573E\u56DE\u6536, \u6E32\u67D3, \u6279\
+  \u5904\u7406, \u65E5\u5FD7"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-performance
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

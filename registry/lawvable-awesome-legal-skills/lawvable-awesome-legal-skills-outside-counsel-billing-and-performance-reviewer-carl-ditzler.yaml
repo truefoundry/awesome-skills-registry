@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-outside-counsel-billing-and-performance-reviewer-carl-ditzler
+display_name: outside-counsel-billing-performance-reviewer
+description: Reviews outside counsel invoices and related billing data for an in-house
+  legal department, including LEDES or e-billing exports, OCGs, approved rates, discounts,
+  budgets, AFAs, and staffing rules. Starts with internal comparisons before bringing
+  in external data. Produces invoice review findings, MBR/QBR scorecards, dispute
+  logs, and management reports. For demonstration purposes only and not professional
+  advice.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/outside-counsel-billing-and-performance-reviewer-carl-ditzler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

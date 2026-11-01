@@ -1,0 +1,16 @@
+id: stripe-ai-stripe-docs
+display_name: stripe-docs
+description: Use when the user or agent needs to read, search, or look up Stripe documentation
+  or API reference. Prefer this over curl or WebFetch for any docs.stripe.com content.
+  Use to fetch gated documentation.
+authors:
+- stripe
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/stripe-docs
+  repo: stripe/ai
+metadata:
+  stars: 2018
+added_at: '2026-11-01'

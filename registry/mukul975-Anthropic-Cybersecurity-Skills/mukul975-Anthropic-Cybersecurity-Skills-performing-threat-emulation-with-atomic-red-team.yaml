@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-threat-emulation-with-atomic-red-team
+display_name: performing-threat-emulation-with-atomic-red-team
+description: Executes Atomic Red Team tests for MITRE ATT&CK technique validation
+  using the atomic-operator Python framework. Loads test definitions from YAML atomics,
+  runs attack simulations, and validates detection coverage. Use when testing SIEM
+  detection rules, validating EDR coverage, or conducting purple team exercises.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-threat-emulation-with-atomic-red-team
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: raintree-technology-apple-hig-skills-hig-components-search
+display_name: hig-components-search
+description: 'Apple HIG guidance for navigation-related components including search
+  fields, page controls, and path controls. Use this skill when the user says "how
+  should search work in my app," "I need a breadcrumb," "how do I paginate content,"
+  or asks about search field, search bar, page control, path control, breadcrumb,
+  navigation component, search UX, search suggestions, search scopes, paginated content
+  navigation, or file path hierarchy display. Cross-references: hig-components-menus,
+  hig-components-controls, hig-components-dialogs, hig-patterns.'
+authors:
+- raintree-technology
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hig-components-search
+  repo: raintree-technology/apple-hig-skills
+metadata:
+  stars: 148
+added_at: '2026-11-01'

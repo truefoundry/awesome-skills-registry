@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nv-reason-cxr
+display_name: nv-reason-cxr
+description: Used for command-shape or live NV-Reason-CXR chest X-ray reasoning smoke
+  tests. Not for diagnosis or clinical reporting.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nv-reason-cxr
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

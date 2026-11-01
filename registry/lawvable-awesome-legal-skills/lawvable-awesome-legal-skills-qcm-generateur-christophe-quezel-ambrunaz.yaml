@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-qcm-generateur-christophe-quezel-ambrunaz
+display_name: MCQ Generator
+description: AI-assisted generation of MCQs (multiple-choice questionnaires) with
+  export to Moodle (GIFT, XML), Wooclap (Excel), Kahoot!, and Word. Supports light
+  MCQs (gamified) and in-depth MCQs (evaluative), with single-answer and multiple-answer
+  formats.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/qcm-generateur-christophe-quezel-ambrunaz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-wcag-tanaji-hemant-naik
+display_name: wcag
+description: "Expert WCAG (Web Content Accessibility Guidelines) advisor covering\
+  \ WCAG 2.0, 2.1, and 2.2 \u2014 the W3C international accessibility standards. Use\
+  \ this skill whenever a user asks about WCAG success criteria, conformance levels\
+  \ (A/AA/AAA), accessibility audits, POUR principles, accessibility statements, ARIA\
+  \ patterns, colour contrast, keyboard accessibility, screen reader compatibility,\
+  \ mobile accessibility, cognitive accessibility, WCAG 2.2 new criteria, WCAG 3.0\
+  \ preview, legal requirements referencing WCAG (EN 301 549, EAA, ADA, Section 508),\
+  \ or mapping WCAG to accessibility laws. Trigger for any web or digital content\
+  \ accessibility question \u2014 even if the user doesn't say \"skill\" or \"WCAG\"\
+  ."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/wcag-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

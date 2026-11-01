@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-render-html
+display_name: render-html
+description: "Render an ARIS Markdown / JSON artifact (IDEA_REPORT, AUTO_REVIEW, KILL_ARGUMENT,\
+  \ PAPER_PLAN, research-wiki state, etc.) into a single-file HTML view designed for\
+  \ human reading. Use when the user says \"\u6E32\u67D3 HTML\", \"\u51FA\u4E00\u4EFD\
+  \ HTML \u62A5\u544A\", \"render html\", \"make this readable\", \"export to html\"\
+  , or wants a polished web-rendered view of a Markdown artifact."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/render-html
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

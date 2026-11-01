@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-public-legal-ai-endpoint-protection-adrian-lerer
+display_name: public-legal-ai-endpoint-protection
+description: Reviews public or shared AI-backed web endpoints for abuse, excessive
+  cost, data exposure, unsafe browser control, weak request limits, and missing human
+  approval. Use before launching or materially changing an HTTP or API endpoint that
+  can invoke an AI model. Do not use as a penetration test, compliance certification,
+  or substitute for runtime monitoring and professional security review.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/public-legal-ai-endpoint-protection-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-extracting-memory-artifacts-with-rekall
+display_name: extracting-memory-artifacts-with-rekall
+description: Uses Rekall memory forensics framework to analyze memory dumps for process
+  hollowing, injected code via VAD anomalies, hidden processes, and rootkit detection.
+  Applies plugins like pslist, psscan, vadinfo, malfind, and dlllist to extract forensic
+  artifacts from Windows memory images. Use during incident response memory analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/extracting-memory-artifacts-with-rekall
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

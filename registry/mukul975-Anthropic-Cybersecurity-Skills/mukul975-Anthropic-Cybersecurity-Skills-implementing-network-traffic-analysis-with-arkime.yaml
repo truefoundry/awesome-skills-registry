@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-traffic-analysis-with-arkime
+display_name: implementing-network-traffic-analysis-with-arkime
+description: Queries Arkime (formerly Moloch) full packet capture via its API to search
+  sessions, download PCAPs, detect C2 beaconing through connection interval/jitter
+  stats, spot DNS tunneling via query-length analysis, and flag known-bad TLS certificate
+  issuers, using the bundled scripts/agent.py. Use when investigating suspicious network
+  flows or doing full-packet-capture forensics against an Arkime deployment.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-traffic-analysis-with-arkime
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

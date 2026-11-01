@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-honeypot-for-ransomware-detection
+display_name: implementing-honeypot-for-ransomware-detection
+description: Deploys canary files, honeypot shares, and decoy systems to detect ransomware
+  activity at the earliest possible stage. Configures canary tokens embedded in strategic
+  file locations that trigger alerts when ransomware attempts encryption, uses honeypot
+  network shares that mimic high-value targets, and deploys Thinkst Canary appliances
+  for comprehensive deception-based detection. Activates for requests involving ransomware
+  honeypots, canary files, deception technology for ransomware, or early ransomware
+  alerting.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-honeypot-for-ransomware-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

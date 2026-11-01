@@ -1,0 +1,16 @@
+id: rameerez-claude-code-startup-skills-customer-empathy
+display_name: customer-empathy
+description: Deep-dive into customer empathy and user journey thinking. Use when designing
+  onboarding, improving UX, planning features, or trying to understand how to delight
+  users faster.
+authors:
+- rameerez
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/customer-empathy
+  repo: rameerez/claude-code-startup-skills
+metadata:
+  stars: 31
+added_at: '2026-11-01'

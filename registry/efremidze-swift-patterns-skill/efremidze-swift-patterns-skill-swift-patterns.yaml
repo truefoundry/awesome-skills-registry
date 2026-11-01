@@ -1,0 +1,16 @@
+id: efremidze-swift-patterns-skill-swift-patterns
+display_name: swift-patterns
+description: Review, refactor, or build SwiftUI features with correct state management,
+  modern API usage, optimal view composition, navigation patterns, performance optimization,
+  and testing best practices.
+authors:
+- efremidze
+is_official: false
+tags: []
+category: none
+source:
+  path: /swift-patterns
+  repo: efremidze/swift-patterns-skill
+metadata:
+  stars: 12
+added_at: '2026-11-01'

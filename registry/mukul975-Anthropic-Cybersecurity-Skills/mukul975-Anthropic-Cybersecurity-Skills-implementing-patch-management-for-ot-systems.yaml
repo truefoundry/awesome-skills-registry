@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-patch-management-for-ot-systems
+display_name: implementing-patch-management-for-ot-systems
+description: Implements a structured patch management program for OT/ICS environments
+  where IT-style patching can cause process disruption or safety hazards, covering
+  vendor compatibility testing, risk-based prioritization, staged test deployment,
+  maintenance window coordination, rollback procedures, and compensating controls.
+  Use when planning or auditing patching for SCADA, PLCs, or other industrial control
+  systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-patch-management-for-ot-systems
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

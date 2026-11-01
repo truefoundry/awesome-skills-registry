@@ -1,0 +1,15 @@
+id: mattpocock-skills-diagnosing-bugs
+display_name: diagnosing-bugs
+description: Diagnosis loop for hard bugs and performance regressions. Use when the
+  user says "diagnose"/"debug this", or reports something broken/throwing/failing/slow.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/diagnosing-bugs
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

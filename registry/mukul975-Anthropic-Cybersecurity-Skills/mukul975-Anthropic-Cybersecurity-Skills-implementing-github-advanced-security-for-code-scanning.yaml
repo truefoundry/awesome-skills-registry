@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-github-advanced-security-for-code-scanning
+display_name: implementing-github-advanced-security-for-code-scanning
+description: Configures GitHub Advanced Security (code scanning with CodeQL, secret
+  scanning, dependency review, and Dependabot alerts) to perform automated static
+  analysis and vulnerability detection across repositories at enterprise scale, including
+  custom CodeQL queries and CI workflow integration. Use when setting up or tuning
+  code scanning, rolling out CodeQL across an organization, or shifting SAST left
+  into pull request workflows.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-github-advanced-security-for-code-scanning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

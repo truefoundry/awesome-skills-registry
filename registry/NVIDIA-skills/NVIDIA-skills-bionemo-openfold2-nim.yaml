@@ -1,0 +1,17 @@
+id: NVIDIA-skills-bionemo-openfold2-nim
+display_name: openfold2-nim
+description: Use this skill for OpenFold2, NVIDIA's BioNeMo NIM microservice for monomer
+  protein structure prediction. Invoke whenever the user mentions OpenFold2, AlphaFold2-like
+  monomer folding, protein sequence-to-structure prediction, A3M MSAs, mmCIF templates,
+  hosted NVIDIA API calls, or local Docker deployment.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-openfold2-nim
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

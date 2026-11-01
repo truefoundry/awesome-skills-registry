@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-auto-review-loop-llm
+display_name: auto-review-loop-llm
+description: Autonomous research review loop using any OpenAI-compatible LLM API.
+  Configure via llm-chat MCP server or environment variables. Trigger with "auto review
+  loop llm" or "llm review".
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/auto-review-loop-llm
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

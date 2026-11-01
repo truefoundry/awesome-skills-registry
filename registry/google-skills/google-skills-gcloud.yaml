@@ -1,0 +1,19 @@
+id: google-skills-gcloud
+display_name: gcloud
+description: Provides safety-critical validation, guardrails, and data reduction for
+  gcloud CLI operations across Google Cloud Platform (GCP) services and infrastructure.
+  Use when planning, generating, constructing, proposing, describing, or executing
+  any gcloud CLI commands - including when answering questions about gcloud syntax,
+  or formatting flags. Don't use when writing Google Cloud client library code or
+  raw REST/gRPC API requests.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gcloud
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

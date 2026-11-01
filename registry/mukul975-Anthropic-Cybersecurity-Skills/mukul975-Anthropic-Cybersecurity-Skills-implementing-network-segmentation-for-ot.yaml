@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-segmentation-for-ot
+display_name: implementing-network-segmentation-for-ot
+description: Implements OT network segmentation using VLANs, OT-aware firewalls, data
+  diodes, and IEC 62443 zone/conduit architecture, with a traffic-baseline-driven
+  design tool for migrating flat Purdue-model networks without disrupting operations.
+  Use when segmenting a flat OT network into Purdue levels, deploying an IT/OT DMZ,
+  or isolating safety instrumented systems from basic process control systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-segmentation-for-ot
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-privilege-escalation-attempts
+display_name: detecting-privilege-escalation-attempts
+description: Detect privilege escalation attempts across Windows and Linux, including
+  access token manipulation, UAC bypass, unquoted service path abuse, kernel exploits,
+  and sudo/doas abuse. Use when threat hunting for T1068-style privilege escalation,
+  triaging EDR/SIEM alerts on suspicious privilege changes, scoping compromise during
+  incident response, or validating detection coverage in a purple team exercise.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-privilege-escalation-attempts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

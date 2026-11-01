@@ -1,0 +1,15 @@
+id: ibelick-ui-skills-component-canvas
+display_name: component-canvas
+description: Build a full-screen, interactive canvas to explore existing UI components
+  and their variants with pan and zoom.
+authors:
+- ibelick
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/component-canvas
+  repo: ibelick/ui-skills
+metadata:
+  stars: 10422
+added_at: '2026-11-01'

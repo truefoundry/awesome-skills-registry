@@ -1,0 +1,16 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-hosted-agents
+display_name: hosted-agents
+description: 'This skill should be used when designing hosted or background agent
+  infrastructure: sandboxed execution, remote coding environments, warm pools, session
+  persistence, multiplayer collaboration, self-spawning agents, or Modal-style sandboxes.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hosted-agents
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

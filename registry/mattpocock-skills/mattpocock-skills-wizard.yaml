@@ -1,0 +1,17 @@
+id: mattpocock-skills-wizard
+display_name: wizard
+description: Generate an interactive bash wizard that walks a human through steps
+  only they can perform. Use when provisioning infrastructure, setting up credentials
+  or CI secrets, walking an unfamiliar third-party dashboard, or running a one-off
+  migration or cutover. Don't invoke this for steps the agent can perform itself.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/wizard
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

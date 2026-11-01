@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-disclosure-list-andrew-bird
+display_name: disclosure-list-andrew-bird
+description: "Works out which documents you have to hand over to the other side in\
+  \ a civil case in England & Wales, and builds the formal list. The part it gets\
+  \ right that trips people up is which disclosure regime applies \u2014 Practice\
+  \ Direction 57AD (the Disclosure Pilot, now permanent in the Business and Property\
+  \ Courts, with its Models A\u2013E) or standard disclosure under CPR Part 31 everywhere\
+  \ else. It picks the regime, chooses a Model per issue, structures the Disclosure\
+  \ Review Document, and drafts the disclosure certificate for the party to sign personally.\
+  \ Built for litigation juniors, in-house counsel, and small teams without a precedent\
+  \ bank. Use when the user says 'disclosure list', 'PD 57AD', 'Model C', 'extended\
+  \ disclosure', 'List of Documents', 'N265', or needs to work out what must be disclosed."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/disclosure-list-andrew-bird
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

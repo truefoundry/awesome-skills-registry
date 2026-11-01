@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-diamond-model-analysis
+display_name: implementing-diamond-model-analysis
+description: The Diamond Model of Intrusion Analysis provides a structured framework
+  for analyzing cyber intrusions by examining four core features - Adversary, Capability,
+  Infrastructure, and Victim. This skill covers implementing the Diamond Model programmatically
+  to classify and correlate intrusion events, build activity threads, and generate
+  pivot-ready intelligence.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-diamond-model-analysis
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

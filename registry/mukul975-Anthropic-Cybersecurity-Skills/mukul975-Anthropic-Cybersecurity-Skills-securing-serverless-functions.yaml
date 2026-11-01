@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-serverless-functions
+display_name: securing-serverless-functions
+description: 'Hardens serverless compute platforms (AWS Lambda, Azure Functions, Google
+  Cloud Functions): least-privilege IAM roles, dependency vulnerability scanning,
+  secrets management integration, input validation, function URL authentication, and
+  runtime monitoring. Use when deploying serverless functions with sensitive access,
+  auditing for overly permissive roles, or adding functions to a DevSecOps pipeline.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-serverless-functions
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

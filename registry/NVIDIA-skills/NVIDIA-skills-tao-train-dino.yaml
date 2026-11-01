@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-dino
+display_name: tao-train-dino
+description: DINO (DETR with Improved DeNoising Anchor Boxes) for 2D object detection.
+  Transformer-based detector with denoising training, multi-scale features, and optional
+  distillation support. Use when training, evaluating, exporting, distilling, quantizing,
+  or running inference for a TAO DINO detector. Trigger phrases include "train DINO",
+  "DETR object detection", "TAO 2D detection", "DINO with distillation".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-dino
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

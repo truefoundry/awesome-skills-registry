@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-system-profile
+display_name: system-profile
+description: Profile a target (script, process, GPU, memory, interconnect) for performance
+  analysis. Use when user says "profile", "benchmark", "bottleneck", or wants performance
+  analysis.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/system-profile
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

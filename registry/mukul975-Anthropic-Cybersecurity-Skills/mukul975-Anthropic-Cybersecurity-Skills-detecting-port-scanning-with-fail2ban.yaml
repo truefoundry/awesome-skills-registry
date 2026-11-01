@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-port-scanning-with-fail2ban
+display_name: detecting-port-scanning-with-fail2ban
+description: Configures Fail2ban with custom filters and actions to detect port scanning
+  activity, SSH brute force attempts, and network reconnaissance, automatically banning
+  offending IP addresses and alerting security teams to suspicious network probing.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-port-scanning-with-fail2ban
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

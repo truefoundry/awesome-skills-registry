@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-incident-reporting-navigator-jeffrey-von-rotz
+display_name: incident-reporting-navigator
+description: "Use when a security incident, data breach, or actively exploited vulnerability\
+  \ raises the question \"who must we notify, where, and by when?\" Screens one incident\
+  \ across the EU reporting regimes \u2014 NIS2, GDPR, DORA, and the Cyber Resilience\
+  \ Act \u2014 determines which duties fire for each involved entity's roles, resolves\
+  \ the receiving authority per regime and member state from served national law,\
+  \ and produces a deadline table in which every duty, authority, and deadline is\
+  \ cited from official publisher text fetched live through the Ansvar Gateway MCP\
+  \ connector. Never answers from model memory."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/incident-reporting-navigator-jeffrey-von-rotz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-migration
+display_name: makepad-2.0-migration
+description: "CRITICAL: Use for migrating from Makepad 1.x to 2.0. Triggers on: makepad\
+  \ migration, live_design to script_mod, makepad upgrade, makepad 1.x, old syntax,\
+  \ new syntax, makepad breaking changes, makepad \u8FC1\u79FB, \u65E7\u8BED\u6CD5\
+  , LiveHook to ScriptHook, apply_over to script_apply_eval, Live to Script, live_design!,\
+  \ angle brackets to curly braces"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-migration
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

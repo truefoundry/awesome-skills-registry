@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-court-of-bih-war-crimes-chamber-jeanne-sulzer
+display_name: special-panels-timor-leste-jeanne-sulzer-2
+description: "Verification-first methodology for Section I (War Crimes) of the Court\
+  \ of Bosnia and Herzegovina. Citations are verified against the Court of BiH, the\
+  \ ICTY/IRMCT archives and OSCE. Distinguishes ICTY-referred (Rule 11 bis) cases\
+  \ from locally-initiated ones; covers Stankovi\u0107, Jankovi\u0107 and the Maktouf\
+  \ lex mitior ruling. Research aid, not legal advice. Part of the open-source \"\
+  Skills for International Justice\" library \u2014 methodology: github.com/jeannesulzer/international-criminal-tribunals-skills"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/court-of-bih-war-crimes-chamber-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

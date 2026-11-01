@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-meta-apply
+display_name: meta-apply
+description: "Privileged applier that LANDS meta-optimize / corpus-audit patches the\
+  \ user approved, with a fresh landing review and human approval. Base Codex review\
+  \ is same-family provisional. Use when the user says \"meta apply\", \"/meta-apply\"\
+  , \"land the staged patches\", \"\u5E94\u7528\u4F18\u5316\", after a /meta-optimize\
+  \ run."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/meta-apply
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

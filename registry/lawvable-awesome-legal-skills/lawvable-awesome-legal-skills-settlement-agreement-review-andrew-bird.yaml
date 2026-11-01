@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-settlement-agreement-review-andrew-bird
+display_name: settlement-agreement-review-andrew-bird
+description: "Reviews or drafts the agreement that pays an employee to settle their\
+  \ claims \u2014 and flags the statutory conditions that decide whether it actually\
+  \ binds them. Works under s.203 ERA 1996 for England & Wales. Flags apparent s.203\
+  \ condition gaps for a solicitor to confirm (writing, specific complaints, independent\
+  \ adviser, identification, insurance, statement of conditions), drafts the substantive\
+  \ terms (sum, tax characterisation, confidentiality, references, restrictive covenants,\
+  \ indemnities), and surfaces enforceability risks. Does not rule on validity and\
+  \ is not legal advice. Use when the user says 'review this settlement agreement',\
+  \ 'draft a settlement agreement', 'compromise agreement' (old term), or asks whether\
+  \ an agreement is binding."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/settlement-agreement-review-andrew-bird
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

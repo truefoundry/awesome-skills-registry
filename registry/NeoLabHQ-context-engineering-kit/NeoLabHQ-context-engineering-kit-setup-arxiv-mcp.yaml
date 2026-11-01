@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-setup-arxiv-mcp
+display_name: setup-arxiv-mcp
+description: Guide for setup arXiv paper search MCP server using Docker MCP
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/mcp/skills/setup-arxiv-mcp
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

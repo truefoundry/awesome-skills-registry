@@ -1,0 +1,16 @@
+id: alinaqi-maggy-verify-cascade
+display_name: verify-cascade
+description: "Verification-gated model escalation \u2014 run a cheap model, verify\
+  \ its output with decomposed per-field checks, and escalate to a strong model only\
+  \ when a flag fires. Optional TypeSafe (jev) verifier."
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/verify-cascade
+  repo: alinaqi/maggy
+metadata:
+  stars: 710
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-siem-use-cases-for-detection
+display_name: implementing-siem-use-cases-for-detection
+description: Implements SIEM detection use cases by designing correlation rules, threshold
+  alerts, and behavioral analytics mapped to MITRE ATT&CK techniques across Splunk,
+  Elastic, and Sentinel. Use when SOC teams need to expand detection coverage, formalize
+  use case lifecycle management, or build a detection library aligned to organizational
+  threat profile.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-siem-use-cases-for-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

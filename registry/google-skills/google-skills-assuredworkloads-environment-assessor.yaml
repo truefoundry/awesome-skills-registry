@@ -1,0 +1,23 @@
+id: google-skills-assuredworkloads-environment-assessor
+display_name: assuredworkloads-environment-assessor
+description: 'Discover Google Cloud resource telemetry and effective Org Policies,
+  evaluate brownfield workloads against sovereign data boundary and compliance standards
+  (EU Data Boundary with Support, FedRAMP Moderate/High, DoD IL4/IL5, ITAR, CJIS,
+  US/EU Regional Data Boundaries), and recommend the optimal Assured Workloads Framework.
+  Use when asked to: "assess my environment for compliance", "which Assured Workloads
+  framework should I use?", "check if my folder is ready for EU sovereignty", "evaluate
+  compliance posture for folders/123 or projects/xyz", or "discover compliance gaps
+  before deployment". Do NOT use for live mutating policy deployments, generating
+  deep audit reports via Cloud Audit Manager, generating remediation scripts, or authoring
+  custom Assured Workloads frameworks.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/assuredworkloads-environment-assessor
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

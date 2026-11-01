@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-evasion-techniques-in-endpoint-logs
+display_name: detecting-evasion-techniques-in-endpoint-logs
+description: Detects defense evasion techniques used by adversaries in endpoint logs
+  including log tampering, timestomping, process injection, and security tool disabling.
+  Use when investigating suspicious endpoint behavior, building detection rules for
+  evasion tactics, or conducting threat hunting for stealthy adversary activity. Activates
+  for requests involving evasion detection, defense evasion analysis, log tampering
+  detection, or MITRE ATT&CK TA0005.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-evasion-techniques-in-endpoint-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-rate-limiting-and-throttling
+display_name: implementing-api-rate-limiting-and-throttling
+description: Implements API rate limiting and throttling with token bucket, sliding
+  window, and fixed window algorithms, configuring per-user, per-IP, and per-endpoint
+  limits via Redis-backed counters, API gateway plugins, or middleware, and returning
+  proper HTTP 429 responses with Retry-After headers. Use when setting up request
+  quota management or preventing brute force, credential stuffing, and resource exhaustion
+  attacks against APIs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-rate-limiting-and-throttling
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

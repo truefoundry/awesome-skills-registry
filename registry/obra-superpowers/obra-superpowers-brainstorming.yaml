@@ -1,0 +1,16 @@
+id: obra-superpowers-brainstorming
+display_name: brainstorming
+description: You MUST use this before any creative work - creating features, building
+  components, adding functionality, modifying behavior, or planning anything new,
+  in software or out of it (a talk, a business, a renovation).
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/brainstorming
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

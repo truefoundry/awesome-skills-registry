@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-transfer-impact-assessment-tia-oliver-schmidt-prietz
+display_name: transfer-impact-assessment-tia-oliver-schmidt-prietz
+description: GDPR Transfer Impact Assessment for Chapter V transfers under the EDPB
+  Recommendations 01/2020 six-step methodology, the CNIL TIA Guide (January 2025),
+  and EDPB essential guarantees. Handles transfer qualification, Art. 45 adequacy
+  fast-tracks, Art. 46 full assessments with country profiles for 12 jurisdictions,
+  and balanced Art. 49 derogation analysis. Outputs a Markdown report, a .docx formal
+  TIA, and a JSON delta for RoPA interchange.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/transfer-impact-assessment-tia-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-query-debugging
+display_name: query-debugging
+description: "Use when the user wants to review or inspect past query executions in\
+  \ Honeydew \u2014 what ran, from which client (BI tools, SQL interface, MCP, deep\
+  \ analysis), the semantic definition or compiled SQL behind a run, who ran it and\
+  \ when \u2014 and to debug failures. Uses the list_query_history MCP tool. For running\
+  \ new queries or analysis use the query skill."
+authors:
+- honeydew-ai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/query-debugging
+  repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+metadata:
+  stars: 43
+added_at: '2026-11-01'

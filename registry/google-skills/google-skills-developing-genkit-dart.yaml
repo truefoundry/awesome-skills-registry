@@ -1,0 +1,16 @@
+id: google-skills-developing-genkit-dart
+display_name: developing-genkit-dart
+description: Generates code and provides documentation for the Genkit Dart SDK. Use
+  when the user asks to build AI agents in Dart, use Genkit flows, or integrate LLMs
+  into Dart/Flutter applications.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/developing-genkit-dart
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-collecting-indicators-of-compromise
+display_name: collecting-indicators-of-compromise
+description: Systematically collects, categorizes, and distributes indicators of compromise
+  (IOCs) during and after security incidents to enable detection, blocking, and threat
+  intelligence sharing. Covers network, host, email, and behavioral indicators using
+  STIX/TAXII formats and threat intelligence platforms. Activates for requests involving
+  IOC collection, indicator extraction, threat indicator sharing, compromise indicators,
+  STIX export, or IOC enrichment.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/collecting-indicators-of-compromise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

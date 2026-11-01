@@ -1,0 +1,18 @@
+id: garrytan-gbrain-measure-before-you-fix
+display_name: measure-before-you-fix
+description: "Before fixing a slow/stale/timeout alert, measure the step yourself.\
+  \ Kill the theory with a stopwatch, not a code change. Measure-first ops triage\
+  \ for temporal alerts (stale, timeout, freshness, wedged, N hours behind) from gbrain\
+  \ doctor, autopilot, sync, and cron monitors \u2014 runs BEFORE any timeout raise,\
+  \ threshold change, or pipeline rewrite."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/measure-before-you-fix
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

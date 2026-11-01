@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-nist-800-53-tanaji-hemant-naik
+display_name: nist-800-53
+description: "NIST SP 800-53 Rev 5 compliance advisor \u2014 all 20 control families\
+  \ (AC, AT, AU, CA, CM, CP, IA, IR, MA, MP, PE, PL, PM, PS, PT, RA, SA, SC, SI, SR),\
+  \ Low/Moderate/High baseline selection, FIPS 199/200 system categorization, control\
+  \ tailoring and overlays, privacy controls (PT family), supply chain risk management\
+  \ (SR family), assessment procedures (SP 800-53A), OSCAL, RMF integration (SP 800-37),\
+  \ and mapping to FedRAMP, FISMA, CMMC 2.0, and ISO 27001. Use for any federal system\
+  \ security controls, FISMA compliance, RMF step guidance, control narrative writing,\
+  \ or baseline tailoring question."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/nist-800-53-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

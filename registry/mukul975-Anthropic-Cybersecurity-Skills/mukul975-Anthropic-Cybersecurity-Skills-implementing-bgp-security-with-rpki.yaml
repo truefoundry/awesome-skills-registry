@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-bgp-security-with-rpki
+display_name: implementing-bgp-security-with-rpki
+description: Implement RPKI-based BGP route origin validation by creating Route Origin
+  Authorizations (ROAs) at RIRs (ARIN, RIPE, APNIC, AFRINIC, LACNIC), deploying validator
+  software (Routinator, FORT, OctoRPKI), and configuring RPKI-to-Router protocol and
+  ROV accept/reject policies on Cisco IOS-XE and Juniper Junos routers. Use when hardening
+  BGP against route hijacking or leaks, or when configuring ROV filtering policy on
+  production routers.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-bgp-security-with-rpki
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

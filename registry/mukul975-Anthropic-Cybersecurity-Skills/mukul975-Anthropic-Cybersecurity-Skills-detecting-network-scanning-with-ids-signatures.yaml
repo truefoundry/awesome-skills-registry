@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-network-scanning-with-ids-signatures
+display_name: detecting-network-scanning-with-ids-signatures
+description: Detect network reconnaissance and port scanning using Suricata and Snort
+  IDS signatures, threshold-based detection rules, and traffic anomaly analysis to
+  identify Nmap, Masscan, and custom scanning activity.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-network-scanning-with-ids-signatures
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

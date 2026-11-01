@@ -1,0 +1,17 @@
+id: google-skills-gemini-agents-api
+display_name: gemini-agents-api
+description: Manages custom Agent resources on Gemini Enterprise Agent Platform. Use
+  when the user wants to programmatically create, configure, list, update, or delete
+  stateful, server-managed Agent resources (including mounting files, skills, and
+  tools) before executing conversations.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gemini-agents-api
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

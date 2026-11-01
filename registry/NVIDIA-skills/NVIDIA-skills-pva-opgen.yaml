@@ -1,0 +1,17 @@
+id: NVIDIA-skills-pva-opgen
+display_name: pva-opgen
+description: Generate, change, or repair a complete vectorized NVIDIA PVA operator
+  from a validated pva-spec handoff. Deliver the contract's API, host and VPU code,
+  independent CPU reference, sample, build integration, tests, and documentation.
+  Verify with pva-build-test and use pva-debug within the configured attempt limit.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/pva-opgen
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

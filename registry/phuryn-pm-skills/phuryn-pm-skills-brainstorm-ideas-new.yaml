@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-brainstorm-ideas-new
+display_name: brainstorm-ideas-new
+description: Brainstorm feature ideas for a new product in initial discovery from
+  PM, Designer, and Engineer perspectives. Use when starting product discovery for
+  a new product, exploring features for a startup idea, or doing initial ideation.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/brainstorm-ideas-new
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

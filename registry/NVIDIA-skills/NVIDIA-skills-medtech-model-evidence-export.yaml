@@ -1,0 +1,17 @@
+id: NVIDIA-skills-medtech-model-evidence-export
+display_name: medtech-model-evidence-export
+description: Exports sanitized metadata, parameters, reproducibility details, quality
+  metrics, and optional review artifacts from Medical AI inference runs or evidence
+  packs to MLflow. Use after inference, including NV-Generate runs; not for live training
+  tracking, model registration, or clinical use.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/medtech-model-evidence-export
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

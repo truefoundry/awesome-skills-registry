@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-ocrnet
+display_name: tao-train-ocrnet
+description: OCRNet for scene text recognition. Recognizes text content from cropped
+  text-region images and supports CTC and attention-based decoders. Use when training,
+  evaluating, exporting, pruning, quantizing, retraining, or running inference for
+  a TAO OCRNet model. Trigger phrases include "train OCRNet", "scene text recognition",
+  "OCR cropped text", "CTC / attention text decoder".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-ocrnet
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

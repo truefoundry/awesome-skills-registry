@@ -1,0 +1,16 @@
+id: ReScienceLab-opc-skills-reddit
+display_name: reddit
+description: Search and retrieve content from Reddit. Get posts, comments, subreddit
+  info, and user profiles via the public JSON API. Use when user mentions Reddit,
+  a subreddit, or r/ links.
+authors:
+- ReScienceLab
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/reddit
+  repo: ReScienceLab/opc-skills
+metadata:
+  stars: 1888
+added_at: '2026-11-01'

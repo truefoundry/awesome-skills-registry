@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-slides
+display_name: paper-slides
+description: "Generate conference presentation slides (beamer LaTeX \u2192 PDF + editable\
+  \ PPTX) from a compiled paper, with speaker notes and full talk script. Use when\
+  \ user says \"\u505APPT\", \"\u505A\u5E7B\u706F\u7247\", \"make slides\", \"conference\
+  \ talk\", \"presentation slides\", \"\u751F\u6210slides\", \"\u5199\u6F14\u8BB2\u7A3F\
+  \", or wants beamer slides for a conference talk."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-slides
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

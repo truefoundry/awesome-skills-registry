@@ -1,0 +1,16 @@
+id: rameerez-claude-code-startup-skills-transcribe-video
+display_name: transcribe-video
+description: Generate subtitles (SRT/VTT) and plain text transcripts from video or
+  audio files using AWS Transcribe. Use when creating captions, extracting spoken
+  content, generating transcripts for notes, or making video content searchable.
+authors:
+- rameerez
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/transcribe-video
+  repo: rameerez/claude-code-startup-skills
+metadata:
+  stars: 31
+added_at: '2026-11-01'

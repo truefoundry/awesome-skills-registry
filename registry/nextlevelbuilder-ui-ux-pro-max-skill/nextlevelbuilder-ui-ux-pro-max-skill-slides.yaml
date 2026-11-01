@@ -1,0 +1,15 @@
+id: nextlevelbuilder-ui-ux-pro-max-skill-slides
+display_name: slides
+description: Create strategic HTML presentations with Chart.js, design tokens, responsive
+  layouts, copywriting formulas, and contextual slide strategies.
+authors:
+- nextlevelbuilder
+is_official: false
+tags: []
+category: none
+source:
+  path: /.claude/skills/slides
+  repo: nextlevelbuilder/ui-ux-pro-max-skill
+metadata:
+  stars: 143418
+added_at: '2026-11-01'

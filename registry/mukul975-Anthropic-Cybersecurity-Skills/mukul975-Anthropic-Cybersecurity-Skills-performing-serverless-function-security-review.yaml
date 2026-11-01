@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-serverless-function-security-review
+display_name: performing-serverless-function-security-review
+description: Performing security reviews of serverless functions across AWS Lambda,
+  Azure Functions, and GCP Cloud Functions to identify overly permissive execution
+  roles, insecure environment variables, injection vulnerabilities, and missing runtime
+  protections.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-serverless-function-security-review
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

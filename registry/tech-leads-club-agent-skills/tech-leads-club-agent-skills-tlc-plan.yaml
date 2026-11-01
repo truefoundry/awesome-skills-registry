@@ -1,0 +1,22 @@
+id: tech-leads-club-agent-skills-tlc-plan
+display_name: tlc-plan
+description: 'Turns a request, ticket, PRD, design or thread into one plan a human
+  approves and a builder can act on without the conversation: asks every gray area
+  until no product decision is left to the builder, then writes the problem, EARS
+  criteria with concrete values, the path and the data it touches (drawn in mermaid),
+  the interface, and only the decisions that are hard to reverse. Captures that come
+  with the request bind. Use when the user says "plan this", "plan feature", "specify
+  feature", "write the plan", "cut this PRD into tasks", or "tlc-plan". Do NOT use
+  to implement (that is tlc-implement), for a standalone design document, or when
+  nobody has decided what to build.'
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(development)/tlc-plan
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 7120
+added_at: '2026-11-01'

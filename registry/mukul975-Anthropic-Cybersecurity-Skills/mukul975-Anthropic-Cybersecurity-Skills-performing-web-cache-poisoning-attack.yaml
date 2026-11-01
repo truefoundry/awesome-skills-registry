@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-web-cache-poisoning-attack
+display_name: performing-web-cache-poisoning-attack
+description: Exploiting web cache mechanisms to serve malicious content to other users
+  by poisoning cached responses through unkeyed headers and parameters during authorized
+  security tests.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-web-cache-poisoning-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

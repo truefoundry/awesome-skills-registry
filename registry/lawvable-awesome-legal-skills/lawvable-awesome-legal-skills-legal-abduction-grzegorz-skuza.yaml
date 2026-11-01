@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-legal-abduction-grzegorz-skuza
+display_name: legal-abduction
+description: Organize document evidence into auditable competing hypotheses, source-linked
+  observations, an assessment matrix and document-linked discriminating tests. Use
+  for bounded explanatory questions, documents that could resolve uncertainty, rejection
+  history, source provenance, gaps and updates, including a withdrawn or corrected
+  fact and which explanations and earlier judgments it puts back under review; not
+  findings of guilt or predictions about people. Evaluation preview requiring human
+  review.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-abduction-grzegorz-skuza
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

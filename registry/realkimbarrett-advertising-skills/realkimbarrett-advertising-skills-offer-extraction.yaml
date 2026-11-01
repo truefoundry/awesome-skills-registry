@@ -1,0 +1,16 @@
+id: realkimbarrett-advertising-skills-offer-extraction
+display_name: offer-extraction
+description: Use when you need to turn a product or service into a compelling, high-converting
+  offer. Trigger on "offer", "why would someone buy", "improve conversions", "value
+  proposition".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/foundations/offer-extraction
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

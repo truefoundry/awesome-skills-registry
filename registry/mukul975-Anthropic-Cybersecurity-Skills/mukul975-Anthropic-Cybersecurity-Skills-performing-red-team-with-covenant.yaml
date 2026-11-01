@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-red-team-with-covenant
+display_name: performing-red-team-with-covenant
+description: Conducts red team operations using the Covenant C2 framework for authorized
+  adversary simulation, covering listener setup, grunt deployment, task execution,
+  and lateral movement tracking. Use when standing up or operating a Covenant command-and-control
+  server for an authorized red team engagement.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-red-team-with-covenant
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

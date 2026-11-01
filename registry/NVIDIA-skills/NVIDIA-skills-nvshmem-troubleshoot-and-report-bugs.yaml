@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nvshmem-troubleshoot-and-report-bugs
+display_name: nvshmem-troubleshoot-and-report-bugs
+description: Diagnose NVSHMEM runtime failures and prepare bug reports for launch,
+  crashes, hangs, correctness, transport, or topology issues.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvshmem-troubleshoot-and-report-bugs
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

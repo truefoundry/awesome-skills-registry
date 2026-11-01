@@ -1,0 +1,19 @@
+id: redis-agent-skills-iris-development
+display_name: iris-development
+description: "Iris is Redis's umbrella for AI-focused products. Use this skill when\
+  \ integrating with the Iris Redis Agent Memory (RAM) data plane on Redis Cloud \u2014\
+  \ recording session events for an AI agent, creating or searching long-term memories,\
+  \ configuring a memory store, or tuning background memory promotion. Code examples\
+  \ use the official `redis-agent-memory` (Python) and `@redis-iris/agent-memory`\
+  \ (TypeScript) SDKs."
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/iris-development
+  repo: redis/agent-skills
+metadata:
+  stars: 171
+added_at: '2026-11-01'

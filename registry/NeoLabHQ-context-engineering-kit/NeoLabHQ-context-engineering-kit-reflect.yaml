@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-reflect
+display_name: reflect
+description: Reflect on previus response and output, based on Self-refinement framework
+  for iterative improvement with complexity triage and verification
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/reflexion/skills/reflect
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

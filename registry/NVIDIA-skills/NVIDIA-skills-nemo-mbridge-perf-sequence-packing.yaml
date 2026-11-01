@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-mbridge-perf-sequence-packing
+display_name: nemo-mbridge-perf-sequence-packing
+description: Validate and use packed sequences and long-context training in Megatron-Bridge,
+  including offline LLM packing, collate-time VLM packing, Energon online packing,
+  and CP constraints.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-perf-sequence-packing
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-app-shell
+display_name: app-shell
+description: Top bar, sidebar rail, app launcher, tenant and environment cue, status
+  bar. Use when designing the persistent shell, a collapsible sidebar, or navigation
+  between apps behind one login.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/app-shell
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

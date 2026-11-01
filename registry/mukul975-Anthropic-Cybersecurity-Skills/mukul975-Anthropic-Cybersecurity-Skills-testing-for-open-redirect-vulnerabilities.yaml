@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-open-redirect-vulnerabilities
+display_name: testing-for-open-redirect-vulnerabilities
+description: Identifies and exploits open redirect vulnerabilities by analyzing URL
+  redirection parameters (next, url, redirect, return, goto), applying bypass techniques,
+  and chaining findings into phishing or token-theft exploits, using Burp Suite/OWASP
+  ZAP and Burp Collaborator. Use when testing login/logout flows, OAuth redirect_uri
+  handling, or SSO redirect validation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-open-redirect-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

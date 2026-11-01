@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-generating-forensic-timelines-with-hayabusa
+display_name: generating-forensic-timelines-with-hayabusa
+description: Run Hayabusa against collected Windows EVTX files to apply Sigma detection
+  rules and produce a prioritized, chronological CSV/JSON timeline with severity levels,
+  MITRE ATT&CK mappings, and per-host/per-Event-ID metrics. Use during DFIR triage
+  to turn raw event logs into a fast, SIEM-free incident timeline, or to export results
+  into Timesketch or Timeline Explorer for collaborative analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/generating-forensic-timelines-with-hayabusa
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-tls-certificate-transparency-logs
+display_name: auditing-tls-certificate-transparency-logs
+description: Monitors Certificate Transparency (CT) logs to detect unauthorized certificate
+  issuance, discover subdomains via CT data, and alert on suspicious certificate activity
+  for owned domains. Uses the crt.sh API and direct CT log querying based on RFC 6962
+  to build continuous monitoring pipelines that catch rogue certificates, track CA
+  behavior, and map the external attack surface. Activates for requests involving
+  certificate transparency monitoring, CT log auditing, subdomain discovery via certificates,
+  or certificate issuance alerting.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-tls-certificate-transparency-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

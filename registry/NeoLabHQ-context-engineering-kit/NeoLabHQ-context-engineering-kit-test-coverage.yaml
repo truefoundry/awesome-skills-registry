@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-test-coverage
+display_name: test-coverage
+description: Use after writing tests to assess coverage quality across structural,
+  mutation, requirements, and API/integration dimensions; organized knowledge for
+  choosing and interpreting coverage analyses.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/tdd/skills/test-coverage
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

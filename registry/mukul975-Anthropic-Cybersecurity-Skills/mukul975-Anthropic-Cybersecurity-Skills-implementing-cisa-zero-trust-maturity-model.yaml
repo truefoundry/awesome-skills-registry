@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-cisa-zero-trust-maturity-model
+display_name: implementing-cisa-zero-trust-maturity-model
+description: Assess, gap-analyze, and progressively implement the CISA Zero Trust
+  Maturity Model v2.0 across five pillars (Identity, Devices, Networks, Applications
+  & Workloads, Data) and three cross-cutting capabilities (Visibility/Analytics, Automation/Orchestration,
+  Governance), from Traditional through Optimal maturity. Use for a federal/enterprise
+  ZTMM assessment, phased roadmap, or mapping controls to NIST SP 800-207 and EO 14028.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-cisa-zero-trust-maturity-model
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

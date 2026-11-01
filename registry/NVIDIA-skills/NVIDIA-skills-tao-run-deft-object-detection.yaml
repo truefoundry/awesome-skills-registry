@@ -1,0 +1,24 @@
+id: NVIDIA-skills-tao-run-deft-object-detection
+display_name: tao-run-deft-object-detection
+description: "Run the full DEFT smart-data-augmentation loop for NVIDIA TAO Grounding\
+  \ DINO object detection: zero-shot baseline inference, KPI analysis, per-class gap\
+  \ analysis, SigLIP embedding of weak images, unique-neighbor mining against a source\
+  \ pool, ODVG dataset staging, and retraining \u2014 repeated for a fixed number\
+  \ of iterations. Also prepares the source pool the loop mines from, as a separate\
+  \ run: Co-DETR pseudo-labeling, folding to the target classes, KITTI\u2192COCO\u2192\
+  ODVG conversion, and embedding. Use for prompts like \"run the DEFT OD loop\", \"\
+  run smart data augmentation for grounding dino\", \"mine and retrain my detection\
+  \ model\", \"improve OD mAP with gap analysis and mining\", \"prep the source pool\"\
+  , or \"pseudo-label my unlabeled images for mining\"; do not use for standalone\
+  \ TAO training, one-off inference, or gap analysis alone."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-run-deft-object-detection
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

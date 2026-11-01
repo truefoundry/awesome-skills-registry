@@ -1,0 +1,17 @@
+id: ognjengt-founder-skills-marketing-ideas
+display_name: marketing-ideas
+description: Produces the best marketing ideas for your business by analyzing your
+  FOUNDER_CONTEXT and matching it against a curated database of 170+ proven marketing
+  strategies. Use when user needs creative, actionable marketing ideas tailored to
+  their business.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/marketing-ideas
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

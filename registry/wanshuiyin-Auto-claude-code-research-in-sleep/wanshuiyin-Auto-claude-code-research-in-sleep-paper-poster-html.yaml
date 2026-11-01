@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-poster-html
+display_name: paper-poster-html
+description: "DEFAULT poster pipeline \u2014 build an academic conference poster (ICML/NeurIPS/ICLR/CVPR/...)\
+  \ as a single HTML/CSS file with measurement-driven hard gates, real paper figures,\
+  \ a two-hue design-token system, and print-ready PDF via headless Chromium. Use\
+  \ when the user says \"\u505A\u6D77\u62A5\", \"poster\", \"conference poster\",\
+  \ \"paper poster\", or asks to design/redo a research poster."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-poster-html
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

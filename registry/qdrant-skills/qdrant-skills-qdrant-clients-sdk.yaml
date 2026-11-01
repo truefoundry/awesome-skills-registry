@@ -1,0 +1,15 @@
+id: qdrant-skills-qdrant-clients-sdk
+display_name: qdrant-clients-sdk
+description: Qdrant provides client SDKs for various programming languages, allowing
+  easy integration with Qdrant deployments.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-clients-sdk
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-decay
+display_name: decay
+description: Manage evidence freshness by identifying stale decisions and providing
+  governance actions
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/fpf/skills/decay
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

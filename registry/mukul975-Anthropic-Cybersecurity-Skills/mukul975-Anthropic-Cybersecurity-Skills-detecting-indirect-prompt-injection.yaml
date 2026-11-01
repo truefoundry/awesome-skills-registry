@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-indirect-prompt-injection
+display_name: detecting-indirect-prompt-injection
+description: Detect and defend against indirect prompt injection hidden in web pages,
+  documents, and images consumed by an agent, via content extraction (HTML/PDF/OCR),
+  normalization, and scanning with LLM Guard's PromptInjection scanner or Hugging
+  Face Prompt Guard 2. Use when an agent ingests untrusted external content and you
+  need to screen it for injected instructions before the LLM processes it.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-indirect-prompt-injection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

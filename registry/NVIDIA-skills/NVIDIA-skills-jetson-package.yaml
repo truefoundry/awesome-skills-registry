@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-package
+display_name: jetson-package
+description: Pick Jetson-compatible containers, vLLM runtime images, and Jetson AI
+  Lab PyPI indexes; maps Orin SM 8.7 vs Thor SM 11.0 and JetPack-specific package
+  choices.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-package
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

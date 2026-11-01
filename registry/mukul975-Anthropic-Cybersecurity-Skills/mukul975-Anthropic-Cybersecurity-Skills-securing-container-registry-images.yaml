@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-container-registry-images
+display_name: securing-container-registry-images
+description: Secures container registry images (ECR, ACR, GCR, Docker Hub) by scanning
+  with Trivy and Grype, signing with Cosign and Sigstore, configuring registry access
+  controls, and building CI/CD pipelines that block unscanned or unsigned images.
+  Use when establishing registry security controls or enforcing scan/signature checks
+  before image promotion.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-container-registry-images
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

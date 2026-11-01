@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-patent-review
+display_name: patent-review
+description: "Get an external patent examiner review of a patent application. Use\
+  \ when user says \"\u4E13\u5229\u5BA1\u67E5\", \"patent review\", \"\u5BA1\u67E5\
+  \u610F\u89C1\", \"examiner review\", or wants critical feedback on patent claims\
+  \ and specification."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/patent-review
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

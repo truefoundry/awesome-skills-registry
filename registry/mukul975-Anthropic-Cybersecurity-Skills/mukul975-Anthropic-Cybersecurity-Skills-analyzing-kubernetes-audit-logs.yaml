@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-kubernetes-audit-logs
+display_name: analyzing-kubernetes-audit-logs
+description: 'Parses Kubernetes API server audit logs (JSON lines) to detect exec-into-pod,
+  secret access, RBAC modifications, privileged pod creation, and anonymous API access,
+  and builds SIEM detection rules from the event patterns. Use when investigating
+  a suspected cluster compromise, reconstructing what an attacker did through the
+  API server, or writing Kubernetes-specific detection content. Keywords: audit policy,
+  audit log, kube-apiserver, exec into pod, RBAC change, anonymous access, detection
+  rules. Do not use for syscall-level detection inside a running container - use detecting-container-runtime-threats-with-falco.
+  '''
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-kubernetes-audit-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-fileless-attacks-on-endpoints
+display_name: detecting-fileless-attacks-on-endpoints
+description: Detects fileless malware and in-memory attacks that execute entirely
+  in RAM without writing persistent files to disk, evading traditional antivirus.
+  Use when building detections for PowerShell-based attacks, reflective DLL injection,
+  WMI persistence, and registry-resident malware. Activates for requests involving
+  fileless malware detection, in-memory attacks, PowerShell exploitation, or living-off-the-land
+  techniques.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-fileless-attacks-on-endpoints
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-proofpoint-email-security-gateway
+display_name: implementing-proofpoint-email-security-gateway
+description: Deploy and configure Proofpoint Email Protection as a secure email gateway
+  to detect and block phishing, malware, BEC, and spam before messages reach user
+  inboxes.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-proofpoint-email-security-gateway
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

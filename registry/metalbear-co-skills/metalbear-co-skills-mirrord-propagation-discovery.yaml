@@ -1,0 +1,27 @@
+id: metalbear-co-skills-mirrord-propagation-discovery
+display_name: mirrord-propagation-discovery
+description: 'Scans a live Kubernetes environment with `mirrord dump` to find an identifier
+  mirrord can filter traffic on: a header, a `baggage` or `tracestate` member, a tenant
+  or user id, a trace id (W3C, B3, X-Ray, Google, Jaeger), a JWT claim, a cookie,
+  a path segment, or a JSON body field that is present on every hop of a request chain,
+  unique to one developer''s traffic, and settable by that developer. Runs mirror-only
+  dumps on each service, sends a tagged probe request at the edge or observes real
+  traffic, scores the candidates, and produces the matching `http_filter` (regex,
+  jq on headers, path, method, body, or combinations) plus a per-hop report of where
+  each identifier is dropped. Installs the mirrord CLI through a package manager when
+  it is missing. Use when the user asks what to filter on, whether the cluster already
+  propagates a request id or trace context, how to isolate their own requests on a
+  shared staging cluster, how to filter on a JWT or cookie with mirrord, or wants
+  to inspect live traffic with mirrord dump. Changes no application code: propagation
+  gaps go to the mirrord-header-propagation skill.'
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-propagation-discovery
+  repo: metalbear-co/skills
+metadata:
+  stars: 29
+added_at: '2026-11-01'

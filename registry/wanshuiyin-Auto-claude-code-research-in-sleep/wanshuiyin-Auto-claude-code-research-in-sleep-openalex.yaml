@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-openalex
+display_name: openalex
+description: Search academic papers via OpenAlex API for open citation data, institutional
+  affiliations, and funding information. Use when user says "openalex search", "search
+  openalex", "open citation graph", or wants comprehensive academic metadata beyond
+  arXiv/Semantic Scholar.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/openalex
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-build-lifecycle
+display_name: asc-build-lifecycle
+description: Track build processing, find latest builds, and clean up old builds with
+  asc. Use when managing build retention or waiting on processing.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-build-lifecycle
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

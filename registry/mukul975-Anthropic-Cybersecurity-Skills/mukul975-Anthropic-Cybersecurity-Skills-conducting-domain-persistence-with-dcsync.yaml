@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-domain-persistence-with-dcsync
+display_name: conducting-domain-persistence-with-dcsync
+description: Perform DCSync attacks by abusing MS-DRSR replication rights (DS-Replication-Get-Changes/-All)
+  to impersonate a Domain Controller and extract KRBTGT, Domain Admin, and service
+  account hashes for Golden Ticket forging, typically with Mimikatz. Use in authorized
+  engagements after finding principals with replication rights, to establish long-term
+  domain persistence, or to validate detections for replication abuse.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-domain-persistence-with-dcsync
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

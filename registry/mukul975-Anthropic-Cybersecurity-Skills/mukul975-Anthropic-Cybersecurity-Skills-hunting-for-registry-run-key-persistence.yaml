@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-registry-run-key-persistence
+display_name: hunting-for-registry-run-key-persistence
+description: Detect MITRE ATT&CK T1547.001 registry Run key persistence by analyzing
+  Sysmon Event ID 13 logs and registry queries to identify malicious auto-start entries.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-registry-run-key-persistence
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

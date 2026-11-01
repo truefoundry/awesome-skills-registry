@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-value-prop-statements
+display_name: value-prop-statements
+description: Generate value proposition statements for marketing, sales, and onboarding
+  from existing value propositions. Use when writing marketing copy, creating sales
+  messaging, or crafting onboarding messages.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-marketing-growth/skills/value-prop-statements
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

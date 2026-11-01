@@ -1,0 +1,19 @@
+id: google-skills-gke-inference
+display_name: gke-inference
+description: Deploys and optimizes AI/ML inference workloads on GKE, using GPUs, TPUs,
+  and model servers. Use when deploying GKE inference servers, configuring GKE GPU
+  resources for inference, or deploying LLMs on GKE. Don't use for migrating existing
+  AI workloads to GKE (use google-cloud-solution-guided-gke-ai-migration), GKE RAG
+  with Cloud SQL/AlloyDB (use google-cloud-solution-rag-enterprise-search-gke-sqldb),
+  or batch/HPC (use gke-batch-hpc).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-inference
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

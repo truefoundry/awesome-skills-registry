@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-hsm-for-key-storage
+display_name: configuring-hsm-for-key-storage
+description: Configures Hardware Security Modules for cryptographic key storage using
+  the PKCS#11 standard interface, covering key generation, signing, encryption, and
+  key management on physical HSMs and SoftHSM2 for development. Use when protecting
+  cryptographic keys so they never leave a hardened device boundary, or when building
+  and testing PKCS#11-based key management workflows.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-hsm-for-key-storage
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

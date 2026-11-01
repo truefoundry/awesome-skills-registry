@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-conduit-security-for-ot-remote-access
+display_name: implementing-conduit-security-for-ot-remote-access
+description: Implements secure conduit architecture for OT remote access under the
+  IEC 62443 zones-and-conduits model, deploying jump servers, MFA gateways, session
+  recording, and approval-based workflows for vendor and engineer access to ICS. Use
+  when replacing direct VPN access into OT networks, securing third-party vendor access
+  to SCADA equipment, or remediating audit findings on uncontrolled OT remote access.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-conduit-security-for-ot-remote-access
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-beachhead-segment
+display_name: beachhead-segment
+description: Identify the first beachhead market segment for a product launch. Evaluates
+  segments against burning pain, willingness to pay, winnable market share, and referral
+  potential. Use when choosing a first market, targeting an initial customer segment,
+  or planning market entry strategy.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-go-to-market/skills/beachhead-segment
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

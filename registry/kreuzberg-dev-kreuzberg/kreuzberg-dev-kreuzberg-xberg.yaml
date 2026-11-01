@@ -1,0 +1,18 @@
+id: kreuzberg-dev-kreuzberg-xberg
+display_name: xberg
+description: Extract text, tables, metadata, and images from 107 document formats
+  (PDF, Office, images, HTML, email, archives, academic) using Xberg. Use when writing
+  code that calls Xberg APIs in Python, Node.js/TypeScript, Rust, or CLI. Covers installation,
+  extraction (sync/async), configuration (OCR, chunking, output format), batch processing,
+  error handling, and plugins.
+authors:
+- kreuzberg-dev
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/xberg
+  repo: kreuzberg-dev/kreuzberg
+metadata:
+  stars: 9491
+added_at: '2026-11-01'

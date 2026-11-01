@@ -1,0 +1,20 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-talk
+display_name: paper-talk
+description: "End-to-end conference talk pipeline: paper \u2192 slide outline \u2192\
+  \ Beamer + PPTX \u2192 per-page polish \u2192 assurance checks (claim / citation\
+  \ / anonymity) \u2192 final export and report. Default-good for academic conference\
+  \ talks (NeurIPS / ICML / ICLR / VALSE / \u6295\u7A3F talks). Trigger phrases: \"\
+  \u505A talk\", \"\u505A PPT \u5168\u6D41\u7A0B\", \"talk pipeline\", \"end-to-end\
+  \ slides\", \"\u505A\u6F14\u8BB2\", \"conference talk full workflow\". Use when\
+  \ the user wants the complete talk artifact, not just a slide deck."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-talk
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

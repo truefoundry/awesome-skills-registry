@@ -1,0 +1,16 @@
+id: nextlevelbuilder-ui-ux-pro-max-skill-brand
+display_name: brand
+description: Brand voice, visual identity, messaging frameworks, asset management,
+  brand consistency. Activate for branded content, tone of voice, marketing assets,
+  brand compliance, style guides.
+authors:
+- nextlevelbuilder
+is_official: false
+tags: []
+category: none
+source:
+  path: /.claude/skills/brand
+  repo: nextlevelbuilder/ui-ux-pro-max-skill
+metadata:
+  stars: 143418
+added_at: '2026-11-01'

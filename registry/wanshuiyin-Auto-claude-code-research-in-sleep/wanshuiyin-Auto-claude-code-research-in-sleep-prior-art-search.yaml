@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-prior-art-search
+display_name: prior-art-search
+description: "Search patent databases and academic literature for prior art relevant\
+  \ to an invention. Use when user says \"\u73B0\u6709\u6280\u672F\u68C0\u7D22\",\
+  \ \"prior art search\", \"\u4E13\u5229\u68C0\u7D22\", \"check patents\", or wants\
+  \ to find relevant prior art."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/prior-art-search
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

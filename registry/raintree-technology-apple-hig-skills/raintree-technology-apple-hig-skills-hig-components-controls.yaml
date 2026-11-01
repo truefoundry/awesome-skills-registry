@@ -1,0 +1,22 @@
+id: raintree-technology-apple-hig-skills-hig-components-controls
+display_name: hig-components-controls
+description: 'Apple HIG guidance for selection and input controls including pickers,
+  toggles, sliders, steppers, segmented controls, combo boxes, text fields, text views,
+  labels, token fields, virtual keyboards, rating indicators, and gauges. Use this
+  skill when the user says "picker or segmented control," "how should my form look,"
+  "what keyboard type should I use," "toggle vs checkbox," or asks about picker design,
+  toggle, switch, slider, stepper, text field, text input, segmented control, combo
+  box, label, token field, virtual keyboard, rating indicator, gauge, form design,
+  input validation, or control state management. Cross-references: hig-components-menus,
+  hig-components-dialogs, hig-components-search.'
+authors:
+- raintree-technology
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hig-components-controls
+  repo: raintree-technology/apple-hig-skills
+metadata:
+  stars: 148
+added_at: '2026-11-01'

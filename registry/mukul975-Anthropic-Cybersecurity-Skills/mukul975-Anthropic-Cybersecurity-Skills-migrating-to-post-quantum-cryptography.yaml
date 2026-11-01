@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-migrating-to-post-quantum-cryptography
+display_name: migrating-to-post-quantum-cryptography
+description: Build a cryptographic inventory/CBOM with OpenSSL 3.5+, deploy hybrid
+  post-quantum key exchange (X25519MLKEM768) on TLS/VPN/SSH endpoints, generate ML-KEM/ML-DSA
+  keys and PQC/hybrid certificates, and prioritize migration by harvest-now-decrypt-later
+  (HNDL) exposure per NIST SP 1800-38. Use when inventorying enterprise cryptography
+  for quantum-readiness, enabling hybrid PQC key exchange, or issuing and verifying
+  PQC/hybrid certificates.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/migrating-to-post-quantum-cryptography
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

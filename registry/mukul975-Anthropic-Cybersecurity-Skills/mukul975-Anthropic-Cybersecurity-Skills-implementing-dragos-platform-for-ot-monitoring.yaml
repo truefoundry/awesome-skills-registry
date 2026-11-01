@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-dragos-platform-for-ot-monitoring
+display_name: implementing-dragos-platform-for-ot-monitoring
+description: Deploys and configures Dragos Platform sensors and detection analytics
+  for OT/ICS network monitoring, using industrial protocol parsers and threat-intel
+  packs to detect groups like VOLTZITE, CHERNOVITE, and KAMACITE. Use when standing
+  up OT-specific network detection and response or an OT SOC, or integrating OT monitoring
+  into an enterprise SIEM; not for IT-only or Claroty/Nozomi environments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-dragos-platform-for-ot-monitoring
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

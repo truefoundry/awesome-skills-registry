@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-tech-contract-negotiator-patrick-munro
+display_name: tech-contract-negotiation-patrick-munro
+description: "Systematic contract negotiation strategies for technology services agreements\
+  \ with German/EU law specificity. Provides three-position framework (provider-favorable,\
+  \ balanced, client-favorable), deal-size calibration (\u20AC100K to \u20AC10M+),\
+  \ five-tier objection handling with regulatory leverage (GDPR, DORA, NIS2, BGB),\
+  \ concession packaging, and position matrices for liability, IP, payment, SLA, data\
+  \ protection, and termination. Use when: (1) Developing negotiation strategies for\
+  \ SaaS, cloud, or managed services agreements, (2) Preparing position papers and\
+  \ fallback positions, (3) Responding to counterparty objections, (4) Structuring\
+  \ concession packages that protect core economics, (5) Calibrating tactics to deal\
+  \ size and leverage, or (6) Applying German contract law constraints (BGB \xA7\xA7\
+  \ 305-310 AGB, \xA7 309 Nr. 7 liability limits, \xA7 288 statutory interest)."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tech-contract-negotiator-patrick-munro
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: transloadit-skills-admin-merge
+display_name: admin-merge
+description: Update a GitHub PR with latest main, resolve conflicts, follow CI with
+  gh-run-watch.ts, fix related failures, and squash merge with --admin. Use when asked
+  to admin-merge a PR; escalate if completion is unsuccessful. Reviewing whether a
+  PR is needed or creating this skill does not invoke the merge workflow.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/admin-merge
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

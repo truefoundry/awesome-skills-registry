@@ -1,0 +1,21 @@
+id: NVIDIA-skills-tao-generate-video-reasoning-annotations
+display_name: tao-generate-video-reasoning-annotations
+description: "Multi-step video annotation pipeline that turns raw videos into Chain-of-Thought\
+  \ training data \u2014 multi-level captions, structured descriptions, and QA pairs\
+  \ (MCQ, binary, open-ended) with reasoning traces, via VLM/LLM distillation. Use\
+  \ when the user wants to \"create video training data\", \"generate video QA datasets\"\
+  , \"build CoT reasoning traces from videos\", \"auto-label videos\", or run the\
+  \ video_reasoning_annotation pipeline. Triggers include \"video annotation\", \"\
+  video CoT\", \"video QA\", \"chain-of-thought\", \"video captioning pipeline\",\
+  \ \"video distillation\"."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-generate-video-reasoning-annotations
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

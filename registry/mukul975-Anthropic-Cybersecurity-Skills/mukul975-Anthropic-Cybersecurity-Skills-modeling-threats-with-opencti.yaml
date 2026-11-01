@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-modeling-threats-with-opencti
+display_name: modeling-threats-with-opencti
+description: Deploy OpenCTI (Filigran) via Docker Compose and use the pycti Python
+  client to model threat actors, intrusion sets, campaigns, and indicators as a STIX
+  2.1 knowledge graph with relationships (uses, attributed-to, targets). Use when
+  building a centralized threat-intel knowledge base, correlating IOCs from multiple
+  feeds into one adversary graph, or producing STIX bundles for detection engineering.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/modeling-threats-with-opencti
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

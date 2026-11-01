@@ -1,0 +1,18 @@
+id: NVIDIA-skills-nemo-mbridge-recipe-recommender
+display_name: nemo-mbridge-recipe-recommender
+description: Recommend and customize Megatron Bridge library and benchmark recipes
+  for a user's model, GPU count, hardware, sequence length, and pretrain/SFT/PEFT
+  goal. Use when selecting a starting recipe, comparing library and benchmark configs,
+  resizing parallelism for a GPU allocation, or distinguishing convergence changes,
+  semantics-preserving execution tuning, and benchmark-only shortcuts.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-recipe-recommender
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

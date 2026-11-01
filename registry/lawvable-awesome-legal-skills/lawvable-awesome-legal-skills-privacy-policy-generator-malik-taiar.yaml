@@ -1,0 +1,16 @@
+id: lawvable-awesome-legal-skills-privacy-policy-generator-malik-taiar
+display_name: privacy-policy-malik-taiar
+description: Guide for drafting privacy policies compliant with GDPR. Includes CNIL
+  2020 recommendations, a reference template, and best practices. Use when drafting
+  or revising a privacy policy for a website or application.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/privacy-policy-generator-malik-taiar
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

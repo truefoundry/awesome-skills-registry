@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-websocket-api-security
+display_name: testing-websocket-api-security
+description: Tests WebSocket API implementations for missing upgrade-handshake authentication,
+  Cross-Site WebSocket Hijacking (CSWSH), message injection, insufficient input validation,
+  message-flooding DoS, and information leakage, using Burp Suite's WebSocket interception
+  and the wscat CLI to craft malicious payloads. Use for real-time API penetration
+  testing or CSWSH/authorization-bypass assessments on WebSocket channels.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-websocket-api-security
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

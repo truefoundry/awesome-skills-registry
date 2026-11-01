@@ -1,0 +1,16 @@
+id: NVIDIA-skills-tao-convert-dataset-format
+display_name: tao-convert-dataset-format
+description: Run `tao-daft convert` to convert NVIDIA TAO DAFT datasets between supported
+  formats. Do not use for non-DAFT data. Use when the user asks to convert a DAFT
+  dataset, change DAFT format, change a TAO dataset format, or run `tao-daft convert`.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-convert-dataset-format
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

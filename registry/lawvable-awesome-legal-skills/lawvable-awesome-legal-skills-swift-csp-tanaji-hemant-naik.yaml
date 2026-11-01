@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-swift-csp-tanaji-hemant-naik
+display_name: swift-csp
+description: "Expert SWIFT Customer Security Programme (CSP) advisor covering the\
+  \ Customer Security Controls Framework (CSCF v2026). Use this skill whenever a user\
+  \ asks about SWIFT CSP, CSCF controls, SWIFT security attestation, KYC-SA portal,\
+  \ SWIFT architecture types (A1/A2/A3/A4/B), mandatory vs advisory controls, independent\
+  \ assessment, SWIFT secure zone, secure flow zone, MFA for operators, SWIFT messaging\
+  \ security, payment fraud prevention on SWIFT, gap analysis for CSCF, or compliance\
+  \ with SWIFT's 32 controls (25 mandatory, 7 advisory in v2026) across the three\
+  \ objectives: Secure Your Environment, Know and Limit Access, Detect and Respond.\
+  \ Control 2.4 (Back-Office Data Flow Security) is now mandatory in v2026. v2026\
+  \ attestation window is July 1\u2013 December 31, 2026. Trigger for any SWIFT CSP\
+  \ or CSCF compliance question."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/swift-csp-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-azure-active-directory-configuration
+display_name: auditing-azure-active-directory-configuration
+description: Auditing Microsoft Entra ID (Azure Active Directory) configuration to
+  identify risky authentication policies, overly permissive role assignments, stale
+  accounts, conditional access gaps, and guest user risks using AzureAD PowerShell,
+  Microsoft Graph API, and ScoutSuite.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-azure-active-directory-configuration
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

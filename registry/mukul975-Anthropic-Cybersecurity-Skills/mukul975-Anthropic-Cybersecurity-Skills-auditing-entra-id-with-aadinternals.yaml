@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-entra-id-with-aadinternals
+display_name: auditing-entra-id-with-aadinternals
+description: Drive the AADInternals PowerShell toolkit to perform Microsoft Entra
+  ID tenant reconnaissance, access-token acquisition across Microsoft APIs, and federation/AD
+  FS backdoor testing (Golden SAML, T1606.002) for defensive validation. Use during
+  an authorized Entra ID/Microsoft 365 red-team assessment to map external attack
+  surface or verify AD FS signing certs resist Golden SAML.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-entra-id-with-aadinternals
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

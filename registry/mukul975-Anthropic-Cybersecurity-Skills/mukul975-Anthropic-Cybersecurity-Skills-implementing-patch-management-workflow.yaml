@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-patch-management-workflow
+display_name: implementing-patch-management-workflow
+description: Patch management is the systematic process of identifying, testing, deploying,
+  and verifying software updates to remediate vulnerabilities across an organization's
+  IT infrastructure. An effective patc
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-patch-management-workflow
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

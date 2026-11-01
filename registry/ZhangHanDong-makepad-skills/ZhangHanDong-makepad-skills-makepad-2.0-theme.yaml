@@ -1,0 +1,18 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-theme
+display_name: makepad-2.0-theme
+description: "CRITICAL: Use for Makepad 2.0 theme system. Triggers on: makepad theme,\
+  \ theme variable, theme color, theme font, theme spacing, dark mode, light mode,\
+  \ theme switching, mod.themes, theme_mod, theme.color_, theme.font_, theme.space_,\
+  \ theme.mspace_, \u4E3B\u9898, \u989C\u8272, \u5B57\u4F53, \u6697\u8272\u6A21\u5F0F\
+  , \u4EAE\u8272\u6A21\u5F0F, \u4E3B\u9898\u5207\u6362, \u6837\u5F0F"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-theme
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

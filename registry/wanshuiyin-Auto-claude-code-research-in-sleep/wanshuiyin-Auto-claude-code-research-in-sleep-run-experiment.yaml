@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-run-experiment
+display_name: run-experiment
+description: "Deploy and run ML experiments on local or remote GPU servers. Use when\
+  \ user says \"run experiment\", \"deploy to server\", \"\u8DD1\u5B9E\u9A8C\", or\
+  \ needs to launch training jobs."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/run-experiment
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

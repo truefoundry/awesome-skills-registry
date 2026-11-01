@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-nerc-cip-compliance-controls
+display_name: implementing-nerc-cip-compliance-controls
+description: 'Implements NERC CIP controls for Bulk Electric System (BES) cyber systems:
+  asset categorization (CIP-002), electronic security perimeters (CIP-005), system
+  security management (CIP-007), configuration management (CIP-010), and supply chain
+  risk (CIP-013), including 2025 MFA updates. Use when a registered entity must achieve
+  or maintain NERC CIP compliance, prepare for a Regional Entity audit, or categorize
+  newly commissioned BES cyber systems.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-nerc-cip-compliance-controls
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

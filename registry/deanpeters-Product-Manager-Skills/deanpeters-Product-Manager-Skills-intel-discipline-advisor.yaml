@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-intel-discipline-advisor
+display_name: intel-discipline-advisor
+description: Triage a competitive or market question into the right intelligence disciplines,
+  cadence, and executing skill. Use when you know something needs researching but
+  not which channel to run.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/intel-discipline-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

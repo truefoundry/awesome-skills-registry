@@ -1,0 +1,18 @@
+id: NVIDIA-skills-nemo-mbridge-perf-activation-recompute
+display_name: nemo-mbridge-perf-activation-recompute
+description: Validate and use selective and full activation recompute in Megatron
+  Bridge to reduce GPU memory usage at the cost of extra compute. Use for activation
+  memory OOMs or regressions involving recompute_granularity, recompute_num_layers,
+  recompute_modules, recompute_method, selective recompute, full recompute, or activation
+  checkpointing.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-perf-activation-recompute
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

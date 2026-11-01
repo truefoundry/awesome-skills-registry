@@ -1,0 +1,25 @@
+id: NVIDIA-skills-tao-run-automl
+display_name: tao-run-automl
+description: "Run container-backed AutoML / hyperparameter optimization (HPO) for\
+  \ NVIDIA TAO networks using AutoMLRunner. Handles algorithm selection (bayesian,\
+  \ hyperband, asha, bohb, llm, hybrid, autoresearch), WandB experiment tracking,\
+  \ job execution on any TAO SDK platform, result interpretation, and per-rec custom\
+  \ evaluation hooks. Use when the user mentions TAO AutoML, hyperparameter optimization,\
+  \ HPO, automl, automl_settings, AutoMLRunner, tao_automl, bayesian search, hyperband,\
+  \ ASHA, LLM-guided search, autoresearch, or wants to tune train/evaluate/inference/distill/prune/quantize\
+  \ for a TAO network. Model actions use the resolved image; venv training requires\
+  \ an explicit request. Platform-agnostic \u2014 runs on any SDK (Brev, SLURM, Kubernetes,\
+  \ Docker). Do not use generic \"keep improving\" language alone to override a matching\
+  \ domain-specific DEFT workflow; attribute-labelled CLIP / SigLIP image-retrieval\
+  \ loops belong to tao-run-deft-pas unless HPO is explicit."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-run-automl
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

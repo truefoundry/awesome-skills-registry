@@ -1,0 +1,15 @@
+id: NVIDIA-skills-mcore-linting-and-formatting
+display_name: mcore-linting-and-formatting
+description: Linting and formatting for Megatron-LM. Covers running autoformat.sh,
+  tools (ruff, black, isort, pylint, mypy), and code style rules.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mcore-linting-and-formatting
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-case-briefer-seth-chandler
+display_name: case-briefer
+description: 'Produces detailed law-school case briefs of United States judicial opinions
+  in a fixed nine-section structure: memory jogger, facts, procedural history, judicial
+  votes, holding, opinion-by-opinion analysis, five future-application hypotheticals,
+  critique, and verified key quotations. Also builds vote tables, cross-case consistency
+  tables, perspective-based critiques, and LaTeX in article, Beamer and casebook-chapter
+  formats. Use whenever someone asks to brief a case, analyse or explain an opinion,
+  summarise a decision for students, generate hypotheticals from a holding, critique
+  a judgment, tabulate how justices voted, or convert case analysis to LaTeX. Triggers
+  on "brief this case", "case brief", "explain the holding", "what did the court hold",
+  "hypotheticals based on", "critique this opinion", "vote table", "Beamer presentation",
+  "chapter brief", and on any reference to a judicial opinion or Supreme Court decision
+  in a teaching context. Requires web search to verify quotations, votes and holdings.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/case-briefer-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

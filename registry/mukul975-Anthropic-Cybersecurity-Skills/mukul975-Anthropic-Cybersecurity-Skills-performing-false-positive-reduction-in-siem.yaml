@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-false-positive-reduction-in-siem
+display_name: performing-false-positive-reduction-in-siem
+description: Reduces SIEM false positives through systematic rule tuning, threshold
+  adjustment, correlation logic refinement, allowlisting, and threat intelligence
+  enrichment. Use when SOC analysts are overwhelmed by alert noise, when tuning noisy
+  detection rules, or during a quarterly SIEM rule review to cut alert fatigue.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-false-positive-reduction-in-siem
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

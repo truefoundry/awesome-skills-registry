@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-model-extraction-attacks
+display_name: detecting-model-extraction-attacks
+description: Detect MITRE ATLAS AML.T0024 attacks (model stealing, inversion, membership
+  inference) performed via inference-API abuse, by monitoring per-principal query
+  volume/distribution, rate-limiting and perturbing outputs, and red-teaming your
+  model's extractability. Use for a public or partner inference API needing cloning/inversion/membership-inference
+  detection, or a pre-deployment red-team exercise to measure extraction risk.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-model-extraction-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow-dataset-mimic
+display_name: i4h-workflow-dataset-mimic
+description: Expand workflow HDF5 demonstrations with action jitter, optionally scoped
+  to node segments. Use for synthetic variants; do not use to collect data, alter
+  state directly, or generate new images.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-dataset-mimic
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

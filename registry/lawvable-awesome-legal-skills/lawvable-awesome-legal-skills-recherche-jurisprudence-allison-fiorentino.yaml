@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-recherche-jurisprudence-allison-fiorentino
+display_name: skill-pour-interroger-judilibre-allison-fiorentino
+description: ">Ce skill donne acc\xE8s \xE0 l'API de judilibre. Vous formulez votre\
+  \ demande en fran\xE7ais, il interroge la base Judlibre et renvoie les r\xE9ponses.\
+  \ Attention le skill ne fonctionne que si des domaines suppl\xE9mentaires sont utilis\xE9\
+  s et que l'utilisateur a rentr\xE9 sa propre cl\xE9 Judlibre. Ce skill et son auteur\
+  \ n'ont aucun lien avec la Cour de cassation ou Judilibre"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/recherche-jurisprudence-allison-fiorentino
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

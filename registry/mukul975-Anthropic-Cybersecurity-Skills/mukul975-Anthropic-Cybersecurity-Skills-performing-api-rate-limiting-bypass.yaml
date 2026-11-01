@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-api-rate-limiting-bypass
+display_name: performing-api-rate-limiting-bypass
+description: Tests API rate limiting for bypass vulnerabilities using Python (requests/aiohttp)
+  and Burp Suite Turbo Intruder to manipulate headers (e.g. X-Forwarded-For spoofing),
+  IPs, HTTP methods, API versions, and encodings, mapping findings to OWASP API4:2023
+  Unrestricted Resource Consumption. Use when assessing, under written authorization,
+  whether rate limits can be bypassed to enable brute force or resource-exhaustion
+  attacks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-api-rate-limiting-bypass
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

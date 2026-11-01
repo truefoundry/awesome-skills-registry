@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-network-packets-with-scapy
+display_name: analyzing-network-packets-with-scapy
+description: Use Scapy to craft, send, sniff, and dissect TCP/UDP/ICMP/DNS packets,
+  analyze pcap files, implement SYN scans, and detect anomalous traffic such as fragmented
+  or malformed packets. Use when performing authorized network reconnaissance, protocol-level
+  forensic analysis, or building traffic anomaly detection during security testing.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-network-packets-with-scapy
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

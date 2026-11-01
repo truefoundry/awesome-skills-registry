@@ -1,0 +1,28 @@
+id: lawvable-awesome-legal-skills-droit-etrangers-asile-el-ouertani-faouzi
+display_name: droit-etrangers-asile
+description: "Expertise compl\xE8te en droit fran\xE7ais des \xE9trangers, de l'asile\
+  \ et de la nationalit\xE9 \u2014 entr\xE9e et visas, s\xE9jour (CESEDA livre IV,\
+  \ AES, \xE9tranger malade, regroupement familial, m\xE9tiers en tension), \xE9loignement\
+  \ et contentieux (OQTF, IRTF, r\xE9tention, r\xE9f\xE9r\xE9s, TA/CAA/CE), asile\
+  \ (OFPRA, CNDA, Dublin, CMA/ADA), nationalit\xE9 et droits sociaux des \xE9trangers\
+  \ (AME, PUMa, RSA, AAH, ASPA). Interroge en priorit\xE9 trois connecteurs MCP compl\xE9\
+  mentaires \u2014 OpenLegi (textes, jurisprudence administrative), LibreJustice (recherche\
+  \ s\xE9mantique tous ordres) et Legal Data Hunter (r\xE9tention/JLD, graphe de citations,\
+  \ statut de validit\xE9) \u2014 puis les sources officielles (L\xE9gifrance, ANEF,\
+  \ OFPRA, CNDA) et la doctrine associative (GISTI, Cimade, ADDE, Comede, Anaf\xE9\
+  ). D\xE9clencher d\xE8s qu'une question porte sur un \xE9tranger en France, m\xEA\
+  me sans vocabulaire juridique \u2014 \xAB papier de la pr\xE9fecture \xBB, \xAB\
+  \ r\xE9c\xE9piss\xE9 p\xE9rim\xE9 \xBB, \xAB la CAF refuse le RSA \xBB \u2014 et\
+  \ pour toute consultation, recours, note ou v\xE9rification de r\xE9f\xE9rences\
+  \ dans ces mati\xE8res."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/droit-etrangers-asile-el-ouertani-faouzi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

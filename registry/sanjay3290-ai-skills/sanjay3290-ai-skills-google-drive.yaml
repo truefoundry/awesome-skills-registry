@@ -1,0 +1,19 @@
+id: sanjay3290-ai-skills-google-drive
+display_name: google-drive
+description: 'Interact with Google Drive - search files, find folders, list contents,
+  download files, upload files, create folders, move, copy, rename, and trash files.
+  Use when user asks to: search Google Drive, find a file/folder, list Drive contents,
+  download or upload files, create folders, move files, or organize Drive content.
+  Lightweight integration with standalone OAuth authentication supporting full read/write
+  access.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/google-drive
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

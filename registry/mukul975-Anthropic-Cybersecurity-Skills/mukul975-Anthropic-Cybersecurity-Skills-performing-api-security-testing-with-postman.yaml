@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-api-security-testing-with-postman
+display_name: performing-api-security-testing-with-postman
+description: "Uses Postman to build structured API security test collections covering\
+  \ the OWASP API Security Top 10\u2014authentication bypass, authorization flaws,\
+  \ injection, and data exposure\u2014with multi-role environments, automated test\
+  \ scripts, and OWASP ZAP/Newman integration for CI/CD. Use when building repeatable\
+  \ Postman-based API security regression tests or automating OWASP API Top 10 coverage\
+  \ in a pipeline."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-api-security-testing-with-postman
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

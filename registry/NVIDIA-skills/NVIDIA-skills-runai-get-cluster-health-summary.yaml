@@ -1,0 +1,21 @@
+id: NVIDIA-skills-runai-get-cluster-health-summary
+display_name: runai-get-cluster-health-summary
+description: "Point-in-time Run:ai cluster and node-health check: a HEALTHY, DEGRADED,\
+  \ or STUCK verdict per node pool with the dominant blocker \u2014 NotReady nodes,\
+  \ offline or failing GPU capacity, GPU counts, allocation vs utilization, the pending\
+  \ backlog, and a stuck scheduler vs a full pool. Use for \"is the cluster healthy?\"\
+  , \"is the scheduler stuck?\", \"any nodes down?\", \"are GPUs failing?\", \"how\
+  \ many GPUs are free?\", \"is the cluster saturated?\", or \"why isn't node pool\
+  \ X scheduling?\". Not for quota fairness, team GPU waste, one workload, failed-workload\
+  \ node correlation, XID errors on one node, or writes."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/runai-get-cluster-health-summary
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

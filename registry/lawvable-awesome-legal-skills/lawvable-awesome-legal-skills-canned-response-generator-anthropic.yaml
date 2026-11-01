@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-canned-response-generator-anthropic
+display_name: canned-responses-anthropic
+description: "Generate templated responses for common legal inquiries and identify\
+  \ when situations require individualized attention. Use when responding to routine\
+  \ legal questions \u2014 data subject requests, vendor inquiries, NDA requests,\
+  \ discovery holds \u2014 or when managing response templates."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/canned-response-generator-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

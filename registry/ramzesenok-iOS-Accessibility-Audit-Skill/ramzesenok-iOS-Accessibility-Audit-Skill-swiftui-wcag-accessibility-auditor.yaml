@@ -1,0 +1,19 @@
+id: ramzesenok-iOS-Accessibility-Audit-Skill-swiftui-wcag-accessibility-auditor
+display_name: swiftui-wcag-accessibility-auditor
+description: Audit SwiftUI iOS feature code for accessibility against WCAG 2.2 Level
+  A/AA and return patch-ready fixes. Use when reviewing SwiftUI views/screens (including
+  auth, forms, settings, and custom controls) and you need both standards traceability
+  (WCAG + WCAG2Mobile interpretation) and practical, minimal code changes in a concise
+  priority-grouped Markdown format with user follow-up checks for code-indeterminate
+  behavior.
+authors:
+- ramzesenok
+is_official: false
+tags: []
+category: none
+source:
+  path: /swiftui-wcag-accessibility-auditor
+  repo: ramzesenok/iOS-Accessibility-Audit-Skill
+metadata:
+  stars: 13
+added_at: '2026-11-01'

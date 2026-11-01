@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-illustration
+display_name: paper-illustration
+description: "Generate publication-quality AI illustrations for academic papers using\
+  \ Gemini image generation. Creates architecture diagrams, method illustrations with\
+  \ Codex-supervised iterative refinement loop. Use when user says \"\u751F\u6210\u56FE\
+  \u8868\", \"\u753B\u67B6\u6784\u56FE\", \"AI\u7ED8\u56FE\", \"paper illustration\"\
+  , \"generate diagram\", or needs visual figures for papers."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-illustration
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

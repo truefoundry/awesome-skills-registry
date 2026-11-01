@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-operational-expert-tool-ui
+display_name: operational-expert-tool-ui
+description: Dense, linear, status-at-a-glance UI for specialists who use a tool all
+  day. Use when designing dispatch, warehouse, logistics, scheduling or other B2B
+  operations tools.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operational-expert-tool-ui
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-timeline-reconstruction-with-plaso
+display_name: performing-timeline-reconstruction-with-plaso
+description: Builds comprehensive forensic super-timelines using Plaso (log2timeline
+  and psort) to correlate events across file system metadata, event logs, browser
+  history, and registry artifacts into a unified chronological view. Use during complex
+  forensic investigations that need cross-source event correlation, or when standard
+  log analysis is insufficient to establish the sequence of activities for reporting
+  findings.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-timeline-reconstruction-with-plaso
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

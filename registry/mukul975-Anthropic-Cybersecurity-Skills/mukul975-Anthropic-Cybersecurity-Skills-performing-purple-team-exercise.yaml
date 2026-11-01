@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-purple-team-exercise
+display_name: performing-purple-team-exercise
+description: Performs purple team exercises by coordinating red team adversary emulation
+  with blue team detection validation using MITRE ATT&CK-mapped attack scenarios,
+  real-time detection testing, and collaborative gap remediation. Use when SOC teams
+  need to validate detection capabilities, improve analyst skills, and close detection
+  gaps through structured offensive-defensive collaboration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-purple-team-exercise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

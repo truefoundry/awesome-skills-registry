@@ -1,0 +1,16 @@
+id: ReScienceLab-opc-skills-domain-hunter
+display_name: domain-hunter
+description: Search domains, compare prices, find promo codes, get purchase recommendations.
+  Use when user wants to buy a domain, check domain prices, find domain deals, compare
+  registrars, or search for .ai/.com domains.
+authors:
+- ReScienceLab
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/domain-hunter
+  repo: ReScienceLab/opc-skills
+metadata:
+  stars: 1888
+added_at: '2026-11-01'

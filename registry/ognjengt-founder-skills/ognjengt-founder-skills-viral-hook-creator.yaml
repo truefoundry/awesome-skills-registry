@@ -1,0 +1,16 @@
+id: ognjengt-founder-skills-viral-hook-creator
+display_name: viral-hook-creator
+description: Creates viral social media hooks using proven psychological patterns
+  and trigger words. Use when user needs attention-grabbing openings for posts, threads,
+  videos, or content.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/viral-hook-creator
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

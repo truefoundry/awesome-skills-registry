@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-unfair-dismissal-screener-andrew-bird
+display_name: unfair-dismissal-screener-andrew-bird
+description: "Screens a dismissal \u2014 proposed or already done \u2014 against the\
+  \ unfair dismissal framework for England & Wales, and shows where it is exposed.\
+  \ Structures the qualifying-service question, the automatically-unfair categories\
+  \ (no qualifying period), and a Burchell / Polkey / band-of-reasonable-responses\
+  \ analysis for a solicitor to verify \u2014 it does not determine fairness. Surfaces\
+  \ specific procedural risks. Use when the user says 'is this unfair', 'screen this\
+  \ dismissal', 'ordinary unfair dismissal', 'automatic unfair dismissal', or wants\
+  \ a structured fairness review before or after dismissal."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/unfair-dismissal-screener-andrew-bird
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

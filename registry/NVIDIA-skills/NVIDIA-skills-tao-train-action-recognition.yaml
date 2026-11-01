@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-action-recognition
+display_name: tao-train-action-recognition
+description: Action recognition from video sequences. Supports RGB, optical flow,
+  and joint (multi-stream) input types for classifying temporal actions in video clips.
+  Use when training, evaluating, exporting, or running inference on a TAO action-recognition
+  model. Trigger phrases include "train action recognition", "video action classification",
+  "RGB + optical flow action model", "TAO ActionRecognition".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-action-recognition
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

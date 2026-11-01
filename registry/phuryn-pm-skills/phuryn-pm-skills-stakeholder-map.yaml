@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-stakeholder-map
+display_name: stakeholder-map
+description: Build a stakeholder map using a power/interest grid, identify communication
+  strategies per quadrant, and generate a communication plan. Use when managing stakeholders,
+  preparing for a launch, aligning cross-functional teams, or planning stakeholder
+  engagement.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/stakeholder-map
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

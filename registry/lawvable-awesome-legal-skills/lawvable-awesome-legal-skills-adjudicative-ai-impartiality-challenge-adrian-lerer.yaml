@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-adjudicative-ai-impartiality-challenge-adrian-lerer
+display_name: adjudicative-ai-impartiality-challenge
+description: Public-safe preliminary screen for challenges to the impartiality of
+  an AI evaluator, LLM-as-a-judge, decision-support agent, or adjudicative system
+  based on prior outputs, suspected bias, unstable reasoning, or self-reinforcing
+  memory. Use when asked whether an AI should be recused, disqualified, replaced,
+  audited, or escalated. Does not decide real cases or claim that human judicial-recusal
+  doctrine automatically applies.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/adjudicative-ai-impartiality-challenge-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

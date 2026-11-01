@@ -1,0 +1,22 @@
+id: NVIDIA-skills-doca-public-knowledge-map
+display_name: doca-public-knowledge-map
+description: "Use this skill to locate authoritative NVIDIA DOCA information without\
+  \ the source tree: the docs.nvidia.com page for a library/service/tool, which DOCA\
+  \ libraries are installed and at what version, a sample on disk or GitHub, a path\
+  \ under /opt/mellanox/doca, or a 404'd/renamed doc URL. Activate on implicit phrasing\
+  \ only when the conversation already names DOCA, BlueField, ConnectX, or /opt/mellanox.\
+  \ Do not activate for generic 'which version is installed' or 'where is the sample'\
+  \ questions with none of that context. Refuse and route elsewhere for hands-on programming,\
+  \ env prep, API tutorials, or hardware/firmware mutation \u2014 those belong to\
+  \ doca-programming-guide, doca-setup, the per-library skills, and doca-hardware-safety."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-public-knowledge-map
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

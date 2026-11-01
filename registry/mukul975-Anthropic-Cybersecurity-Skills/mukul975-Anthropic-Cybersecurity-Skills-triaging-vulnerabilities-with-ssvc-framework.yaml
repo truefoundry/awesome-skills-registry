@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-triaging-vulnerabilities-with-ssvc-framework
+display_name: triaging-vulnerabilities-with-ssvc-framework
+description: Triages and prioritizes vulnerabilities with CISA's Stakeholder-Specific
+  Vulnerability Categorization (SSVC) decision tree, weighing exploitation status
+  (via the CISA KEV catalog and FIRST EPSS API), technical impact, automatability,
+  and mission prevalence to output Track/Track*/Attend/Act decisions. Use when prioritizing
+  vulnerability scan results (OpenVAS, Nessus, Qualys) for remediation planning beyond
+  raw CVSS scores.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/triaging-vulnerabilities-with-ssvc-framework
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

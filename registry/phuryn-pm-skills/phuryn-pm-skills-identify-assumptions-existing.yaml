@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-identify-assumptions-existing
+display_name: identify-assumptions-existing
+description: Identify risky assumptions for a feature idea in an existing product
+  across Value, Usability, Viability, and Feasibility. Uses multi-perspective devil's
+  advocate thinking. Use when stress-testing a feature idea, doing risk assessment,
+  or preparing for assumption mapping.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/identify-assumptions-existing
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

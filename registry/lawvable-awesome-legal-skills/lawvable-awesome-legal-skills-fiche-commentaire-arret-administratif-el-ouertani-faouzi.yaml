@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-fiche-commentaire-arret-administratif-el-ouertani-faouzi
+display_name: fiche-commentaire-arret-administratif
+description: "Expertise compl\xE8te pour produire une fiche d'arr\xEAt ou un commentaire\
+  \ de d\xE9cision en droit administratif fran\xE7ais (m\xE9thode Faouzi El Ouertani,\
+  \ 7 rubriques + plan binaire critique). V\xE9rification syst\xE9matique des d\xE9\
+  cisions et textes cit\xE9s via le MCP LibreJustice (https://librejustice.fr/mcp/)\
+  \ et les connecteurs L\xE9gifrance. D\xE9clench\xE9 par \xAB fiche d'arr\xEAt \xBB\
+  , \xAB commentaire d'arr\xEAt \xBB, \xAB commentaire de d\xE9cision \xBB, \xAB analyse\
+  \ de d\xE9cision \xBB en droit administratif."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/fiche-commentaire-arret-administratif-el-ouertani-faouzi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

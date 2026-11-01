@@ -1,0 +1,23 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-pod-security-admission-controller
+display_name: implementing-pod-security-admission-controller
+description: 'Configures and operates the Kubernetes Pod Security Admission (PSA)
+  controller that enforces Pod Security Standards: namespace enforce/audit/warn labels,
+  cluster-wide defaults via AdmissionConfiguration, exemptions for usernames, runtime
+  classes and namespaces, version pinning, and troubleshooting pods the controller
+  rejected. Use when wiring PSA up on a cluster, setting cluster-wide default enforcement,
+  exempting system namespaces, debugging why a pod was rejected or why enforcement
+  is not firing, or reading PSA audit and warning output. Keywords: Pod Security Admission,
+  PSA, admission controller, AdmissionConfiguration, pod-security.kubernetes.io labels,
+  enforce audit warn, exemptions, kube-apiserver. Do not use for choosing which security
+  profile a workload needs - use implementing-kubernetes-pod-security-standards.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-pod-security-admission-controller
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

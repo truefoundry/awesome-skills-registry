@@ -1,0 +1,16 @@
+id: cloudflare-skills-cloudflare-one
+display_name: cloudflare-one
+description: Design, configure, troubleshoot, or review Cloudflare One Zero Trust
+  and SASE deployments. Use cloudflare-one-migrations for migration planning from
+  other vendors.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloudflare-one
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

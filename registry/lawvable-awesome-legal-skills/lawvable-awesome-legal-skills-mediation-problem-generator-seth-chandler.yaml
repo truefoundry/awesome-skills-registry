@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-mediation-problem-generator-seth-chandler
+display_name: mediation-problem-generator
+description: "Create original, competition-ready commercial mediation problems and\
+  \ confidential packets with iterative validation. Use when a user provides a topic,\
+  \ industry, dispute sketch, or existing general-information packet and wants a public\
+  \ packet plus confidential packets for both sides\u2014or one named side. Build\
+  \ a narrow but workable settlement corridor; verify factual and numerical consistency,\
+  \ information asymmetry, balance, originality, and commercial feasibility; and revise\
+  \ until deterministic and semantic exit criteria pass. Do not use merely to summarize\
+  \ an existing packet or to advise parties in a real dispute. Requires local file\
+  \ access; Python 3 is recommended for bundled deterministic checks, with disclosed\
+  \ manual fallbacks when unavailable."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mediation-problem-generator-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

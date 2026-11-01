@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-collaboration-platform-advisor-scott-margetts
+display_name: collaboration-platform-advisor-scott-margetts
+description: "Collaboration platform configuration methodology for legal matter sites.\
+  \ Site architecture, workflow identification, dashboard design, data quality governance,\
+  \ and user adoption for SharePoint, Teams, and equivalent platforms. M365 is the\
+  \ reference implementation \u2014 outputs are platform-agnostic enough to brief\
+  \ IT or build simple automations without becoming a Power Automate manual. Use when\
+  \ setting up a matter site, identifying workflows to automate, designing reporting\
+  \ dashboards, managing platform data quality, or driving user adoption. Trigger\
+  \ on: 'set up the matter site', 'configure SharePoint', 'build a dashboard', 'what\
+  \ should we automate', 'brief IT on this workflow', 'nobody is using the platform',\
+  \ 'data quality is poor', 'set up Teams channel', 'matter site structure', 'alerts\
+  \ and notifications', 'user training', 'platform governance', 'status dashboard',\
+  \ 'what workflows can we automate', 'matter site template'."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/collaboration-platform-advisor-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

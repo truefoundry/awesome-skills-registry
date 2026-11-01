@@ -1,0 +1,20 @@
+id: K-Dense-AI-claude-scientific-skills-pathogen-variant-surveillance
+display_name: pathogen-variant-surveillance
+description: Queries public GenSpectrum LAPIS data for pathogen genomic surveillance,
+  current lineage nomenclature, weekly sequence proportions, reporting delays, and
+  descriptive mutation frequencies. Use for variant surveillance, Pango lineage validation,
+  dominant submitted lineages, Nextclade assignment provenance, SARS-CoV-2, influenza/H5N1
+  clades, RSV, mpox, measles, dengue, or LAPIS queries. Distinguishes sequence prevalence
+  from infection prevalence, clades from genotypes, missing calls from reference matches,
+  and sampling changes from biological growth advantage.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pathogen-variant-surveillance
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

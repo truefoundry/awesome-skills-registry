@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-legal-transition-audit-adrian-lerer
+display_name: legal-transition-audit-ignacio-adrian-lerer
+description: Audits the transition from legal AI output to reliance, recommendation,
+  execution, or real-world commitment. Use it before an AI-generated analysis, memo,
+  contract review, compliance finding, or workflow output is acted upon to check whether
+  authority, evidence, mandate, uncertainty, procedure, and review conditions remain
+  sufficient.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-transition-audit-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

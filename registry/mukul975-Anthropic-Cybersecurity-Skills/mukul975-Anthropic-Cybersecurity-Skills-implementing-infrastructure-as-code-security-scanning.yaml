@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-infrastructure-as-code-security-scanning
+display_name: implementing-infrastructure-as-code-security-scanning
+description: Implements automated security scanning for Infrastructure as Code using
+  Checkov, tfsec, and KICS to detect misconfigurations in Terraform, CloudFormation,
+  Kubernetes manifests, and Helm charts, plus policy-based governance and CI/CD integration.
+  Use when validating cloud infrastructure before deployment or blocking insecure
+  changes (public S3 buckets, open security groups) in pull requests.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-infrastructure-as-code-security-scanning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

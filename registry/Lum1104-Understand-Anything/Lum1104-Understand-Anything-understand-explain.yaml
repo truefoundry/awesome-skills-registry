@@ -1,0 +1,15 @@
+id: Lum1104-Understand-Anything-understand-explain
+display_name: understand-explain
+description: Use when you need a deep-dive explanation of a specific file, function,
+  or module in the codebase
+authors:
+- Lum1104
+is_official: false
+tags: []
+category: none
+source:
+  path: /understand-anything-plugin/skills/understand-explain
+  repo: Lum1104/Understand-Anything
+metadata:
+  stars: 89414
+added_at: '2026-11-01'

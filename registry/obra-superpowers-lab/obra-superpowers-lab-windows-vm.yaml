@@ -1,0 +1,16 @@
+id: obra-superpowers-lab-windows-vm
+display_name: windows-vm
+description: Create, manage, or connect to a headless Windows 11 VM running in Docker
+  with SSH access. Use when the user wants to spin up, stop, restart, or SSH into
+  a Windows VM.
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/windows-vm
+  repo: obra/superpowers-lab
+metadata:
+  stars: 435
+added_at: '2026-11-01'

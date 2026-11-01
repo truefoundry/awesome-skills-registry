@@ -1,0 +1,15 @@
+id: NVIDIA-skills-jetson-speculative-decoding
+display_name: jetson-speculative-decoding
+description: Add EAGLE-3 or draft-model speculative decoding to a Jetson vLLM server
+  when TPOT is the bottleneck.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-speculative-decoding
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

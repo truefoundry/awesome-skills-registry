@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nemo-automodel-distributed-training
+display_name: nemo-automodel-distributed-training
+description: Guide for selecting and configuring distributed training strategies in
+  NeMo AutoModel, including FSDP2, Megatron FSDP, DDP, and parallelism settings.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-automodel-distributed-training
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

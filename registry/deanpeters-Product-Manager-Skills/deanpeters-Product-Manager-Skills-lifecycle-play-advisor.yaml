@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-lifecycle-play-advisor
+display_name: lifecycle-play-advisor
+description: "Diagnose where a product sits in its lifecycle and which play fits \u2014\
+  \ extend, replace, or retire. Use when a product is fading and you need the call,\
+  \ not just the worry."
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/lifecycle-play-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

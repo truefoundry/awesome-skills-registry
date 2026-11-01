@@ -1,0 +1,18 @@
+id: garrytan-gbrain-correction-pipeline
+display_name: correction-pipeline
+description: "When the user corrects a factual error, root-cause it immediately. Don't\
+  \ just note the correction \u2014 trace the error to its source, fix the source,\
+  \ and prevent recurrence. Every factual error is either a data error (bad brain\
+  \ page, bad memory file, bad rendered SOUL/USER identity, bad facts row) or a hallucination\
+  \ (LLM confabulated from partial signals)."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/correction-pipeline
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

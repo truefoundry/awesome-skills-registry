@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-docker-bench-security-assessment
+display_name: performing-docker-bench-security-assessment
+description: 'Runs Docker Bench for Security, the open-source CIS Docker Benchmark
+  audit script, across host configuration, daemon settings, images, and runtime configuration,
+  then interprets pass/fail/warn output and remediates the common failures. Use when
+  auditing Docker hosts for CIS compliance, scheduling recurring container assessments,
+  or validating runtime hardening controls after a change. Keywords: docker-bench-security,
+  CIS Docker Benchmark, audit script, pass fail warn, host configuration, remediation.
+  Do not use for applying the daemon hardening itself - use hardening-docker-daemon-configuration.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-docker-bench-security-assessment
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

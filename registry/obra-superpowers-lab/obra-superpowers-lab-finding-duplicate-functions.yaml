@@ -1,0 +1,17 @@
+id: obra-superpowers-lab-finding-duplicate-functions
+display_name: finding-duplicate-functions
+description: Use when auditing a codebase for semantic duplication - functions that
+  do the same thing but have different names or implementations. Especially useful
+  for LLM-generated codebases where new functions are often created rather than reusing
+  existing ones.
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/finding-duplicate-functions
+  repo: obra/superpowers-lab
+metadata:
+  stars: 435
+added_at: '2026-11-01'

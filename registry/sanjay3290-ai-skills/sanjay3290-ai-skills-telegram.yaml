@@ -1,0 +1,20 @@
+id: sanjay3290-ai-skills-telegram
+display_name: telegram
+description: 'Send Telegram messages, files, and alerts via bot API; read replies;
+  ask questions with inline buttons and wait for the answer (approve-from-phone).
+  Supports multiple bots and named chat targets. Use when the user wants to send a
+  Telegram message or alert, get notified on Telegram when a task finishes or needs
+  input, ask for approval via Telegram, or wire Telegram notifications into hooks,
+  cron jobs, or CI. Triggers: ''telegram'', ''send me a telegram'', ''alert me on
+  telegram'', ''ask me on telegram'', ''notify me when done''.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/telegram
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

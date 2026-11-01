@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-fuzz-testing-in-cicd-with-aflplusplus
+display_name: implementing-fuzz-testing-in-cicd-with-aflplusplus
+description: Integrates AFL++ coverage-guided fuzzing into CI/CD pipelines, covering
+  harness construction, AFL++/AddressSanitizer/CmpLog instrumentation builds, and
+  persistent-mode fuzzing to discover memory-corruption and input-handling vulnerabilities
+  in C/C++ code. Use when adding automated fuzz testing to a build pipeline or hunting
+  for memory-safety bugs in native/compiled applications.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-fuzz-testing-in-cicd-with-aflplusplus
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

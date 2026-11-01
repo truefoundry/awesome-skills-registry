@@ -1,0 +1,15 @@
+id: NVIDIA-skills-omniverse-realtime-viewer
+display_name: omniverse-realtime-viewer
+description: Use as the top-level router for Omniverse Realtime Viewer USD app requests
+  and focused viewer reference documents.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/omniverse-realtime-viewer
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

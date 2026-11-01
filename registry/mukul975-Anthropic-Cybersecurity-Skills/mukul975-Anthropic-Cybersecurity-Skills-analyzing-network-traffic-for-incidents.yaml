@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-network-traffic-for-incidents
+display_name: analyzing-network-traffic-for-incidents
+description: Analyzes network traffic captures and flow data to identify adversary
+  activity during security incidents, including command-and-control communications,
+  lateral movement, data exfiltration, and exploitation attempts. Uses Wireshark,
+  Zeek, and NetFlow analysis techniques. Activates for requests involving network
+  traffic analysis, packet capture investigation, PCAP analysis, network forensics,
+  C2 traffic detection, or exfiltration detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-network-traffic-for-incidents
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: NVIDIA-skills-nvidia-broadcast
+display_name: nvidia-broadcast
+description: Use when controlling NVIDIA Broadcast through MCP to apply effects, process
+  local media, select devices, or change camera resolution, or when Broadcast is missing
+  or too old to expose the gateway and the user wants it installed; not for Broadcast
+  app settings outside the MCP gateway.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvidia-broadcast
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

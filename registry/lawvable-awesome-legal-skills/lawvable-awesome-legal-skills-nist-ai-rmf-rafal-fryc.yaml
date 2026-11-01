@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-nist-ai-rmf-rafal-fryc
+display_name: nist-ai-rmf
+description: "Apply the NIST AI Risk Management Framework (NIST AI 100-1 + the NIST\
+  \ AI 600-1 Generative AI Profile) to a specific AI system, governance question,\
+  \ or impact assessment. Three modes \u2014 consult, governance plan, full assessment\
+  \ \u2014 all cite Subcategories (`GOVERN 1.1`) and Profile Action IDs (`GV-1.2-001`)\
+  \ verbatim. Use when the user mentions the AI RMF, NIST RMF, NIST AI 100-1, NIST\
+  \ AI 600-1, GenAI Profile, the four functions (Govern / Map / Measure / Manage),\
+  \ the trustworthy AI characteristics, the 12 GAI risks (confabulation, harmful bias,\
+  \ information integrity, CBRN, data privacy, etc.), or asks \"what does NIST say\
+  \ about X\" for an AI system."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/nist-ai-rmf-rafal-fryc
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

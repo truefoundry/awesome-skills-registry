@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-brainstorm-ideas-existing
+display_name: brainstorm-ideas-existing
+description: Brainstorm product ideas for an existing product using multi-perspective
+  ideation from PM, Designer, and Engineer viewpoints. Use when generating new feature
+  ideas, brainstorming solutions for an identified opportunity, or ideating with a
+  product trio.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/brainstorm-ideas-existing
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

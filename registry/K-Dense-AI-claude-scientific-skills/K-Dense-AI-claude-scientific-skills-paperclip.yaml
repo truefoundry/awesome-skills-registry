@@ -1,0 +1,19 @@
+id: K-Dense-AI-claude-scientific-skills-paperclip
+display_name: paperclip
+description: Searches and reads biomedical papers, FDA/PMDA/EMA documents, clinical
+  trials, and protein records with the GXL Paperclip CLI and Python SDK. Supports
+  source-scoped search, full-text grep, metadata SQL, map/reduce extraction, figure
+  analysis, optional repositories and claim verification, and line-pinned citations.
+  Use when a task names GXL paperclip, asks to install or authenticate it, or requests
+  literature retrieval and evidence extraction through Paperclip.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/paperclip
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: obra-superpowers-systematic-debugging
+display_name: systematic-debugging
+description: Use when encountering any bug, test failure, or unexpected behavior,
+  before proposing fixes
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/systematic-debugging
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

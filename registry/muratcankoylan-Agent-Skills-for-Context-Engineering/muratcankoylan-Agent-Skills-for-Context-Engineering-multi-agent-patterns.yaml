@@ -1,0 +1,16 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-multi-agent-patterns
+display_name: multi-agent-patterns
+description: This skill should be used when designing multi-agent systems that need
+  context isolation, supervisor or swarm coordination, explicit handoffs, parallel
+  execution, or a decision on whether multiple agents are justified.
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/multi-agent-patterns
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

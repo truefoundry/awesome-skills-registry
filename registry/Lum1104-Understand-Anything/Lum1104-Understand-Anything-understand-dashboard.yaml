@@ -1,0 +1,15 @@
+id: Lum1104-Understand-Anything-understand-dashboard
+display_name: understand-dashboard
+description: Launch the interactive web dashboard to visualize a codebase's knowledge
+  graph
+authors:
+- Lum1104
+is_official: false
+tags: []
+category: none
+source:
+  path: /understand-anything-plugin/skills/understand-dashboard
+  repo: Lum1104/Understand-Anything
+metadata:
+  stars: 89414
+added_at: '2026-11-01'

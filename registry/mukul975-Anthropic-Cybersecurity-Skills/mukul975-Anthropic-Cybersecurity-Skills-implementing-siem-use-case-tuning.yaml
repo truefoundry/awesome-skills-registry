@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-siem-use-case-tuning
+display_name: implementing-siem-use-case-tuning
+description: Tune SIEM detection rules in Splunk and Elastic to reduce false positives
+  by analyzing alert volumes, creating context-aware exclusion lists, adjusting thresholds
+  against environmental baselines, and measuring precision/recall efficacy metrics.
+  Use when a SOC is drowning in noisy alerts and needs to tune correlation searches
+  or detection rules, or when measuring and reporting alert-to-incident conversion
+  rates.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-siem-use-case-tuning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

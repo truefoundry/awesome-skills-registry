@@ -1,0 +1,18 @@
+id: google-skills-bigtable-basics
+display_name: bigtable-basics
+description: Assists in provisioning instances/tables, designing performant schemas,
+  and querying data in Bigtable. Use when designing Bigtable row keys, configuring
+  column families, writing SQL queries or client library code (Java, Go, Python) for
+  Bigtable, or diagnosing performance/hotspotting issues. Also use when provisioning
+  Bigtable clusters using gcloud or cbt CLIs. Don't use for generic Cloud SQL administration.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/bigtable-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

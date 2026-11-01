@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-oauth2-authorization-flow
+display_name: configuring-oauth2-authorization-flow
+description: Configures secure OAuth 2.0 authorization flows, including Authorization
+  Code with PKCE, Client Credentials, and Device Authorization Grant, covering flow
+  selection, PKCE implementation, token lifecycle management, and scope design per
+  OAuth 2.1. Use when implementing or hardening OAuth 2.0 authentication/authorization
+  for web, mobile, SPA, or machine-to-machine clients.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-oauth2-authorization-flow
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

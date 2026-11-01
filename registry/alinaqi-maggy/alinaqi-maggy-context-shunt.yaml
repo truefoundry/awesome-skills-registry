@@ -1,0 +1,15 @@
+id: alinaqi-maggy-context-shunt
+display_name: context-shunt
+description: Offload large / multi-file reads to a cheap worker model so raw files
+  never enter Claude's context (token savings)
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/context-shunt
+  repo: alinaqi/maggy
+metadata:
+  stars: 710
+added_at: '2026-11-01'

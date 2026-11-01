@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-uk-citation-verification-matei-clej
+display_name: uk-citation-verification-matei-clej
+description: "Verifies UK case-law citations, pinpoint references and quotations against\
+  \ the official public register \u2014 The National Archives' Find Case Law \u2014\
+  \ and statutory references against legislation.gov.uk, before a document that cites\
+  \ them is relied on, served or filed. Every check returns a graded verdict: VERIFIED,\
+  \ MISMATCH (the citation resolves to a different case \u2014 the classic AI miscitation),\
+  \ NOT ON REGISTER, OUTSIDE COVERAGE (the register cannot answer \u2014 absence proves\
+  \ nothing), or UNCHECKABLE (a law-report citation). The grading exists because there\
+  \ are two ways to get this wrong: citing a case that does not exist, and accusing\
+  \ a real case of not existing. Use when asked to check citations, verify a case\
+  \ exists, confirm a quotation is verbatim, check a pinpoint paragraph, audit a draft's\
+  \ authorities, screen a document for hallucinated cases, or check a statutory provision\
+  \ is in force. Not a substitute for reading the judgment: existence is not authority."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/uk-citation-verification-matei-clej
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

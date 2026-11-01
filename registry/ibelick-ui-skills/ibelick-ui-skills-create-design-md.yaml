@@ -1,0 +1,18 @@
+id: ibelick-ui-skills-create-design-md
+display_name: create-design-md
+description: Create or update a DESIGN.md from an existing product repository or public
+  website. Use when asked to document an interface's design language, reconstruct
+  its visual system, extract design tokens and guidance from current evidence, or
+  give coding agents persistent UI context. Do not modify product source or promote
+  accidental implementation patterns into design decisions.
+authors:
+- ibelick
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/create-design-md
+  repo: ibelick/ui-skills
+metadata:
+  stars: 10422
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-command-and-control-beaconing
+display_name: hunting-for-command-and-control-beaconing
+description: Detect C2 beaconing patterns in network traffic using frequency analysis,
+  jitter detection, and domain reputation to identify compromised endpoints communicating
+  with adversary infrastructure.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-command-and-control-beaconing
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

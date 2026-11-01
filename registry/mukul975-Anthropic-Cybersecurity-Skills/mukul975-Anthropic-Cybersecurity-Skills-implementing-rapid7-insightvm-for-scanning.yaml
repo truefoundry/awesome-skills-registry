@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-rapid7-insightvm-for-scanning
+display_name: implementing-rapid7-insightvm-for-scanning
+description: Deploy and configure Rapid7 InsightVM Security Console and Scan Engines,
+  including scan templates, credentialed scanning, and Insight Agent integration,
+  for authenticated and unauthenticated vulnerability scanning across enterprise environments.
+  Use when standing up InsightVM infrastructure, configuring credentialed vulnerability
+  scans, or integrating continuous asset assessment via the Insight Agent.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-rapid7-insightvm-for-scanning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

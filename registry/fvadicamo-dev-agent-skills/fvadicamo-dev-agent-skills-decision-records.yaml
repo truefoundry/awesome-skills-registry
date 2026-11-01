@@ -1,0 +1,20 @@
+id: fvadicamo-dev-agent-skills-decision-records
+display_name: decision-records
+description: Creates, supersedes and validates decision records (ADRs) against the
+  convention a collection already follows, instead of imposing a published one. Use
+  when the user wants to record a decision, write an ADR, supersede an existing decision,
+  audit or lint a decisions folder, check that an ADR index is in sync, or asks "why
+  did we decide X". Deduces the filename scheme, section set and status vocabulary
+  from the records already there; ships a validator with an exit code, so the audit
+  is a check and not an opinion.
+authors:
+- fvadicamo
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/decision-records/skills/decision-records
+  repo: fvadicamo/dev-agent-skills
+metadata:
+  stars: 72
+added_at: '2026-11-01'

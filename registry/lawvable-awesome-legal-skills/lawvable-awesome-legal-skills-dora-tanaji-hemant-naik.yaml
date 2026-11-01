@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-dora-tanaji-hemant-naik
+display_name: dora
+description: "Expert DORA (Regulation (EU) 2022/2554 \u2014 Digital Operational Resilience\
+  \ Act) compliance advisor for EU financial entities. Use this skill whenever a user\
+  \ asks about DORA compliance, ICT risk management frameworks, ICT incident classification\
+  \ or reporting, threat-led penetration testing (TLPT), ICT third-party risk management,\
+  \ Register of Information, contractual provisions with ICT providers, ICT concentration\
+  \ risk, oversight of critical ICT third-party service providers (CTPPs), or any\
+  \ DORA RTS/ITS obligation. Also trigger for: \"DORA gap analysis\", \"DORA readiness\"\
+  , \"Art. 6 ICT risk framework\", \"Art. 17 incident reporting\", \"Art. 26 TLPT\"\
+  , \"Art. 28 third-party policy\", \"Art. 30 contractual provisions\", \"Register\
+  \ of Information CIR 2024/2956\", \"critical TPSP designation\", \"DORA vs NIS2\"\
+  , \"DORA simplified framework\", or EBA/ESMA/EIOPA digital resilience guidance."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/dora-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

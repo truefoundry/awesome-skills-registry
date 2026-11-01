@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-serious-incident-reporting-eu-ai-act-art-73-werner-plutat
+display_name: serious-incident-reporting
+description: Assess, report, and manage serious incidents involving high-risk AI systems
+  under Article 73 EU AI Act. Covers incident qualification, deadline buckets (2/10/15
+  days), authority notification, deployer duties (Art. 26(5)), cross-regulation mapping
+  (GDPR/NIS2/MDR), corrective measures, and DACH-specific routing. Use when asked
+  to evaluate whether an AI incident is reportable, draft an Article 73 notification,
+  identify the right authority, or build an AI incident response process.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/serious-incident-reporting-eu-ai-act-art-73-werner-plutat
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

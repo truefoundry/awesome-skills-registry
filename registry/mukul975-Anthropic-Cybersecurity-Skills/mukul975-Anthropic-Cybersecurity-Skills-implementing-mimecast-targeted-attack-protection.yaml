@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-mimecast-targeted-attack-protection
+display_name: implementing-mimecast-targeted-attack-protection
+description: Deploys and configures Mimecast Targeted Threat Protection (TTP) modules
+  -- URL Protect (click-time URL rewriting/analysis), Attachment Protect (sandbox
+  detonation), Impersonation Protect (BEC/whaling detection), and Internal Email Protect
+  -- for Microsoft 365 or Google Workspace. Use when defending against phishing, spearphishing,
+  or business email compromise, or configuring TTP policies in the Mimecast Administration
+  Console.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-mimecast-targeted-attack-protection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

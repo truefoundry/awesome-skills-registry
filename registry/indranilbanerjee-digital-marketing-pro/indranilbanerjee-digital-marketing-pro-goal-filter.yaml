@@ -1,0 +1,15 @@
+id: indranilbanerjee-digital-marketing-pro-goal-filter
+display_name: goal-filter
+description: Lock one primary goal per brand and judge ideas or drafts against it.
+  "does this fit our goal"
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/goal-filter
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 920
+added_at: '2026-11-01'

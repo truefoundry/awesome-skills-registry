@@ -1,0 +1,17 @@
+id: NVIDIA-skills-tao-train-sparse4d
+display_name: tao-train-sparse4d
+description: Prepare calibrated multi-camera data and train, evaluate, run inference,
+  export, or quantize TAO Sparse4D 3D detection and tracking models. Includes 2D-to-3D
+  geometric distillation with released LTT weights. Use for Sparse4D adaptation and
+  temporal multi-camera perception workflows.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-sparse4d
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

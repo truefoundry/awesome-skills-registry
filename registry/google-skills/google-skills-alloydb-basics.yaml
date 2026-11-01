@@ -1,0 +1,17 @@
+id: google-skills-alloydb-basics
+display_name: alloydb-basics
+description: Manages clusters, instances, and backups for AlloyDB for PostgreSQL,
+  and integrates with AlloyDB Model Context Protocol (MCP) tools for automated database
+  operations. Use when creating, configuring, or administering AlloyDB databases.
+  Do NOT use for general PostgreSQL instances (e.g. Cloud SQL) or other GCP databases.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/alloydb-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

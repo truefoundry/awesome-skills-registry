@@ -1,0 +1,17 @@
+id: NVIDIA-skills-hsb-test
+display_name: hsb-test
+description: Execute QA test plans on Holoscan Sensor Bridge hardware. Reads a user-provided
+  test document, filters tests by the user's setup, determines which tests can run
+  automatically, executes them with pass/fail evaluation, and produces a structured
+  test results report.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/hsb-test
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

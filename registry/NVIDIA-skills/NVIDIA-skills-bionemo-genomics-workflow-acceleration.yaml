@@ -1,0 +1,18 @@
+id: NVIDIA-skills-bionemo-genomics-workflow-acceleration
+display_name: genomics-workflow-acceleration
+description: "Use when accelerating existing genomics workflows with NVIDIA Parabricks,\
+  \ improving runtime or price/performance, converting pipeline steps to GPUs, or\
+  \ comparing CPU and GPU workflow outputs. Adds optional GPU steps in-place with\
+  \ runtime toggles (default off). Do NOT use for individual pbrun command routing\
+  \ \u2014 use parabricks."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-genomics-workflow-acceleration
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

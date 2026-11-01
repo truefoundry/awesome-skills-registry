@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-business-logic-vulnerabilities
+display_name: testing-for-business-logic-vulnerabilities
+description: Manually identifies flaws in application business logic - price manipulation,
+  multi-step workflow bypass, and privilege escalation - by intercepting and modifying
+  requests with Burp Suite, going beyond what automated vulnerability scanners detect.
+  Use for e-commerce checkout/cart flows, voucher and rewards systems, or any assessment
+  where scanners find little but business rules need scrutiny.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-business-logic-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

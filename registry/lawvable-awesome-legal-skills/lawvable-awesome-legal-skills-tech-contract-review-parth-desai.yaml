@@ -1,0 +1,15 @@
+id: lawvable-awesome-legal-skills-tech-contract-review-parth-desai
+display_name: tech-contract-review-parth-desai
+description: Contract Review for Tech and general contract. Smart redflagging feature
+  to show the problems.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tech-contract-review-parth-desai
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

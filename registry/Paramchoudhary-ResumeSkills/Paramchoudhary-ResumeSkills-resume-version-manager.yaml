@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-resume-version-manager
+display_name: resume-version-manager
+description: Track different resume versions, maintain master resume, manage tailored
+  versions
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resume-version-manager
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

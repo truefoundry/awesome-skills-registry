@@ -1,0 +1,15 @@
+id: dembrandt-dembrandt-skills-tab-navigation
+display_name: tab-navigation
+description: Tabs swap views under a shared context. Use when designing tabbed layouts,
+  settings pages, detail views or dashboards with several data views.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tab-navigation
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

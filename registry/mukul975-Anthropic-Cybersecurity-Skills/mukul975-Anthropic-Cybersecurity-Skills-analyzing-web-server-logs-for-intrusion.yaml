@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-web-server-logs-for-intrusion
+display_name: analyzing-web-server-logs-for-intrusion
+description: Parse Apache and Nginx access logs to detect SQL injection attempts,
+  local file inclusion, directory traversal, web scanner fingerprints, and brute-force
+  patterns. Uses regex-based pattern matching against OWASP attack signatures, GeoIP
+  enrichment for source attribution, and statistical anomaly detection for request
+  frequency and response size outliers.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-web-server-logs-for-intrusion
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

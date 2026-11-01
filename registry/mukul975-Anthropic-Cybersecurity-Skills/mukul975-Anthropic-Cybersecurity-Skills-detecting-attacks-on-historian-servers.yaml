@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-attacks-on-historian-servers
+display_name: detecting-attacks-on-historian-servers
+description: Detect cyber attacks on OT historian servers (OSIsoft PI, Ignition, GE
+  Proficy, Wonderware InSQL) using a Python detector that flags unauthorized queries,
+  data manipulation, and lateral-movement indicators as historians pivot between IT
+  and OT networks. Use when monitoring historians bridging IT/OT zones for compromise,
+  investigating historian-specific CVE exploitation, or validating historian data
+  integrity after a suspected OT incident.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-attacks-on-historian-servers
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

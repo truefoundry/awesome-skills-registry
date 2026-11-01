@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-external-reconnaissance-with-osint
+display_name: conducting-external-reconnaissance-with-osint
+description: Conduct external recon using OSINT techniques to map an organization's
+  external attack surface without touching target systems, gathering DNS records,
+  certificate transparency logs, search results, social media, code repositories,
+  and breach databases into a target profile. Use for the passive info-gathering phase
+  of a pentest, external footprinting, or collecting employee/email intel for a social
+  engineering campaign.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-external-reconnaissance-with-osint
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

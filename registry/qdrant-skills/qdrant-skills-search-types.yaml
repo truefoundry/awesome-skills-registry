@@ -1,0 +1,19 @@
+id: qdrant-skills-search-types
+display_name: qdrant-hybrid-search-prefetches
+description: Constructing prefetch queries for hybrid retrieval, including BM25/dense
+  and multi-field setups, and choosing a lexical retrieval method. Use when someone
+  asks 'dense and sparse in one search?', 'how to combine multiple fields for retrieval?',
+  'payloads or sparse vectors for lexical?', 'BM25 on a full-text index or sparse
+  vectors?', 'which sparse embedding model to use?', 'BM25 vs SPLADE?', or 'how to
+  migrate BM25 sparse vectors to a text index?'
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-search-quality/search-strategies/hybrid-search/search-types
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

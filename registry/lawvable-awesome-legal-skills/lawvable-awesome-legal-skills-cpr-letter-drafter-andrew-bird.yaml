@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-cpr-letter-drafter-andrew-bird
+display_name: cpr-letter-drafter-andrew-bird
+description: "Writes the formal letter you send before suing someone in a civil case\
+  \ in England & Wales \u2014 the Letter Before Claim that starts the pre-action clock.\
+  \ The part it gets right is which pre-action protocol applies \u2014 debt, professional\
+  \ negligence, housing disrepair, personal injury, or the default Practice Direction\
+  \ on Pre-Action Conduct \u2014 each of which has its own rules a generic letter\
+  \ misses (the 30-day debt window, the professional-negligence preliminary-notice\
+  \ step). It also flags the limitation deadline for a solicitor to confirm rather\
+  \ than stating it as fact. Built for litigation juniors, in-house counsel, and small\
+  \ firms without a precedent to copy. Use when the user says 'draft an LBC', 'letter\
+  \ before claim', 'pre-action letter', 'pre-action protocol', or needs to start the\
+  \ pre-action clock before issuing a civil claim. Verify the current protocol before\
+  \ sending."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cpr-letter-drafter-andrew-bird
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

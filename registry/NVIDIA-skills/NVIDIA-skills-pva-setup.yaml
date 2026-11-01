@@ -1,0 +1,16 @@
+id: NVIDIA-skills-pva-setup
+display_name: pva-setup
+description: Install and configure the NVIDIA PVA SDK, NVVPU compiler, and L4T target
+  runtime from the selected installation guide. Use when the user requests PVA environment
+  setup on a development host and board.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/pva-setup
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

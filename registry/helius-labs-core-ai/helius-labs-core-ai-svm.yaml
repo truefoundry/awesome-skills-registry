@@ -1,0 +1,17 @@
+id: helius-labs-core-ai-svm
+display_name: svm
+description: Explore Solana's architecture and protocol internals. Covers the SVM
+  execution engine, account model, consensus, transactions, validator economics, data
+  layer, development tooling, and token extensions using the Helius blog, SIMDs, and
+  Agave/Firedancer source code.
+authors:
+- helius-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /helius-skills/svm
+  repo: helius-labs/core-ai
+metadata:
+  stars: 29
+added_at: '2026-11-01'

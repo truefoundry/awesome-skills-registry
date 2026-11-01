@@ -1,0 +1,22 @@
+id: NVIDIA-skills-isaac-mission-control-showcase
+display_name: isaac-mission-control-showcase
+description: Run and validate an end-to-end Mission Control showcase with a locally
+  installed Isaac Sim launched in its GUI window, driven through the isaac-sim-remote
+  Python server, with Nova Carter SIL. Use for demos, showcase replays, Mission Control
+  driving a simulated robot, or diagnosing the integrated small-warehouse scenario.
+  Detect existing Isaac Sim installations without modifying them, automatically select
+  a usable runtime without prompting whenever compatibility can be confirmed, and
+  delegate requested installation or version changes to isaac-sim-installation. Defaults
+  to a canonical Isaac 6.1 warehouse and deterministic circular route when the user
+  does not specify another scenario.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/isaac-mission-control-showcase
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

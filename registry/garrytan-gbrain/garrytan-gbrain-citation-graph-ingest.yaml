@@ -1,0 +1,21 @@
+id: garrytan-gbrain-citation-graph-ingest
+display_name: citation-graph-ingest
+description: "Build a TYPED citation/reference graph over an ingested corpus \u2014\
+  \ not just embeddings. Flat similarity retrieval cannot tell you that document A\
+  \ *overrules* B, *distinguishes* C, or *relies_on* D. This skill extracts every\
+  \ inter-document reference, classifies the edge TYPE with LLM judgment, and writes\
+  \ first-class typed edges via `gbrain link`, so `gbrain graph-query --type` can\
+  \ walk the argument (\"everything this brief relies on, minus anything overruled\
+  \ since\"). Every cite-heavy corpus is the same shape: law, academic papers, patents,\
+  \ regulatory filings, a book's bibliography."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/citation-graph-ingest
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

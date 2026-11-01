@@ -1,0 +1,15 @@
+id: Lum1104-Understand-Anything-understand-chat
+display_name: understand-chat
+description: Use when you need to ask questions about a codebase or understand code
+  using a knowledge graph
+authors:
+- Lum1104
+is_official: false
+tags: []
+category: none
+source:
+  path: /understand-anything-plugin/skills/understand-chat
+  repo: Lum1104/Understand-Anything
+metadata:
+  stars: 89414
+added_at: '2026-11-01'

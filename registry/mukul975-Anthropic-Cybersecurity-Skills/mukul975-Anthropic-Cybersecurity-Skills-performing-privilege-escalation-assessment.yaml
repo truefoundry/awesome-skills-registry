@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-privilege-escalation-assessment
+display_name: performing-privilege-escalation-assessment
+description: Performs privilege escalation assessments on compromised Linux and Windows
+  systems to identify paths from low-privilege access to root or SYSTEM-level control.
+  The tester enumerates misconfigurations, vulnerable services, kernel exploits, SUID
+  binaries, unquoted service paths, and credential stores to demonstrate the full
+  impact of an initial compromise. Activates for requests involving privilege escalation
+  testing, local exploitation, post-compromise escalation, or OS-level security assessment.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-privilege-escalation-assessment
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

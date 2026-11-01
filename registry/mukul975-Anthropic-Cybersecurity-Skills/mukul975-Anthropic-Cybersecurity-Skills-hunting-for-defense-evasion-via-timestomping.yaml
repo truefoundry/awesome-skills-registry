@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-defense-evasion-via-timestomping
+display_name: hunting-for-defense-evasion-via-timestomping
+description: Detect NTFS timestamp manipulation (MITRE T1070.006) by comparing $STANDARD_INFORMATION
+  vs $FILE_NAME timestamps in the MFT. Uses analyzeMFT and Python to identify files
+  with anomalous temporal patterns indicating anti-forensic timestomping activity.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-defense-evasion-via-timestomping
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

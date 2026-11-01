@@ -1,0 +1,18 @@
+id: K-Dense-AI-claude-scientific-skills-openpiv
+display_name: openpiv
+description: Performs Particle Image Velocimetry (PIV) analysis with OpenPIV. Use
+  when extracting velocity fields from PIV image pairs, analyzing fluid dynamics or
+  flow visualization experiments, cross-correlating interrogation windows, validating
+  and replacing spurious PIV vectors, or computing vorticity, strain rate, and turbulence
+  statistics from measured velocity fields.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/openpiv
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

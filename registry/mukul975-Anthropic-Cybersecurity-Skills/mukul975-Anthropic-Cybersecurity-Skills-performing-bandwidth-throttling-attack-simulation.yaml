@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-bandwidth-throttling-attack-simulation
+display_name: performing-bandwidth-throttling-attack-simulation
+description: Simulate bandwidth throttling and network degradation attacks using tc,
+  iperf3, and Scapy in authorized lab environments to test QoS controls, application
+  resilience, and monitoring detection of traffic manipulation. Use when validating
+  how VoIP, video, or other real-time applications and network monitoring tools respond
+  to degraded bandwidth or slowloris-style throttling attacks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-bandwidth-throttling-attack-simulation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

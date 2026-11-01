@@ -1,0 +1,14 @@
+id: SeanZoR-claude-speed-reader-speed
+display_name: speed
+description: Launch RSVP speed reader for text
+authors:
+- SeanZoR
+is_official: false
+tags: []
+category: none
+source:
+  path: /.claude/skills/speed
+  repo: SeanZoR/claude-speed-reader
+metadata:
+  stars: 18
+added_at: '2026-11-01'

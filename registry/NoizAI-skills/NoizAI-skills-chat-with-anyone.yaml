@@ -1,0 +1,20 @@
+id: NoizAI-skills-chat-with-anyone
+display_name: chat-with-anyone
+description: "Chat with any real person or fictional character in their own voice\
+  \ by automatically finding their speech online, extracting a clean reference sample,\
+  \ and generating audio replies. Also supports generating a matching voice from an\
+  \ uploaded image. Use when the user says \"\u6211\u60F3\u8DDFxxx\u804A\u5929\",\
+  \ \"\u4F60\u6765\u626E\u6F14xxx\u8DDF\u6211\u8BF4\u8BDD\", \"\u8BA9xxx\u7ED9\u6211\
+  \u8BB2\u8BB2\u8FD9\u7BC7\u6587\u7AE0\", \"\u6211\u60F3\u8DDF\u56FE\u7247\u4E2D\u7684\
+  \u4EBA\u8BF4\u8BDD\", or similar."
+authors:
+- NoizAI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/chat-with-anyone
+  repo: NoizAI/skills
+metadata:
+  stars: 532
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-research-lit
+display_name: research-lit
+description: Search and analyze research papers, find related work, summarize key
+  ideas. Use when user says "find papers", "related work", "literature review", "what
+  does this paper say", or needs to understand academic papers.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/research-lit
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

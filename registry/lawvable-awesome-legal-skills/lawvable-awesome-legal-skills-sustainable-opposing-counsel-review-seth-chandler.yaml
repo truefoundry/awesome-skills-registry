@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-sustainable-opposing-counsel-review-seth-chandler
+display_name: sustainable-opposing-counsel-review
+description: 'Produces an adversarial attack on a legal argument that survives reply.
+  Runs the opposing-counsel discipline twice: an unrestrained first pass, then the
+  same instrument turned on that pass to cut every point that collapses under challenge
+  - attacks on conceded facts, wrong-forum objections, speculation about documents
+  and motives, gotchas with innocent explanations, overclaims, self-refuting assertions,
+  and padding. The deliverable is one standalone attack containing only what can be
+  defended, capped at five heads, not a discussion of the discarded draft. Use to
+  attack, stress-test, red-team or rebut a submission, brief, motion, witness statement,
+  letter or structured legal reasoning. Triggers on "attack this but only with points
+  that hold", "no cheap shots", "what survives reply", "which points can I actually
+  defend", "give me the version I can file", "double-pass adversarial review". Also
+  use when an earlier adversarial review came back overlong or scattershot. Formal
+  British English.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sustainable-opposing-counsel-review-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

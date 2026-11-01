@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-test-prompt
+display_name: test-prompt
+description: Use when creating or editing any prompt (commands, hooks, skills, subagent
+  instructions) to verify it produces desired behavior - applies RED-GREEN-REFACTOR
+  cycle to prompt engineering using subagents for isolated testing
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/customaize-agent/skills/test-prompt
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

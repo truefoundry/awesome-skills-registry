@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-create-ideas
+display_name: create-ideas
+description: Generate ideas in one shot using creative sampling
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sdd/skills/create-ideas
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

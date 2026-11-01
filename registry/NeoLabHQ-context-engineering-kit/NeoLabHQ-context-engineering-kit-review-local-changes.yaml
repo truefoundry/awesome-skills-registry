@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-review-local-changes
+display_name: review-local-changes
+description: Review your local uncommitted working-tree changes (git diff plus untracked
+  files) and return actionable improvement suggestions. Use before committing, when
+  nothing has been pushed yet.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/review/skills/review-local-changes
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

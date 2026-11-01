@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nv-generate-mr
+display_name: nv-generate-mr
+description: Used for generating synthetic body MRI volumes with NV-Generate-CTMR
+  rflow-mr. Not for paired masks or production training data.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nv-generate-mr
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

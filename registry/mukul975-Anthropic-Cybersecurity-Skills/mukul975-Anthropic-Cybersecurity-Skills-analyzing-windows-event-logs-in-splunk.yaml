@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-windows-event-logs-in-splunk
+display_name: analyzing-windows-event-logs-in-splunk
+description: Analyzes Windows Security, System, and Sysmon event logs in Splunk to
+  detect authentication attacks, privilege escalation, persistence mechanisms, and
+  lateral movement using SPL queries mapped to MITRE ATT&CK techniques. Use when SOC
+  analysts need to investigate Windows-based threats, build detection queries, or
+  perform forensic timeline analysis of Windows endpoints and domain controllers.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-windows-event-logs-in-splunk
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

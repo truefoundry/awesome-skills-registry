@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-data-processing-agreement-art-28-gdpr-oliver-schmidt-prietz
+display_name: dpa-art-28-oliver-schmidt-prietz
+description: "Review, draft, or redline a Data Processing Agreement (DPA / Auftragsverarbeitungsvertrag\
+  \ / AVV) under Art. 28 GDPR, or prepare a Joint Controller Arrangement under Art.\
+  \ 26 GDPR. Supports bilingual output (DE/EN), both controller- and processor-side\
+  \ perspectives, and two review depths \u2014 quick (Art. 28(3)(a)\u2013(h) coverage)\
+  \ and negotiation-grade (clause-by-clause risk scoring)."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/data-processing-agreement-art-28-gdpr-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

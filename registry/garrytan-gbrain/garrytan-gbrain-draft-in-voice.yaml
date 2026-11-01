@@ -1,0 +1,20 @@
+id: garrytan-gbrain-draft-in-voice
+display_name: draft-in-voice
+description: "Ghostwrite content in a specific person's voice from a VALIDATED voice\
+  \ profile \u2014 tweets, replies, short posts, launch copy, recruiting blurbs, emails.\
+  \ Loads the subject's voice profile (people/<slug>-voice) plus first-party context\
+  \ from the brain, drafts 2-3 options in-register, then runs a hard voice-fidelity\
+  \ self-check before showing anything. Includes the profile BUILDER: if no validated\
+  \ profile exists, drafting hard-stops and this skill walks the corpus-to-fingerprint\
+  \ build instead. Never auto-posts."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/draft-in-voice
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

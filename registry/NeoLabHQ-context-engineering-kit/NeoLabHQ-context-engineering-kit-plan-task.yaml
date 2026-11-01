@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-plan-task
+display_name: plan-task
+description: Refine a draft task specification into a fully planned, implementation-ready
+  task with acceptance criteria, architecture, per-step sub-task files and verifiable
+  phases
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sdd/skills/plan-task
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

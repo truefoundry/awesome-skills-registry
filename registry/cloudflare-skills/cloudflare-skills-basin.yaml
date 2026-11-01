@@ -1,0 +1,17 @@
+id: cloudflare-skills-basin
+display_name: basin
+description: Build and troubleshoot Cloudflare Basin analytics workflows with Basin
+  Pipelines, Basin Catalog, and Basin SQL. Use for streaming data into R2 Iceberg
+  tables, managing catalogs, or querying those tables; also use for requests using
+  the former Data Platform, Pipelines, R2 Data Catalog, or R2 SQL names.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/basin
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

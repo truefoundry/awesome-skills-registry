@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-central-african-special-criminal-court-jeanne-sulzer
+display_name: cps-rca-central-african-republic-jeanne-sulzer
+description: "M\xE9thodologie \xAB verification-first \xBB pour la Cour P\xE9nale\
+  \ Sp\xE9ciale de Centrafrique (cour hybride, si\xE8ge \xE0 Bangui). Toute citation\
+  \ est v\xE9rifi\xE9e (JusticeInfo, FIDH, HRW, legal-tools.org ; les sites officiels\
+  \ renvoient souvent une erreur 403). Couvre l'affaire Paoua, le \xAB notamment \xBB\
+  \ de l'article 3, et la compl\xE9mentarit\xE9 avec la CPI. Aide \xE0 la recherche,\
+  \ pas un conseil juridique. Fait partie de la biblioth\xE8que open source \xAB Skills\
+  \ for International Justice \xBB \u2014 m\xE9thodologie : github.com/jeannesulzer/international-criminal-tribunals-skills"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/central-african-special-criminal-court-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: redis-agent-skills-redis-observability
+display_name: redis-observability
+description: "Redis observability guidance \u2014 which metrics to monitor (memory,\
+  \ connections, hit ratio, ops/sec, rejected connections), which built-in commands\
+  \ to reach for during incident triage (SLOWLOG, INFO, MEMORY DOCTOR, CLIENT LIST,\
+  \ FT.PROFILE), and when to use the Redis Insight GUI. Use when setting up monitoring\
+  \ or alerts for a Redis instance, diagnosing a performance regression, profiling\
+  \ a slow FT.SEARCH query, or wiring Redis metrics into Prometheus, Datadog, or similar."
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/redis-observability
+  repo: redis/agent-skills
+metadata:
+  stars: 171
+added_at: '2026-11-01'

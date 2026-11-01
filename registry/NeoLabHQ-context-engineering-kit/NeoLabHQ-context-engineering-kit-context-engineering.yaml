@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-context-engineering
+display_name: context-engineering
+description: Understand the components, mechanics, and constraints of context in agent
+  systems. Use when writing, editing, or optimizing commands, skills, or sub-agents
+  prompts.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/customaize-agent/skills/context-engineering
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

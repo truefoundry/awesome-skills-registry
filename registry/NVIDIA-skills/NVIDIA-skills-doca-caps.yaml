@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-caps
+display_name: doca-caps
+description: "Use this skill when the user wants to invoke the read-only doca_caps\
+  \ CLI to ask what DOCA sees on this host \u2014 listing DOCA devices and PCIe addresses,\
+  \ listing representor devices, asking which DOCA libraries are available on the\
+  \ current OS, checking per-device per-library capabilities, scoping output to a\
+  \ specific PCIe address, or capturing a side-effect-free capability snapshot for\
+  \ debug or install smoke-test. Trigger even when the user does not explicitly mention\
+  \ \"doca_caps\" or \"capabilities print tool\" \u2014 typical implicit phrasings\
+  \ include \"what does DOCA actually see on this box\", \"is my BlueField PF visible\
+  \ to DOCA\", \"is Flow available on my RHEL host\", \"enumerate VF representors\
+  \ for pf0\", \"doca_caps: command not found\", or \"empty output for RDMA, is the\
+  \ tool broken\". Refuse and route elsewhere for DOCA installation (doca-setup owns\
+  \ it; never walk the steps), library-internal capability matrices (Flow pipe creation,\
+  \ RDMA verbs features), streaming telemetry / DTS, or modifying the shipped binary."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-caps
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

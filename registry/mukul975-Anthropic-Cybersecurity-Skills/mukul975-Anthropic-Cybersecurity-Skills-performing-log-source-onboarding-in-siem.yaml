@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-log-source-onboarding-in-siem
+display_name: performing-log-source-onboarding-in-siem
+description: "Perform structured log source onboarding into SIEM platforms (Splunk,\
+  \ Elastic, Sentinel, QRadar, or similar) by prioritizing sources with a tiered value\
+  \ framework, configuring collectors, building parsers, normalizing fields to a common\
+  \ schema (e.g. CIM), and validating data quality. Use when planning or executing\
+  \ the integration of new log sources \u2014 such as Active Directory, firewalls,\
+  \ EDR, VPN, DNS, or cloud audit logs \u2014 into a SIEM for security monitoring\
+  \ and detection."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-log-source-onboarding-in-siem
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

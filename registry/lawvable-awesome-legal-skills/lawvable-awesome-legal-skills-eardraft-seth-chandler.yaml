@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-eardraft-seth-chandler
+display_name: eardraft
+description: "Transforms reading-oriented prose into listening-optimized text for\
+  \ flat, neutral vocal delivery \u2014 TTS, podcasts, audiobooks, CLE audio. Carries\
+  \ a legal layer: case citations, section symbols, subsection lettering, Latin terms\
+  \ and footnotes are unspeakable as written, so a brief, opinion, statute, contract\
+  \ or memo needs them expanded, restructured or stripped before it can be listened\
+  \ to \u2014 and quoted authority is never rewritten. Use when converting written\
+  \ content for audio, preparing oral argument by ear, producing CLE or client-facing\
+  \ audio, or making a document listenable on a commute. Triggers on \"make this listenable,\"\
+  \ \"convert for audio,\" \"optimize for reading aloud,\" \"prepare for TTS,\" \"\
+  make an audio version,\" \"podcast script,\" \"read this aloud.\" Supports English,\
+  \ French, Spanish, Italian, German and Portuguese; outputs plain text, ElevenLabs\
+  \ audio tags, or SSML for Amazon Polly, Google or Azure."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eardraft-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,21 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-app-structure
+display_name: makepad-2.0-app-structure
+description: "CRITICAL: Use for Makepad 2.0 app structure and Rust integration. Triggers\
+  \ on: makepad app, makepad getting started, app_main!, App::run, MatchEvent, AppMain,\
+  \ handle_event, handle_actions, ScriptVm, from_script_mod, makepad boilerplate,\
+  \ makepad new project, makepad cargo, Cargo.toml setup, hot reload, --hot, live\
+  \ reload, wasm deploy, cargo makepad, media plugin, audio_output, audio_input, AudioBuffer,\
+  \ cx.audio, makepad audio, \u97F3\u9891, \u5E94\u7528\u7ED3\u6784, \u5165\u95E8\
+  , \u65B0\u9879\u76EE, \u811A\u624B\u67B6, \u542F\u52A8, \u70ED\u91CD\u8F7D, \u90E8\
+  \u7F72"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-app-structure
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

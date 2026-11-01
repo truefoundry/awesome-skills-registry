@@ -1,0 +1,16 @@
+id: ognjengt-founder-skills-brand-copywriter
+display_name: brand-copywriter
+description: Writes marketing copy using proven copywriting frameworks. Use when user
+  needs copy for ads (Facebook, Instagram, TikTok, YouTube), landing pages, sales
+  pages, email sequences, LinkedIn posts, product descriptions, or any marketing content.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/brand-copywriter
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: garrytan-gbrain-blog-ingest
+display_name: blog-ingest
+description: "Feed and whole-publication ingestion: turn an entire blog, newsletter,\
+  \ or RSS/Atom archive into brain source pages. Covers feed discovery, pagination\
+  \ walking, normalization to a common article shape, canonical-URL dedup, idempotent\
+  \ re-runs, 429 pacing, and empty-husk repair. This is the PUBLICATION-scope skill\
+  \ \u2014 a single article URL routes to idea-ingest instead. Per-article enrichment\
+  \ hands off to the brain-ingest-gate skill; public posts only (gated content is\
+  \ skipped, never worked around)."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/blog-ingest
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

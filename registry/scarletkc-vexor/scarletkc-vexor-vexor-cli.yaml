@@ -1,0 +1,16 @@
+id: scarletkc-vexor-vexor-cli
+display_name: vexor-cli
+description: Semantic file discovery via `vexor`. Use whenever locating where something
+  is implemented/loaded/defined in a medium or large repo, or when the file location
+  is unclear. Prefer this over manual browsing.
+authors:
+- scarletkc
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/vexor/skills/vexor-cli
+  repo: scarletkc/vexor
+metadata:
+  stars: 248
+added_at: '2026-11-01'

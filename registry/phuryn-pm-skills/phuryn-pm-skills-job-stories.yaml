@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-job-stories
+display_name: job-stories
+description: Create job stories using the 'When [situation], I want to [motivation],
+  so I can [outcome]' format with detailed acceptance criteria. Use when writing job
+  stories, creating JTBD-style backlog items, or expressing user situations and motivations.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/job-stories
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

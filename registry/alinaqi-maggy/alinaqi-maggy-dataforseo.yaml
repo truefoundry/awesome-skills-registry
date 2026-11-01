@@ -1,0 +1,15 @@
+id: alinaqi-maggy-dataforseo
+display_name: dataforseo
+description: "Keyword & SERP research via the DataForSEO API \u2014 search volume,\
+  \ competition, CPC, keyword ideas for naming/SEO decisions"
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/dataforseo
+  repo: alinaqi/maggy
+metadata:
+  stars: 710
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: NVIDIA-skills-tilegym-converting-cutile-to-triton
+display_name: tilegym-converting-cutile-to-triton
+description: Converts cuTile GPU kernels (@ct.kernel) to Triton (@triton.jit). Handles
+  standard in-repo conversion, debugging (cudaErrorIllegalAddress, shape mismatch,
+  numerical mismatch), and mapping cuTile idioms (ct.load/ct.store, ct.Constant, ct.launch)
+  to Triton equivalents. Covers dual-kernel layout flags (e.g. transpose=True/False
+  + autotune grid via META) per translations/advanced-patterns.md. Use when converting,
+  porting, or translating cuTile kernels to Triton, or debugging existing Triton translations.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tilegym-converting-cutile-to-triton
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

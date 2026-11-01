@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-swot-analysis
+display_name: swot-analysis
+description: "Perform a detailed SWOT analysis \u2014 strengths, weaknesses, opportunities,\
+  \ and threats with actionable recommendations. Use when doing strategic assessment,\
+  \ competitive analysis, or evaluating a product or business position."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-strategy/skills/swot-analysis
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

@@ -1,0 +1,23 @@
+id: NVIDIA-skills-cdf-orchestration-write-dag
+display_name: cdf-orchestration-write-dag
+description: "Use when a user describes a custom CDF Orchestration pipeline \u2014\
+  \ a specific ordered combination of stages such as augmentation only, auto-labeling\
+  \ only, detection+captioning only, or image attribute augmentation without full\
+  \ auto-labeling \u2014 that no existing DAG in airflow/dags/workflows/ covers, and\
+  \ asks for a new Kubernetes DAG. Also use to check that a generated or existing\
+  \ DAG's model/container/prompt choices match an external spec document (e.g. a CDF\
+  \ `launchable.md`). Not for requests that an existing DAG already covers, including\
+  \ payload-only changes such as different inputs, endpoints, models, or variant counts\
+  \ \u2014 route those to the matching workflow skill, unless the user still wants\
+  \ a separate DAG after being pointed to it."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cdf-orchestration-write-dag
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: rameerez-claude-code-startup-skills-compress-images
+display_name: compress-images
+description: Compress images for web/SEO performance using cwebp. Use when optimizing
+  images for faster page loads, reducing file sizes, or converting JPG/PNG to WebP
+  format.
+authors:
+- rameerez
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/compress-images
+  repo: rameerez/claude-code-startup-skills
+metadata:
+  stars: 31
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-extraordinary-african-chambers-jeanne-sulzer
+display_name: eac-habre-jeanne-sulzer
+description: "M\xE9thodologie \xAB verification-first \xBB pour les Chambres Africaines\
+  \ Extraordinaires (proc\xE8s Hiss\xE8ne Habr\xE9, Dakar). Toute citation est v\xE9\
+  rifi\xE9e (forumchambresafricaines.org, legal-tools.org). Couvre le jugement du\
+  \ 30 mai 2016, l'arr\xEAt d'appel du 27 avril 2017 (r\xE9parations de 82,290 milliards\
+  \ FCFA pour 7 396 victimes), et la comp\xE9tence universelle. Aide \xE0 la recherche,\
+  \ pas un conseil juridique. Fait partie de la biblioth\xE8que open source \xAB Skills\
+  \ for International Justice \xBB \u2014 m\xE9thodologie : github.com/jeannesulzer/international-criminal-tribunals-skills"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/extraordinary-african-chambers-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

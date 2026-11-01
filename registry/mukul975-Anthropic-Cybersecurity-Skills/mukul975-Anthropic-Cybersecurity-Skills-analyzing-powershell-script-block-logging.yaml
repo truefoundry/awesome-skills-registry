@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-powershell-script-block-logging
+display_name: analyzing-powershell-script-block-logging
+description: Parse Windows PowerShell Script Block Logs (Event ID 4104) from EVTX
+  files to detect obfuscated commands, encoded payloads, and living-off-the-land techniques.
+  Uses python-evtx to extract and reconstruct multi-block scripts, applies entropy
+  analysis and pattern matching for Base64-encoded commands, Invoke-Expression abuse,
+  download cradles, and AMSI bypass attempts.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-powershell-script-block-logging
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

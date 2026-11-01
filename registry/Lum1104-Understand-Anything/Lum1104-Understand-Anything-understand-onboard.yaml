@@ -1,0 +1,15 @@
+id: Lum1104-Understand-Anything-understand-onboard
+display_name: understand-onboard
+description: Use when you need to generate an onboarding guide for new team members
+  joining a project
+authors:
+- Lum1104
+is_official: false
+tags: []
+category: none
+source:
+  path: /understand-anything-plugin/skills/understand-onboard
+  repo: Lum1104/Understand-Anything
+metadata:
+  stars: 89414
+added_at: '2026-11-01'

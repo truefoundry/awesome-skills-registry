@@ -1,0 +1,15 @@
+id: NVIDIA-skills-holoscan-install-wheel
+display_name: holoscan-install-wheel
+description: Install Holoscan SDK 5.x CUDA 13 Python wheels in an isolated environment,
+  choosing the full stack or version-matched components.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/holoscan-install-wheel
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

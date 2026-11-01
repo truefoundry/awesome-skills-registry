@@ -1,0 +1,16 @@
+id: obra-superpowers-executing-plans
+display_name: executing-plans
+description: "Use when executing an implementation plan in the current session as\
+  \ the implementer yourself \u2014 your human partner chose inline execution, or\
+  \ no subagent tool is available"
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/executing-plans
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

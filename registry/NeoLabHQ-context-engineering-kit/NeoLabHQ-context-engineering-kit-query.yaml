@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-query
+display_name: query
+description: Search the FPF knowledge base and display hypothesis details with assurance
+  information
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/fpf/skills/query
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

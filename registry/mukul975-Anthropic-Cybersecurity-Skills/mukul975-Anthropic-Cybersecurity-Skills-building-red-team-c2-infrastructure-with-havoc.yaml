@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-red-team-c2-infrastructure-with-havoc
+display_name: building-red-team-c2-infrastructure-with-havoc
+description: Deploy and configure the Havoc C2 framework (teamserver, HTTPS/HTTP/SMB
+  listeners, Nginx redirectors, and Demon agents) with malleable traffic profiles
+  and OPSEC-hardened infrastructure for authorized red team operations. Use when standing
+  up or hardening Havoc C2 infrastructure for a written, authorized adversary emulation
+  engagement.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-red-team-c2-infrastructure-with-havoc
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

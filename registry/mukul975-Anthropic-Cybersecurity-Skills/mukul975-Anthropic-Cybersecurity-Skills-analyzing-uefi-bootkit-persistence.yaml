@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-uefi-bootkit-persistence
+display_name: analyzing-uefi-bootkit-persistence
+description: Analyzes UEFI bootkit persistence (SPI flash implants, ESP modifications,
+  Secure Boot bypass, UEFI variable manipulation) using chipsec for firmware integrity
+  verification, detecting known families like BlackLotus, LoJax, and MoonBounce. Use
+  for UEFI malware analysis, firmware persistence investigation, or Secure Boot bypass
+  detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-uefi-bootkit-persistence
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

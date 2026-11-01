@@ -1,0 +1,15 @@
+id: dembrandt-dembrandt-skills-coordinated-data-views
+display_name: coordinated-data-views
+description: Show a table and its map, diagram, timeline or chart together, with selection
+  synced both ways. Use when data appears in two representations at once.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/coordinated-data-views
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

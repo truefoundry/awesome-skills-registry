@@ -1,0 +1,18 @@
+id: ReScienceLab-opc-skills-seo-geo
+display_name: seo-geo
+description: SEO & GEO (Generative Engine Optimization) for websites. Analyze keywords,
+  generate schema markup, optimize for AI search engines (ChatGPT, Perplexity, Gemini,
+  Copilot, Claude) and traditional search (Google, Bing). Use when user wants to improve
+  search visibility, search optimization, search ranking, AI visibility, ChatGPT ranking,
+  Google AI Overview, indexing, JSON-LD, meta tags, or keyword research.
+authors:
+- ReScienceLab
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/seo-geo
+  repo: ReScienceLab/opc-skills
+metadata:
+  stars: 1888
+added_at: '2026-11-01'

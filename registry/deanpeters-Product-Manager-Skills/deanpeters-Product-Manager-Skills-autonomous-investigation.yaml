@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-autonomous-investigation
+display_name: autonomous-investigation
+description: 'The protocol behind every investigation skill. Use when AI research
+  must proceed without you: search-plan gate, Fact/Inference/Assumption labels, confidence
+  stacking, diffable outputs.'
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/autonomous-investigation
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

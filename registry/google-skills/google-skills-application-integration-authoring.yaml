@@ -1,0 +1,20 @@
+id: google-skills-application-integration-authoring
+display_name: application-integration-authoring
+description: Builds, versions, publishes, tests, and executes Google Cloud Application
+  Integration workflows through the REST API and Python discovery client, and promotes
+  versions across environments. Use when listing integrations, downloading or uploading
+  integration versions as JSON, configuring API triggers or config variables, publishing
+  drafts, invoking integrations, or automating CI/CD promotion. Do not use for initial
+  region provisioning and IAM setup (use application-integration-basics) or diagnosing
+  failed runs and logs (use application-integration-troubleshooting).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/application-integration-authoring
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

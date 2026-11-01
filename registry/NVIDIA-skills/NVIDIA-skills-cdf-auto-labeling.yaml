@@ -1,0 +1,18 @@
+id: NVIDIA-skills-cdf-auto-labeling
+display_name: cdf-auto-labeling
+description: 'Use when a user needs to get started with CDF Auto-Labeling, plan a
+  scenario, run or debug a shipped cookbook, author prompts or cookbooks, migrate
+  a pipeline, configure a stage, or pull the prebuilt stage containers from NGC (nvcr.io).
+  Confirm critical inputs (data path, output path, endpoints) and ask when any are
+  missing. This is a router: read the matching reference instead of inventing a workflow.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cdf-auto-labeling
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

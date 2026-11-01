@@ -1,0 +1,14 @@
+id: mattpocock-skills-implement
+display_name: implement
+description: Implement a piece of work based on a spec or set of tickets.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/implement
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-verifying-build-provenance-with-slsa-sigstore
+display_name: verifying-build-provenance-with-slsa-sigstore
+description: Verifies artifact signatures and SLSA provenance using Sigstore's cosign
+  (verify, verify-attestation, verify-blob-attestation) and slsa-verifier (verify-artifact),
+  enforcing keyless OIDC builder identity and source repo against SLSA Build levels.
+  Use in CI/CD before deploying artifacts, when consuming third-party attestations,
+  establishing a SLSA Build L3 pipeline, or confirming provenance during incident
+  response or admission control.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/verifying-build-provenance-with-slsa-sigstore
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

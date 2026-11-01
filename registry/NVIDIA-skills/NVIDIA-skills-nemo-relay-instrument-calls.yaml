@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-relay-instrument-calls
+display_name: nemo-relay-instrument-calls
+description: Use this skill when an application owns tool or LLM/provider call sites
+  and needs to wrap them with NeMo Relay scopes and managed execution APIs for lifecycle
+  events, middleware, or guardrails.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-relay-instrument-calls
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

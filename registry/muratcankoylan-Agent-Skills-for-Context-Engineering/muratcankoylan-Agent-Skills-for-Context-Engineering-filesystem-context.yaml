@@ -1,0 +1,17 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-filesystem-context
+display_name: filesystem-context
+description: 'This skill should be used when agent work needs file-backed context:
+  durable scratchpads, tool-output offloading, just-in-time discovery, cross-agent
+  handoff files, filesystem memory, or cleanup policies for context stored outside
+  the prompt.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/filesystem-context
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

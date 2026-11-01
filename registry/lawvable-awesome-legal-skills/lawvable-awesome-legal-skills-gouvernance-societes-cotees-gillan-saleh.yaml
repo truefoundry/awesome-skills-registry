@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-gouvernance-societes-cotees-gillan-saleh
+display_name: gouvernance-emetteurs-cotes
+description: "Index analytiques sourc\xE9s du corpus r\xE9glementaire et doctrinal\
+  \ sur la gouvernance des \xE9metteurs cot\xE9s fran\xE7ais (rapports AMF et HCGE\
+  \ 2020-2025, guide d'application HCGE, rapport s\xE9natorial Rietmann/Gay, Code\
+  \ AFEP-MEDEF, sources l\xE9gales et europ\xE9ennes). \xC0 utiliser pour : (1) retrouver\
+  \ une position, une statistique ou une citation exacte avec sa source et sa page\
+  \ ; (2) analyser l'\xE9volution longitudinale des positions AMF/HCGE/ESMA sur un\
+  \ th\xE8me ; (3) appliquer la grille d'analyse en 13 blocs (A-M) \xE0 un \xE9metteur.\
+  \ D\xE9clencher pour toute question sur la gouvernance d'une soci\xE9t\xE9 cot\xE9\
+  e fran\xE7aise : conseil d'administration, ind\xE9pendance des administrateurs,\
+  \ comit\xE9s, r\xE9mun\xE9ration des dirigeants, say on pay, say on climate, assembl\xE9\
+  e g\xE9n\xE9rale, droits des actionnaires, plans de succession, mixit\xE9, RSE/CSRD,\
+  \ comply-or-explain, name and shame AMF, soft law AFEP-MEDEF, recommandations AMF,\
+  \ positions HCGE."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gouvernance-societes-cotees-gillan-saleh
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

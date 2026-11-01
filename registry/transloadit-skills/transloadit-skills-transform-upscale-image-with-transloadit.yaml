@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-upscale-image-with-transloadit
+display_name: transform-upscale-image-with-transloadit
+description: One-off AI image upscaling (local image -> upscaled image) using Transloadit
+  via the `transloadit` CLI. Prefer the `image upscale` intent and use `--output`
+  for a deterministic path.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-upscale-image-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

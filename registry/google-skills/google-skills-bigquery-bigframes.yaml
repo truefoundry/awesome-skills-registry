@@ -1,0 +1,17 @@
+id: google-skills-bigquery-bigframes
+display_name: bigquery-bigframes
+description: "Generates Python code using BigQuery DataFrames (BigFrames). Use by\
+  \ default for any Python data task involving BigQuery, including data processing,\
+  \ analysis, and machine learning. Don't use for SQL-first workflows or the google-cloud-bigquery\
+  \ client library \u2014 use bigquery-basics."
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/bigquery-bigframes
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

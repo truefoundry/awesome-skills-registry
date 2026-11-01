@@ -1,0 +1,18 @@
+id: NVIDIA-skills-bionemo-codonfm-score
+display_name: codonfm-score
+description: Validate, prepare, or run public CodonFM Encodon masked-codon variant
+  scoring and review compatibility of its scoring workflows. Use only when the user
+  explicitly requests CodonFM or Encodon, or that context is already established in
+  the conversation. Do not select this skill for a generic variant-scoring request
+  without that context; ask for the variant and intended analysis first.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-codonfm-score
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

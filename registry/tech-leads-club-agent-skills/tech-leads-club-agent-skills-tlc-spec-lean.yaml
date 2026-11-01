@@ -1,0 +1,20 @@
+id: tech-leads-club-agent-skills-tlc-spec-lean
+display_name: tlc-spec-lean
+description: 'Spec-driven feature work that freezes obligations instead of the plan:
+  one human-reviewed plan with EARS criteria, path, entities, interface and one-way
+  doors, then proof-backed checks, then build, then an independent Verifier. Use when
+  the user says "tlc-spec-lean", "plan feature", "specify feature", "write the checks",
+  "build this plan", or "verify work". Do NOT use for standalone design documents
+  unattached to a feature, architecture decomposition analysis, or work that already
+  has a task list or checklist to execute.'
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(development)/tlc-spec-lean
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 7120
+added_at: '2026-11-01'

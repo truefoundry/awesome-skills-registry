@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-privilege-escalation-in-kubernetes-pods
+display_name: detecting-privilege-escalation-in-kubernetes-pods
+description: 'Detects and prevents privilege escalation inside Kubernetes pods by
+  combining admission control (OPA policies), runtime monitoring (Falco), and audit
+  log analysis of security contexts, Linux capabilities, and syscall patterns. Use
+  when investigating a pod running as root or privileged, hardening workloads against
+  in-pod escalation, or hunting for containers exceeding their intended scope. Keywords:
+  allowPrivilegeEscalation, runAsRoot, capabilities, securityContext, OPA, Falco,
+  audit log. Do not use for escalation through RBAC and service-account permissions
+  - use auditing-kubernetes-rbac-privilege-escalation.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-privilege-escalation-in-kubernetes-pods
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

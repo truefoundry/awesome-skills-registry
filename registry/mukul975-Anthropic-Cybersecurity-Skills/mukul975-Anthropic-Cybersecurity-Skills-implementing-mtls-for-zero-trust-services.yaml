@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-mtls-for-zero-trust-services
+display_name: implementing-mtls-for-zero-trust-services
+description: Configures mutual TLS (mTLS) authentication between microservices using
+  Python cryptography library for certificate generation and ssl module for TLS verification.
+  Validates certificate chains, checks expiration, and audits mTLS deployment status.
+  Use when implementing zero-trust service-to-service authentication.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-mtls-for-zero-trust-services
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

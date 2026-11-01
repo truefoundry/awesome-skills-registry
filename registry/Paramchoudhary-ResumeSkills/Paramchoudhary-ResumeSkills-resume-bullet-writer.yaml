@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-resume-bullet-writer
+display_name: resume-bullet-writer
+description: Transform weak resume bullets into achievement-focused statements with
+  metrics and impact
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resume-bullet-writer
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: google-skills-google-cloud-recipe-auth
+display_name: google-cloud-recipe-auth
+description: Provides expert guidance on Identity and Access Management (IAM) and
+  authenticating and authorizing to Google Cloud services and APIs, covering human
+  users, service identities, Application Default Credentials (ADC), and best practices
+  for secure access.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/google-cloud-recipe-auth
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

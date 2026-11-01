@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-sujet-crfpa-allison-fiorentino
+display_name: sujet-crfpa-allison-fiorentino
+description: ">Ce skill g\xE9n\xE8re des sujets d'entra\xEEnement pour les deux \xE9\
+  preuves \xE9crites de consultation du CRFPA : l'\xE9preuve de droit des obligations\
+  \ (tronc commun) et l'\xE9preuve de sp\xE9cialit\xE9 (civil, affaires, social, p\xE9\
+  nal, administratif, international et europ\xE9en, fiscal). Chaque sujet est accompagn\xE9\
+  \ d'une grille de notation d\xE9taill\xE9e sur 20 points. Vous ciblez un th\xE8\
+  me pr\xE9cis, ou vous laissez le skill proc\xE9der \xE0 un tirage au sort couvrant\
+  \ l'ensemble du programme. Connexion aux MCP OpenLegi et GoodLegal requise : toutes\
+  \ les r\xE9f\xE9rences d'articles et d'arr\xEAts sont v\xE9rifi\xE9es sur les sources\
+  \ officielles, sans citation invent\xE9e"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sujet-crfpa-allison-fiorentino
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

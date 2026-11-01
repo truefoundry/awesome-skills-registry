@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-indian-dpdp-act-consent-notice-siddhi-kudalkar
+display_name: indian-dpdp-act-consent-notice-siddhi-kudalkar
+description: Draft or review a DPDPA-compliant consent notice under India's Digital
+  Personal Data Protection Act, 2023 and DPDPA Rules, 2025. Provide basic details
+  about your business and this skill handles the rest - building a notice tailored
+  to your operations, with all required sections, granular consent boxes, and internal
+  notes for your team. If you have an existing notice or privacy policy that needs
+  to comply with DPDPA, this skill revises it too, flagging key gaps and changes made.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/indian-dpdp-act-consent-notice-siddhi-kudalkar
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

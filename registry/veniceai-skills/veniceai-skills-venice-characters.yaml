@@ -1,0 +1,18 @@
+id: veniceai-skills-venice-characters
+display_name: venice-characters
+description: Discover and use Venice public characters (persona-driven system prompts
+  with a suggested model). Covers GET /characters (search/filter/sort/paginate), /characters/{slug},
+  /characters/{slug}/reviews, the Character and Review schemas, Bearer-API-key-only
+  auth, filter semantics (adult, pro, modelId), and how to apply a character via venice_parameters.character_slug
+  in chat completions.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-characters
+  repo: veniceai/skills
+metadata:
+  stars: 160
+added_at: '2026-11-01'

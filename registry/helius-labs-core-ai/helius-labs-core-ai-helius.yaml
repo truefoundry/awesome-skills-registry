@@ -1,0 +1,17 @@
+id: helius-labs-core-ai-helius
+display_name: helius
+description: Build Solana applications with Helius infrastructure. Covers transaction
+  sending (Sender), asset/NFT queries (DAS API), real-time streaming (WebSockets,
+  Laserstream), event pipelines (webhooks), priority fees, wallet analysis, and agent
+  onboarding.
+authors:
+- helius-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /helius-skills/helius
+  repo: helius-labs/core-ai
+metadata:
+  stars: 29
+added_at: '2026-11-01'

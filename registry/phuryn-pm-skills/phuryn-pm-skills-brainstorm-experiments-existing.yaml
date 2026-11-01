@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-brainstorm-experiments-existing
+display_name: brainstorm-experiments-existing
+description: "Design experiments to test assumptions for an existing product \u2014\
+  \ prototypes, A/B tests, spikes, and other low-effort validation methods. Use when\
+  \ validating assumptions, testing feature ideas cheaply, or planning product experiments."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/brainstorm-experiments-existing
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

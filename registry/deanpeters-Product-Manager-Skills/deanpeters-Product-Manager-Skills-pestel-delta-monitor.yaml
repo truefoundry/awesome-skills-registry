@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-pestel-delta-monitor
+display_name: pestel-delta-monitor
+description: "Quarterly re-scan of a prior PESTEL analysis. Use when checking which\
+  \ macro factors moved, which assumptions broke, and what's new \u2014 turning PESTEL\
+  \ from a workshop artifact into a radar."
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pestel-delta-monitor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

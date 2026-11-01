@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-mobile-api-authentication
+display_name: testing-mobile-api-authentication
+description: Tests authentication and authorization mechanisms in mobile application
+  APIs to identify broken authentication, insecure token management, session fixation,
+  privilege escalation, and IDOR vulnerabilities. Use when performing API security
+  assessments against mobile app backends, testing JWT implementations, evaluating
+  OAuth flows, or assessing session management. Activates for requests involving mobile
+  API auth testing, token security assessment, OAuth mobile flow testing, or API authorization
+  bypass.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-mobile-api-authentication
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

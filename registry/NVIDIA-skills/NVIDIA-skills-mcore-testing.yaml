@@ -1,0 +1,16 @@
+id: NVIDIA-skills-mcore-testing
+display_name: mcore-testing
+description: Test system for Megatron-LM. Covers test layout, recipe YAML structure,
+  adding and running unit and functional tests, golden values, marker filters, and
+  CI parity.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mcore-testing
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

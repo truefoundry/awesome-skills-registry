@@ -1,0 +1,19 @@
+id: garrytan-gbrain-bulk-ingestion
+display_name: bulk-ingestion
+description: "End-to-end discipline for turning any large data source (audio libraries,\
+  \ email takeouts, document corpora, chat exports, API dumps) into brain pages at\
+  \ scale. The lifecycle spine: SCHEMA \u2192 ACCESS \u2192 TRIAL \u2192 EVALUATE\
+  \ \u2192 IMPROVE \u2192 CODIFY \u2192 TEST \u2192 SKILLIFY \u2192 BULK \u2192 MONITOR.\
+  \ State is tracked in a durable JSON manifest (see MANIFEST-PATTERN.md) so any crash,\
+  \ session boundary, or subagent fan-out resumes from ground truth instead of memory."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/bulk-ingestion
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

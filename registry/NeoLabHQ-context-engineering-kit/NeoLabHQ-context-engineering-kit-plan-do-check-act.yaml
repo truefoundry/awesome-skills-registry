@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-plan-do-check-act
+display_name: plan-do-check-act
+description: Iterative PDCA cycle for systematic experimentation and continuous improvement
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/kaizen/skills/plan-do-check-act
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

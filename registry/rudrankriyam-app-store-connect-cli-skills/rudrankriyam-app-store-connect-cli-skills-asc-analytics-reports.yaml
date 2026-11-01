@@ -1,0 +1,17 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-analytics-reports
+display_name: asc-analytics-reports
+description: Collect, download, and verify App Store Connect Analytics reports with
+  asc. Use when users need to discover analytics report requests, select report instances
+  by processing date or granularity, download every segment, or verify downloaded
+  files against Apple's size and MD5 metadata before analysis.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-analytics-reports
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

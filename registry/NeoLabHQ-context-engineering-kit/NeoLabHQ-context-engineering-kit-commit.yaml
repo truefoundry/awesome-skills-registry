@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-commit
+display_name: commit
+description: Create well-formatted commits with conventional commit messages and emoji
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/git/skills/commit
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

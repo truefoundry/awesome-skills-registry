@@ -1,0 +1,18 @@
+id: NVIDIA-skills-bionemo-codonfm-finetune
+display_name: codonfm-finetune
+description: Fine-tune public CodonFM Encodon checkpoints on labeled coding-sequence
+  or coding-variant data using LoRA, head-only, or full fine-tuning. Use when a user
+  explicitly asks to fine-tune CodonFM or Encodon for regression or classification.
+  Support generic public-v1 Encodon workflows only; reject Decodon, MissenseDataset,
+  missense_synom_agg, and generation workflows.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-codonfm-finetune
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

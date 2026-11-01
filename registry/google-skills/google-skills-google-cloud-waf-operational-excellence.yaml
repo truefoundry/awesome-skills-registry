@@ -1,0 +1,20 @@
+id: google-skills-google-cloud-waf-operational-excellence
+display_name: google-cloud-waf-operational-excellence
+description: Generates operational guidance for CI/CD deployment pipelines, observability,
+  monitoring, logging, and incident management on Google Cloud based on the design
+  principles and recommendations in the Operational Excellence pillar of the Google
+  Cloud Well-Architected Framework (WAF). Use when the user asks about operations-related
+  topics like capacity management, change management, incident and problem management,
+  configuration management, deployment automation using infrastructure as code (IaC),
+  or operational health checks for Google Cloud workloads.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/google-cloud-waf-operational-excellence
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

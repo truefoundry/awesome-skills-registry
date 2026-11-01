@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-indian-foreign-investment-approval-assessment-siddhi-kudalkar
+display_name: indian-foreign-investment-approval-assessment-siddhi-kudalkar
+description: Assess whether Government of India approval is required for foreign investment
+  in an Indian company under Foreign Exchange Management Act, 1999 and the Non-Debt
+  Instruments Rules, 2019. The skill systematically gathers transaction details, evaluates
+  sectoral entry routes and caps, assesses land border country restrictions under
+  applicable laws, and delivers a preliminary compliance note. Produces clear guidance
+  on whether the investment falls within Automatic Route or requires Government approval.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/indian-foreign-investment-approval-assessment-siddhi-kudalkar
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

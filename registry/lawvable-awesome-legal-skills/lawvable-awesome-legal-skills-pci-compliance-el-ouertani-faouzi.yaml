@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-pci-compliance-el-ouertani-faouzi
+display_name: pci-compliance
+description: "Conseiller expert en conformit\xE9 PCI DSS v4.0.1 (seule version active\
+  \ depuis le 31 d\xE9cembre 2024). Utiliser pour toute question sur PCI DSS, la s\xE9\
+  curit\xE9 des paiements par carte, les donn\xE9es de titulaires, le p\xE9rim\xE8\
+  tre du CDE, les types de SAQ (A, A-EP, B, B-IP, C, C-VT, P2PE, D), le ROC, l'AOC,\
+  \ les \xE9valuations QSA, les scans ASV, les niveaux de marchands et de prestataires,\
+  \ la segmentation r\xE9seau, les tests d'intrusion, la tokenisation, le chiffrement\
+  \ du PAN, ou l'une des 12 exigences. Couvre la r\xE9vision SAQ A de janvier 2025\
+  \ (crit\xE8re d'\xE9ligibilit\xE9 r1, FAQ 1588), les exigences v4.0 obligatoires\
+  \ depuis le 31 mars 2025, et l'articulation avec DSP2, RGPD, NIS2 et DORA via les\
+  \ connecteurs MCP LibreJustice et EUR-Lex. D\xE9clencheurs : \xAB sommes-nous conformes\
+  \ PCI ? \xBB, \xAB quel SAQ s'applique ? \xBB, \xAB qu'est-ce qui a chang\xE9 en\
+  \ v4.0 ? \xBB, \xAB comment pr\xE9parer un audit QSA ? \xBB."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pci-compliance-el-ouertani-faouzi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

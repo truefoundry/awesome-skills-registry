@@ -1,0 +1,15 @@
+id: cloudflare-skills-workers-profiling
+display_name: workers-profiling
+description: Profile or debug CPU usage and memory allocation in deployed Cloudflare
+  Workers and Durable Objects. Then use this information to optimize your code.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/workers-profiling
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-figure-description
+display_name: figure-description
+description: "Process user-provided patent figures and generate formal drawing descriptions.\
+  \ Use when user says \"\u9644\u56FE\u5904\u7406\", \"figure description\", \"\u9644\
+  \u56FE\u8BF4\u660E\", \"drawings description\", or wants to describe patent figures\
+  \ with reference numerals."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/figure-description
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

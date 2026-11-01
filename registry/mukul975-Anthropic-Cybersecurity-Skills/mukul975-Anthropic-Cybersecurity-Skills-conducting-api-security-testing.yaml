@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-api-security-testing
+display_name: conducting-api-security-testing
+description: Conducts security testing of REST, GraphQL, and gRPC APIs to identify
+  vulnerabilities in authentication, authorization, rate limiting, input validation,
+  and business logic. The tester uses the OWASP API Security Top 10 as the testing
+  framework, combining Burp Suite interception with Postman collections and custom
+  scripts to test endpoint security at every privilege level. Activates for requests
+  involving API security testing, REST API pentest, GraphQL security assessment, or
+  API vulnerability testing.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-api-security-testing
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

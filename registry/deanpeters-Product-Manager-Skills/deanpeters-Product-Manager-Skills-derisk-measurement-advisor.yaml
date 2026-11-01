@@ -1,0 +1,15 @@
+id: deanpeters-Product-Manager-Skills-derisk-measurement-advisor
+display_name: derisk-measurement-advisor
+description: Identify what to measure, test, or track to de-risk a product or AI idea.
+  Use when stress-testing an idea across internal (DUFV) and external (PESTEL) dimensions.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/derisk-measurement-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

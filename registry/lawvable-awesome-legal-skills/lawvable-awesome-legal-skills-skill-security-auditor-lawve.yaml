@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-skill-security-auditor-lawve
+display_name: skill-security-auditor
+description: "Audit an AI agent skill before installing it. Use proactively whenever\
+  \ the user is about to add, install, enable, or evaluate an unfamiliar skill \u2014\
+  \ including phrases like \"audit this skill\", \"is this skill safe\", \"scan skill\
+  \ before install\", \"check skill for malicious code\", \"review this plugin\",\
+  \ or any pre-install gate on an untrusted, third-party, or community-distributed\
+  \ skill bundle. Runs ten categories of static checks (code execution, network exfiltration,\
+  \ credential harvesting, persistence, prompt injection, supply-chain hooks, obfuscation,\
+  \ destructive filesystem ops, secrets, Trojan Source / homoglyphs) and emits a PASS\
+  \ / WARN / FAIL verdict."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skill-security-auditor-lawve
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

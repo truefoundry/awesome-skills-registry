@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-network-traffic-with-wireshark
+display_name: analyzing-network-traffic-with-wireshark
+description: Captures and analyzes network packet data using Wireshark and tshark
+  to identify malicious traffic patterns, diagnose protocol issues, extract artifacts,
+  and support incident response investigations on authorized network segments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-network-traffic-with-wireshark
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

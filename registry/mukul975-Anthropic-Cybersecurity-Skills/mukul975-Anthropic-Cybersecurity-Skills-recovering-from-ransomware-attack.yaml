@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-recovering-from-ransomware-attack
+display_name: recovering-from-ransomware-attack
+description: 'Executes structured ransomware incident recovery following NIST/CISA
+  frameworks: environment isolation, forensic evidence preservation, clean infrastructure
+  rebuild, prioritized restoration from verified backups, credential reset, and Active
+  Directory/database recovery in dependency order. Use when recovering from a ransomware
+  attack, performing post-encryption restoration, or executing disaster recovery after
+  ransomware encryption.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/recovering-from-ransomware-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

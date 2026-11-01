@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-feed-aggregation-with-misp
+display_name: building-threat-feed-aggregation-with-misp
+description: Deploy MISP via Docker and configure feeds from sources like abuse.ch,
+  AlienVault OTX, and CIRCL to aggregate, correlate, and distribute threat intelligence,
+  including automated feed synchronization and STIX/TAXII-based integration with Splunk,
+  Elasticsearch, and SOAR platforms. Use when standing up centralized IOC management
+  or wiring multi-source threat feeds into a SIEM.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-feed-aggregation-with-misp
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

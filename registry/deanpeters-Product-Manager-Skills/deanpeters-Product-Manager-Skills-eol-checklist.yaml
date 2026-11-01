@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-eol-checklist
+display_name: eol-checklist
+description: Build a phase-gated EOL checklist sized to the sunset, with a named owner
+  on every item. Use when the decision to retire is made and you need the operational
+  plan.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eol-checklist
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

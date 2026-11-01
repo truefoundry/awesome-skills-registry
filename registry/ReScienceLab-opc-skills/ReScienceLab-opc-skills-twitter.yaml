@@ -1,0 +1,16 @@
+id: ReScienceLab-opc-skills-twitter
+display_name: twitter
+description: Search and retrieve content from Twitter/X. Get user info, tweets, replies,
+  followers, communities, spaces, and trends via twitterapi.io. Use when user mentions
+  Twitter, X, or tweets.
+authors:
+- ReScienceLab
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/twitter
+  repo: ReScienceLab/opc-skills
+metadata:
+  stars: 1888
+added_at: '2026-11-01'

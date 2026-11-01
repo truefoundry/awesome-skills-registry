@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-privileged-access-management-with-cyberark
+display_name: implementing-privileged-access-management-with-cyberark
+description: Deploy CyberArk Privileged Access Management to discover, vault, rotate,
+  and monitor privileged credentials across enterprise infrastructure, covering vault
+  architecture, session isolation, credential rotation policies, and integration with
+  NIST 800-53 access control requirements. Use when standing up CyberArk PAM, vaulting
+  privileged credentials, or designing credential rotation policies.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-privileged-access-management-with-cyberark
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

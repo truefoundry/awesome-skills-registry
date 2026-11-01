@@ -1,0 +1,17 @@
+id: NVIDIA-skills-nvflare-diagnose-job
+display_name: nvflare-diagnose-job
+description: 'Use when the user asks why a reported NVFLARE job failure signal occurred:
+  the job failed, stalled, timed out, lost clients, ended with EXECUTION_EXCEPTION,
+  or produced suspicious errors. Diagnose in simulation, POC, or production by collecting
+  bounded evidence and mapping failure patterns to recovery actions.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvflare-diagnose-job
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

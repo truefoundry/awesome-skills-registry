@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-opportunity-solution-tree
+display_name: opportunity-solution-tree
+description: "Build an Opportunity Solution Tree (OST) to structure product discovery\
+  \ \u2014 map a desired outcome to opportunities, solutions, and experiments. Based\
+  \ on Teresa Torres' Continuous Discovery Habits. Use when structuring discovery\
+  \ work, mapping opportunities to solutions, or deciding what to build next."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/opportunity-solution-tree
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

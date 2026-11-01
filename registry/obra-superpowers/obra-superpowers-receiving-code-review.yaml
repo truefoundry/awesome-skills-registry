@@ -1,0 +1,16 @@
+id: obra-superpowers-receiving-code-review
+display_name: receiving-code-review
+description: Use when receiving code review feedback, before implementing suggestions,
+  especially if feedback seems unclear or technically questionable - requires technical
+  rigor and verification, not performative agreement or blind implementation
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/receiving-code-review
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

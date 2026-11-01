@@ -1,0 +1,17 @@
+id: kreuzberg-dev-kreuzberg-xberg-extracting-keywords
+display_name: xberg-extracting-keywords
+description: "Use when extracting keywords (YAKE/RAKE) from documents \u2014 and,\
+  \ secondarily, when detecting document language or generating embeddings for RAG\
+  \ and search. Covers the keyword config (and its feature gating), `--detect-language`,\
+  \ and the standalone `embed` command with real flags."
+authors:
+- kreuzberg-dev
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/xberg-extracting-keywords
+  repo: kreuzberg-dev/kreuzberg
+metadata:
+  stars: 9491
+added_at: '2026-11-01'

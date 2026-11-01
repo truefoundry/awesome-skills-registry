@@ -1,0 +1,18 @@
+id: ognjengt-founder-skills-go-to-market-plan
+display_name: go-to-market-plan
+description: Analyzes the founder's business context to deliver 3 best go-to-market
+  strategies tailored to their current stage, product, and market. Asks up to 10 diagnostic
+  questions when needed to understand product readiness, target market clarity, competitive
+  positioning, and distribution channels. Use when user needs go-to-market strategy,
+  launch planning, market entry strategy, or actionable GTM roadmap.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/go-to-market-plan
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

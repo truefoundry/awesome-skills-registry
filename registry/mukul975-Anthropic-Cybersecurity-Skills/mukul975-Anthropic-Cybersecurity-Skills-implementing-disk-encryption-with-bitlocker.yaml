@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-disk-encryption-with-bitlocker
+display_name: implementing-disk-encryption-with-bitlocker
+description: Implements full disk encryption using Microsoft BitLocker on Windows
+  endpoints to protect data at rest from unauthorized access in case of device loss
+  or theft. Use when deploying encryption for compliance requirements, securing mobile
+  workstations, or implementing data protection controls across the enterprise. Activates
+  for requests involving BitLocker encryption, disk encryption, TPM configuration,
+  or data-at-rest protection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-disk-encryption-with-bitlocker
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

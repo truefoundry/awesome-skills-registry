@@ -1,0 +1,16 @@
+id: ognjengt-founder-skills-outreach-specialist
+display_name: outreach-specialist
+description: Crafts high-converting outreach messages and email sequences for cold
+  outreach, LinkedIn DMs, and follow-ups. Use when user needs personalized outreach
+  messages that book calls and get replies.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/outreach-specialist
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

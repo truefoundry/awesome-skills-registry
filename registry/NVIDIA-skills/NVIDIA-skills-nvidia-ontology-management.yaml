@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nvidia-ontology-management
+display_name: nvidia-ontology-management
+description: "Model and publish semantic definitions in Auto Ontology. Use for terms,\
+  \ relationships, measures, imports, and governed results\u2014not deployment or\
+  \ querying."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvidia-ontology-management
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

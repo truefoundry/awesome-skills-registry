@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-scotus-argument-analyzer-seth-chandler
+display_name: scotus-argument-analyzer
+description: 'Analyze a U.S. Supreme Court oral argument transcript for a lawyer who
+  has not read it: each advocate''s position, authorities discussed, the bench''s
+  concerns, tentative judicial leanings, possible dispositions, and advocacy strengths
+  and weaknesses, with transcript pinpoints. Use for oral argument analysis, a SCOTUS
+  argument report, or an assessment of how the justices approached a case. Requires
+  readable transcript content; research, Python tallying, and document creation are
+  optional, with disclosed fallbacks.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scotus-argument-analyzer-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

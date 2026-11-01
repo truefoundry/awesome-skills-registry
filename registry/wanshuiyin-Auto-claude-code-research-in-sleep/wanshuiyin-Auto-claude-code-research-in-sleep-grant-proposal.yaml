@@ -1,0 +1,21 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-grant-proposal
+display_name: grant-proposal
+description: "Draft a structured grant proposal from research ideas and literature.\
+  \ Supports KAKENHI (Japan), NSF (US), NSFC (China, including \u9762\u4E0A/\u9752\
+  \u5E74/\u4F18\u9752/\u6770\u9752/\u6D77\u5916\u4F18\u9752/\u91CD\u70B9), ERC (EU),\
+  \ DFG (Germany), SNSF (Switzerland), ARC (Australia), NWO (Netherlands), and generic\
+  \ formats. Use when user says \"write grant\", \"grant proposal\", \"\u7533\u8ACB\
+  \u66F8\", \"write KAKENHI\", \"\u79D1\u7814\u8CBB\", \"\u57FA\u91D1\u7533\u8BF7\"\
+  , \"\u5199\u57FA\u91D1\", \"NSF proposal\", or wants to turn research ideas into\
+  \ a funding application."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/grant-proposal
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

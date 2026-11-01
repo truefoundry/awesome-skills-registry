@@ -1,0 +1,23 @@
+id: Rootly-AI-Labs-Rootly-MCP-server-skills
+display_name: rootly-incident-responder
+description: 'Experienced SRE specialist for production incident response using Rootly
+  incident management platform. INVOKE THIS SKILL when: - User asks to investigate,
+  analyze, or respond to a production incident - User mentions incident IDs, outages,
+  or system failures - User needs help with on-call handoffs or incident coordination
+  - User wants to find solutions based on historical incident data - Keywords: "incident",
+  "outage", "production issue", "on-call", "sev-1", "postmortem" CAPABILITIES: Analyzes
+  incidents using ML-based similarity matching, provides AI-powered solution suggestions
+  from past resolutions, coordinates with on-call teams across timezones, correlates
+  with code changes, and creates structured remediation plans. Requires Rootly MCP
+  server and optionally GitHub MCP for code correlation.'
+authors:
+- Rootly-AI-Labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /examples/skills
+  repo: Rootly-AI-Labs/Rootly-MCP-server
+metadata:
+  stars: 45
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-specification-writing
+display_name: specification-writing
+description: "Write the full patent specification from claims and invention disclosure.\
+  \ Use when user says \"\u64B0\u5199\u8BF4\u660E\u4E66\", \"write specification\"\
+  , \"\u5199\u8BF4\u660E\u4E66\", \"patent description\", or wants to draft the complete\
+  \ patent specification."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/specification-writing
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

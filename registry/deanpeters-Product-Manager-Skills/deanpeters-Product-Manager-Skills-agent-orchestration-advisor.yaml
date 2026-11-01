@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-agent-orchestration-advisor
+display_name: agent-orchestration-advisor
+description: Design multi-agent AI workflows with clear boundaries, handoffs, and
+  monitoring. Use when a complex PM task should run as parallel specialized agents
+  instead of one linear process.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/agent-orchestration-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: NVIDIA-skills-nvflare-orient
+display_name: nvflare-orient
+description: Route open-ended NVFLARE advice and only conversion requests whose preliminary
+  source inspection reports unresolved or conflicting ownership; never load this skill
+  merely to inspect a concrete conversion request before selecting its detected framework
+  converter.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvflare-orient
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

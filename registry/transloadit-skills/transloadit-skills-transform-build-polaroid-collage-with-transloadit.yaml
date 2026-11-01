@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-build-polaroid-collage-with-transloadit
+display_name: transform-build-polaroid-collage-with-transloadit
+description: One-off polaroid-stack photo collage (N local images -> single image)
+  using the official `@transloadit/node` CLI. Uses the `/image/merge` Robot's `polaroid-stack`
+  effect and downloads the result to an explicit output path via `--output`.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-build-polaroid-collage-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

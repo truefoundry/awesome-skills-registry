@@ -1,0 +1,15 @@
+id: Xquik-dev-tweetclaw-tweetclaw
+display_name: tweetclaw
+description: Twitter bot guide for OpenClaw. Post, reply, search tweets, export followers
+  & monitor accounts through Xquik. Not affiliated with X Corp.
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tweetclaw
+  repo: Xquik-dev/tweetclaw
+metadata:
+  stars: 96
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-amc-run-rtsp-calibration
+display_name: amc-run-rtsp-calibration
+description: Calibrate a new dataset from live RTSP camera streams via the AutoMagicCalib
+  REST API. Use when the user provides RTSP URLs or asks to calibrate live cameras;
+  VIOS records clips, AMC ingests them, then runs calibration.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/amc-run-rtsp-calibration
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

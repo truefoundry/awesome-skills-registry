@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-nzism-tanaji-hemant-naik
+display_name: nzism
+description: 'Expert New Zealand Information Security Manual (NZISM) advisor for NZ
+  government agencies and their supply chains. Use for NZISM control guidance, gap
+  analysis, agency security obligations, classification framework (Unclassified through
+  Top Secret), security risk management, system certification, and GCSB/NCSC NZ compliance.
+  Triggers on: NZISM controls, NZ government security, GCSB compliance, agency cybersecurity
+  obligations, NZ classification markings, Restricted/Confidential/Secret system scoping,
+  agency security policies, third-party supplier security, Certification and Accreditation
+  (C&A), and any question about NZ government information security requirements or
+  the NZISM framework.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/nzism-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

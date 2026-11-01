@@ -1,0 +1,14 @@
+id: mattpocock-skills-software-factory
+display_name: Software Factory
+description: '---'
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/software-factory
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

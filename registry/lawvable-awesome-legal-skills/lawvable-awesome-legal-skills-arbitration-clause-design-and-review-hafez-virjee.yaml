@@ -1,0 +1,15 @@
+id: lawvable-awesome-legal-skills-arbitration-clause-design-and-review-hafez-virjee
+display_name: Arbitration Clause Design And Review Hafez Virjee
+description: Use this skill to help users draft, review and stress-test arbitration
+  clauses in commercial contracts.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/arbitration-clause-design-and-review-hafez-virjee
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-judicial-first-impression-larissa-meredith-flister
+display_name: Judicial First Impression
+description: "Assesses a legal argument, submission, or piece of structured reasoning\
+  \ from the perspective of a judge reading it cold under time pressure. Produces\
+  \ a structured seven-part assessment: what the case appears to be about, immediate\
+  \ points of confusion, what feels strong, what feels weak, what is assumed but unproved,\
+  \ a provisional confidence level (low/medium/high), and what would be needed to\
+  \ persuade. The skill does not rewrite, improve, or attack the argument \u2014 it\
+  \ tells you how it actually lands on a sceptical, experienced reader with no prior\
+  \ context. Works on skeleton arguments, witness statements, letters before action,\
+  \ position statements, academic articles, and non-legal structured reasoning."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/judicial-first-impression-larissa-meredith-flister
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

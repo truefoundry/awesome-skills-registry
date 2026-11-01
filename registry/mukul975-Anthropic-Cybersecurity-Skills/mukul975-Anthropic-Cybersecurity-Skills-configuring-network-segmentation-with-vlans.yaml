@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-network-segmentation-with-vlans
+display_name: configuring-network-segmentation-with-vlans
+description: Designs and implements VLAN-based (802.1Q) network segmentation on managed
+  switches to isolate zones such as corporate, servers, DMZ, guest, and IoT, and to
+  limit lateral movement paths. Use when segmenting an enterprise network into isolated
+  security zones, meeting compliance mandates (PCI-DSS, HIPAA, SOC 2) for network
+  isolation, or reducing blast radius from a security incident.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-network-segmentation-with-vlans
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

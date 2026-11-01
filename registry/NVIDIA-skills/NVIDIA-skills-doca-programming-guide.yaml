@@ -1,0 +1,23 @@
+id: NVIDIA-skills-doca-programming-guide
+display_name: doca-programming-guide
+description: "Use this skill when the user is writing their first DOCA app or asking\
+  \ a library-agnostic programming question \u2014 picking a shipped sample to copy\
+  \ and modify, wiring pkg-config + meson (or FFI from Rust / Go / Python against\
+  \ the public C ABI), walking the Core lifecycle (create \u2192 configure \u2192\
+  \ start \u2192 connect \u2192 use \u2192 stop \u2192 destroy), or decoding a DOCA_ERROR_*.\
+  \ Trigger on implicit phrasing: \"write my first DOCA program\", \"meson line for\
+  \ doca_rdma_*\", \"DOCA_ERROR_BAD_STATE on first call\", \"call DOCA from Rust\"\
+  , \"built clean but nothing on the wire\". Refuse install / hugepages / pkg-config\
+  \ (doca-setup), docs or version lookup (doca-public-knowledge-map), and library-internal\
+  \ API work (matching library skill)."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-programming-guide
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

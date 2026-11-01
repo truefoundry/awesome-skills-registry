@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-intrusion-prevention-with-suricata
+display_name: implementing-network-intrusion-prevention-with-suricata
+description: Deploys and configures Suricata as an inline network intrusion prevention
+  system, covering IPS mode setup (NFQueue), custom rule writing, Emerging Threats
+  ruleset management, performance tuning, and logging integration. Use when deploying
+  real-time inline traffic inspection to actively block malicious traffic, or when
+  tuning Suricata rules and performance for production IDS/IPS deployment.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-intrusion-prevention-with-suricata
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

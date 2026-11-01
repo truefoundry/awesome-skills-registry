@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-relay-plugin-observability
+display_name: nemo-relay-plugin-observability
+description: Use this skill when choosing or configuring NeMo Relay 0.6 or 0.7 observability
+  through the built-in plugin, subscribers, or exporters, including raw ATOF events,
+  ATIF trajectories, OpenTelemetry, OpenInference, or custom event handling.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-relay-plugin-observability
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

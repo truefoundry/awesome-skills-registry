@@ -1,0 +1,23 @@
+id: NVIDIA-skills-doca-telemetry-utils
+display_name: doca-telemetry-utils
+description: 'doca_telemetry_utils command line on a host with DOCA: discover the
+  diagnostic-counter schema, translate counter names to binary Data IDs and back,
+  and check per-device counter support before committing a DOCA Telemetry exporter
+  config. Use this skill when telemetry counters vanish between the exporter and the
+  collector: "my exporter ships but the collector sees nothing", "this metric silently
+  drops downstream", "which counters does this BlueField expose", "translate this
+  0x... back to a counter name", "what do node / pcie_index / depth mean here", or
+  "is this counter supported on this device", even without naming the tool. Route
+  exporter or collector code to doca-telemetry-exporter / doca-telemetry, DTS deployment
+  to doca-dts, and DOCA install or repair to doca-setup.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-telemetry-utils
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

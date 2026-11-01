@@ -1,0 +1,18 @@
+id: zxkane-aws-skills-aws-mcp-setup
+display_name: aws-mcp-setup
+description: Configure AWS MCP servers for documentation search and API access. Use
+  when setting up AWS MCP, configuring AWS documentation tools, troubleshooting MCP
+  connectivity, or when user mentions aws-mcp, awsdocs, uvx setup, or MCP server configuration.
+  Covers both Full AWS MCP Server (with uvx + credentials) and lightweight Documentation
+  MCP (no auth required).
+authors:
+- zxkane
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/aws-common/skills/aws-mcp-setup
+  repo: zxkane/aws-skills
+metadata:
+  stars: 373
+added_at: '2026-11-01'

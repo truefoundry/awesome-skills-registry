@@ -1,0 +1,18 @@
+id: google-skills-managed-airflow-dag-troubleshooting
+display_name: managed-airflow-dag-troubleshooting
+description: Provides guidance for troubleshooting Apache Airflow DAGs (failed DAG
+  runs and task instances) in Managed Service for Apache Airflow (MSAA; formerly Cloud
+  Composer). Use when figuring out reasons for DAG run or task instance failures.
+  Don't use when looking for overall recommendations for Managed Airflow environment
+  performance.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/managed-airflow-dag-troubleshooting
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

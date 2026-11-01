@@ -1,0 +1,19 @@
+id: garrytan-gbrain-resolve-before-asking
+display_name: resolve-before-asking
+description: "Gate on identity questions to the user. Before any \"who is X?\" (or\
+  \ role / relationship question) reaches the user, exhaust the brain's lookup chain:\
+  \ think \u2192 search + page read \u2192 mounted sources \u2192 timeline/graph \u2192\
+  \ web. If escalation survives the chain, ask WITH a hypothesis, never a bare unknown.\
+  \ Also owns the no-placeholders-at-ingest rule: pages created during bulk ingestion\
+  \ get their relationship/role resolved immediately."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resolve-before-asking
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

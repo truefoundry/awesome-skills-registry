@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-validating-backup-integrity-for-recovery
+display_name: validating-backup-integrity-for-recovery
+description: Validates backup integrity through cryptographic hash verification, automated
+  restore testing, corruption detection, and recoverability checks to confirm backups
+  are reliable for disaster recovery and ransomware response. Use before relying on
+  backups for recovery, when building post-backup validation pipelines, auditing backup
+  infrastructure for compliance, or checking immutable/air-gapped backups for silent
+  corruption or tampering.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/validating-backup-integrity-for-recovery
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

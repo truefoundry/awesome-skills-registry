@@ -1,0 +1,15 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-monitor-experiment
+display_name: monitor-experiment
+description: Monitor running experiments, check progress, collect results. Use when
+  user says "check results", "is it done", "monitor", or wants experiment output.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/monitor-experiment
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: prompt-security-clawsec-openclaw-audit-watchdog
+display_name: openclaw-audit-watchdog
+description: Automated daily security audits for OpenClaw agents with DM delivery
+  and optional email reporting. Runs deep audits, creates or updates a recurring cron
+  job, and sends formatted reports to configured recipients.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/openclaw-audit-watchdog
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

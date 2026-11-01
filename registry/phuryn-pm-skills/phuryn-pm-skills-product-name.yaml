@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-product-name
+display_name: product-name
+description: Brainstorm 5 unique, memorable product names with rationale aligned to
+  brand values and target audience. Use when naming a new product, rebranding, or
+  exploring product name ideas.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-marketing-growth/skills/product-name
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

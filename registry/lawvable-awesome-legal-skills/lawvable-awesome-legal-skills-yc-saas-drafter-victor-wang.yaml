@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-yc-saas-drafter-victor-wang
+display_name: yc-saas-drafter
+description: Drafts a customized Customer Agreement starting from the Y Combinator
+  standard form SaaS template. Tailors the agreement through structured intake questions
+  covering fee structure, data handling, ML rights, implementation services, and more.
+  Applies 18 always-on defaults that transform the raw YC form into a professional
+  starting point (renamed to "Customer Agreement", data privacy section added, warranty
+  restructured, consolidated SLA/support exhibit, etc.). Produces a clean .docx and
+  a lawyer-facing memo explaining every change from the YC standard. Use when user
+  says "draft a SaaS agreement", "YC SaaS", "startup SaaS contract", "customer agreement",
+  "SaaS subscription agreement", or "I need a SaaS agreement starting from the YC
+  form". Also trigger when the user is a startup founder discussing SaaS contracting,
+  even if they don't mention YC specifically.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/yc-saas-drafter-victor-wang
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

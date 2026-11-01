@@ -1,0 +1,19 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-research-refine
+display_name: research-refine
+description: "Turn a vague research direction into a problem-anchored, elegant, frontier-aware,\
+  \ implementation-oriented method plan via iterative GPT-6-Astra review. Use when\
+  \ the user says \"refine my approach\", \"\u5E2E\u6211\u7EC6\u5316\u65B9\u6848\"\
+  , \"decompose this problem\", \"\u6253\u78E8idea\", \"refine research plan\", \"\
+  \u7EC6\u5316\u7814\u7A76\u65B9\u6848\", or wants a concrete research method that\
+  \ stays simple, focused, and top-venue ready instead of a vague or overbuilt idea."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/research-refine
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-privacy-policy
+display_name: privacy-policy
+description: Draft a detailed privacy policy covering data types, jurisdiction, GDPR
+  and compliance considerations, and clauses needing legal review. Use when creating
+  a privacy policy, updating data protection documentation, or preparing for compliance.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-toolkit/skills/privacy-policy
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

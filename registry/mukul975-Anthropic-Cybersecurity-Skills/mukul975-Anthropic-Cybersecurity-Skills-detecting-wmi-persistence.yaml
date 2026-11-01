@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-wmi-persistence
+display_name: detecting-wmi-persistence
+description: Detect WMI event subscription persistence (MITRE T1546.003) by analyzing
+  Sysmon Event IDs 19, 20, and 21 for malicious EventFilter, EventConsumer, and FilterToConsumerBinding
+  creation, cross-referenced against root\subscription namespace contents and Sysinternals
+  Autoruns. Use when hunting WMI-based persistence, triaging a Sysmon alert on these
+  event IDs, or during incident response and purple-team validation of WMI defenses.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-wmi-persistence
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

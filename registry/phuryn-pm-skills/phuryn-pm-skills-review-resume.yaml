@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-review-resume
+display_name: review-resume
+description: Comprehensive PM resume review and tailoring against 10 best practices
+  including XYZ+S formula, keyword optimization, job-specific tailoring, and structure.
+  Use when reviewing a PM resume, preparing for job applications, or improving resume
+  impact.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-toolkit/skills/review-resume
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-oil-gas-cybersecurity-assessment
+display_name: performing-oil-gas-cybersecurity-assessment
+description: Conduct cybersecurity assessments of upstream, midstream, and downstream
+  oil and gas operations, covering pipeline SCADA, refinery DCS, safety instrumented
+  systems, and remote wellhead RTUs, and evaluate compliance with API 1164, TSA Pipeline
+  Security Directives, and IEC 62443. Use when assessing a refinery, pipeline, or
+  production facility or preparing for TSA/API compliance audits; not for IT-only
+  or purely physical-security assessments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-oil-gas-cybersecurity-assessment
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: google-skills-google-cloud-recipe-onboarding
+display_name: google-cloud-recipe-onboarding
+description: Guides a developer's first steps on Google Cloud, covering account creation,
+  billing setup, project management, and deploying a first resource. Use when a new
+  developer wants to initialize their first Google Cloud project, configure billing,
+  and verify deployment. Don't use for enterprise organization setup (use Google Cloud
+  Setup guided flow for that instead). Don't use for complex multi-project architectures.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/google-cloud-recipe-onboarding
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

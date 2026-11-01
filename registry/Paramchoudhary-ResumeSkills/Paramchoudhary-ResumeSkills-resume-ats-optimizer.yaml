@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-resume-ats-optimizer
+display_name: resume-ats-optimizer
+description: Optimize resumes for Applicant Tracking Systems, check ATS compatibility,
+  and analyze keyword match
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resume-ats-optimizer
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

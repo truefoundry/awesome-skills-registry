@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-host-header-injection
+display_name: testing-for-host-header-injection
+description: Test web applications for HTTP Host header injection vulnerabilities
+  to identify password reset poisoning, web cache poisoning, SSRF, and virtual host
+  routing manipulation risks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-host-header-injection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

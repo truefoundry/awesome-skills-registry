@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-privilege-escalation-on-linux
+display_name: performing-privilege-escalation-on-linux
+description: Guides manual enumeration and automated tooling to escalate from a low-privilege
+  Linux user to root by exploiting misconfigurations, vulnerable services, kernel
+  exploits, and weak permissions, mapped to MITRE ATT&CK. Use during authorized red
+  team engagements or penetration tests once initial low-privilege access on a Linux
+  host is obtained and root-level access is needed.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-privilege-escalation-on-linux
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

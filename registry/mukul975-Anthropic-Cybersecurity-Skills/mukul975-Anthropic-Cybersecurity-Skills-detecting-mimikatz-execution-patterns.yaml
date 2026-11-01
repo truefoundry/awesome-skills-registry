@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-mimikatz-execution-patterns
+display_name: detecting-mimikatz-execution-patterns
+description: Detect Mimikatz credential-dumping activity via command-line pattern
+  matching, LSASS access signatures, binary/hash indicators, and in-memory detection
+  of known Mimikatz modules. Use when threat hunting for T1003 credential access,
+  triaging EDR/SIEM alerts on LSASS access, scoping compromise during incident response,
+  or validating detection coverage in a purple team exercise.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-mimikatz-execution-patterns
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,21 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-project-development
+display_name: project-development
+description: 'This skill should be used for project-level decisions about LLM-powered
+  systems: whether an LLM is the right primitive for the task at hand, the shape of
+  a multi-stage batch or agent pipeline, token and cost estimation, choosing between
+  single-agent and multi-agent at the project level, structured output design for
+  downstream parsing, and structuring agent-assisted iteration. Use this when the
+  unit of work is a whole project or a multi-stage pipeline. Route individual tool
+  design to tool-design and individual skill-loading or context-budget tactics to
+  context-optimization.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/project-development
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

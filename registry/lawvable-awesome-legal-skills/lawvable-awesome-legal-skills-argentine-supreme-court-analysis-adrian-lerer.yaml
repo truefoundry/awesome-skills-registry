@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-argentine-supreme-court-analysis-adrian-lerer
+display_name: jurisrank
+description: "Argentine Supreme Court citation network analysis using JurisRank \u2014\
+  \ a peer-reviewed PageRank algorithm with temporal decay for measuring jurisprudential\
+  \ authority. Ranks precedents by citation influence, traces doctrinal evolution,\
+  \ and detects constitutional drift. Published methodology: JCLLT (DOI: 10.47852/bonviewJCLLT62027951).\
+  \ Activate with: which cases to cite, rank precedents, case authority, doctrinal\
+  \ evolution, Argentine Supreme Court, CSJN jurisprudence, citation network, leading\
+  \ case, legal research Argentina."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/argentine-supreme-court-analysis-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

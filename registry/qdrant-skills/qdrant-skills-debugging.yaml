@@ -1,0 +1,17 @@
+id: qdrant-skills-debugging
+display_name: qdrant-monitoring-debugging
+description: Diagnoses Qdrant production issues using metrics and observability tools.
+  Use when someone reports 'optimizer stuck', 'indexing too slow', 'memory too high',
+  'OOM crash', 'queries are slow', 'latency spike', or 'search was fast now it's slow'.
+  Also use when performance degrades without obvious config changes.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-monitoring/debugging
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

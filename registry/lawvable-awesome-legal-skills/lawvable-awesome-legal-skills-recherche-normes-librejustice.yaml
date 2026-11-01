@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-recherche-normes-librejustice
+display_name: recherche-normes
+description: Find and quote legal texts and administrative guidance with the LibreJustice
+  MCP tools, covering French codes at any date, EU law, treaties and bilateral accords,
+  foreign codes (59 countries), collective agreements, BOFiP and circulaires. Use
+  whenever the user asks what a text says or said at a given date, which version or
+  which text applies to a situation, needs the exact wording of a provision for a
+  brief, or works with foreign or international law in French litigation, even if
+  they never mention LibreJustice.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/recherche-normes-librejustice
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

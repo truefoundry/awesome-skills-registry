@@ -1,0 +1,20 @@
+id: sanjay3290-ai-skills-whatsapp
+display_name: whatsapp
+description: "Send and receive WhatsApp messages via the unofficial linked-device\
+  \ client pywhats (pip install pywhats) \u2014 pair with QR, send text/images, group\
+  \ chat, read receipts, presence/typing, and a long-running JSON event stream. Use\
+  \ when the user wants to script WhatsApp as a linked companion device (like WhatsApp\
+  \ Web), pair a device, send a WhatsApp from Python, or listen for inbound messages.\
+  \ Triggers: 'whatsapp', 'send whatsapp', 'pair whatsapp', 'pywhats', 'linked device',\
+  \ 'whatsapp web client'. NOT the official WhatsApp Business/Cloud API."
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/whatsapp
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

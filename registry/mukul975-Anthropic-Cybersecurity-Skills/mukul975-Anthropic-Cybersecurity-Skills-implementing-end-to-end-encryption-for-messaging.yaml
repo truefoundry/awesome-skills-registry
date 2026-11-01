@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-end-to-end-encryption-for-messaging
+display_name: implementing-end-to-end-encryption-for-messaging
+description: Implements a simplified Signal Protocol-style end-to-end encryption scheme
+  for messaging, covering key exchange, forward secrecy, and the core cryptographic
+  components so no server or intermediary can decrypt messages. Use when designing
+  or building E2EE messaging, or evaluating forward-secrecy and key-management tradeoffs
+  for a messaging system.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-end-to-end-encryption-for-messaging
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

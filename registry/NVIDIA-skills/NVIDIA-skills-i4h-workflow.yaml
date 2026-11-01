@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow
+display_name: i4h-workflow
+description: Orient users to the i4h workflow runtime and route them to the correct
+  stage skill. Use for architecture, support, or where-to-start questions; do not
+  execute a known stage.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: NVIDIA-skills-bionemo-openfold3-nim
+display_name: openfold3-nim
+description: Use this skill for OpenFold3, NVIDIA's BioNeMo NIM microservice for biomolecular
+  structure prediction. Invoke whenever the user mentions OpenFold3 or needs protein,
+  protein-ligand, protein-DNA/RNA, or multi-chain complex prediction with the hosted
+  NVIDIA API or local Docker NIM. Covers endpoint choice, auth, request payloads,
+  output artifacts, confidence scores, and local container setup.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-openfold3-nim
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-marketing-vs-product-system
+display_name: marketing-vs-product-system
+description: A marketing site and its product may differ in density and scale but
+  share one token layer. Use when the two drift apart, share components or need a
+  single token owner.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/marketing-vs-product-system
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

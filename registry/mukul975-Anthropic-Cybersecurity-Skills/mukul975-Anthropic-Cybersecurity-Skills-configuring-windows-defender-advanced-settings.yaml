@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-windows-defender-advanced-settings
+display_name: configuring-windows-defender-advanced-settings
+description: Configures Microsoft Defender for Endpoint (MDE) advanced protection
+  settings including attack surface reduction rules, controlled folder access, network
+  protection, and exploit protection. Use when hardening Windows endpoints beyond
+  default Defender settings, deploying enterprise-grade endpoint protection, or meeting
+  compliance requirements for advanced malware defense. Activates for requests involving
+  Windows Defender configuration, ASR rules, MDE tuning, or Microsoft endpoint security.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-windows-defender-advanced-settings
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

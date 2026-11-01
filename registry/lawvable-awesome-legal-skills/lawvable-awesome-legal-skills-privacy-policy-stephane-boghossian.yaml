@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-privacy-policy-stephane-boghossian
+display_name: privacy-policy-stephane-boghossian
+description: "A zero-hallucination privacy-policy generator that takes anyone \u2014\
+  \ non-lawyer founder to lawyer \u2014 from a guided intake to a publishable, jurisdiction-aware\
+  \ privacy policy. Jurisdiction-first: it detects which laws apply from where your\
+  \ users are, then drafts only the required clauses \u2014 GDPR/EU + UK, US (CCPA/CPRA,\
+  \ ~20 state laws, COPPA, sector overlays), and global/MENA (LGPD, Quebec Law 25,\
+  \ India DPDP, China PIPL, UAE/DIFC, Saudi PDPL), plus app-store, cookies, and AI/EU\
+  \ AI Act disclosures. Its rule: state only what you confirm; never invent a statute,\
+  \ citation, fine, or date \u2014 every claim is source-cited and QA-gated. Not legal\
+  \ advice."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/privacy-policy-stephane-boghossian
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: NVIDIA-skills-hsb-app
+display_name: hsb-app
+description: Discover and run Holoscan Sensor Bridge example applications on a connected
+  devkit. Filters available apps by the user's platform, HSB software version, board
+  type, and sensors. Supports timed execution, failure analysis, code-edit suggestions,
+  and iterative re-runs.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/hsb-app
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

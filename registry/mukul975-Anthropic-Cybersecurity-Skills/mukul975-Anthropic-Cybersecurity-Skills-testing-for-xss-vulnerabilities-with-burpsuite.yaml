@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-xss-vulnerabilities-with-burpsuite
+display_name: testing-for-xss-vulnerabilities-with-burpsuite
+description: Identifying and validating cross-site scripting vulnerabilities using
+  Burp Suite's scanner, intruder, and repeater tools during authorized security assessments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-xss-vulnerabilities-with-burpsuite
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

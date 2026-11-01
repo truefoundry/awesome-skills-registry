@@ -1,0 +1,17 @@
+id: NVIDIA-skills-bionemo-kermt-add-cmim-pretrain
+display_name: kermt-add-cmim-pretrain
+description: Convert a grover_base checkpoint (encoder-only or encoder + vocab heads)
+  into a hybrid checkpoint by adding a randomly-initialized cMIM decoder + latent_dist,
+  then continue pretraining on the user's corpus as hybrid (vocab + contrast). Effectively
+  kermt-continue-pretrain with a one-time ckpt-conversion step prepended.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-kermt-add-cmim-pretrain
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

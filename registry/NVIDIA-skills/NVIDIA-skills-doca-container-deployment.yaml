@@ -1,0 +1,25 @@
+id: NVIDIA-skills-doca-container-deployment
+display_name: doca-container-deployment
+description: 'Running an in-bundle DOCA service as a container on a BlueField (Argus,
+  DMS, Firefly, or UROM service): kubelet standalone watching a static-pod manifests
+  directory, YAML pod-spec drop, kubelet status / ENTRYPOINT logs / per-service liveness.
+  Trigger on "how do I run my built service on the BlueField?", "where do I drop the
+  pod-spec YAML?", "pod stuck in Pending / ImagePullBackOff / CrashLoopBackOff", "container
+  Running but service isn''t ready", "pod restart-loops after edit", or "DMS and Firefly
+  together", even without naming container deployment. A DOCA-linked binary launched
+  directly on the host or Arm belongs to doca-bare-metal-deployment. Covers smoke-before-bulk
+  and the layered error taxonomy (pod-spec, scheduling, image pull, runtime, mount,
+  network, version, host). Refuse and route elsewhere for per-service config schemas,
+  DOCA install, library-API questions, external NVIDIA services (BlueMan, HBN, SNAP,
+  Virtio-net), or full Kubernetes-cluster ops.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-container-deployment
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

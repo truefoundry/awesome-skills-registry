@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-research-wiki
+display_name: research-wiki
+description: "Persistent research knowledge base that accumulates papers, ideas, experiments,\
+  \ claims, and their relationships across the entire research lifecycle. Inspired\
+  \ by Karpathy's LLM Wiki pattern. Use when user says \"\u77E5\u8BC6\u5E93\", \"\
+  research wiki\", \"add paper\", \"wiki query\", \"\u67E5\u77E5\u8BC6\u5E93\", or\
+  \ wants to build/query a persistent field map."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/research-wiki
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

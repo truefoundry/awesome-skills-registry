@@ -1,0 +1,16 @@
+id: NVIDIA-skills-dynamo-troubleshoot
+display_name: dynamo-troubleshoot
+description: Diagnose failed or unhealthy Dynamo deployments. Use when pods, model-cache
+  jobs, PVCs, workers, frontend/router health, endpoints, or benchmark jobs fail;
+  use recipe-runner/router-starter before this for normal bring-up.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/dynamo-troubleshoot
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

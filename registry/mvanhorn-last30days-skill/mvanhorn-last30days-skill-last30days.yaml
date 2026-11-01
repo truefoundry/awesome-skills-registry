@@ -1,0 +1,17 @@
+id: mvanhorn-last30days-skill-last30days
+display_name: last30days
+description: Research what people actually say about any topic in the last 30 days.
+  Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket,
+  GitHub, and the web. Includes a doctor health check to diagnose broken or missing
+  sources.
+authors:
+- mvanhorn
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/last30days
+  repo: mvanhorn/last30days-skill
+metadata:
+  stars: 66119
+added_at: '2026-11-01'

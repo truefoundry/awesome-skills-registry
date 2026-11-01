@@ -1,0 +1,16 @@
+id: transloadit-skills-docs-transloadit-robots
+display_name: docs-transloadit-robots
+description: Offline lookup for Transloadit Robots and their parameter docs/examples
+  via the `transloadit` CLI. Use to draft or validate `steps` JSON without guessing
+  robot names/params.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/docs-transloadit-robots
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

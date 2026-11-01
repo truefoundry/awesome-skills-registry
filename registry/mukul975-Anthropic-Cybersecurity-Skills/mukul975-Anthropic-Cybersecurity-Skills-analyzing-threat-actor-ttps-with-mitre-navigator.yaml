@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-threat-actor-ttps-with-mitre-navigator
+display_name: analyzing-threat-actor-ttps-with-mitre-navigator
+description: Map advanced persistent threat (APT) group TTPs to the MITRE ATT&CK framework
+  using the attackcti Python library to query STIX/TAXII data for group-technique
+  associations, then generate ATT&CK Navigator layer files to visualize and compare
+  defensive coverage against adversary profiles. Use when profiling an APT group's
+  techniques, building Navigator coverage heatmaps, or assessing technique coverage
+  gaps against a specific threat actor.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-threat-actor-ttps-with-mitre-navigator
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

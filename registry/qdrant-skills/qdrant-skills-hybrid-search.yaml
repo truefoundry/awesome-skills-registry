@@ -1,0 +1,19 @@
+id: qdrant-skills-hybrid-search
+display_name: qdrant-hybrid-search
+description: 'Explains hybrid search in Qdrant. Use when someone asks ''how do I setup
+  hybrid search?'', ''how to combine keyword and semantic search?'', ''sparse plus
+  dense vectors?'', ''missing keyword matches'', ''how to combine results from multiple
+  searches?'' and ''combining multiple representations''. Also use for how a hybrid
+  query is scoped: ''how is IDF scoped?'', ''can one tenant''s data contaminate another
+  tenant''s scoring?''. Also ''BM25 on a text index or sparse vectors?'''
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-search-quality/search-strategies/hybrid-search
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

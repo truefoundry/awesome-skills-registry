@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-competitive-battlecard
+display_name: competitive-battlecard
+description: "Create sales-ready competitive battlecards comparing your product against\
+  \ a specific competitor \u2014 positioning, feature comparison, objection handling,\
+  \ and win/loss patterns. Use when preparing sales teams, creating competitive materials,\
+  \ or responding to 'why not competitor X?'"
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-go-to-market/skills/competitive-battlecard
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

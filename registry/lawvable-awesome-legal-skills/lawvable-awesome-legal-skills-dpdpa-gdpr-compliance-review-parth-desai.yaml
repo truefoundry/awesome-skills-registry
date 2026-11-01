@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-dpdpa-gdpr-compliance-review-parth-desai
+display_name: dpdpa-gdpr-review-parth-desai
+description: Performs structured compliance review, clause redlining, and drafting
+  suggestions for legal documents (privacy policies, data processing agreements, vendor
+  and SaaS contracts) against India's DPDPA 2023 and the EU GDPR. Flags clauses as
+  compliant, at-risk, or non-compliant with reasoning, and proposes ready-to-use model
+  replacement language.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/dpdpa-gdpr-compliance-review-parth-desai
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

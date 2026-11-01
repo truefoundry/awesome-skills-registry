@@ -1,0 +1,23 @@
+id: NVIDIA-skills-tao-run-deft-pas
+display_name: tao-run-deft-pas
+description: Run iterative improvement for NVIDIA TAO CLIP / SigLIP image-text retrieval
+  on attribute-labelled data. Use when a request combines retrieval evaluation, weak-attribute
+  or caption-pair mining, repeated retraining, and a stopping condition based on a
+  retrieval KPI, validation plateau, or iteration budget; the customer need not know
+  the DEFT or People Attribute Search (PAS) names. The self-contained workflow performs
+  dataset preparation, zero-shot evaluation, attribute gap analysis, caption-space
+  k-NN mining, history-aware selection, retraining, and re-evaluation. Treat `tao-deft-pas`
+  as shorthand for this canonical `tao-run-deft-pas` workflow. Do not use for standalone
+  CLIP training, one-off evaluation or embedding, generic k-NN mining, or AOI/ChangeNet
+  DEFT workflows.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-run-deft-pas
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

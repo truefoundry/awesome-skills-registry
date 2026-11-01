@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-malicious-url-with-urlscan
+display_name: analyzing-malicious-url-with-urlscan
+description: URLScan.io is a free service for scanning and analyzing suspicious URLs.
+  It captures screenshots, DOM content, HTTP transactions, JavaScript behavior, and
+  network connections of web pages in an isolat
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-malicious-url-with-urlscan
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

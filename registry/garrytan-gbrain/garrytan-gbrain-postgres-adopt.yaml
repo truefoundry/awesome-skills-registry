@@ -1,0 +1,18 @@
+id: garrytan-gbrain-postgres-adopt
+display_name: postgres-adopt
+description: Detect which gbrain engine is in use (PGLite vs Postgres), prefer Postgres
+  for agent-harness installs, install/provision Postgres (Supabase discovery via SUPABASE_ACCESS_TOKEN,
+  local Postgres, opt-in Docker), and move an existing PGLite brain to Postgres with
+  its history (plan, ask, run). Detection is one engine-free command; the install
+  ladder is one flag.
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/postgres-adopt
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

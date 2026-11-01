@@ -1,0 +1,14 @@
+id: mattpocock-skills-loop-me
+display_name: loop-me
+description: Grill me about specs for the workflows I want to build, within this workspace.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/loop-me
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

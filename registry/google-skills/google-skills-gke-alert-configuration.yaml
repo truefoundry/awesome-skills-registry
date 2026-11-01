@@ -1,0 +1,20 @@
+id: google-skills-gke-alert-configuration
+display_name: gke-alert-configuration
+description: Configures alerting policies in Terraform for Google Kubernetes Engine
+  (GKE) clusters, workloads, and services using PromQL and Google Cloud Managed Service
+  for Prometheus. Use when writing, analyzing, validating, or deploying Terraform
+  alerting policies to monitor GKE service latency, traffic, error rates using Multi-Window
+  Multi-Burn-Rate SLO alerts, memory saturation, and cluster health such as CrashLoopBackOff
+  and Node NotReady conditions. Don't use for non-GKE compute runtimes such as standalone
+  Compute Engine VMs or standalone Cloud Run services without GKE.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-alert-configuration
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

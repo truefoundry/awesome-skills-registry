@@ -1,0 +1,21 @@
+id: fvadicamo-dev-agent-skills-privacy-guard
+display_name: privacy-guard
+description: Prevents private infrastructure details (node hostnames, internal project
+  names, local usernames and personal emails, absolute home paths, private and VPN
+  IP ranges) from leaking into public repositories through commits, PRs, docs or release
+  artifacts. Use when working in a public or soon-to-be-public repo, before commits
+  or releases, when writing deployment docs for an OSS project, or when the user asks
+  to "set up the privacy guard", "install privacy-guard", "check for leaks", "protect
+  this public repo". Bootstraps a pre-commit hook backed by a gitignored local denylist
+  plus gitleaks.
+authors:
+- fvadicamo
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/privacy-guard/skills/privacy-guard
+  repo: fvadicamo/dev-agent-skills
+metadata:
+  stars: 72
+added_at: '2026-11-01'

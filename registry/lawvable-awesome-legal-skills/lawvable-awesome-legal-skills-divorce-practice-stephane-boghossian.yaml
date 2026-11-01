@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-divorce-practice-stephane-boghossian
+display_name: divorce-practice-stephane-boghossian
+description: "AI co-counsel for divorce and family-law attorneys \u2014 a jurisdiction-portable\
+  \ scaffold spanning the full matter lifecycle. Eight operating modes mirror how\
+  \ a matter actually moves: intake and onboarding, financial disclosure, children\
+  \ and support, property division and QDRO, discovery and document review, drafting,\
+  \ negotiation and mediation prep, and court prep \u2014 plus post-judgment modification\
+  \ and enforcement. The methodology is jurisdiction-agnostic: it forces real, verifiable\
+  \ research for every local form, formula, or rule rather than inventing one, handling\
+  \ common-law, community-property, civil-law, and MENA personal-status regimes as\
+  \ variables. Built around one non-negotiable: privilege. It drafts, analyzes, organizes,\
+  \ and pressure-tests. It is not the lawyer."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/divorce-practice-stephane-boghossian
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

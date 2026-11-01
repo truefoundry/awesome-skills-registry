@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-reference-list-builder
+display_name: reference-list-builder
+description: Format professional references properly and prepare reference materials
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/reference-list-builder
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

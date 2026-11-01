@@ -1,0 +1,27 @@
+id: lawvable-awesome-legal-skills-note-de-synthese-crfpa-allison-fiorentino
+display_name: note-de-synthese-crfpa
+description: "G\xE9n\xE9ration de sujets d'entra\xEEnement complets pour l'\xE9preuve\
+  \ de NOTE DE SYNTH\xC8SE (5 heures, coefficient 3) de l'examen d'acc\xE8s au CRFPA\
+  \ : choix du sujet, dossier documentaire de 16 \xE0 20 documents assembl\xE9 \xE0\
+  \ partir de sources r\xE9elles v\xE9rifi\xE9es (textes, jurisprudence, travaux parlementaires,\
+  \ doctrine) avec contr\xF4le du verbatim, puis grille de notation au mod\xE8le de\
+  \ la Commission nationale (r\xE9sum\xE9 de chaque document, probl\xE9matique, th\xE8\
+  mes cot\xE9s sur 20, plan). Livraison en deux fichiers .docx distincts, le sujet\
+  \ et la grille. Si l'utilisateur n'impose pas de sujet, en chercher un dans l'actualit\xE9\
+  \ juridique. Mode aveugle pour l'\xE9tudiant qui compose sans rien voir du corrig\xE9\
+  . D\xE9clencher d\xE8s que l'utilisateur demande un sujet de note de synth\xE8se,\
+  \ un dossier documentaire, une note de synth\xE8se blanche, un entra\xEEnement \xE0\
+  \ l'\xE9preuve de 5 heures du CRFPA ou de l'IEJ, ou une grille de note de synth\xE8\
+  se. NE PAS d\xE9clencher pour les \xE9preuves de 3 heures (sujet-crfpa-toutes-matieres)\
+  \ ni pour la correction de copies."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/note-de-synthese-crfpa-allison-fiorentino
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

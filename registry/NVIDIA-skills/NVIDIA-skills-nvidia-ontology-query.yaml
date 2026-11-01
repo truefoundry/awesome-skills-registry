@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nvidia-ontology-query
+display_name: nvidia-ontology-query
+description: Query Auto Ontology and validate generated SQL, rows, and answers. Use
+  for MCP or REST access, readiness, authentication, conversations, and grounded questions.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvidia-ontology-query
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-prioritize-assumptions
+display_name: prioritize-assumptions
+description: "Prioritize assumptions using an Impact \xD7 Risk matrix and suggest\
+  \ experiments for each. Use when triaging a list of assumptions, deciding what to\
+  \ test first, or applying the assumption prioritization canvas."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/prioritize-assumptions
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

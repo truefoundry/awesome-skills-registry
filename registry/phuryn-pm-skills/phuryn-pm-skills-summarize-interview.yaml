@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-summarize-interview
+display_name: summarize-interview
+description: Summarize a customer interview transcript into a structured template
+  with JTBD, satisfaction signals, and action items. Use when processing interview
+  recordings or transcripts, synthesizing discovery interviews, or creating interview
+  summaries.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/summarize-interview
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

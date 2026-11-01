@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-social-engineering-pretext-call
+display_name: conducting-social-engineering-pretext-call
+description: Plan and execute authorized vishing (voice phishing) pretext calls to
+  assess employee susceptibility to social engineering and evaluate security awareness
+  controls.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-social-engineering-pretext-call
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

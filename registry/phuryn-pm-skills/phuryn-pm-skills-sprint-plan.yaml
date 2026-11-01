@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-sprint-plan
+display_name: sprint-plan
+description: Plan a sprint with capacity estimation, story selection, dependency mapping,
+  and risk identification. Use when preparing for sprint planning, estimating team
+  capacity, selecting stories, or balancing sprint scope against velocity.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/sprint-plan
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

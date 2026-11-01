@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-memory-protection-with-dep-aslr
+display_name: implementing-memory-protection-with-dep-aslr
+description: Implements memory protection mechanisms including DEP (Data Execution
+  Prevention), ASLR (Address Space Layout Randomization), CFG (Control Flow Guard),
+  and other exploit mitigations to prevent memory corruption attacks. Use when hardening
+  endpoints against buffer overflow exploits, ROP chains, and code injection. Activates
+  for requests involving memory protection, exploit mitigation, DEP, ASLR, or CFG
+  configuration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-memory-protection-with-dep-aslr
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

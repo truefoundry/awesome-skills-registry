@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-word-editor-openai
+display_name: docx-processing-openai
+description: 'Toolkit for comprehensive document reading, editing, and creation with
+  visual quality control. Use to work with Word documents (.docx files) for: (1) Reading
+  or extracting content from existing DOCX files, (2) Creating new Word documents
+  with professional formatting, (3) Editing documents requiring precise typography
+  and layout, or any other DOCX reading or generation tasks.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/word-editor-openai
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

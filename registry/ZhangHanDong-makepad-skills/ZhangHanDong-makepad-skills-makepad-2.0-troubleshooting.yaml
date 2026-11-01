@@ -1,0 +1,24 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-troubleshooting
+display_name: makepad-2.0-troubleshooting
+description: "CRITICAL: Use for Makepad 2.0 troubleshooting and common mistakes. Triggers\
+  \ on: makepad error, makepad bug, makepad problem, makepad issue, makepad not working,\
+  \ text invisible, widget not showing, click not working, height zero, makepad pitfall,\
+  \ makepad gotcha, makepad FAQ, makepad help, script_mod error, compile error, widget\
+  \ not found, render not updating, hot reload not working, wasm build error, port\
+  \ conflict, server lock, IME popup, selection handle, popup window crash, canvas\
+  \ splash, POST splash loop, 100% CPU, set_visible not working, on_render empty,\
+  \ event bridge unreliable, float time display, fn tick not called, on_audio not\
+  \ called, button click through, \u5E38\u89C1\u9519\u8BEF, \u95EE\u9898\u6392\u67E5\
+  , \u6545\u969C\u6392\u9664, \u4E0D\u663E\u793A, \u4E0D\u5DE5\u4F5C, \u770B\u4E0D\
+  \u89C1, \u70ED\u91CD\u8F7D, \u7F16\u8BD1\u9519\u8BEF"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-troubleshooting
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

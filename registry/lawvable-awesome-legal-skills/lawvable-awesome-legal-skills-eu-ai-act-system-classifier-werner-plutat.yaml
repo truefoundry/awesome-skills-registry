@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-system-classifier-werner-plutat
+display_name: eu-ai-act-classification
+description: "Classify AI systems under the EU AI Act (Regulation (EU) 2024/1689)\
+  \ and determine compliance obligations. Use when asked to assess AI risk level,\
+  \ check if an AI system is prohibited, determine high-risk status, identify GPAI\
+  \ model obligations, map provider/deployer responsibilities, or build an AI Act\
+  \ compliance roadmap. Covers the full classification decision tree (Prohibited \u2192\
+  \ High-Risk \u2192 Limited \u2192 Minimal \u2192 GPAI), obligations by role (provider,\
+  \ deployer, importer, distributor), compliance timelines, and DACH-specific considerations\
+  \ (German works council, BaFin, BSI, BNetzA). Triggers on phrases like \"classify\
+  \ this AI system\", \"is this high-risk under the AI Act\", \"AI Act risk assessment\"\
+  , \"EU AI Act compliance\", \"prohibited AI practice\", \"GPAI obligations\", \"\
+  AI Act timeline\"."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-system-classifier-werner-plutat
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

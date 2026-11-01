@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-honeytokens-for-breach-detection
+display_name: implementing-honeytokens-for-breach-detection
+description: Deploys canary tokens and honeytokens (fake AWS credentials, DNS canaries,
+  document beacons, database records) that trigger alerts when accessed by attackers.
+  Uses the Canarytokens API and custom webhook integrations for breach detection.
+  Use when building deception-based early warning systems for intrusion detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-honeytokens-for-breach-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

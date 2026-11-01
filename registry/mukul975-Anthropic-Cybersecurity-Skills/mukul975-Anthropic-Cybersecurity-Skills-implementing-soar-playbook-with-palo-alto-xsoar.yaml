@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-soar-playbook-with-palo-alto-xsoar
+display_name: implementing-soar-playbook-with-palo-alto-xsoar
+description: Build automated incident response playbooks in Cortex XSOAR (Demisto)
+  using its YAML playbook structure, integration commands, and task types to orchestrate
+  phishing, malware, account-compromise, and DDoS response workflows across SOC tools.
+  Use when authoring or wiring up an XSOAR playbook, adding custom XSOAR integration
+  commands or Python automation scripts, or reducing manual SOC response time via
+  orchestration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-soar-playbook-with-palo-alto-xsoar
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-scim-provisioning-with-okta
+display_name: implementing-scim-provisioning-with-okta
+description: Implement automated user lifecycle provisioning and deprovisioning using
+  the SCIM 2.0 protocol with Okta as the identity provider. Use when automating account
+  creation, attribute sync, or deactivation across downstream applications through
+  Okta SCIM integration, or when troubleshooting SCIM provisioning failures.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-scim-provisioning-with-okta
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

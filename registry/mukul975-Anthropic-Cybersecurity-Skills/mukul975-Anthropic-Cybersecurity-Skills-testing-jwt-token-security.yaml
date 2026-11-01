@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-jwt-token-security
+display_name: testing-jwt-token-security
+description: Assessing JSON Web Token implementations for cryptographic weaknesses,
+  algorithm confusion attacks, and authorization bypass vulnerabilities during security
+  engagements.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-jwt-token-security
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

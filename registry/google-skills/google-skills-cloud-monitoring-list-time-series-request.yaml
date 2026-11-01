@@ -1,0 +1,18 @@
+id: google-skills-cloud-monitoring-list-time-series-request
+display_name: cloud-monitoring-list-time-series-request
+description: Generates valid Cloud Monitoring ListTimeSeries requests and aggregation
+  specifications from metric descriptors and resource parameters. Use when asked to
+  create, generate, format, or build ListTimeSeries requests, JSON payloads, filter
+  expressions, or aligner/reducer aggregations for Cloud Monitoring metrics and charts.
+  Don't use for metric discovery or metric selection.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-monitoring-list-time-series-request
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-kill-argument
+display_name: kill-argument
+description: 'Two-thread adversarial review: a fresh reviewer constructs the strongest
+  200-word rejection memo, then a second fresh reviewer defends the paper point-by-point
+  and surfaces still-unresolved critical issues. Use when user says "kill argument",
+  "adversarial review", "hostile review", "rebuttal preparation", "reviewer-2 simulation",
+  or before submitting a theory paper that has already passed standard review rounds.'
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/kill-argument
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

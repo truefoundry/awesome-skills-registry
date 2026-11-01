@@ -1,0 +1,15 @@
+id: indranilbanerjee-digital-marketing-pro-keyword-cluster
+display_name: keyword-cluster
+description: Cluster keywords or queries into topic hubs and spoke pages by SERP overlap.
+  "cluster these keywords"
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/keyword-cluster
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 920
+added_at: '2026-11-01'

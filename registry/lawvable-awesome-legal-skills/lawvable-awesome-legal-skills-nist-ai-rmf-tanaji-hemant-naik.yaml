@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-nist-ai-rmf-tanaji-hemant-naik
+display_name: nist-ai-rmf
+description: "Expert NIST AI Risk Management Framework (AI RMF 1.0) advisor covering\
+  \ all four functions: GOVERN, MAP, MEASURE, MANAGE. Use this skill whenever a user\
+  \ asks about NIST AI RMF, AI risk management, AI trustworthiness, GOVERN function,\
+  \ MAP function, MEASURE function, MANAGE function, AI RMF Playbook, AI risk profiles,\
+  \ responsible AI, AI bias management, AI transparency, AI explainability, AI reliability,\
+  \ AI safety, NIST AI 100-1, AI risk assessment, AI incident response, or alignment\
+  \ to EU AI Act, ISO 42001, or NIST CSF via AI RMF. Trigger even if the user doesn't\
+  \ say \"skill\" \u2014 any NIST AI RMF or AI governance risk question should use\
+  \ this skill."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/nist-ai-rmf-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

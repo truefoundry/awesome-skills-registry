@@ -1,0 +1,25 @@
+id: K-Dense-AI-claude-scientific-skills-relsa-severity-assessment
+display_name: relsa-severity-assessment
+description: "Supports multivariate severity assessment and exploratory endpoint-time\
+  \ score forecasting for laboratory animal studies using the RELSA (RELative Severity\
+  \ Assessment) score and ARIMA-based foRcast forecasting. Use when combining welfare\
+  \ readouts \u2014 body weight or weight loss, body temperature, clinical or nesting\
+  \ scores, biomarkers, activity, heart rate, burrowing, wheel running \u2014 into\
+  \ one severity score per animal per day, when asking which animals are at risk of\
+  \ reaching a humane endpoint at a specified future observation time, when defining\
+  \ attention/danger zones or thresholds on a severity scale by kernel density estimation,\
+  \ or when reporting severity for a 3Rs, refinement, animal-welfare, or EU Directive\
+  \ 2010/63/EU severity-assessment context. Covers directionality (\"turned\" variables),\
+  \ baseline normalization, reference sets, RELSA weights, ARIMA prediction intervals,\
+  \ and RMSE/PICP/MPIW evaluation."
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/relsa-severity-assessment
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

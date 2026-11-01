@@ -1,0 +1,16 @@
+id: kreuzberg-dev-kreuzberg-xberg-extracting-with-ocr
+display_name: xberg-extracting-with-ocr
+description: Use when extracting text from scanned PDFs, photographed pages, or images
+  that have no embedded text layer. Covers OCR backends, language packs, force-OCR,
+  and performance tuning.
+authors:
+- kreuzberg-dev
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/xberg-extracting-with-ocr
+  repo: kreuzberg-dev/kreuzberg
+metadata:
+  stars: 9491
+added_at: '2026-11-01'

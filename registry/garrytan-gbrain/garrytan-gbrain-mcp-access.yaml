@@ -1,0 +1,16 @@
+id: garrytan-gbrain-mcp-access
+display_name: mcp-access
+description: Open the GBrain owner dashboard, manage MCP clients and permissions,
+  or connect a native OAuth harness. Distinguishes owner administration from ordinary
+  MCP access.
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mcp-access
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

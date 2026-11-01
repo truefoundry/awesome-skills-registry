@@ -1,0 +1,31 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-knowledge-base-oliver-schmidt-prietz
+display_name: ai-act-knowledge
+description: "EU AI Act Knowledge Engine \u2014 authoritative regulatory Q&A grounded\
+  \ in 70 official EU source documents (including the 2026 Commission draft guidelines\
+  \ on Art. 6 high-risk classification \u2014 general principles, Annex I, Annex III).\
+  \ Answers any question about the AI Act with article-level citations from the full\
+  \ regulation text, Commission guidelines, EDPB/EDPS opinions, codes of practice,\
+  \ harmonised standards, FRIA guides, incident templates, and sector-specific guidance.\
+  \ This skill should be used when the user asks about the \"EU AI Act\", \"AI Act\
+  \ regulation\", \"Regulation 2024/1689\", \"KI-Verordnung\", asks to \"explain an\
+  \ AI Act article\", \"what does Article X say\", \"AI Act requirements\", \"AI Act\
+  \ penalties\", \"AI Act timeline\", \"GPAI obligations\", \"high-risk AI\", \"prohibited\
+  \ AI practices\", \"AI Act and GDPR\", \"fundamental rights impact assessment\"\
+  , \"AI Act standards\", \"AI Act national implementation\", \"AI literacy\", \"\
+  serious incident reporting\", \"Digital Omnibus\", \"AI regulatory sandbox\", or\
+  \ any question about EU artificial intelligence regulation. Also triggers on German\
+  \ terms: \"KI-Gesetz\", \"KI-Verordnung\", \"Hochrisiko-KI\", \"KI-Kompetenz\",\
+  \ \"Grundrechte-Folgenabschaetzung\", \"GPAI-Verhaltenskodex\". For assessment workflows\
+  \ that produce a classification decision rather than a knowledge answer, offer to\
+  \ run a structured risk-tier classification in-session."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-knowledge-base-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

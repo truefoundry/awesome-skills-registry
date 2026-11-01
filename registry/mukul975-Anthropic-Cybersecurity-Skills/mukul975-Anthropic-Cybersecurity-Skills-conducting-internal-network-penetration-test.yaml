@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-internal-network-penetration-test
+display_name: conducting-internal-network-penetration-test
+description: Execute an internal network penetration test simulating an insider threat
+  or post-breach attacker to identify lateral movement paths, privilege escalation
+  vectors, and sensitive data exposure within the corporate network.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-internal-network-penetration-test
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

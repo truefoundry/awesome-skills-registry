@@ -1,0 +1,23 @@
+id: NVIDIA-skills-doca-sha
+display_name: doca-sha
+description: "Use this skill when the user needs SHA-1, SHA-256, or SHA-512 digest\
+  \ acceleration on BlueField-2 silicon via doca_sha (absent on BF-3) \u2014 selecting\
+  \ one-shot `doca_sha_task_hash` versus incremental `doca_sha_task_partial_hash`\
+  \ for chunked input, consulting `doca_sha_cap_*` for per-algorithm digest-size limits\
+  \ and input alignment, or decoding DOCA_ERROR_* statuses such as BAD_STATE on a\
+  \ resumed partial hash. Also load it for implied asks like \"accelerate SHA-256\
+  \ on the NIC\", \"streaming digest over chunks\", \"digest output size mismatch\"\
+  , or \"is SHA-512 present on this card\". Refuse and route to the proper owner for\
+  \ cryptographic-hash theory (collision resistance, SHA-3 selection), the AES-GCM\
+  \ / Compress / DMA libraries, or SDK install and BFB bring-up."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-sha
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

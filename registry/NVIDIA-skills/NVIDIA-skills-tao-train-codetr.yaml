@@ -1,0 +1,19 @@
+id: NVIDIA-skills-tao-train-codetr
+display_name: tao-train-codetr
+description: "Co-DETR (CoDINO) for object detection. A DETR-family detector with collaborative\
+  \ hybrid assignment \u2014 auxiliary one-to-many heads supervise the encoder during\
+  \ training, giving strong closed-set accuracy at high inference cost. Use when training,\
+  \ evaluating, or running inference for a TAO Co-DETR model. Trigger phrases include\
+  \ \"train Co-DETR\", \"run CoDINO\", \"codetr inference\", \"collaborative DETR\"\
+  , \"autolabel detections with Co-DETR\"."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-codetr
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

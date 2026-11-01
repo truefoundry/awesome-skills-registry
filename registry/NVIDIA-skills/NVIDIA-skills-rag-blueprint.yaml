@@ -1,0 +1,18 @@
+id: NVIDIA-skills-rag-blueprint
+display_name: rag-blueprint
+description: "NVIDIA RAG Blueprint \u2014 deploy, configure, troubleshoot, and manage.\
+  \ Handles any RAG action: deploy, install, start, enable, disable, toggle, change,\
+  \ configure, troubleshoot, debug, fix, shutdown, stop, or tear down any RAG feature\
+  \ or service (Agentic RAG, VLM, guardrails, query rewriting, models, search, ingestion,\
+  \ observability, summarization, reasoning, and more)."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/rag-blueprint
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

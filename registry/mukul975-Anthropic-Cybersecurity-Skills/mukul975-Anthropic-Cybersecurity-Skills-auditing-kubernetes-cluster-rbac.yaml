@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-kubernetes-cluster-rbac
+display_name: auditing-kubernetes-cluster-rbac
+description: Auditing Kubernetes cluster RBAC configurations to identify overly permissive
+  roles, wildcard permissions, dangerous ClusterRoleBindings, service account abuse,
+  and privilege escalation paths using kubectl, rbac-tool, KubiScan, and Kubeaudit.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-kubernetes-cluster-rbac
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-web-debug-search
+display_name: web-debug-search
+description: Search GitHub, Stack Exchange, Chinese technical communities, official
+  documentation, and general developer web sources for software errors, compatibility
+  problems, API usage questions, and real-world workarounds. Use for debugging and
+  discovery only; results are not paper-citation evidence.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/web-debug-search
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-business-email-compromise-with-ai
+display_name: detecting-business-email-compromise-with-ai
+description: Deploy AI and NLP-powered detection systems to identify business email
+  compromise attacks by analyzing writing style, behavioral patterns, and contextual
+  anomalies that evade traditional rule-based filters.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-business-email-compromise-with-ai
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

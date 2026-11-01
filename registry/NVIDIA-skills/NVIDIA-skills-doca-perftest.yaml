@@ -1,0 +1,23 @@
+id: NVIDIA-skills-doca-perftest
+display_name: doca-perftest
+description: "Use this skill when the user is running DOCA Perftest (doca_perftest),\
+  \ the RDMA benchmark that measures bandwidth, message rate and latency for RDMA\
+  \ verbs, point-to-point or across a cluster, with an optional DOCA Verbs backend\
+  \ (-r dv) or GPUNetIO engine (--engine gpunetio). Trigger even when the user does\
+  \ not say \"DOCA Perftest\" \u2014 implicit phrasings include \"how do I benchmark\
+  \ RDMA write bandwidth with DOCA\", \"run ib_write_bw but across 8 nodes\", \"perftest\
+  \ says the device is busy\", \"my latency numbers differ between client and server\"\
+  , \"launch the server over SSH\", or \"run an all-to-all RDMA test from a JSON scenario\"\
+  . Refuse and route elsewhere for DOCA install (doca-setup), DOCA Bench (doca-bench),\
+  \ and application-level throughput."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-perftest
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

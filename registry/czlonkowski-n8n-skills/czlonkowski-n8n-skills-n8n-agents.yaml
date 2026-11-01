@@ -1,0 +1,21 @@
+id: czlonkowski-n8n-skills-n8n-agents
+display_name: n8n-agents
+description: "Design n8n AI agents the right way. Use when building or editing any\
+  \ @n8n/n8n-nodes-langchain.* AI node \u2014 an AI Agent, LLM chain, Text Classifier,\
+  \ or Information Extractor \u2014 and whenever the user mentions AI agents, LLM\
+  \ with tools, tool calling, $fromAI, system prompts, agent memory, sessionId, structured/JSON\
+  \ output, output parser, RAG, vector store, a chat assistant/bot, or human-in-the-loop\
+  \ review. Covers Agent-vs-chain-vs-classifier choice, the model/memory/tools/outputParser\
+  \ slots, tool names/descriptions as prompt, structured output with autoFix, memory,\
+  \ RAG, human review, and chat topologies."
+authors:
+- czlonkowski
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/n8n-agents
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 6557
+added_at: '2026-11-01'

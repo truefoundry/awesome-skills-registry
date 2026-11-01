@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-generate-kb
+display_name: jetson-generate-kb
+description: Build a per-target knowledge-base markdown next to the active profile
+  by walking the BSP root and source tree. Use after init-image / init-source; not
+  for editing profile fields.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-generate-kb
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

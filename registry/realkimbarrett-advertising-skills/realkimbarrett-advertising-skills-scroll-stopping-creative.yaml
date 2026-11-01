@@ -1,0 +1,15 @@
+id: realkimbarrett-advertising-skills-scroll-stopping-creative
+display_name: scroll-stopping-creative
+description: Create ad concepts that stop attention in the first 3 seconds. Trigger
+  on "ad creative", "thumbstopper", "video ideas".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operator-os/scroll-stopping-creative
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

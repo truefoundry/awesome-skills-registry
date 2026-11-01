@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-normalisation-juridique-christophe-quezel-ambrunaz
+display_name: normalisation-juridique-fr-christophe-quezel-ambrunaz
+description: "La comp\xE9tence Normalisation juridique FR nettoie un document Word\
+  \ r\xE9dig\xE9 en fran\xE7ais juridique. Elle distingue deux r\xE9gimes : les corrections\
+  \ d\xE9terministes (apostrophes courbes, guillemets fran\xE7ais, espaces ins\xE9\
+  cables, ins\xE9cables des r\xE9f\xE9rences \u2014 art. 1240, n\xB0 21-12.345, 50\
+  \ % \u2014, ordinaux 1\xE8re \u2192 1re, ligatures \u0153, la loi dispose et non\
+  \ stipule, anglicismes-calques), appliqu\xE9es directement ; et les r\xE9\xE9critures\
+  \ de jugement (virgule avant \xAB et \xBB, ternaires creux, formules emphatiques,\
+  \ harmonisations), pos\xE9es en r\xE9visions Word soumises \xE0 votre acceptation.\
+  \ Chaque changement est consign\xE9 et restitu\xE9 en tableau r\xE9capitulatif :\
+  \ on revient en arri\xE8re mot \xE0 mot \u2014 \xAB d\xE9fais 3, 7-10 \xBB. La normalisation\
+  \ des citations reste purement formelle. Fonctionne en Cowork ou sur fichier Word."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/normalisation-juridique-christophe-quezel-ambrunaz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

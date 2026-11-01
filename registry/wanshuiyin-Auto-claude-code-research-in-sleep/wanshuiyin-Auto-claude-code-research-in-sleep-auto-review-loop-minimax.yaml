@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-auto-review-loop-minimax
+display_name: auto-review-loop-minimax
+description: Autonomous multi-round research review loop using MiniMax API. Use when
+  you want to use MiniMax instead of Codex MCP for external review. Trigger with "auto
+  review loop minimax" or "minimax review".
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/auto-review-loop-minimax
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

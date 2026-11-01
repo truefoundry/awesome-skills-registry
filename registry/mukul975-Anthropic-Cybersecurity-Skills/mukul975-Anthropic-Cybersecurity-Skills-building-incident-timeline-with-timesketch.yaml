@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-incident-timeline-with-timesketch
+display_name: building-incident-timeline-with-timesketch
+description: Build collaborative forensic incident timelines using Timesketch to ingest,
+  normalize, and analyze multi-source event data (including Plaso output) for attack
+  chain reconstruction and investigation documentation. Use when reconstructing the
+  sequence of events during an incident investigation or when multiple analysts need
+  to jointly tag, annotate, and search a shared DFIR timeline.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-incident-timeline-with-timesketch
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

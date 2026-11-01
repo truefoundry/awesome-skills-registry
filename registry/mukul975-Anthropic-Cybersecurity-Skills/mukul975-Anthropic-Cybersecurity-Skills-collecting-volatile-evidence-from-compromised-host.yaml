@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-collecting-volatile-evidence-from-compromised-host
+display_name: collecting-volatile-evidence-from-compromised-host
+description: Collect volatile forensic evidence from a compromised host by following
+  the order of volatility, preserving memory, network connections, running processes,
+  and system state with documented chain of custody before they are lost. Use before
+  isolating, shutting down, or remediating a compromised host, especially when fileless
+  or memory-resident malware is suspected, root cause analysis is needed, or the evidence
+  must hold up in legal proceedings.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/collecting-volatile-evidence-from-compromised-host
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

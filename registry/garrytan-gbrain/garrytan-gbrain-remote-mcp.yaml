@@ -1,0 +1,20 @@
+id: garrytan-gbrain-remote-mcp
+display_name: remote-mcp
+description: Publish the user's own gbrain over MCP so other devices, desktop apps
+  and cloud agents can reach it. `gbrain mcp expose` installs and signs in Tailscale,
+  publishes the running `gbrain serve --http` on the tailnet (HTTPS, tailnet-only
+  by default; Funnel only when a client lives in a vendor cloud), keeps the server
+  alive as a user service, and hands back the MCP URL. Then register one least-privilege
+  client per consumer, choose native OAuth/PKCE or a private machine handoff for that
+  client, and verify the connection inside the intended harness.
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/remote-mcp
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

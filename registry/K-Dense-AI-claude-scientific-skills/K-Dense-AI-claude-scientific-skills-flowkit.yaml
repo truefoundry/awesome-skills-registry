@@ -1,0 +1,18 @@
+id: K-Dense-AI-claude-scientific-skills-flowkit
+display_name: flowkit
+description: Analyzes flow cytometry data with FlowKit, including spillover compensation,
+  logicle and biexponential transforms, hierarchical gating, GatingML strategies,
+  and supported FlowJo 10 workspaces. Use for reproducible gate counts, population
+  percentages, gated fluorescence summaries, or reproducing a FlowJo analysis in Python.
+  For FCS metadata inspection or file-format repair alone, use FlowIO.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/flowkit
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

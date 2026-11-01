@@ -1,0 +1,17 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-localize-metadata
+display_name: asc-localize-metadata
+description: Automatically translate and sync App Store metadata (description, keywords,
+  what's new, subtitle) to multiple languages using LLM translation and asc CLI. Use
+  when asked to localize an app's App Store listing, translate app descriptions, or
+  add new languages to App Store Connect.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-localize-metadata
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

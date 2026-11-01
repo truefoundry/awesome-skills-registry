@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-wiki-enrich
+display_name: wiki-enrich
+description: "Fill in the per-paper TODO sections of research-wiki/papers/<slug>.md\
+  \ pages that literature-ingest skills leave as bare scaffolds. Use when user says\
+  \ 'enrich wiki', 'fill paper TODOs', 'wiki body \u88DC\u5B8C', '\u628A paper \u6458\
+  \u8981\u5BEB\u9032 wiki', 'research-wiki \u81EA\u52D5\u586B', or after a batch ingest\
+  \ that left papers/ as TODO scaffolds."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/wiki-enrich
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

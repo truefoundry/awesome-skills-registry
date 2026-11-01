@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-security-testing-with-42crunch
+display_name: implementing-api-security-testing-with-42crunch
+description: Implements API security testing on the 42Crunch platform, combining API
+  Audit for static analysis of OpenAPI definitions, API Conformance Scan for dynamic
+  vulnerability testing, and API Protect for runtime threat prevention, integrated
+  into CI/CD pipelines and IDEs. Use when shift-left testing APIs for OWASP API Security
+  Top 10 vulnerabilities or setting up 42Crunch audit and conformance scanning.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-security-testing-with-42crunch
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

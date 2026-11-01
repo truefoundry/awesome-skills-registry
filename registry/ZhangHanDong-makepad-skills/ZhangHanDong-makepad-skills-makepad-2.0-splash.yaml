@@ -1,0 +1,21 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-splash
+display_name: makepad-2.0-splash
+description: "CRITICAL: Use for Makepad 2.0 Splash scripting language. Triggers on:\
+  \ splash language, makepad script, script_mod!, makepad scripting, splash \u811A\
+  \u672C, makepad 2.0 script, mod.state, on_render, script_eval, streaming evaluation,\
+  \ splash syntax, splash vm, let binding, splash functions, hot reload, live reload,\
+  \ ScriptModKey, script_mod_overrides, checkpoint, incremental parsing, canvas splash,\
+  \ POST splash, fn tick, on_audio, set_text, tab switching, \u97F3\u4E50\u64AD\u653E\
+  \u5668, token monitor, driver script, audio API, \u70ED\u91CD\u8F7D, \u811A\u672C\
+  \u5F15\u64CE, \u589E\u91CF\u89E3\u6790"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-splash
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-threat-intelligence-lifecycle-management
+display_name: implementing-threat-intelligence-lifecycle-management
+description: Build out a full CTI program around the six-phase threat intelligence
+  lifecycle (direction, collection, processing, analysis, dissemination, feedback),
+  including defining intelligence requirements, building a collection pipeline, normalizing
+  data, and tracking dissemination feedback. Use when standing up or maturing a threat
+  intelligence program, defining intelligence requirements, or designing collection-to-dissemination
+  workflows for a CTI team.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-threat-intelligence-lifecycle-management
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

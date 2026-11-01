@@ -1,0 +1,25 @@
+id: K-Dense-AI-claude-scientific-skills-statistical-power
+display_name: statistical-power
+description: "Calculates sample sizes and statistical power for study planning. Applies\
+  \ when someone asks \"how many subjects/samples/replicates do I need\", wants an\
+  \ a priori power analysis, a minimum detectable effect (MDE), a power curve, or\
+  \ needs to justify a sample size for a grant, IRB protocol, or pre-registration.\
+  \ Covers closed-form power for t-tests, ANOVA, proportions, correlations, chi-square,\
+  \ and regression, plus simulation-based (Monte Carlo) power for complex designs\
+  \ \u2014 logistic/Poisson regression, mixed models, cluster-randomized trials, survival,\
+  \ and interactions. Also handles requests that only mention an effect size, alpha,\
+  \ or \"80% power\" without saying \"power analysis\" explicitly. For laying out\
+  \ the study (randomization, blocking, factorial/DOE, crossover, sequential designs)\
+  \ use experimental-design; for analyzing data already collected and reporting it\
+  \ use statistical-analysis."
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/statistical-power
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

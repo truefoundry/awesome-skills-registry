@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-dynamic-analysis-with-any-run
+display_name: performing-dynamic-analysis-with-any-run
+description: Perform interactive dynamic malware analysis using the ANY.RUN cloud
+  sandbox to detonate samples, observe real-time execution behavior, interact with
+  malware prompts such as dialogs and CAPTCHAs, and capture process trees, network
+  traffic, and system changes. Use when a suspicious file or URL needs live, interactive
+  behavioral detonation in a cloud sandbox rather than static analysis alone.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-dynamic-analysis-with-any-run
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

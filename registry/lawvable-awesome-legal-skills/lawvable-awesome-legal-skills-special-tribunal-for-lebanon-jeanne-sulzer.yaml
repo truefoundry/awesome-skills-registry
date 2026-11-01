@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-special-tribunal-for-lebanon-jeanne-sulzer
+display_name: stl-lebanon-jeanne-sulzer
+description: "Verification-first methodology for the Special Tribunal for Lebanon.\
+  \ Citations are verified against the STL legacy archive and legal-tools.org. Covers\
+  \ the Ayyash et al. case, the two contempt cases (STL-14-05 New TV/Al-Khayat and\
+  \ STL-14-06 Akhbar Beirut/Al-Amin), and the 2011 terrorism decision. Research aid,\
+  \ not legal advice. Part of the open-source \"Skills for International Justice\"\
+  \ library \u2014 methodology: github.com/jeannesulzer/international-criminal-tribunals-skills"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/special-tribunal-for-lebanon-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

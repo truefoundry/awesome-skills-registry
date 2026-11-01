@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-zero-trust-network-access-with-zscaler
+display_name: implementing-zero-trust-network-access-with-zscaler
+description: Configures Zero Trust Network Access using Zscaler Private Access (ZPA)
+  to broker identity-based, context-aware connections between authenticated users
+  and internal applications through the Zscaler Zero Trust Exchange, without placing
+  users on the corporate network. Use when replacing traditional VPN architectures
+  with ZTNA, or when brokering secure per-application access for remote and hybrid
+  users via Zscaler.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-zero-trust-network-access-with-zscaler
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

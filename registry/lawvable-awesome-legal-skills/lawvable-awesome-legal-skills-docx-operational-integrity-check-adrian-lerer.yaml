@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-docx-operational-integrity-check-adrian-lerer
+display_name: docx-operational-integrity-check
+description: Reviews whether an AI-assisted Word or DOCX workflow preserves the original,
+  tracked changes, comments, numbering, sections, edit identity, document structure,
+  save/verify cycles, and professional review. Use before relying on a DOCX that an
+  AI tool read, edited, redlined, reformatted, or generated. Do not use as a legal
+  review of the document's substance or as proof that every rendering defect was detected.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/docx-operational-integrity-check-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

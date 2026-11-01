@@ -1,0 +1,19 @@
+id: NVIDIA-skills-bionemo-complexa-sweep
+display_name: complexa-sweep
+description: Agent runbook for Proteina-Complexa parameter sweeps through the separately
+  installed first-party CLI and config generator. Use for cartesian-product hyperparameter
+  scans, sweeper YAML authoring, configuration comparisons, ablations, tuning, success-rate
+  ranking, or Pareto searches over quality and wall-clock cost. Do not use for a single
+  existing-job launch or SLURM submission template. SKILL.md performs the orchestration;
+  bundled executables only inspect local readiness and write a run manifest.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-complexa-sweep
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

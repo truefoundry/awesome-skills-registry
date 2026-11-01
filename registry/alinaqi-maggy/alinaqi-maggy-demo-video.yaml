@@ -1,0 +1,15 @@
+id: alinaqi-maggy-demo-video
+display_name: demo-video
+description: "Record captioned product walkthrough videos of any web app with Playwright\
+  \ + ffmpeg \u2014 proof videos for stakeholders, feature demos, bug-fix evidence"
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/demo-video
+  repo: alinaqi/maggy
+metadata:
+  stars: 710
+added_at: '2026-11-01'

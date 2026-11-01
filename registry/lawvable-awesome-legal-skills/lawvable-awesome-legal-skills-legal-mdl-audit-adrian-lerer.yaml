@@ -1,0 +1,16 @@
+id: lawvable-awesome-legal-skills-legal-mdl-audit-adrian-lerer
+display_name: legal-mdl-audit-ignacio-adrian-lerer
+description: 'Audits legal AI outputs and workflows for honest compression: unnecessary
+  complexity, false simplicity, excessive caveats, hidden uncertainty and poor cost
+  per legally acceptable output.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-mdl-audit-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: NVIDIA-skills-cuopt-numerical-optimization-api
+display_name: cuopt-numerical-optimization-api
+description: "LP, MILP, and QP (beta) with cuOpt \u2014 Python, C, and CLI. Use when\
+  \ the user is solving LP, MILP, or QP with any cuOpt interface."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cuopt-numerical-optimization-api
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

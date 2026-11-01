@@ -1,0 +1,16 @@
+id: NVIDIA-skills-foundationpose-setup
+display_name: foundationpose-setup
+description: Install or repair the FoundationPose perception pipeline and build its
+  FoundationStereo TensorRT engines. Use for SAM3/TAO dependency conflicts, CUDA library
+  failures, and depth-engine shape or precision decisions.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/foundationpose-setup
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

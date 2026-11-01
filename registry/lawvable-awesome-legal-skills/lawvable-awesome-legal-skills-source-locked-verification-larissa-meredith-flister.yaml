@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-source-locked-verification-larissa-meredith-flister
+display_name: source-locked-verification
+description: "No Inference / Source-Locked Verification. Forces Claude to answer ONLY\
+  \ from user-provided materials and/or online sources actually accessed \u2014 no\
+  \ inference, no assumptions, no gap-filling. Every factual, legal, numerical, or\
+  \ procedural claim must be anchored to a cited source. Use whenever Claude reviews\
+  \ documents, summarises evidence, checks accuracy, drafts submissions, creates timelines,\
+  \ extracts facts, checks citations, analyses rules, prepares legal arguments, compares\
+  \ documents, verifies claims, produces chronologies, works from uploaded materials,\
+  \ performs legal research, checks case status, or does anything where evidential\
+  \ fidelity matters. Also trigger on: 'source-locked', 'no inference', 'only from\
+  \ the materials', 'don't assume', 'stick to the evidence', 'verify this', 'check\
+  \ this is right', 'work from the documents'. Overrides Claude's default tendency\
+  \ to fill gaps. If evidential accuracy matters, use this skill."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/source-locked-verification-larissa-meredith-flister
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

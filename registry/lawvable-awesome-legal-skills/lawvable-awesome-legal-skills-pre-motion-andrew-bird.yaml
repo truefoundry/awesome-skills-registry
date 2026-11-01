@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-pre-motion-andrew-bird
+display_name: pre-motion-andrew-bird
+description: "Adversarial premortem for England & Wales civil litigation - builds\
+  \ the strongest version of a case, then attacks it from four angles to find where\
+  \ it loses before opposing counsel does. Runs an adversarial premortem on a UK litigation\
+  \ matter. Builds the strongest version of the case, then attacks it from four angles\
+  \ \u2014 procedural, substantive, evidentiary, strategic \u2014 to find where it\
+  \ actually loses. Returns a ranked stress-test brief: failure scenarios, evidence\
+  \ inconsistencies, blind spots, mitigations, and one brutal one-sentence verdict.\
+  \ Use before issue, before settlement negotiations, before a litigation-funder pitch,\
+  \ or before deciding whether to take a case."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pre-motion-andrew-bird
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

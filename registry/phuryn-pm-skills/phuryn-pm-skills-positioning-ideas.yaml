@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-positioning-ideas
+display_name: positioning-ideas
+description: Brainstorm product positioning ideas differentiated from competitors.
+  Identifies top competitors and generates positioning statements with rationale.
+  Use when developing product positioning, differentiating from competitors, or crafting
+  brand positioning strategy.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-marketing-growth/skills/positioning-ideas
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

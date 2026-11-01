@@ -1,0 +1,16 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-context-compression
+display_name: context-compression
+description: This skill should be used when long-running agent sessions need context
+  compression, structured summarization, compaction, token-per-task optimization,
+  or durable handoff summaries that preserve decisions, files, risks, and next actions.
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/context-compression
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

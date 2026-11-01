@@ -1,0 +1,16 @@
+id: cloudflare-skills-sandbox-stable
+display_name: sandbox-stable
+description: Build or maintain Cloudflare Sandbox apps on the stable @cloudflare/sandbox
+  package. Use sandbox-next for preview apps and sandbox-migrate-to-next for stable-to-preview
+  migrations.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/sandbox-stable
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

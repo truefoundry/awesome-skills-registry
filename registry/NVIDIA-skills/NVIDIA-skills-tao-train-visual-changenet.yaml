@@ -1,0 +1,19 @@
+id: NVIDIA-skills-tao-train-visual-changenet
+display_name: tao-train-visual-changenet
+description: Visual ChangeNet for binary image classification and segmentation in
+  AOI defect detection. Use when training, evaluating, exporting, or running inference
+  for PCB defect detection or visual inspection, comparing image pairs for PASS/NO_PASS
+  classification, or producing change-segmentation masks. Trigger phrases include
+  "train Visual ChangeNet", "ChangeNet classify", "ChangeNet segment", "AOI defect
+  detection", "PCB inspection model".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-visual-changenet
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

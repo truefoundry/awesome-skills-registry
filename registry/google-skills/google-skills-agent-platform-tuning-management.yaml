@@ -1,0 +1,17 @@
+id: google-skills-agent-platform-tuning-management
+display_name: agent-platform-tuning-management
+description: Manages GenAI tuning jobs in Agent Platform. Use this to list, get, or
+  cancel ongoing model tuning jobs. Don't use for fine-tuning models (use `agent-platform-tuning`),
+  deploying models to endpoints (use `agent-platform-deploy`), or managing serving
+  endpoints (use `agent-platform-endpoint-management`).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-tuning-management
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-executive-resume-writer
+display_name: executive-resume-writer
+description: Create C-suite and VP level resumes emphasizing strategic leadership
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/executive-resume-writer
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

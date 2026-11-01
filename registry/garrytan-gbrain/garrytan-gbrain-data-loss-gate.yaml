@@ -1,0 +1,18 @@
+id: garrytan-gbrain-data-loss-gate
+display_name: data-loss-gate
+description: "Confirmation gate before any bulk delete, cleanup, or destructive operation\
+  \ that could result in data loss \u2014 shell-level (rm -rf, git rm, bulk sed) or\
+  \ brain-level (bulk forget, delete sweeps, purge-deleted, source removal, raw-SQL\
+  \ truncation). Presents a recoverability card and requires an explicit \"yes\" from\
+  \ the user before proceeding. Routing convention, not an operation-boundary enforcement."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/data-loss-gate
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

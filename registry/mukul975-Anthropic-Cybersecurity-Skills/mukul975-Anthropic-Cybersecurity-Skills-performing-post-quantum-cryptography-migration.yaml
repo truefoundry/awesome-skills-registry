@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-post-quantum-cryptography-migration
+display_name: performing-post-quantum-cryptography-migration
+description: Assesses organizational readiness for post-quantum cryptography migration
+  per NIST FIPS 203/204/205 standards. Performs cryptographic inventory scanning to
+  identify quantum-vulnerable algorithms (RSA, ECDH, ECDSA), evaluates hybrid TLS
+  configurations with X25519MLKEM768, and validates CRYSTALS-Kyber (ML-KEM) and CRYSTALS-Dilithium
+  (ML-DSA) readiness. Implements crypto-agility assessment using oqs-provider for
+  OpenSSL. Use when planning or executing the transition from classical to post-quantum
+  cryptographic algorithms across enterprise infrastructure.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-post-quantum-cryptography-migration
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

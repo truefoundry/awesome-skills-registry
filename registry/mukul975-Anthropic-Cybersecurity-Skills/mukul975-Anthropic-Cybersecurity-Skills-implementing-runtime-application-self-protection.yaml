@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-runtime-application-self-protection
+display_name: implementing-runtime-application-self-protection
+description: Deploy Runtime Application Self-Protection (RASP) agents to detect and
+  block attacks from within application runtime, covering OpenRASP integration, attack
+  pattern detection, and security policy configuration for Java and Python web applications.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-runtime-application-self-protection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

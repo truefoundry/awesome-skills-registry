@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-verifica-fonti-michele-loi
+display_name: verifica-fonti
+description: "Controlla coerenza e plausibilit\xE0 delle citazioni normative italiane\
+  \ ed europee in un testo prodotto da un'altra skill legal-tech (o passato dall'avvocato).\
+  \ Verifica formato, esistenza apparente, coerenza interna, segnala citazioni sospette\
+  \ o non risolvibili. Usa quando una skill IT/EU ha appena prodotto un output con\
+  \ riferimenti normativi, o quando l'avvocato chiede esplicitamente \"verifica le\
+  \ fonti\", \"controlla le citazioni\", \"queste citazioni reggono?\"."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/verifica-fonti-michele-loi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

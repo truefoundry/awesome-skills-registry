@@ -1,0 +1,17 @@
+id: google-skills-agent-platform-endpoint-management
+display_name: agent-platform-endpoint-management
+description: Manages Agent Platform serving endpoints. Use when you need to create,
+  list, describe, update, or delete serving endpoints for model deployment on Agent
+  Platform. Also use when troubleshooting endpoint permission, quota, or resource
+  busy errors. Don't use for deploying models to endpoints or for running model evaluations.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-endpoint-management
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

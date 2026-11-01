@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-nis2-navigator-oliver-schmidt-prietz
+display_name: nis2-navigator
+description: "NIS2 Compliance Navigator \u2014 scope classification, Art. 21 gap analysis\
+  \ (0-4 maturity scoring), and compliance roadmap under EU Directive 2022/2555 with\
+  \ deep German BSIG-neu coverage and profiles for Italy, France, Netherlands, Austria,\
+  \ Spain. Use when: (1) User mentions \"NIS2\", \"NIS-2\", \"BSIG\", \"BSIG-neu\"\
+  , \"NIS2UmsuCG\", \"Cyberbeveiligingswet\", \"Loi R\xE9silience\", \"NISG\", \"\
+  decreto legislativo 138\", (2) User asks if their organization falls under NIS2\
+  \ or needs a cybersecurity compliance assessment, (3) User mentions essential/important\
+  \ entities, Annex I/II, BSI registration, \xA7 30 BSIG, incident reporting, management\
+  \ body liability, supply chain security, (4) User wants a NIS2 gap analysis, readiness\
+  \ assessment, or compliance roadmap, (5) User asks about NIS2 fines, enforcement,\
+  \ or Nachweispflicht, (6) User asks about NIS2 in any EU Member State."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/nis2-navigator-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

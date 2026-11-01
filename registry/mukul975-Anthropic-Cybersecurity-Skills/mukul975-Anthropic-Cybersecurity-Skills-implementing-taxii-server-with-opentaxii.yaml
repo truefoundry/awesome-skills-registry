@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-taxii-server-with-opentaxii
+display_name: implementing-taxii-server-with-opentaxii
+description: Deploy and configure a TAXII 2.1 server (Medallion) with Docker, publish
+  and consume STIX 2.1 bundles across collections, and integrate the feed with SIEM/SOAR
+  platforms for automated indicator exchange between organizations. Use when standing
+  up a TAXII server to share threat intel, configuring collections for CTI feeds,
+  or automating STIX indicator ingestion into a SIEM/SOAR.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-taxii-server-with-opentaxii
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

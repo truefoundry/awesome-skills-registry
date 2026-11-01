@@ -1,0 +1,21 @@
+id: NVIDIA-skills-tao-generate-anomalies
+display_name: tao-generate-anomalies
+description: "Full PAIDF AnomalyGen pipeline \u2014 fine-tune on a new anomaly dataset,\
+  \ generate synthetic anomaly images (SDG), evaluate quality (nn_score), and search\
+  \ per-sample (guidance, crop_ratio) parameters. Three modes: full (Phase 0\u2192\
+  7: finetune then generate), finetune_only (Phase 0\u21921: train only), inference_only\
+  \ (Phase 0, 2\u21927: generate from an existing checkpoint). Use when the user asks\
+  \ to \"fine-tune AnomalyGen\", \"generate anomaly images\", \"run PAIDF SDG\", \"\
+  evaluate SDG output quality\", \"run per-sample search\", or run any part of the\
+  \ AnomalyGen pipeline, even if they only mention one phase."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-generate-anomalies
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-system-classifier-oliver-schmidt-prietz
+display_name: eu-ai-act-classification-oliver-schmidt-prietz
+description: Determines whether a technology qualifies as an AI system under Art.
+  3(1) of the EU AI Act and classifies its risk tier (prohibited, high-risk, GPAI
+  with systemic risk, limited risk, minimal risk). This skill should be used when
+  the user asks to "classify an AI system under the AI Act", "determine the AI Act
+  risk tier", "check if something is an AI system", "assess prohibited practices",
+  "check high-risk classification", "determine Art. 6 exception applicability", or
+  mentions "KI-Verordnung", "Risikoklassifizierung", Art. 5, Annex III, or GPAI systemic
+  risk.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-system-classifier-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

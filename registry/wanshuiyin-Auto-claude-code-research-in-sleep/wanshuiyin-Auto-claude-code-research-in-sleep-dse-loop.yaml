@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-dse-loop
+display_name: dse-loop
+description: Autonomous design space exploration loop for computer architecture and
+  EDA. Runs a program, analyzes results, tunes parameters, and iterates until objective
+  is met or timeout. Use when user says \"DSE\", \"design space exploration\", \"sweep
+  parameters\", \"optimize\", \"find best config\", or wants iterative parameter tuning.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/dse-loop
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: makenotion-notion-cookbook-plan-marketing-campaigns
+display_name: notion-plan-marketing-campaigns
+description: Organize campaign briefs, content ideas, and production work in Notion.
+  Use when planning a marketing campaign, building a content calendar, or tracking
+  content production.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mcp-clients/plan-marketing-campaigns
+  repo: makenotion/notion-cookbook
+metadata:
+  stars: 223
+added_at: '2026-11-01'

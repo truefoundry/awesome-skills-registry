@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-layout-paradigms-and-consistency
+display_name: layout-paradigms-and-consistency
+description: Choose a layout paradigm (feed, board, table, canvas, master-detail,
+  dashboard) and reuse it across screens. Includes a landing page narrative framework.
+  Use when structuring a screen, page template or landing page.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/layout-paradigms-and-consistency
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

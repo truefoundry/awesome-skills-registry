@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-section-508-tanaji-hemant-naik
+display_name: section-508
+description: "Expert Section 508 compliance advisor for US federal ICT accessibility.\
+  \ Use this skill whenever a user asks about Section 508, WCAG 2.0/2.1 AA for federal\
+  \ systems, VPAT or Accessibility Conformance Reports (ACR), accessibility audits,\
+  \ remediation planning, PDF accessibility, web or software accessibility, mobile\
+  \ accessibility, federal procurement accessibility requirements, contractor obligations,\
+  \ undue burden exceptions, assistive technology compatibility, or Section 508 testing.\
+  \ Covers the Revised Section 508 Standards (2018), all WCAG 2.0 Level AA success\
+  \ criteria, the four POUR principles, testing methodologies, and agency compliance\
+  \ workflows. Trigger even if the user doesn't say \"skill\" \u2014 any Section 508\
+  \ or ICT accessibility question for federal systems should use this skill."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/section-508-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

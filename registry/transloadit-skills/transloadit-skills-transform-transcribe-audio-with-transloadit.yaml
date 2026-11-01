@@ -1,0 +1,15 @@
+id: transloadit-skills-transform-transcribe-audio-with-transloadit
+display_name: transform-transcribe-audio-with-transloadit
+description: Transcribe local audio or video to text, timestamped JSON, SRT or WebVTT
+  using the transcribe Builtin and the official Transloadit CLI.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-transcribe-audio-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

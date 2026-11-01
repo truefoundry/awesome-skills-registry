@@ -1,0 +1,19 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-proof-checker
+display_name: proof-checker
+description: "Rigorous mathematical proof verification and fixing workflow. Reads\
+  \ a LaTeX proof, identifies gaps via fresh-agent Codex GPT-6-Astra ultra review,\
+  \ fixes each gap with full derivations, re-reviews, and generates an audit report.\
+  \ Base review is same-family provisional. Use when user says \"\u68C0\u67E5\u8BC1\
+  \u660E\", \"verify proof\", \"proof check\", \"\u5BA1\u8BC1\u660E\", \"check this\
+  \ proof\", or wants rigorous mathematical verification of a theory paper."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/proof-checker
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

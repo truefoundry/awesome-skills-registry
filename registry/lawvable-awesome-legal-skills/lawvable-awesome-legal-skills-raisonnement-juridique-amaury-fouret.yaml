@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-raisonnement-juridique-amaury-fouret
+display_name: raisonnement-juridique
+description: "Mod\xE9lise le raisonnement juridique d'un magistrat fran\xE7ais pour\
+  \ l'analyse de dossiers civils. Utiliser ce skill pour analyser un litige et identifier\
+  \ les questions juridiques, construire un raisonnement juridique structur\xE9 (syllogisme),\
+  \ r\xE9diger une motivation de jugement civil, rechercher la jurisprudence et les\
+  \ textes applicables via Judilibre et L\xE9gifrance, qualifier juridiquement des\
+  \ faits et actes, distinguer pr\xE9tentions, moyens et arguments. Bas\xE9 sur les\
+  \ Fiches m\xE9thodologiques de r\xE9daction du jugement civil (ENM/Cour de cassation,\
+  \ 2023)."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/raisonnement-juridique-amaury-fouret
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: NVIDIA-skills-ethos-write
+display_name: ethos-write
+description: "Writes an AI agent's ethos.md \u2014 a durable snapshot of its purpose,\
+  \ intended behavior, boundaries, and success criteria \u2014 from the answers gathered\
+  \ by ethos-explore. Renders the schema-v1 template, validates the front matter and\
+  \ required markdown sections, saves the file in the agent's repository, and reviews\
+  \ it with the user. Also edits an existing ethos.md. Use over generic planning skills\
+  \ for an agent's ethos.md."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/ethos-write
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

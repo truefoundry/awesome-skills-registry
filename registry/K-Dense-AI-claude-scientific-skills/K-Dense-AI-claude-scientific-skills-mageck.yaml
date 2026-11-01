@@ -1,0 +1,18 @@
+id: K-Dense-AI-claude-scientific-skills-mageck
+display_name: mageck
+description: Analyzes pooled CRISPR screen FASTQ reads and guide-count matrices with
+  MAGeCK, validates guide libraries and contrasts, measures replicate and library
+  QC, and produces gene hit rankings with effect sizes and FDR. Use for new knockout,
+  CRISPRi, or CRISPRa screen analysis, enrichment or depletion contrasts, and MAGeCK
+  count/test workflows; existing public dependency-score lookup belongs to DepMap.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mageck
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

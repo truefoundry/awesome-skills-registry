@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-investigating-ransomware-attack-artifacts
+display_name: investigating-ransomware-attack-artifacts
+description: Forensically preserve memory and disk, collect ransom notes and encrypted
+  file samples, and identify the ransomware variant using tools such as ID Ransomware,
+  Volatility, and Chainsaw/Hayabusa to determine the initial access vector and recovery
+  options. Use immediately after discovering ransomware encryption, when scoping the
+  incident forensically, or when documenting evidence for law enforcement and insurance
+  claims.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/investigating-ransomware-attack-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

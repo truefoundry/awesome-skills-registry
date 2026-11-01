@@ -1,0 +1,25 @@
+id: K-Dense-AI-claude-scientific-skills-genomic-coordinates
+display_name: genomic-coordinates
+description: Converts genomic intervals between coordinate conventions, normalises
+  and compares variant representations, and detects assembly or contig-naming mismatches
+  before they corrupt an analysis. Used whenever coordinates cross a format, tool,
+  or assembly boundary - converting between BED, GFF/GTF, VCF, SAM/BAM, WIG, PSL,
+  genePred, Picard interval_list, or region strings; reconciling 0-based half-open
+  with 1-based inclusive; left-aligning or trimming indels; checking whether two variant
+  records describe the same change; mapping genomic to transcript, CDS, or protein
+  positions; auditing a BED/GTF/VCF for convention violations; or diagnosing GRCh37
+  vs hg19 vs GRCh38 vs T2T, chr-prefix, and liftover problems. Triggers include "off
+  by one", "0-based", "1-based", "half-open", "coordinate system", "left-align", "normalize
+  variant", "bcftools norm", "chr prefix", "wrong genome build", "liftover", "REF
+  mismatch", and "HGVS".
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/genomic-coordinates
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

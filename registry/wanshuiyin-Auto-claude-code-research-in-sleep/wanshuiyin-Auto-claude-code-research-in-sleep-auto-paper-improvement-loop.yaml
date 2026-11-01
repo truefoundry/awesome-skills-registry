@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-auto-paper-improvement-loop
+display_name: auto-paper-improvement-loop
+description: "Autonomously improve a generated paper via GPT-6-Astra xhigh review\
+  \ \u2192 implement fixes \u2192 recompile, for 2 rounds. Use when user says \"\u6539\
+  \u8BBA\u6587\", \"improve paper\", \"\u8BBA\u6587\u6DA6\u8272\u5FAA\u73AF\", \"\
+  auto improve\", or wants to iteratively polish a generated paper."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/auto-paper-improvement-loop
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

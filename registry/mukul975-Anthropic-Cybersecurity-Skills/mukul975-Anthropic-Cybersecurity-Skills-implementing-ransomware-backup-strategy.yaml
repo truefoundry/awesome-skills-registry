@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-ransomware-backup-strategy
+display_name: implementing-ransomware-backup-strategy
+description: Designs a ransomware-resilient backup strategy using the 3-2-1-1-0 methodology
+  (3 copies, 2 media types, 1 offsite, 1 immutable/air-gapped, 0 restore errors),
+  configuring RPO/RTO-aligned schedules, isolating backup credentials, and automating
+  restore testing. Use when planning ransomware backup resilience or air-gapped/immutable
+  backup architecture.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-ransomware-backup-strategy
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

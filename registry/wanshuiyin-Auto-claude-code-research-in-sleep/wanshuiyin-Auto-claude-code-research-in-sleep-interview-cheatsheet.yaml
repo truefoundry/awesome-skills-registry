@@ -1,0 +1,20 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-interview-cheatsheet
+display_name: interview-cheatsheet
+description: "Generate a long-form Chinese interview-prep cheat sheet on a specific\
+  \ ML/LLM topic \u2014 formulas with derivations, from-scratch PyTorch code, comparison\
+  \ tables, and 25 \u9AD8\u9891\u9762\u8BD5\u9898 (L1 \u5FC5\u4F1A / L2 \u8FDB\u9636\
+  \ / L3 \u9876\u7EA7 lab). Use when the user says '\u5199\u9762\u8BD5 cheat sheet',\
+  \ '\u5199\u4E00\u4EFD X \u6559\u7A0B', '\u5E2E\u6211\u51C6\u5907 Y \u9762\u8BD5\u9898\
+  ', '\u51FA\u4E00\u4EFD X \u901F\u67E5', or wants a 600-1000 line Chinese tutorial\
+  \ on a specific ML topic."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/interview-cheatsheet
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

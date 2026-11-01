@@ -1,0 +1,16 @@
+id: cloudflare-skills-k2
+display_name: k2
+description: Build and troubleshoot Cloudflare K2 or K2 Streams durable logs. Use
+  for stream setup, producing from Workers or HTTP, configuring retention and inputs,
+  and consuming through subscriptions.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/k2
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

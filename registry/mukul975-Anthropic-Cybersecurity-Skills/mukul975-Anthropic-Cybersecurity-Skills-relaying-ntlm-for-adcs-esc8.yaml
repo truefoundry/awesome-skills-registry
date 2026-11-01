@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-relaying-ntlm-for-adcs-esc8
+display_name: relaying-ntlm-for-adcs-esc8
+description: Uses Impacket's ntlmrelayx.py with a coercion tool (PetitPotam, Coercer,
+  printerbug) to relay NTLM authentication from a coerced domain controller into the
+  AD CS HTTP web-enrollment endpoint (ESC8), obtaining a DC certificate usable via
+  Certipy for PKINIT/DCSync. Use during internal AD penetration tests or purple-team
+  exercises when AD CS Web Enrollment lacks Extended Protection for Authentication.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/relaying-ntlm-for-adcs-esc8
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

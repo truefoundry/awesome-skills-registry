@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-fleet-hunting-with-velociraptor
+display_name: fleet-hunting-with-velociraptor
+description: Deploy a Velociraptor server and agents, then author VQL (Velociraptor
+  Query Language) artifacts and run them as fleet-wide hunts, on-demand forensic collections,
+  or standalone offline collectors. Use when hunting a TTP across hundreds or thousands
+  of endpoints, collecting forensic artifacts during incident response without re-imaging,
+  or generating collectors for unmanaged/air-gapped hosts.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/fleet-hunting-with-velociraptor
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

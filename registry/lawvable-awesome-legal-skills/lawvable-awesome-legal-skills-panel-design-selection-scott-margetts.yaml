@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-panel-design-selection-scott-margetts
+display_name: panel-design-selection
+description: 'Panel structure design, firm selection criteria, right-sourcing analysis,
+  and coverage gap assessment for in-house legal teams. Build panel frameworks from
+  scratch or formalise existing informal arrangements. Define weighted selection criteria
+  for firm evaluation. Run right-sourcing analysis (ABC tiering) to identify work
+  sent to expensive providers that doesn''t require that level of resource. Assess
+  existing panels for practice area, geographic, and capability gaps. Trigger on:
+  ''design our panel'', ''how many firms do we need'', ''panel structure'', ''firm
+  selection criteria'', ''which firms should we use'', ''right-sourcing'', ''are we
+  sending work to the right firms'', ''panel gaps'', ''too many firms'', ''consolidate
+  our panel'', ''we need a firm for'', ''preferred provider'', ''panel tiers'', ''do
+  we need BigLaw for this'', ''convergence'', ''D&I panel targets'', ''how do we choose
+  firms''.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/panel-design-selection-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

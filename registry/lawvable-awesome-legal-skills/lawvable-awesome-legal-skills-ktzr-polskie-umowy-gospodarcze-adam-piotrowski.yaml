@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-ktzr-polskie-umowy-gospodarcze-adam-piotrowski
+display_name: commercial-legal-pl
+description: "Skill do analizy i tworzenia um\xF3w wed\u0142ug polskiego prawa, ze\
+  \ szczeg\xF3lnym uwzgl\u0119dnieniem um\xF3w B2B, IP i IT (body leasing, NDA, wdro\u017C\
+  enia, SaaS, przeniesienie praw autorskich, ugody). Powsta\u0142 w Kancelarii Radc\xF3\
+  w Prawnych \u017Burawska Piotrowski i Wsp\xF3lnicy (ktzr.pl). U\u017Cywaj zawsze\
+  \ gdy u\u017Cytkownik prosi o przeanalizowanie polskiej umowy, audyt ryzyk umownych,\
+  \ wygenerowanie nowej umowy w stylu KTZR, dodanie/edycj\u0119 klauzuli, sprawdzenie\
+  \ sp\xF3jno\u015Bci umowy lub gdy wkleja/za\u0142\u0105cza polski dokument umowny\
+  \ do oceny. Stosuj r\xF3wnie\u017C gdy pojawia si\u0119 poj\u0119cie \"Z\u0142ote\
+  \ Regu\u0142y KTZR\", \"essentialia negotii\", \"baza klauzul KTZR\" lub gdy u\u017C\
+  ytkownik wspomina o kancelarii KTZR / swojej kancelarii."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ktzr-polskie-umowy-gospodarcze-adam-piotrowski
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

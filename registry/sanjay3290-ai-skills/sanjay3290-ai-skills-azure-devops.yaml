@@ -1,0 +1,19 @@
+id: sanjay3290-ai-skills-azure-devops
+display_name: azure-devops
+description: 'Manage Azure DevOps projects, work items, repos, PRs, pipelines, wikis,
+  test plans, security alerts, variable groups, environments/approvals, branch policies,
+  and attachments. Use when user asks to: manage sprints, create/update work items,
+  list repos, create PRs, run pipelines, search code, manage wiki pages, check security
+  alerts, manage variable groups, approve deployments, or configure branch policies.
+  Covers 13 domains with 99 tools via REST API.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/azure-devops
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

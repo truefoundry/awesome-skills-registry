@@ -1,0 +1,15 @@
+id: obra-superpowers-dispatching-parallel-agents
+display_name: dispatching-parallel-agents
+description: Use when facing 2+ independent tasks that can be worked on without shared
+  state or sequential dependencies
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/dispatching-parallel-agents
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: google-skills-cloud-run-basics
+display_name: cloud-run-basics
+description: Manages Cloud Run services, jobs, and worker pools. Use when you need
+  to deploy applications responding to HTTP requests (services), run event-triggered
+  or scheduled tasks (jobs), or handle always-on pull-based background processing
+  (worker pools).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-run-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

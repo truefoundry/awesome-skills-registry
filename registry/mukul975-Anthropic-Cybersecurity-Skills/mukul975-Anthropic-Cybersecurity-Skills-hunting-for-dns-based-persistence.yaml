@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-dns-based-persistence
+display_name: hunting-for-dns-based-persistence
+description: Hunts for DNS-based persistence mechanisms such as DNS hijacking, dangling
+  CNAME records enabling subdomain takeover, wildcard DNS abuse, and unauthorized
+  zone or NS delegation changes, using passive DNS history (SecurityTrails API), Route53/Azure
+  DNS/Cloudflare audit logs, and zone transfer analysis. Use when investigating suspected
+  DNS hijacking or subdomain takeover, or when threat hunting for DNS record tampering
+  that persists across credential rotations and endpoint reimaging.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-dns-based-persistence
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

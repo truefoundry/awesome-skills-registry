@@ -1,0 +1,17 @@
+id: ognjengt-founder-skills-pricing-strategist
+display_name: pricing-strategist
+description: Builds comprehensive pricing strategies by reading business context and
+  asking targeted questions interactively. Use when user needs pricing plans, tier
+  structures, price points, pricing model recommendations, or any pricing-related
+  strategy for their product or service.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pricing-strategist
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

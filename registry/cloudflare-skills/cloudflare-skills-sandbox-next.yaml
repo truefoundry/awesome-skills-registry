@@ -1,0 +1,15 @@
+id: cloudflare-skills-sandbox-next
+display_name: sandbox-next
+description: Build or maintain Cloudflare Sandbox apps on @cloudflare/sandbox@next
+  (SDK 1.0 preview). Use sandbox-migrate-to-next when porting a stable app.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/sandbox-next
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

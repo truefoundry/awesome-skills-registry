@@ -1,0 +1,15 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-testflight-orchestration
+display_name: asc-testflight-orchestration
+description: Orchestrate TestFlight distribution, groups, testers, and What to Test
+  notes using asc. Use when rolling out betas.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-testflight-orchestration
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

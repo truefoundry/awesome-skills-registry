@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-monitor-prawa-ue-i-polskiego-grzegorz-skuza
+display_name: eu-pl-law-tracker
+description: "Wyszukiwanie, pobieranie i analiza akt\xF3w prawnych UE oraz polskich\
+  \ akt\xF3w i projekt\xF3w wdra\u017Caj\u0105cych regulacje UE (np. PPWR, CBAM, EUDR,\
+  \ ESPR, CSRD, CSDDD, GPSR, AI Act, baterie, ekoprojekt). U\u017Cywaj, gdy u\u017C\
+  ytkownik potrzebuje statusu prawnego, dat stosowania, przepis\xF3w przej\u015Bciowych,\
+  \ relacji akt\xF3w, obowi\u0105zk\xF3w compliance i raportu z podstawami prawnymi\
+  \ oraz \u017Ar\xF3d\u0142ami urz\u0119dowymi."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/monitor-prawa-ue-i-polskiego-grzegorz-skuza
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

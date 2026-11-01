@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-mbridge-multi-node-slurm
+display_name: nemo-mbridge-multi-node-slurm
+description: Convert single-node scripts to multi-node Slurm sbatch jobs and debug
+  common multi-node failures. Covers srun-native vs uv run torch.distributed approaches,
+  container setup, NCCL timeouts, OOM sizing for MoE models, and interactive allocation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-multi-node-slurm
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

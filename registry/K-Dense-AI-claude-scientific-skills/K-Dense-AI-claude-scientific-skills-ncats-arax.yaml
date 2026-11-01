@@ -1,0 +1,19 @@
+id: K-Dense-AI-claude-scientific-skills-ncats-arax
+display_name: ncats-arax
+description: Queries the NCATS Translator ARAX production API for bounded, typed,
+  provenance-rich one-hop and endpoint-pinned two-hop biomedical knowledge-graph relationships.
+  Use for Biolink-constrained RTX-KG2 lookup, explicit selected-provider ARAX federation,
+  separate entity normalization, qualifier-aware graph traversal, and inspection of
+  TRAPI edge bindings, publications, and knowledge-source provenance. Do not use for
+  inference, ranking, open-ended pathfinding, clinical guidance, or sensitive queries.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ncats-arax
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

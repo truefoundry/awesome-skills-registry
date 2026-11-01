@@ -1,0 +1,19 @@
+id: NVIDIA-skills-tao-train-rtdetr
+display_name: tao-train-rtdetr
+description: RT-DETR (Real-Time DEtection TRansformer) for 2D object detection. Designed
+  for real-time inference with competitive accuracy and supports distillation and
+  quantization for deployment optimization. Use when training, evaluating, distilling,
+  quantizing, exporting, or running inference for a TAO RT-DETR model. Trigger phrases
+  include "train RT-DETR", "real-time DETR", "low-latency object detection", "RT-DETR
+  distillation / quantization".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-rtdetr
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

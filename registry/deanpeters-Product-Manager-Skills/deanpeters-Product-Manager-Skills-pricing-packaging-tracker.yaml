@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-pricing-packaging-tracker
+display_name: pricing-packaging-tracker
+description: Track competitor pricing and packaging as a diffable time series. Use
+  when monitoring tiers, gates, limits, and price moves on a monthly or quarterly
+  cadence.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pricing-packaging-tracker
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

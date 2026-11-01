@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-wireless-network-penetration-test
+display_name: conducting-wireless-network-penetration-test
+description: Conducts authorized wireless network penetration tests to assess the
+  security of WiFi infrastructure by testing for weak encryption protocols, captive
+  portal bypasses, evil twin attacks, WPA2/WPA3 handshake capture, rogue access point
+  detection, and client-side attacks. The tester evaluates wireless authentication,
+  network segmentation, and the effectiveness of wireless intrusion detection systems.
+  Activates for requests involving wireless pentest, WiFi security assessment, WPA2/WPA3
+  testing, or rogue access point detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-wireless-network-penetration-test
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

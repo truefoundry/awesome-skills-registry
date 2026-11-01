@@ -1,0 +1,15 @@
+id: NotMyself-claude-win11-speckit-update-skill-speckit-updater
+display_name: Speckit Updater
+description: This skill provides safe update capabilities for GitHub SpecKit installations,
+  preserving customizations while applying template updates.
+authors:
+- NotMyself
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/speckit-updater
+  repo: NotMyself/claude-win11-speckit-update-skill
+metadata:
+  stars: 30
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: NVIDIA-skills-dicom-series-to-volume
+display_name: dicom-series-to-volume
+description: Used for converting one CT DICOM series folder to a HU NIfTI volume with
+  affine evidence. Not for multi-frame DICOM or clinical use.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/dicom-series-to-volume
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

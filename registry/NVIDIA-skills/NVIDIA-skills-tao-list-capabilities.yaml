@@ -1,0 +1,17 @@
+id: NVIDIA-skills-tao-list-capabilities
+display_name: tao-list-capabilities
+description: Answer what the TAO Skill Bank plugin can do by generating the response
+  from packaged application, data, model, AutoML, and platform manifests. Use when
+  the user asks "what can TAO Skill Bank do", "list TAO models", "which TAO workflows
+  are available", or "what supports AutoML".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-list-capabilities
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

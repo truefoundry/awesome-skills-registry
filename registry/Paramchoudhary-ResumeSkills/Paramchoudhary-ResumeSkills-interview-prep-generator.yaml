@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-interview-prep-generator
+display_name: interview-prep-generator
+description: Generate STAR stories, practice questions, and talking points from resume
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/interview-prep-generator
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: metalbear-co-skills-mirrord-prev-env
+display_name: mirrord-prev-env
+description: "Help users create and manage mirrord preview environments \u2014 running\
+  \ a modified service as an isolated pod in a shared Kubernetes cluster, scoped by\
+  \ an environment key and HTTP/queue traffic filtering, so teams can validate and\
+  \ review changes against real traffic without affecting live services. Use when\
+  \ a developer wants to run \"mirrord preview\" ad hoc, share a preview via a link\
+  \ (mirrord-share-ingress), or wire preview environments into CI with the metalbear-co/mirrord-preview\
+  \ GitHub Action (e.g. per-PR previews, least-privilege cluster access)."
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-prev-env
+  repo: metalbear-co/skills
+metadata:
+  stars: 29
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-typosquatting-packages
+display_name: detecting-typosquatting-packages
+description: Flag misspelled, brandjacked, and typosquatted package names across npm,
+  PyPI, and crates.io before installation, using edit-distance, keyboard-proximity,
+  and known-target corpus matching with typomania, Microsoft OSSGadget's oss-find-squats,
+  and pypi-scan. Use before adding a new dependency, as a CI/CD gate on pull requests,
+  when reviewing an AI-generated ("slopsquatting") dependency list, or when auditing
+  a lockfile diff for a swapped package.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-typosquatting-packages
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

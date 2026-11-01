@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-generate-image-with-transloadit
+display_name: transform-generate-image-with-transloadit
+description: One-off image generation (prompt -> image file) using Transloadit via
+  the `transloadit` CLI. Prefer `image generate` for text-only and input-guided generation,
+  and use `--output` when you need a deterministic path.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-generate-image-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

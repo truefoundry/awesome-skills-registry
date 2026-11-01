@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-update-docs
+display_name: update-docs
+description: Update and maintain project documentation for local code changes using
+  multi-agent workflow with tech-writer agents. Covers docs/, READMEs, JSDoc, and
+  API documentation.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/docs/skills/update-docs
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

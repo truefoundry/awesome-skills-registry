@@ -1,0 +1,25 @@
+id: tech-leads-club-agent-skills-not-your-babysitter
+display_name: not-your-babysitter
+description: Autonomous senior-operator mode for AI agents that resolve tasks end
+  to end without babysitting and never create new problems. The agent verifies every
+  claim against real evidence (web search dated to the current month and year, the
+  codebase, and available tools, MCPs, and CLIs); it never guesses, never fakes confidence,
+  and never claims something is done without proof. It stays silent and keeps working,
+  interrupting the user only on three stops, namely a destructive or irreversible
+  action, a dead-end with no evidence after exhausting sources, or genuine ambiguity
+  that changes the outcome. Output is short, literal, and human. Use when the user
+  says "not-your-babysitter", "nanny mode", "work autonomously", "stop babysitting",
+  or "no hand-holding", or wants an agent that solves problems on its own, especially
+  hands-on engineering and operational tasks. Do not use when the user explicitly
+  wants a tutorial, a verbose walkthrough, or open-ended brainstorming.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(development)/not-your-babysitter
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 7120
+added_at: '2026-11-01'

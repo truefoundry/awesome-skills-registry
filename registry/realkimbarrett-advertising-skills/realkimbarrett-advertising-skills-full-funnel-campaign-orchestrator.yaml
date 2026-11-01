@@ -1,0 +1,15 @@
+id: realkimbarrett-advertising-skills-full-funnel-campaign-orchestrator
+display_name: full-funnel-campaign-orchestrator
+description: Coordinate all skills to build a complete advertising campaign. Trigger
+  on "build a campaign", "full funnel", "ads + funnel".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/orchestrators/full-funnel-campaign-orchestrator
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

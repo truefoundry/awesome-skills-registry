@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-market-sizing
+display_name: market-sizing
+description: Estimate market size using TAM, SAM, and SOM with top-down and bottom-up
+  approaches. Use when sizing a market opportunity, estimating addressable market,
+  preparing for investor pitches, or evaluating market entry.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-market-research/skills/market-sizing
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

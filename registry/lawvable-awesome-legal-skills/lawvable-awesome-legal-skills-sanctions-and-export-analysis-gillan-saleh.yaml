@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-sanctions-and-export-analysis-gillan-saleh
+display_name: sanctions-screening-legal-analysis-skill-english-gillan-saleh
+description: "Sanctions and export control analysis tool for Claude Desktop. Real-time\
+  \ individual screening across 30+ official lists (UN, EU, OFAC, OFSI, French DGT...),\
+  \ sectoral analysis, dual-use goods (EU Reg. 2021/821), US/China extraterritorial\
+  \ regimes (EAR, ITAR, FDPR, ECL), USD/SWIFT risk and jurisdictional mapping across\
+  \ 30+ countries. All results sourced and verified in real time \u2014 no memory-based\
+  \ answers. Responds in French, English, German, Spanish, Russian and Chinese. Updated\
+  \ 19 May 2026 (EU 20th package, UK SEUC, Cuba EO). Indicative guidance only \u2014\
+  \ not legal advice."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sanctions-and-export-analysis-gillan-saleh
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

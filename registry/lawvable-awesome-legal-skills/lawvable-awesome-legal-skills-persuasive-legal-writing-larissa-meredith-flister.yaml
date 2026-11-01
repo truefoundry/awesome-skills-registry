@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-persuasive-legal-writing-larissa-meredith-flister
+display_name: persuasive-legal-writing
+description: "Apply elite legal writing techniques drawn from Justice Kagan, Boies\
+  \ & Olson, and other top advocates to any legal document \u2014 briefs, submissions,\
+  \ letters, opinions, memos, or persuasive correspondence. This skill covers both\
+  \ prose craft (clarity, examples, parallel construction, voice, quoting) and architectural\
+  \ strategy (argument sequencing, framing, openings, endings). Use this skill whenever\
+  \ the user asks you to draft, edit, or improve legal writing and wants it to be\
+  \ genuinely persuasive \u2014 not just correct. Also trigger when the user mentions\
+  \ 'make it more persuasive', 'sharpen this', 'strengthen the argument', 'rewrite\
+  \ this section', 'punch it up', 'legal writing', 'draft a brief', 'draft a submission',\
+  \ 'write like a top advocate', or asks you to improve the rhetoric, flow, or force\
+  \ of any legal document. This skill complements the larissa-legal-voice skill (which\
+  \ handles tone and personal voice) by adding the persuasive technique layer on top."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/persuasive-legal-writing-larissa-meredith-flister
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: mattpocock-skills-research
+display_name: research
+description: Investigate a question against high-trust primary sources and capture
+  the findings as a Markdown file in the repo. Use when the user wants a topic researched,
+  docs or API facts gathered, or reading legwork delegated to a background agent.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/research
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

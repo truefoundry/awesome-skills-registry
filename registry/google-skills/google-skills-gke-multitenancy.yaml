@@ -1,0 +1,19 @@
+id: google-skills-gke-multitenancy
+display_name: gke-multitenancy
+description: Plans and configures multi-tenancy on GKE. Covers namespace isolation,
+  RBAC planning for teams, resource quotas, LimitRanges, network isolation, and cost
+  allocation. Use when designing GKE multi-tenancy, configuring GKE namespaces, setting
+  up resource quotas, or isolating GKE teams. Don't use for single-tenant cluster
+  configuration or general deployment instructions (use gke-basics or gke-app-onboarding
+  instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-multitenancy
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

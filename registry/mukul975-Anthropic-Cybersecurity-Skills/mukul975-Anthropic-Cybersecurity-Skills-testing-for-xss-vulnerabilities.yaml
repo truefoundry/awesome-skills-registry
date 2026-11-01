@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-xss-vulnerabilities
+display_name: testing-for-xss-vulnerabilities
+description: Tests web applications for reflected, stored, and DOM-based Cross-Site
+  Scripting by injecting JavaScript payloads with Burp Suite (XSS extensions, Active
+  Scan++) and browser tools, then bypassing sanitization and CSP to demonstrate session
+  hijacking and user impersonation. Use for OWASP WSTG client-side injection testing
+  or when evaluating input sanitization and output encoding coverage.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-xss-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

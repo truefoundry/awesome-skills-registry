@@ -1,0 +1,17 @@
+id: nextlevelbuilder-ui-ux-pro-max-skill-design-system
+display_name: design-system
+description: "Token architecture, component specifications, and slide generation.\
+  \ Three-layer tokens (primitive\u2192semantic\u2192component), CSS variables, spacing/typography\
+  \ scales, component specs, strategic slide creation. Use for design tokens, systematic\
+  \ design, brand-compliant presentations."
+authors:
+- nextlevelbuilder
+is_official: false
+tags: []
+category: none
+source:
+  path: /.claude/skills/design-system
+  repo: nextlevelbuilder/ui-ux-pro-max-skill
+metadata:
+  stars: 143418
+added_at: '2026-11-01'

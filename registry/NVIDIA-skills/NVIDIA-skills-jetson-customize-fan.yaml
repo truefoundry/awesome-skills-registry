@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-customize-fan
+display_name: jetson-customize-fan
+description: 'Use when you need to add, remove, edit, list, or change the boot default
+  of an nvfancontrol fan profile on a Jetson/Tegra (Orin, Thor) target. Triggers:
+  edit fan profile, tune fan curve.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-customize-fan
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

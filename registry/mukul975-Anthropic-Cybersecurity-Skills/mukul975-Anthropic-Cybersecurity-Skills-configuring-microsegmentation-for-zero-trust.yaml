@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-microsegmentation-for-zero-trust
+display_name: configuring-microsegmentation-for-zero-trust
+description: Configures microsegmentation policies to enforce least-privilege workload-to-workload
+  access using tools such as VMware NSX, Illumio, and Calico, preventing lateral movement
+  in zero trust architectures. Use when designing or implementing network microsegmentation
+  as part of a zero trust architecture aligned with NIST SP 800-207.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-microsegmentation-for-zero-trust
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

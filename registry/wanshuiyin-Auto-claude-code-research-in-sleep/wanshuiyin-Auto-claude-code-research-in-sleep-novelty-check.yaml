@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-novelty-check
+display_name: novelty-check
+description: "Verify research idea novelty against recent literature. Use when user\
+  \ says \"\u67E5\u65B0\", \"novelty check\", \"\u6709\u6CA1\u6709\u4EBA\u505A\u8FC7\
+  \", \"check novelty\", or wants to verify a research idea is novel before implementing."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/novelty-check
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

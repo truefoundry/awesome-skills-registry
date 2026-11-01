@@ -1,0 +1,17 @@
+id: sanjay3290-ai-skills-notebooklm
+display_name: notebooklm
+description: Query and manage Google NotebookLM notebooks with persistent profile
+  auth, source sync, batch/multi queries, and structured exports. Use when user asks
+  to query NotebookLM, 'ask my notebook', shares NotebookLM notebook URLs, wants to
+  list/create notebooks, manage sources, do bulk folder sync, dedupe, or audit exports.
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/notebooklm
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

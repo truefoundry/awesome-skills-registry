@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-brainstorm-okrs
+display_name: brainstorm-okrs
+description: "Brainstorm team-level OKRs aligned with company objectives \u2014 qualitative\
+  \ objectives with measurable key results. Use when setting quarterly OKRs, aligning\
+  \ team goals with company strategy, drafting objectives, or learning how to write\
+  \ effective OKRs."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/brainstorm-okrs
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

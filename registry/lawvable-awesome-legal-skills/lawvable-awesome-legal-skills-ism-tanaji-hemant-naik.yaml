@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-ism-tanaji-hemant-naik
+display_name: ism
+description: 'Expert Australian Information Security Manual (ISM) advisor for government
+  entities and their supply chains. Use for ISM control selection, gap analysis, system
+  authorisation, IRAP assessment preparation, security documentation, and ASD compliance.
+  Triggers on: ISM controls, ASD compliance, IRAP assessment, PROTECTED system scoping,
+  Essential Eight vs ISM, system authorisation, NC/OS/ PROTECTED/SECRET/TOP SECRET
+  classification markings, security objectives, ISM guidelines or chapters, control
+  applicability markings, cybersecurity documentation for Australian government, and
+  any question about the ASD Information Security Manual framework or Australian government
+  cybersecurity obligations.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ism-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

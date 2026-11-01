@@ -1,0 +1,18 @@
+id: qdrant-skills-horizontal-scaling
+display_name: qdrant-horizontal-scaling
+description: Diagnoses and guides Qdrant horizontal scaling decisions. Use when someone
+  asks 'vertical or horizontal?', 'how many nodes?', 'how many shards?', 'how to add
+  nodes', 'resharding', 'data doesn't fit', 'need more capacity', 'change replication
+  factor', 'reduce replicas', or 'remove extra replicas'. Also use when data growth
+  outpaces current deployment.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-scaling/scaling-data-volume/horizontal-scaling
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

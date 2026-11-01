@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-job-description-analyzer
+display_name: job-description-analyzer
+description: Analyze job postings, calculate match scores, identify gaps, and create
+  application strategy
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/job-description-analyzer
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

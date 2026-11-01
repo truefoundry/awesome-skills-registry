@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-data-exfiltration-indicators
+display_name: hunting-for-data-exfiltration-indicators
+description: Hunt for data exfiltration by analyzing Zeek and Suricata network telemetry
+  for unusual data flows, DNS tunneling via large/frequent TXT queries, uploads to
+  personal cloud storage, and encrypted-channel abuse, correlated against threat intel
+  on destination domains. Use when hunting for data theft in a compromised environment,
+  investigating unusual outbound data volumes, or determining what data was stolen
+  during incident response.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-data-exfiltration-indicators
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

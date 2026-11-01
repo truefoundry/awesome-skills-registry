@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-dummy-dataset
+display_name: dummy-dataset
+description: Generate realistic dummy datasets for testing with customizable columns,
+  constraints, and output formats (CSV, JSON, SQL, Python script). Use when creating
+  test data, building mock datasets, or generating sample data for development and
+  demos.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/dummy-dataset
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

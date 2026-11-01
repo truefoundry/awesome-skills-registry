@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-analyze-issue
+display_name: analyze-issue
+description: Analyze a GitHub issue and create a detailed technical specification
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/git/skills/analyze-issue
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

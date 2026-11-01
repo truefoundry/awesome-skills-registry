@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-gcp-binary-authorization
+display_name: implementing-gcp-binary-authorization
+description: Implements GCP Binary Authorization end to end, including creating KMS-backed
+  attestors, Container Analysis notes, deploy-time policies, and signing image attestations,
+  so that only trusted, verified images deploy to GKE and Cloud Run. Use when enforcing
+  container supply-chain integrity or deploy-time attestation checks on GCP.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-gcp-binary-authorization
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

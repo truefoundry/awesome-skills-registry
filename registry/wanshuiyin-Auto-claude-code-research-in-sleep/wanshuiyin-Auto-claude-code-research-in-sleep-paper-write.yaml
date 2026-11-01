@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-write
+display_name: paper-write
+description: "Draft LaTeX paper section by section from an outline. Use when user\
+  \ says \\\"\u5199\u8BBA\u6587\\\", \\\"write paper\\\", \\\"draft LaTeX\\\", \\\"\
+  \u5F00\u59CB\u5199\\\", or wants to generate LaTeX content from a paper plan."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-write
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

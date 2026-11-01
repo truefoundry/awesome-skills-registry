@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-gibraltar-regulatory-compliance-osint-philip-vasquez
+display_name: gibraltar-law-osint-philip-vasquez
+description: "A jurisdiction-grounding reference file for AI assistants working on\
+  \ Gibraltar legal, regulatory, and compliance research. Corrects systematic errors\
+  \ AI models make when applying English law to Gibraltar \u2014 a distinct jurisdiction\
+  \ under the Gibraltar Constitution Order 2006, with its own court hierarchy, civil\
+  \ procedure rules, employment law, and regulatory framework. Covers the source hierarchy,\
+  \ court structure, civil procedure divergences (14-day deemed service, post-Jackson\
+  \ reforms not adopted), employment law specifics (uncapped discrimination awards,\
+  \ 5-employee redundancy threshold), FSC financial services regulation, AML/KYC compliance\
+  \ sources, Gibraltar Companies Act 2014 with UBO public register, and a structured\
+  \ directory of official public record sources. Includes research profiles for lawyers,\
+  \ compliance professionals, and due diligence practitioners. Not legal advice."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gibraltar-regulatory-compliance-osint-philip-vasquez
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

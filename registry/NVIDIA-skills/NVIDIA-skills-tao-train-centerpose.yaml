@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-centerpose
+display_name: tao-train-centerpose
+description: CenterPose for keypoint / pose estimation. Detects object centers and
+  regresses keypoint locations for 6-DoF object pose estimation. Use when training,
+  evaluating, exporting, or running inference for a TAO CenterPose model. Trigger
+  phrases include "train CenterPose", "6-DoF object pose", "keypoint estimation",
+  "object pose regression".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-centerpose
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

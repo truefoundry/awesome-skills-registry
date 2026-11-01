@@ -1,0 +1,16 @@
+id: ognjengt-founder-skills-lead-magnet-generator
+display_name: lead-magnet-generator
+description: Creates viral lead magnet posts that drive comments and DMs. Produces
+  2 versions - a quick punchy format and a detailed format with bullet points. Use
+  when user needs social media posts to give away a lead magnet in exchange for engagement.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/lead-magnet-generator
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

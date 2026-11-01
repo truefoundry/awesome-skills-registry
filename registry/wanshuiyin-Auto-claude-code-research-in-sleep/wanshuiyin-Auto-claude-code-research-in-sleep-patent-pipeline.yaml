@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-patent-pipeline
+display_name: patent-pipeline
+description: "Full patent drafting pipeline from invention description to jurisdiction-formatted\
+  \ filing documents. Supports CN (CNIPA), US (USPTO), EP (EPO). Supports invention\
+  \ patents and utility models. Use when user says \"\u5199\u4E13\u5229\", \"patent\
+  \ pipeline\", \"\u4E13\u5229\u7533\u8BF7\", \"draft patent\", \"\u5199\u6743\u5229\
+  \u8981\u6C42\u4E66\", or wants to draft a complete patent application."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/patent-pipeline
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

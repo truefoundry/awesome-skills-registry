@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-california-bar-complete-robb-miller
+display_name: california-bar-complete
+description: "Complete prep for all three scored components of the California Bar\
+  \ Exam: the five written ESSAYS (13 subjects \u2014 Business Associations, Civil\
+  \ Procedure, Community Property, Constitutional Law, Contracts, Criminal Law & Procedure,\
+  \ Evidence, Professional Responsibility, Real Property, Remedies, Torts, Trusts,\
+  \ Wills & Succession), the PERFORMANCE TEST, and the multiple-choice MBE (7 subjects).\
+  \ Trigger whenever someone is studying for the California bar (or the MBE) and says\
+  \ things like: \"give me the rule for [issue]\", \"big issues in [subject]\", \"\
+  drill/quiz me on [topic]\", \"MBE questions on [subject]\", \"teach me [doctrine]\"\
+  , \"build an attack outline\", \"grade my essay\", \"memorizable paragraph for [issue]\"\
+  , \"performance test approach\", or \"make a study plan\" \u2014 or names any tested\
+  \ essay/MBE subject in a study, memorization, drilling, or practice-question context.\
+  \ Also trigger when a student uploads a practice essay, PT, or question set to be\
+  \ graded or turned into rule blocks. When in doubt during bar prep, trigger."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/california-bar-complete-robb-miller
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: NVIDIA-skills-tao-finetune-kumo-anomaly
+display_name: tao-finetune-kumo-anomaly
+description: "Kumo-Anomaly \u2014 diffusion-based anomaly detection and fine-tuning\
+  \ for multivariate time series. Use when the user asks to \"fine-tune Kumo-Anomaly\"\
+  , \"run Kumo-Anomaly inference\", \"detect anomalies with diffusion\", \"time series\
+  \ anomaly detection\", \"finetune Kumo-Anomaly\", \"use perform_anomaly_analysis_with_diffusion\"\
+  , \"automl Kumo-Anomaly\", \"hyperparameter search Kumo-Anomaly\", \"hyperparameter\
+  \ optimization\" or mentions \"curriculum_medium.yaml\", \"final_model.pth\", \"\
+  kumo-anomaly\", \"sdk/anomaly_analysis\", or \"TSDiffuser_Generic\"."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-finetune-kumo-anomaly
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

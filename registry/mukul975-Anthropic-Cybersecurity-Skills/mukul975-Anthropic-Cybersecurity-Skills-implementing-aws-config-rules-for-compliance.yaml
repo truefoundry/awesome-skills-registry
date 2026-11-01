@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-aws-config-rules-for-compliance
+display_name: implementing-aws-config-rules-for-compliance
+description: Implements AWS Config managed and custom rules for continuous compliance
+  monitoring of AWS resources aligned to CIS and PCI DSS, configuring automatic remediation
+  with SSM Automation and aggregating compliance data across accounts. Use when establishing
+  continuous compliance monitoring, detecting configuration drift, or building a multi-account
+  compliance dashboard via AWS Organizations.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-aws-config-rules-for-compliance
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

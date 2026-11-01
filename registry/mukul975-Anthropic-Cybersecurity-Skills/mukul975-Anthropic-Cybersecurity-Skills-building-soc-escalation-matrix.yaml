@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-soc-escalation-matrix
+display_name: building-soc-escalation-matrix
+description: Build a structured SOC escalation matrix defining severity tiers, response
+  SLAs, tiered escalation paths, and notification procedures for security incidents,
+  using context-driven criteria that combine business risk, asset criticality, and
+  data sensitivity. Use when designing or revising how a SOC triages and escalates
+  incidents across analyst tiers.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-soc-escalation-matrix
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

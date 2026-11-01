@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-evaluating-threat-intelligence-platforms
+display_name: evaluating-threat-intelligence-platforms
+description: Evaluates and selects Threat Intelligence Platform (TIP) products based
+  on organizational requirements including feed integration capability, STIX/TAXII
+  support, workflow automation, analyst interface, and total cost of ownership. Use
+  when conducting a TIP procurement, migrating between TIP solutions, or assessing
+  whether the current TIP meets program maturity requirements. Activates for requests
+  involving ThreatConnect, MISP, OpenCTI, Anomali, EclecticIQ, or TIP procurement
+  decisions.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/evaluating-threat-intelligence-platforms
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,25 @@
+id: google-skills-google-cloud-storage-fuse
+display_name: google-cloud-storage-fuse
+description: 'Mounts Cloud Storage buckets on Google Cloud as a POSIX file system
+  with Cloud Storage FUSE (gcsfuse). Use when interacting with gcsfuse or Cloud Storage
+  FUSE mounts: decide whether FUSE, native gs:// reads, or Filestore/Managed Lustre
+  fits a workload, deploy tuned mounts on GKE, Compute Engine, or Cloud Run, enable
+  and size file, stat, and list caches, tune mount flags (--implicit-dirs) or config
+  files, apply workload profiles, keep ML checkpointing safe (rename atomicity, hierarchical
+  namespace/HNS, close-time finalization, concurrent writers), or diagnose slow training,
+  low throughput, or bill spikes with gcsfuse metrics. Covers mount semantics, gcsfuse
+  CLI and configs, GKE gcsfuse CSI driver (Workload Identity principal:// bindings,
+  profile StorageClasses, sidecar sizing), and Cloud Run volume mounts. Don''t use
+  for bucket administration without a mount (google-cloud-storage-basics) or POSIX
+  shared file systems (Filestore, Managed Lustre; use gke-storage).'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/google-cloud-storage-fuse
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

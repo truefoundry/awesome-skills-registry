@@ -1,0 +1,20 @@
+id: K-Dense-AI-claude-scientific-skills-primer-design
+display_name: primer-design
+description: Designs and audits PCR and RT-qPCR primers with Primer3, explicit thermodynamic
+  conditions, reference-based off-target amplification searches, and traceable sequence
+  coordinates. Use for designing primer pairs, checking existing primers, exon-junction
+  or isoform-specific assays, variant masking, cloning tails, multiplex compatibility,
+  and interpreting Primer-BLAST results. Includes bounded local in-silico PCR and
+  BLAST screening; distinguishes computational candidates from experimentally validated
+  assays.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/primer-design
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-traiage-review
+display_name: traiage-review
+description: This skill should be used when need prioritize what changed code in repository
+  human must review.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/review/skills/traiage-review
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

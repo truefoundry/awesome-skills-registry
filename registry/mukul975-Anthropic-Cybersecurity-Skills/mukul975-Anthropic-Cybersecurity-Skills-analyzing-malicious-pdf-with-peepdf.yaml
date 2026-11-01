@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-malicious-pdf-with-peepdf
+display_name: analyzing-malicious-pdf-with-peepdf
+description: Perform static analysis of malicious PDF documents using peepdf, pdfid,
+  and pdf-parser to extract embedded JavaScript, shellcode, and suspicious objects.
+  Use when triaging a suspicious PDF attachment from a phishing email, analyzing a
+  PDF-based exploit document, or building detection signatures for weaponized PDF
+  threats.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-malicious-pdf-with-peepdf
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-dns-tunneling-detection
+display_name: performing-dns-tunneling-detection
+description: Detects DNS tunneling by computing Shannon entropy of DNS query names,
+  analyzing query length distributions, inspecting TXT record payloads, and identifying
+  high subdomain cardinality. Uses scapy for packet capture analysis and statistical
+  methods to distinguish legitimate DNS from covert channels. Use when hunting for
+  data exfiltration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-dns-tunneling-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: dembrandt-dembrandt-skills-authentic-product-representation
+display_name: authentic-product-representation
+description: Product visuals must show the real product with real data. Use when building
+  landing pages, hero sections, screenshots or demo panels.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/authentic-product-representation
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

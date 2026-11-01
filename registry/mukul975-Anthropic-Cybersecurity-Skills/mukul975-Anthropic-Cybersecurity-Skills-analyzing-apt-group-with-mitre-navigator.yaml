@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-apt-group-with-mitre-navigator
+display_name: analyzing-apt-group-with-mitre-navigator
+description: Query ATT&CK data with attackcti, mitreattack-python, and stix2, then
+  build MITRE ATT&CK Navigator layers and multi-layer heatmap overlays mapping one
+  or more APT groups' TTPs for detection-gap analysis. Use to compare threat-actor
+  technique coverage, find gaps in detection engineering, or produce Navigator visualizations
+  for threat-intel reporting.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-apt-group-with-mitre-navigator
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: zxkane-aws-skills-aws-cost-operations
+display_name: aws-cost-operations
+description: AWS cost optimization, monitoring, and operational excellence expert.
+  Use when analyzing AWS bills, estimating costs, setting up CloudWatch alarms, querying
+  logs, auditing CloudTrail activity, or assessing security posture. Essential when
+  user mentions AWS costs, spending, billing, budget, pricing, CloudWatch, observability,
+  monitoring, alerting, CloudTrail, audit, or wants to optimize AWS infrastructure
+  costs and operational efficiency.
+authors:
+- zxkane
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/aws-cost-ops/skills/aws-cost-operations
+  repo: zxkane/aws-skills
+metadata:
+  stars: 373
+added_at: '2026-11-01'

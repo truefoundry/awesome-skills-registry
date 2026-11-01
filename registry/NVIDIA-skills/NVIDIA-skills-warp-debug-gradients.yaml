@@ -1,0 +1,25 @@
+id: NVIDIA-skills-warp-debug-gradients
+display_name: warp-debug-gradients
+description: "Use to diagnose and fix incorrect gradients in differentiable Warp programs.\
+  \ Anything trained, optimized, calibrated, or fit through Warp kernels depends on\
+  \ wp.Tape gradients, so treat any misbehavior of such a workflow as a gradient problem\
+  \ until proven otherwise \u2014 use this when training diverges or NaNs, won't train\
+  \ at all, stalls or plateaus above the expected loss, converges to a wrong or biased\
+  \ answer, is worse than a reference implementation, works at small scale but fails\
+  \ at production scale, or fails a QA/validation recheck. Also for explicit symptoms\
+  \ \u2014 exploding, NaN/inf, zero, or subtly wrong gradients, suspected wp.Tape/backward\
+  \ issues, gradcheck failures \u2014 but users usually describe only the surface\
+  \ symptom (\"the sim explodes\", \"the fit gets dragged toward outliers\") without\
+  \ mentioning gradients: make that leap. Not for forward-only Warp work, build/install\
+  \ problems, or autograd issues in other frameworks without Warp."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/warp-debug-gradients
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

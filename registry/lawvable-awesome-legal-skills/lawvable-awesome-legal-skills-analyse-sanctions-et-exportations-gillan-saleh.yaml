@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-analyse-sanctions-et-exportations-gillan-saleh
+display_name: sanctions-screening
+description: "Complete sanctions and export control analysis tool \u2014 individual\
+  \ designations, sectoral sanctions, dual-use goods, payment systems (SWIFT/USD),\
+  \ and extraterritorial regimes (EAR/ITAR/ FDPR US, ECL China). Triggers: \"is X\
+  \ sanctioned?\", \"can I do business with X?\", \"can I sell Y to Z?\", \"p\xE9\
+  trole Russie\", \"biens \xE0 double usage\", \"gel des avoirs\", \"sanctions internationales\"\
+  , \"liste OFAC\", \"liste UE\", \"double usage\", \"embargo\", \"licence d'exportation\"\
+  , \"SWIFT\", \"paiement en dollars\", \"US goods\", \"FDPR\", \"EAR\", \"ITAR\"\
+  , \"BIS\", \"ECL chine\", \"no re-export clause\", \"sanctions sectorielles\", \"\
+  puis-je travailler avec X?\", or any transaction involving a foreign person, product,\
+  \ sector, destination country, or payment in USD/EUR. Always adapt to user profile.\
+  \ Always run for any sanctions or export control query \u2014 even vague or exploratory\
+  \ ones."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyse-sanctions-et-exportations-gillan-saleh
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

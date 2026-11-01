@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-api-fuzzing-with-restler
+display_name: performing-api-fuzzing-with-restler
+description: 'Uses Microsoft RESTler to perform stateful REST API fuzzing: compiles
+  an OpenAPI/Swagger spec into a RESTler grammar, configures authentication, and runs
+  test/fuzz-lean/fuzz modes that generate request sequences exercising producer-consumer
+  dependencies, then flags 500 errors, auth bypasses, resource leaks, and injection
+  bugs. Use when fuzzing REST APIs for stateful bugs or running RESTler-based automated
+  API security testing.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-api-fuzzing-with-restler
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

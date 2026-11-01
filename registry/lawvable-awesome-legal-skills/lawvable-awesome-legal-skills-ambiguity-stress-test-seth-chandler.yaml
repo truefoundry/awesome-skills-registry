@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-ambiguity-stress-test-seth-chandler
+display_name: ambiguity-stress-test
+description: "Adversarially stress-tests a legal text \u2014 a contract, statute,\
+  \ regulation, or judicial opinion \u2014 for interpretive ambiguity: it finds the\
+  \ seams where the people governed by it will later disagree about what it means\
+  \ and turns each into a concrete dispute scenario with both sides' arguments, the\
+  \ likely outcome, and a fix. Use it whenever someone wants to pressure-test, red-team,\
+  \ audit, or find weak spots, loopholes, gaps, ambiguities, or drafting problems\
+  \ in a legal document; whenever a drafter wants to tighten a contract, statute,\
+  \ regulation, or opinion before it issues; whenever a litigator wants to mine an\
+  \ opinion or contract for arguments; or whenever someone hands over a legal text\
+  \ and asks where it will be fought over or for issue-spotting. Trigger it for contract\
+  \ review, statutory-ambiguity analysis, judicial-opinion scope analysis, and drafting\
+  \ QA \u2014 even if the user never says \"stress-test\" or \"ambiguity.\""
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ambiguity-stress-test-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

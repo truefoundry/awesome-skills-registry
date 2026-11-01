@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-agent-evaluation
+display_name: agent-evaluation
+description: Evaluate and improve Claude Code commands, skills, and agents. Use when
+  testing prompt effectiveness, validating context engineering choices, or measuring
+  improvement quality.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/customaize-agent/skills/agent-evaluation
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

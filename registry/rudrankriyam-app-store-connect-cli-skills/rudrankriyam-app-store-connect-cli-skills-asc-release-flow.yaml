@@ -1,0 +1,18 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-release-flow
+display_name: asc-release-flow
+description: Orchestrate App Store releases with asc, including staging a version,
+  uploading or building an artifact, publishing, and submitting for review. Use when
+  the user wants to prepare or execute a release. Keep Game Center item preparation
+  in this skill; route other readiness failures, stuck submissions, cancellation,
+  and retry decisions to asc-submission-health.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-release-flow
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

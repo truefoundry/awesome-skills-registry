@@ -1,0 +1,21 @@
+id: NVIDIA-skills-tao-token-efficient-execution
+display_name: tao-token-efficient-execution
+description: "Token-efficient execution kit for repeated TAO agentic workflows. Compiles\
+  \ a skill into stage cards once (with a strong model), then executes them forever\
+  \ in fresh, small headless sessions coordinated by a bash driver \u2014 measured\
+  \ 67-91% token reduction and 3-5x lower peak context vs one long conversation. Use\
+  \ when a TAO workflow will be run repeatedly, when token cost matters, when the\
+  \ target model has a small context window, or on trigger phrases like \"token efficient\"\
+  , \"reduce token cost\", \"card pack\", \"stage cards\", \"run this workflow on\
+  \ a small model\", \"compile this skill into cards\"."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-token-efficient-execution
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

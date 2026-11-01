@@ -1,0 +1,19 @@
+id: redis-agent-skills-redis-security
+display_name: redis-security
+description: Redis security guidance covering authentication (requirepass and ACL
+  users), TLS, ACL-based least-privilege access control, restricting network exposure
+  via bind and protected-mode, firewall rules, and disabling dangerous commands. Use
+  when deploying Redis to production, defining ACL users for an application, configuring
+  TLS connections, locking down a Redis instance behind a firewall, or auditing a
+  Redis deployment for security hardening.
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/redis-security
+  repo: redis/agent-skills
+metadata:
+  stars: 171
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: NVIDIA-skills-digital-health-clinical-asr-build
+display_name: digital-health-clinical-asr-build
+description: Stage 2 of the Clinical ASR Flywheel. Use when curating clinical terms,
+  tagging IPA, and synthesizing a NeMo manifest. NOT for scoring (use /digital-health-clinical-asr-eval).
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/digital-health-clinical-asr-build
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

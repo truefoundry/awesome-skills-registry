@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-competitor-analysis
+display_name: competitor-analysis
+description: Analyze competitors with strengths, weaknesses, and differentiation opportunities.
+  Identifies direct competitors and maps the competitive landscape. Use when doing
+  competitive research, preparing a competitive brief, or finding differentiation
+  opportunities.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-market-research/skills/competitor-analysis
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

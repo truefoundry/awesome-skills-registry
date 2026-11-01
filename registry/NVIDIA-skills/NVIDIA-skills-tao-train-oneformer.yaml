@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-oneformer
+display_name: tao-train-oneformer
+description: OneFormer for universal image segmentation. Unifies panoptic, instance,
+  and semantic segmentation with a single architecture using task-conditioned queries.
+  Use when training, evaluating, exporting, quantizing, or running inference for a
+  TAO OneFormer model. Trigger phrases include "train OneFormer", "universal segmentation",
+  "task-conditioned segmentation", "panoptic / instance / semantic in one model".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-oneformer
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

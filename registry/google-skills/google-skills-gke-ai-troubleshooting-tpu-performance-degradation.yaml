@@ -1,0 +1,23 @@
+id: google-skills-gke-ai-troubleshooting-tpu-performance-degradation
+display_name: gke-ai-troubleshooting-tpu-performance-degradation
+description: Diagnose GKE Cloud TPU training throughput drops and step-time regressions
+  (15%+ TPU duty-cycle drop) using ML Diagnostics Workload Monitoring (`gcloud alpha
+  mldiagnostics monitored-events` / `hypercomputecluster.googleapis.com/v1alpha`)
+  and 1-minute Cloud Monitoring system metrics (`kubernetes.io/node/accelerator/*`).
+  Distinguishes hardware and network fabric throttling from workload resource bottlenecks
+  (HBM capacity, host memory, or host CPU saturation). Use when TPU training throughput
+  or duty cycle drops without crashing pods, when `PERFORMANCE_DEGRADATION` monitored
+  events fire, or when triaging slow multi-slice training steps. Don't use for complete
+  multi-slice XLA execution stalls with `HANG_DETECTED` logs (use gke-ai-troubleshooting-tpu-mxla-hang)
+  or pod eviction/interruption restarts (use gke-ai-troubleshooting-jobset-interruption).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-ai-troubleshooting-tpu-performance-degradation
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: deanpeters-Product-Manager-Skills-eol-process
+display_name: eol-process
+description: "Run a product sunset end to end \u2014 decide, align, plan, prepare,\
+  \ announce, close. Use when you need the whole EOL process, not just one artifact."
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eol-process
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

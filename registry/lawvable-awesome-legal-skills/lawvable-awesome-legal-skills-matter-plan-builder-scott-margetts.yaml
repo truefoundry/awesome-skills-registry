@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-matter-plan-builder-scott-margetts
+display_name: matter-plan-builder-scott-margetts
+description: "Convert agreed scope into a structured matter plan \u2014 phases, workstreams,\
+  \ milestones, dependencies, owner assignments, and matter setup decisions. Use when\
+  \ planning a new matter, running a kickoff, building a workstream plan, structuring\
+  \ phases, setting up task codes, or producing a plan to drive status reporting.\
+  \ Trigger on: 'build a plan', 'matter plan', 'project plan', 'what are the phases',\
+  \ 'workstream plan', 'how do we sequence this', 'who owns what', 'task codes', 'matter\
+  \ setup', 'workstream plan', 'matter plan', 'rolling wave', 'plan the next phase',\
+  \ 'what comes first', 'kickoff agenda'."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/matter-plan-builder-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

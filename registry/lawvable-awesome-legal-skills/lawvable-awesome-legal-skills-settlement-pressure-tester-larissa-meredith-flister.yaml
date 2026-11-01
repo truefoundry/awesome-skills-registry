@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-settlement-pressure-tester-larissa-meredith-flister
+display_name: settlement-pressure-tester-larissa-meredith-flister
+description: "This skill stress-tests a proposed settlement position before an offer\
+  \ goes out or comes back: the assumptions it depends on, your leverage and the opponent\u2019\
+  s, the evidential weaknesses, the likely opponent response, and the timing and costs\
+  \ pressures around it. It structures settlement judgment for a better-informed decision;\
+  \ it does not advise whether to settle."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/settlement-pressure-tester-larissa-meredith-flister
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

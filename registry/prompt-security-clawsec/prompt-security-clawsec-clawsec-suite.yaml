@@ -1,0 +1,16 @@
+id: prompt-security-clawsec-clawsec-suite
+display_name: clawsec-suite
+description: ClawSec suite manager with embedded advisory-feed monitoring, cryptographic
+  signature verification, approval-gated malicious-skill response, and guided setup
+  for additional security skills.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/clawsec-suite
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

@@ -1,0 +1,14 @@
+id: ibelick-ui-skills-create-canvas
+display_name: create-canvas
+description: Build a freeform canvas to explore, compare, and iterate on anything.
+authors:
+- ibelick
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/create-canvas
+  repo: ibelick/ui-skills
+metadata:
+  stars: 10422
+added_at: '2026-11-01'

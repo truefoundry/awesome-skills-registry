@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-suspicious-oauth-application-consent
+display_name: detecting-suspicious-oauth-application-consent
+description: Detect risky OAuth application consent grants in Azure AD / Microsoft
+  Entra ID using Microsoft Graph API, audit logs, and permission analysis to identify
+  illicit consent grant attacks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-suspicious-oauth-application-consent
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

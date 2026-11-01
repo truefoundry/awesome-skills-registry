@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-policy-as-code-with-open-policy-agent
+display_name: implementing-policy-as-code-with-open-policy-agent
+description: Implements policy-as-code enforcement with Open Policy Agent (OPA) and
+  Gatekeeper for Kubernetes and CI/CD pipelines, covering writing Rego policies, deploying
+  OPA Gatekeeper as a Kubernetes admission controller, testing policies in development,
+  and integrating policy evaluation into deployment pipelines. Use when writing Rego
+  policies, deploying Gatekeeper admission control, or gating CI/CD pipelines with
+  policy-as-code checks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-policy-as-code-with-open-policy-agent
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

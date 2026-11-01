@@ -1,0 +1,19 @@
+id: google-skills-cloud-databases-onboarding
+display_name: cloud-databases-onboarding
+description: Guides users through discovering their database requirements, recommends
+  a Google Cloud database based on a recommendation matrix, and assists in database
+  creation. Use when a user asks 'What database service should I use?', 'Help me pick
+  a database', or when a user wants to create a new database on Google Cloud. Don't
+  use for general Google Cloud maintenance, managing existing databases, or database
+  migrations.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-databases-onboarding
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

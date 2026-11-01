@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-multi-agent-patterns
+display_name: multi-agent-patterns
+description: Design multi-agent architectures for complex tasks. Use when single-agent
+  context limits are exceeded, when tasks decompose naturally into subtasks, or when
+  specializing agents improves quality.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/multi-agent-patterns
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

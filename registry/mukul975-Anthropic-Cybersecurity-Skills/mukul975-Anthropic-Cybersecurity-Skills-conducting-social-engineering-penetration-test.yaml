@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-social-engineering-penetration-test
+display_name: conducting-social-engineering-penetration-test
+description: Design and execute a social engineering penetration test combining OSINT-driven
+  target profiling with phishing, vishing, smishing, and physical pretexting campaigns
+  using tools like GoPhish, the Social Engineer Toolkit (SET), and Evilginx to measure
+  human security resilience. Use when scoping or running an authorized human-attack-surface
+  test and reporting results to identify security awareness training gaps.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-social-engineering-penetration-test
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

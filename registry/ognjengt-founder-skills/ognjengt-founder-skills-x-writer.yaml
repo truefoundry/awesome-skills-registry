@@ -1,0 +1,16 @@
+id: ognjengt-founder-skills-x-writer
+display_name: x-writer
+description: Creates viral X (Twitter) posts using proven formats, post templates,
+  and creator voice matching. Use when user needs engaging, high-performing posts
+  for X/Twitter.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/x-writer
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

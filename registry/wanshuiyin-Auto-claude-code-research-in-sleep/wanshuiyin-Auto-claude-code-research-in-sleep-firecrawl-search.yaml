@@ -1,0 +1,15 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-firecrawl-search
+display_name: firecrawl-search
+description: Web search and page scraping via Firecrawl, returning full-page markdown.
+  Use when user says "firecrawl search", "firecrawl scrape" or "/firecrawl-search".
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/firecrawl-search
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

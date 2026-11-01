@@ -1,0 +1,15 @@
+id: realkimbarrett-advertising-skills-headline-matrix
+display_name: headline-matrix
+description: Generate high-performing headline variations across different angles.
+  Trigger on "headlines", "hooks", "ad copy", "email subject lines".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/copy-chief/headline-matrix
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

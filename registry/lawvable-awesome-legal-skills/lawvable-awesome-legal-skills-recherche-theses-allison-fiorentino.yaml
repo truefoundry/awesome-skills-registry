@@ -1,0 +1,27 @@
+id: lawvable-awesome-legal-skills-recherche-theses-allison-fiorentino
+display_name: recherche-theses-allison-fiorentino
+description: "Recherche, cartographie et analyse des th\xE8ses de doctorat fran\xE7\
+  aises via theses.fr (API ABES) et TEL (HAL). Sp\xE9cialis\xE9e droit avec filtrage\
+  \ par sous-disciplines juridiques. Ouverte sur d'autres domaines universitaires.\
+  \ Capacit\xE9s : (1) recherche multi-crit\xE8res \u2014 sujet, directeur, jury,\
+  \ \xE9tablissement, \xE9cole doctorale, p\xE9riode, statut soutenue/en pr\xE9paration,\
+  \ discipline ; (2) cartographie acad\xE9mique \u2014 qui dirige sur quel sujet,\
+  \ qui si\xE8ge dans quels jurys, r\xE9seaux de co-direction, \xE9coles doctorales\
+  \ productives ; (3) analyses temporelles \u2014 \xE9volution d'un sujet, d\xE9tection\
+  \ de saturation, calendrier des soutenances \xE0 venir ; (4) filtrage sous-discipline\
+  \ juridique \u2014 droit priv\xE9, public, social, affaires, international, etc.\
+  \ D\xE9clencher d\xE8s que l'utilisateur mentionne th\xE8se, doctorat, directeur\
+  \ de th\xE8se, jury de th\xE8se, \xE9cole doctorale, soutenance, doctorant, ou demande\
+  \ une analyse d'\xE9cosyst\xE8me doctoral. Pour articles ou ouvrages de doctrine,\
+  \ utiliser plut\xF4t recherche-doctrine."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/recherche-theses-allison-fiorentino
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: google-skills-spanner-basics
+display_name: spanner-basics
+description: Assists in provisioning instances and databases, designing performant
+  schemas, and querying data in Cloud Spanner on Google Cloud. Use when designing
+  primary keys, writing SQL queries or client library code, or diagnosing performance
+  issues.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/spanner-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

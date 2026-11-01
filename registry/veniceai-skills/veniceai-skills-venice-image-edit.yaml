@@ -1,0 +1,19 @@
+id: veniceai-skills-venice-image-edit
+display_name: venice-image-edit
+description: "Transform existing images with Venice. Covers POST /image/edit (prompt-driven\
+  \ single-image edit), /image/multi-edit (compose several images, per-model input\
+  \ cap, quality tiers), /image/upscale (2x\u20134x upscale with creativity), and\
+  \ /image/background-remove (transparent PNG cutout). Input formats (base64, data\
+  \ URI, URL, multipart), per-model constraints from GET /models?type=inpaint, response\
+  \ headers, and errors."
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-image-edit
+  repo: veniceai/skills
+metadata:
+  stars: 160
+added_at: '2026-11-01'

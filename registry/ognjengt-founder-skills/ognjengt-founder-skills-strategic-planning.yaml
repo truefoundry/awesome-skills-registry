@@ -1,0 +1,17 @@
+id: ognjengt-founder-skills-strategic-planning
+display_name: strategic-planning
+description: Analyzes the founder's business context to deliver the 3 highest-impact
+  next moves for growth (marketing or sales). Asks up to 10 diagnostic questions when
+  needed to uncover bottlenecks, struggles, and opportunities. Use when user needs
+  strategic guidance, next steps, growth planning, or actionable business strategy.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/strategic-planning
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

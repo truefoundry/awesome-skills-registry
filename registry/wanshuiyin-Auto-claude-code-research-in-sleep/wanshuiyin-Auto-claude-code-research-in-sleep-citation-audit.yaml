@@ -1,0 +1,19 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-citation-audit
+display_name: citation-audit
+description: "Zero-context verification that every bibliographic entry in the paper\
+  \ is real, correctly attributed, and used in a context the cited paper actually\
+  \ supports \u2014 catching hallucinated authors, wrong years, fabricated venues,\
+  \ version mismatches, and wrong-context citations. Use when user says \"\u5BA1\u67E5\
+  \u5F15\u7528\", \"check citations\", \"citation audit\", \"verify references\",\
+  \ \"\u5F15\u7528\u6838\u5BF9\", or before submission to ensure bibliography integrity."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/citation-audit
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

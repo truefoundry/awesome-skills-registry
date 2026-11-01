@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-attack-path-analysis-with-xm-cyber
+display_name: implementing-attack-path-analysis-with-xm-cyber
+description: Deploys XM Cyber's continuous exposure management platform to build attack
+  graphs that chain vulnerabilities, misconfigurations, identity risks, and credential
+  weaknesses toward critical assets, identifying the small fraction of exposures sitting
+  on converging "choke points". Use when mapping attack paths across an environment
+  or prioritizing remediation within a continuous threat exposure management (CTEM)
+  program.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-attack-path-analysis-with-xm-cyber
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

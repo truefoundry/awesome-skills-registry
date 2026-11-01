@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-living-off-the-land-attacks
+display_name: detecting-living-off-the-land-attacks
+description: Detect abuse of legitimate Windows binaries (LOLBins) used for living
+  off the land attacks. Monitors process creation, command-line arguments, and parent-child
+  relationships to identify suspicious LOLBin execution patterns.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-living-off-the-land-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

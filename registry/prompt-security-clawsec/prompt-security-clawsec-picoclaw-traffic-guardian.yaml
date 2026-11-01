@@ -1,0 +1,15 @@
+id: prompt-security-clawsec-picoclaw-traffic-guardian
+display_name: picoclaw-traffic-guardian
+description: Picoclaw runtime traffic monitoring baseline for lightweight AI gateway
+  proxy inspection, egress detection, and posture integration.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/picoclaw-traffic-guardian
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

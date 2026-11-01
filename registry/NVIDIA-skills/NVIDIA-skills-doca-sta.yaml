@@ -1,0 +1,22 @@
+id: NVIDIA-skills-doca-sta
+display_name: doca-sta
+description: "Use this skill when the user builds an NVMe-over-Fabrics storage target\
+  \ on BlueField with DOCA STA \u2014 instantiating doca_sta, declaring doca_sta_subsystem\
+  \ NQNs and namespaces over local NVMe disks via doca_sta_be, validating platform\
+  \ support with doca_sta_cap_is_supported, sizing I/O queue depth, or decoding DOCA_ERROR_*\
+  \ statuses such as IO_FAILED on NVMe reads. Also load it for implied asks like \"\
+  Identify Controller times out over RoCE\", \"offload the nvmf target\", \"NVMe-oF\
+  \ Connect never completes\", or \"16 I/O queues at depth 1024 \u2014 supported?\"\
+  . Refuse and route to the proper owner for raw RDMA movement, packet I/O, steering\
+  \ rules, initiator-side NVMe, or SDK install."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-sta
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

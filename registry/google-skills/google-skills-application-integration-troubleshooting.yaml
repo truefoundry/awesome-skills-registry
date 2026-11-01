@@ -1,0 +1,19 @@
+id: google-skills-application-integration-troubleshooting
+display_name: application-integration-troubleshooting
+description: Diagnoses failed, stuck, or silent Google Cloud Application Integration
+  runs and Integration Connectors tasks using the REST API, Cloud Logging, and Cloud
+  Monitoring. Use when an integration fails, returns HTTP 200 without doing the expected
+  work, hangs in a suspended or retry state, or hits IAM, run-as service account,
+  connector health, or quota errors. Do not use for initial region provisioning (use
+  application-integration-basics) or building and deploying versions (use application-integration-authoring).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/application-integration-troubleshooting
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

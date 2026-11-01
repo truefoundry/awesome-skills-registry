@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-soc2-type2-audit-preparation
+display_name: performing-soc2-type2-audit-preparation
+description: Automates SOC 2 Type II audit preparation including gap assessment against
+  AICPA Trust Services Criteria (CC1-CC9), evidence collection from cloud providers
+  and identity systems, control testing validation, remediation tracking, and continuous
+  compliance monitoring. Covers all five TSC categories (Security, Availability, Processing
+  Integrity, Confidentiality, Privacy) with automated evidence gathering from AWS,
+  Azure, GCP, Okta, GitHub, and Jira. Use when preparing for or maintaining SOC 2
+  Type II certification.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-soc2-type2-audit-preparation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-argp
+display_name: doca-argp
+description: "Use this skill for hands-on DOCA Arg Parser CLI work on a shipped sample\
+  \ or new DOCA-using app \u2014 adding / removing / renaming flags; wiring `doca_argp_init`\
+  \ \u2192 register params \u2192 `doca_argp_start` \u2192 `doca_argp_destroy` in\
+  \ order; picking a parameter type from the full public enum (`DOCA_ARGP_TYPE_STRING`,\
+  \ `_INT`, `_BOOLEAN`, `_DEVICE`, `_DEVICE_REP`, `_DOUBLE` \u2014 six values, not\
+  \ three); preserving the built-in DOCA flags (`-h` `-v` `-l` `--sdk-log-level` `--log-filter`\
+  \ `-j`/`--json`, NOT `--json-config`); `--device` is per-program; or debugging `DOCA_ERROR_BAD_STATE`\
+  \ / `INVALID_VALUE` / `NOT_SUPPORTED` / `IO_FAILED` from `doca_argp_*`. Trigger\
+  \ on implicit phrasings: \"add a custom flag to a DOCA sample\", \"should I use\
+  \ getopt here\", \"BAD_STATE registering a new param\", \"my JSON config key is\
+  \ rejected\", or \"my sample's --json is ignored\". Refuse and route elsewhere for\
+  \ variadic-flag / subcommand / shell-completion features, DOCA Core context, or\
+  \ DOCA Log internals."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-argp
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

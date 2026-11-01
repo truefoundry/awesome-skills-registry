@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-xxe-injection-vulnerabilities
+display_name: testing-for-xxe-injection-vulnerabilities
+description: Discovering and exploiting XML External Entity injection vulnerabilities
+  to read server files, perform SSRF, and exfiltrate data during authorized penetration
+  tests.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-xxe-injection-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

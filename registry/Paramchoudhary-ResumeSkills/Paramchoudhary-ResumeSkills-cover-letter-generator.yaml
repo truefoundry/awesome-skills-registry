@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-cover-letter-generator
+display_name: cover-letter-generator
+description: Create personalized, compelling cover letters from resume and job description
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cover-letter-generator
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

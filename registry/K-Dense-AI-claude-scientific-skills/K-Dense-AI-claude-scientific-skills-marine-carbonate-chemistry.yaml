@@ -1,0 +1,19 @@
+id: K-Dense-AI-claude-scientific-skills-marine-carbonate-chemistry
+display_name: marine-carbonate-chemistry
+description: Solves seawater carbonate chemistry with PyCO2SYS for chemical oceanography,
+  ocean acidification, and marine carbon-cycle research. Use for paired total alkalinity,
+  dissolved inorganic carbon, pH, or seawater pCO2/fCO2 measurements; carbonate speciation;
+  aragonite and calcite saturation; Revelle factors; lab-to-in-situ temperature and
+  pressure corrections; and measurement uncertainty propagation. Applies to carbonate-system
+  calculations, not general aqueous speciation or air-sea gas-flux estimation.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/marine-carbonate-chemistry
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

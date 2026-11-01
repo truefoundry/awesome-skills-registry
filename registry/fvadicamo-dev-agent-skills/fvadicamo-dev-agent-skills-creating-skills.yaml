@@ -1,0 +1,18 @@
+id: fvadicamo-dev-agent-skills-creating-skills
+display_name: creating-skills
+description: Guide for creating Claude Code skills following Anthropic's official
+  best practices. Use when user wants to create a new skill, build a skill, write
+  SKILL.md, update an existing skill, or needs skill creation guidelines. Provides
+  structure, frontmatter fields, naming conventions, and new features like dynamic
+  context injection and subagent execution.
+authors:
+- fvadicamo
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/skill-authoring/skills/creating-skills
+  repo: fvadicamo/dev-agent-skills
+metadata:
+  stars: 72
+added_at: '2026-11-01'

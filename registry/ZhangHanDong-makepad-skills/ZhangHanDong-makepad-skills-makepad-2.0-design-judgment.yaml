@@ -1,0 +1,21 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-design-judgment
+display_name: makepad-2.0-design-judgment
+description: "CRITICAL: Entry-level skill for Makepad 2.0 GUI development. This is\
+  \ the FIRST skill to load for any Makepad task \u2014 it provides design judgment\
+  \ anchors ABOVE the other 13 Makepad 2.0 skills. Triggers on: makepad, makepad app,\
+  \ makepad project, makepad design, live_design!, app_main!, script_mod!, Cx, WidgetRef,\
+  \ Widget, makepad-widgets, makepad architecture, makepad how to, \"how should I\"\
+  , \"should I use\", \"what's the best way\", makepad \u67B6\u6784, makepad \u8BBE\
+  \u8BA1, makepad \u600E\u4E48\u505A, makepad \u6700\u4F73\u5B9E\u8DF5, \u7EC4\u4EF6\
+  \u62C6\u5206, \u72B6\u6001\u7BA1\u7406, \u6570\u636E\u6D41, \u6E32\u67D3\u601D\u7EF4"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-design-judgment
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

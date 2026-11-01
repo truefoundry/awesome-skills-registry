@@ -1,0 +1,15 @@
+id: mattpocock-skills-claude-handoff
+display_name: claude-handoff
+description: Hand the current conversation off to a fresh background agent that picks
+  up the work immediately.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/claude-handoff
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

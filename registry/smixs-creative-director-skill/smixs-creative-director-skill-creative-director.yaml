@@ -1,0 +1,25 @@
+id: smixs-creative-director-skill-creative-director
+display_name: creative-director
+description: "AI creative director with recursive self-assessment. Generates concepts\
+  \ using world-class methodologies (SIT, TRIZ, Lateral Thinking, bisociation), scores\
+  \ against 6 weighted criteria with Cannes/D&AD/HumanKind calibration, and recursively\
+  \ refines until the 9+ threshold is reached. Accepts briefs in any format \u2014\
+  \ text, voice transcript, PDF, or raw notes. Use when the user asks to generate\
+  \ creative concepts, brainstorm campaign ideas, develop a Big Idea or campaign platform,\
+  \ evaluate or critique existing creative work, find consumer insights, or shares\
+  \ a brief for ideation \u2014 including activations, PR-stunts, brand utility, experiential,\
+  \ and non-advertising ideas. Calibrates against a library of 569 legendary campaigns\
+  \ (P01-P18 pattern map) to detect saturation and ensure originality. Do not use\
+  \ for media planning, production budgeting, brand identity/logo design, copywriting\
+  \ final drafts, or market research data collection."
+authors:
+- smixs
+is_official: false
+tags: []
+category: none
+source:
+  path: /creative-director
+  repo: smixs/creative-director-skill
+metadata:
+  stars: 288
+added_at: '2026-11-01'

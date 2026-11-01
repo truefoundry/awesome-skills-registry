@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-jwt-none-algorithm-attack
+display_name: performing-jwt-none-algorithm-attack
+description: Execute and test the JWT none algorithm attack, crafting tokens with
+  the alg header set to none using PyJWT and an intercepting proxy (Burp Suite/mitmproxy)
+  to bypass signature verification and forge arbitrary claims. Use during authorized
+  penetration tests or security assessments of applications that use JWT for authentication
+  or authorization, to validate that the server rejects unsigned tokens.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-jwt-none-algorithm-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: veniceai-skills-venice-crypto-rpc
+display_name: venice-crypto-rpc
+description: "Use Venice as a pay-per-call JSON-RPC proxy to 27 EVM, Starknet, and\
+  \ Solana networks. Covers the public GET /crypto/rpc/networks, POST /crypto/rpc/{network},\
+  \ chain families and their explicit per-family method allowlists, the 1\xD7/2\xD7\
+  /4\xD7 method-tier pricing model (~$7e-7 per credit), the per-minute rate limit\
+  \ and per-user request serialization, idempotency keys for safe retries, single\
+  \ vs batch (\u2264100) requests, and the unsupported stateful/WebSocket methods\
+  \ (eth_subscribe, eth_newFilter, *Subscribe, etc.)."
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-crypto-rpc
+  repo: veniceai/skills
+metadata:
+  stars: 160
+added_at: '2026-11-01'

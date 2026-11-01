@@ -1,0 +1,28 @@
+id: lawvable-awesome-legal-skills-archeologue-gallica-allison-fiorentino
+display_name: archeologue-gallica
+description: "Arch\xE9ologie des sources juridiques anciennes via Gallica (BNF, API\
+  \ stables, sans cl\xE9) : d\xE9bats parlementaires du JO depuis 1871 (gen\xE8se\
+  \ des lois de la IIIe R\xE9publique), notes d'arr\xEAt et doctrine d'origine dans\
+  \ les recueils Sirey et Dalloz, Bulletins civil et criminel anciens, Recueil Lebon,\
+  \ JO Lois et d\xE9crets 1881-2015, th\xE8ses et trait\xE9s du XIXe-d\xE9but XXe,\
+  \ Gazette des tribunaux, Bulletin de l'Inspection du travail. D\xE9clencher d\xE8\
+  s que l'utilisateur cherche l'origine historique d'un texte, d'un concept ou d'une\
+  \ jurisprudence : \xAB d\xE9bats de la loi de 1884 \xBB, \xAB note de Josserand\
+  \ \xBB, \xAB que disait la doctrine en 1900 \xBB, \xAB premi\xE8re apparition de\
+  \ la notion de\u2026 \xBB, \xAB g\xE9n\xE9alogie / histoire de l'article\u2026 \xBB\
+  , \xAB arr\xEAt ancien \xBB, \xAB th\xE8se d'avant-guerre \xBB, \xAB Gallica \xBB\
+  , \xAB BNF \xBB, ou toute recherche juridique ant\xE9rieure aux bases modernes (L\xE9\
+  gifrance ne remonte pas avant l'\xE9poque contemporaine, Judilibre non plus). D\xE9\
+  clencher aussi en COMPL\xC9MENT de travaux-preparatoires quand la loi \xE9tudi\xE9\
+  e est ant\xE9rieure \xE0 1958."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/archeologue-gallica-allison-fiorentino
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

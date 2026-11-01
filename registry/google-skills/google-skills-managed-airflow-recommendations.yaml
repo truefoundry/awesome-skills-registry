@@ -1,0 +1,19 @@
+id: google-skills-managed-airflow-recommendations
+display_name: managed-airflow-recommendations
+description: Provides recommendations and best practices for creating, configuring,
+  tuning and optimizing Managed Service for Apache Airflow (MSAA; formerly Cloud Composer)
+  environments. Use when the user asks for guidance, recommendations, or best practices
+  on configuring Managed Airflow environments, scaling Airflow environments, preventing
+  workload restarts, or analyzing system health. Don't use for troubleshooting individual
+  DAG or task run failures, authoring DAGs, or migrating DAGs to newer Airflow versions.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/managed-airflow-recommendations
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: realkimbarrett-advertising-skills-schwartz-awareness-mapper
+display_name: schwartz-awareness-mapper
+description: Use when you need to determine audience awareness level and the correct
+  messaging approach. Trigger on "awareness stage", "cold vs warm audience", "Schwartz",
+  "message to market match".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/copy-chief/schwartz-awareness-mapper
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

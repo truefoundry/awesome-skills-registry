@@ -1,0 +1,20 @@
+id: garrytan-gbrain-brain-link-discipline
+display_name: brain-link-discipline
+description: "When you report a brain page to the user \u2014 created, edited, committed,\
+  \ or relayed from a subagent \u2014 a working link is part of the deliverable, in\
+  \ the SAME message. Derive the path mechanically (git ls-files --full-name), push\
+  \ BEFORE linking, verify the link resolves when a hosted remote exists, and degrade\
+  \ through a defined fallback chain when it doesn't. Inside brain pages the rule\
+  \ inverts: relative links preserve the link graph; absolute URLs are for chat deliverables\
+  \ only."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/brain-link-discipline
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

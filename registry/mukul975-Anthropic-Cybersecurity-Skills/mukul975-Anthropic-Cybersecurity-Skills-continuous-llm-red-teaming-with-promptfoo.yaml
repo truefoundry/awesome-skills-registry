@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-continuous-llm-red-teaming-with-promptfoo
+display_name: continuous-llm-red-teaming-with-promptfoo
+description: Wires Promptfoo and DeepTeam into CI/CD for automated, repeatable red-teaming
+  of LLM apps against OWASP LLM Top 10, OWASP Agentic, and MITRE ATLAS presets, failing
+  the build when jailbreak or injection vulnerabilities regress. Use for continuous
+  adversarial testing in CI/CD, a merge-blocking security gate, or comparing model/prompt
+  versions for compliance reporting.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/continuous-llm-red-teaming-with-promptfoo
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

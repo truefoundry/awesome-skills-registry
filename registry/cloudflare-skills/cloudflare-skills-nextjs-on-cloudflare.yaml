@@ -1,0 +1,18 @@
+id: cloudflare-skills-nextjs-on-cloudflare
+display_name: nextjs-on-cloudflare
+description: Build, migrate, and deploy Next.js apps on Cloudflare Workers with vinext.
+  Use when starting a Next.js project on Cloudflare, moving an existing app to Workers,
+  choosing between vinext and OpenNext, or setting up vinext for Workers. For setup,
+  migration, or deployment, install vinext's upstream skills with `npx skills add
+  cloudflare/vinext` if missing, then read and follow the applicable skill and docs.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nextjs-on-cloudflare
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

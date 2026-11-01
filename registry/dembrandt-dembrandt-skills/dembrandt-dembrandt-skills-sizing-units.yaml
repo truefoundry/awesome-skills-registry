@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-sizing-units
+display_name: sizing-units
+description: rem, px or relative units for each kind of value. Use when defining spacing
+  and sizing tokens, control heights or media queries, or when a layout breaks under
+  enlarged text.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sizing-units
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

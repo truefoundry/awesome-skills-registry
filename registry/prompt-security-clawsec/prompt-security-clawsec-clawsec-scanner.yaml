@@ -1,0 +1,17 @@
+id: prompt-security-clawsec-clawsec-scanner
+display_name: clawsec-scanner
+description: Automated vulnerability scanner for agent platforms. Performs dependency
+  scanning (npm audit, pip-audit), multi-database CVE lookup (OSV, NVD, GitHub Advisory),
+  SAST analysis (Semgrep, Bandit), and agent-specific static hook inspection for OpenClaw
+  hooks.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/clawsec-scanner
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

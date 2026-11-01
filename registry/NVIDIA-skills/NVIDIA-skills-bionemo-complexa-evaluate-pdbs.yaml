@@ -1,0 +1,19 @@
+id: NVIDIA-skills-bionemo-complexa-evaluate-pdbs
+display_name: complexa-evaluate-pdbs
+description: Agent runbook for evaluating an existing PDB directory through the separately
+  installed first-party Proteina-Complexa CLI. Use to refold or score designs, compute
+  interface pAE, i_pLDDT, scRMSD, motif RMSD, or designability, run complexa analysis,
+  or assess third-party BindCraft, AlphaProteo, or RFdiffusion outputs. SKILL.md selects
+  and invokes the evaluation configuration; bundled executables only inspect local
+  readiness and write a run manifest.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-complexa-evaluate-pdbs
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

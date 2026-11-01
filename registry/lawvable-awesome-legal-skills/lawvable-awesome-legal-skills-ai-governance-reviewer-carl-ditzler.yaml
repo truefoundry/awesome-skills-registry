@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-ai-governance-reviewer-carl-ditzler
+display_name: ai-governance-reviewer-carl-ditzler
+description: Use this skill when the user wants an AI governance, legal-risk, privacy,
+  compliance, procurement, or vendor-risk review of an internal AI use case, an AI
+  product feature, an LLM workflow, or a third-party AI vendor. The skill asks intake
+  and clarifying questions first when facts or evidence are missing, identifies required
+  documentation and missing evidence, maps the use case to AI governance frameworks
+  and applicable legal domains, and produces a preliminary or final governance review
+  with scorecards, findings, owners, remediation actions, and follow-up questions.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ai-governance-reviewer-carl-ditzler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

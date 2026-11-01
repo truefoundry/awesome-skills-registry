@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-claims-drafting
+display_name: claims-drafting
+description: "Draft patent claims for an invention. Use when user says \"\u64B0\u5199\
+  \u6743\u5229\u8981\u6C42\", \"draft claims\", \"\u5199\u6743\u5229\u8981\u6C42\u4E66\
+  \", \"claim drafting\", or wants to create patent claims. The core skill of the\
+  \ patent pipeline."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/claims-drafting
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-evtx-with-chainsaw
+display_name: hunting-evtx-with-chainsaw
+description: Run Chainsaw against collected Windows EVTX files to hunt with the SigmaHQ
+  rule corpus, built-in detection rules, and high-speed keyword/regex search, plus
+  analyze shimcache, SRUM, and event-log gaps, outputting colorized tables, CSV, or
+  JSON. Use during first-response triage for offline, SIEM-free detection over Windows
+  event logs, or to quickly confirm a hunt hypothesis and produce reporting output.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-evtx-with-chainsaw
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

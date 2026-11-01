@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-aws-iam-permission-boundaries
+display_name: implementing-aws-iam-permission-boundaries
+description: Configures AWS IAM permission boundaries that cap the maximum permissions
+  an identity-based policy can grant to a user or role, so effective permissions are
+  the intersection of the identity policy and the boundary even if the policy grants
+  AdministratorAccess. Use when letting security teams delegate IAM role and policy
+  creation to developers for self-service while enforcing least-privilege ceilings
+  and preventing privilege escalation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-aws-iam-permission-boundaries
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: alinaqi-maggy-security-audit
+display_name: security-audit
+description: "Structured, adversarial, multi-phase security audit of a codebase \u2014\
+  \ recon \u2192 coverage-led hunting \u2192 finder\u2260validator validation \u2192\
+  \ machine-readable findings \u2192 target-neutral report"
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/security-audit
+  repo: alinaqi/maggy
+metadata:
+  stars: 710
+added_at: '2026-11-01'

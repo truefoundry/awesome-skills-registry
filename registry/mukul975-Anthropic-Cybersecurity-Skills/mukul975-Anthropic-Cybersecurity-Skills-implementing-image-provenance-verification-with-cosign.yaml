@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-image-provenance-verification-with-cosign
+display_name: implementing-image-provenance-verification-with-cosign
+description: 'Signs and verifies container image provenance with Sigstore Cosign,
+  covering key-based and keyless OIDC signing (Fulcio, Rekor transparency log), SLSA
+  attestations, and enforcing signature verification through Kubernetes admission
+  control. Use when signing images for supply chain security, setting up keyless OIDC
+  signing, attaching attestations, or enforcing a verified-images-only policy at admission.
+  Keywords: Cosign, Sigstore, Fulcio, Rekor, keyless, attestation, cosign verify,
+  admission policy. Do not use for in-toto layout-based pipeline attestation - use
+  implementing-supply-chain-security-with-in-toto.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-image-provenance-verification-with-cosign
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

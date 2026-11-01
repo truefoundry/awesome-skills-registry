@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-container-drift-at-runtime
+display_name: detecting-container-drift-at-runtime
+description: 'Detects unauthorized runtime drift in containers by monitoring binary
+  execution, filesystem changes, and configuration deviation from the original immutable
+  image, using Falco and Microsoft Defender for Containers. Use when validating immutable-infrastructure
+  controls, hunting for unexpected package installs or binaries written inside a running
+  container, or determining whether a container diverged from the image it was built
+  from. Keywords: drift, immutable infrastructure, new binary executed, package install,
+  image mismatch, Falco. Do not use for detecting breakout from the container to the
+  host - use detecting-container-escape-attempts.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-container-drift-at-runtime
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

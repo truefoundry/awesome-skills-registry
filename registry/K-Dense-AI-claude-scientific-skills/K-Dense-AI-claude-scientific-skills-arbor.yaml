@@ -1,0 +1,18 @@
+id: K-Dense-AI-claude-scientific-skills-arbor
+display_name: arbor
+description: Applies Arbor Hypothesis Tree Refinement to research artifacts with repeatable
+  evaluators, including model training, agent harnesses, data synthesis and benchmark
+  optimization. Uses persistent hypotheses, isolated experiments, evidence propagation
+  and held-out candidate comparison for multi-experiment research runs. Includes a
+  standard-library state manager and guidance for the RUC-NLPIR Arbor CLI.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/arbor
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-qzcli
+display_name: qzcli
+description: "Manage GPU compute jobs on the Qizhi (\u542F\u667A) platform using qzcli\
+  \ \u2014 a kubectl-style CLI tool. Use when user says \"qzcli\", \"\u542F\u667A\u5E73\
+  \u53F0\", \"submit job\", \"stop job\", \"\u67E5\u8BA1\u7B97\u7EC4\", \"avail\"\
+  , \"list jobs\", \"batch submit\", or needs to manage distributed training jobs\
+  \ on a Qizhi instance."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/qzcli
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

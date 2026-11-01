@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-write-concisely
+display_name: write-concisely
+description: Apply writing rules to any documentation that humans will read. Makes
+  your writing clearer, stronger, and more professional.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/docs/skills/write-concisely
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

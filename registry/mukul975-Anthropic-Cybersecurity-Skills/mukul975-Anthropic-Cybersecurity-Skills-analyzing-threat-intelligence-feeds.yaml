@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-threat-intelligence-feeds
+display_name: analyzing-threat-intelligence-feeds
+description: Analyzes structured and unstructured threat intelligence feeds to extract
+  actionable indicators, adversary tactics, and campaign context. Use when ingesting
+  commercial or open-source CTI feeds, evaluating feed quality, normalizing data into
+  STIX 2.1 format, or enriching existing IOCs with campaign attribution. Activates
+  for requests involving ThreatConnect, Recorded Future, Mandiant Advantage, MISP,
+  AlienVault OTX, or automated feed aggregation pipelines.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-threat-intelligence-feeds
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

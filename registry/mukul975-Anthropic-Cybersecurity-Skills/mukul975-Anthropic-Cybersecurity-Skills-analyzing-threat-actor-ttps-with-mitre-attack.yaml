@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-threat-actor-ttps-with-mitre-attack
+display_name: analyzing-threat-actor-ttps-with-mitre-attack
+description: Systematically map threat actor behavior and observed IOCs to the MITRE
+  ATT&CK framework, build technique coverage heatmaps with the ATT&CK Navigator, identify
+  detection gaps, and produce actionable threat intelligence reports across the Enterprise,
+  Mobile, and ICS matrices. Use when analyzing threat actor TTPs, correlating IOCs
+  to specific ATT&CK techniques, or assessing defensive detection coverage against
+  adversary behavior.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-threat-actor-ttps-with-mitre-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

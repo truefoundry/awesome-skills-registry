@@ -1,0 +1,15 @@
+id: realkimbarrett-advertising-skills-mechanism-builder
+display_name: mechanism-builder
+description: Use when you need to explain why your solution works and others failed.
+  Trigger on "unique mechanism", "why this works", "different angle", "positioning".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/copy-chief/mechanism-builder
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

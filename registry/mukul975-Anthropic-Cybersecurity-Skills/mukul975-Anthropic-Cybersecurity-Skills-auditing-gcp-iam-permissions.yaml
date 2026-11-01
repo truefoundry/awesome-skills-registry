@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-gcp-iam-permissions
+display_name: auditing-gcp-iam-permissions
+description: Auditing Google Cloud Platform IAM permissions to identify overly permissive
+  bindings, primitive role usage, service account key proliferation, and cross-project
+  access risks using gcloud CLI, Policy Analyzer, and IAM Recommender.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-gcp-iam-permissions
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,22 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-research-implement-feature
+display_name: research-implement-feature
+description: "Build a working artifact from a plain \"implement X for me\" request:\
+  \ a running end-to-end spine first, then one feature per rung, with every under-determined\
+  \ decision written to an assumption ledger BEFORE the code that depends on it and\
+  \ a sweep for the ones that slipped through undeclared (same-family provisional\
+  \ in the base Codex mirror). Use when user says \"\u7ED9\u6211\u5B9E\u73B0\", \"\
+  implement X\", \"\u5E2E\u6211\u505A\u4E00\u4E2A\u80FD\u8DD1\u7684\", \"\u5148\u642D\
+  \u4E2A\u539F\u578B\u518D\u52A0\u529F\u80FD\", \"build this feature\", \"prototype\
+  \ then extend\", or hands over a capability description rather than an experiment\
+  \ plan."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/research-implement-feature
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

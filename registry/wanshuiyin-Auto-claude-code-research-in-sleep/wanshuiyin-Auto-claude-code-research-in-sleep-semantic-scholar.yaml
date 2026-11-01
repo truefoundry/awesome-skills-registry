@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-semantic-scholar
+display_name: semantic-scholar
+description: Search published venue papers (IEEE, ACM, Springer, etc.) via Semantic
+  Scholar API. Complements /arxiv (preprints) with citation counts, venue metadata,
+  and TLDR. Use when user says "search semantic scholar", "find IEEE papers", "find
+  journal papers", "venue papers", "citation search", or wants published literature
+  beyond arXiv preprints.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/semantic-scholar
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

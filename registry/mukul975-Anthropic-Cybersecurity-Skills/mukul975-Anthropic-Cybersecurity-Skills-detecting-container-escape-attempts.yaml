@@ -1,0 +1,22 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-container-escape-attempts
+display_name: detecting-container-escape-attempts
+description: 'Detects container escape at runtime across tooling - namespace manipulation,
+  capability abuse, kernel exploits, sensitive host mounts, and anomalous syscalls
+  - and explains which signals matter regardless of whether Falco, Sysdig, auditd,
+  or an EDR is doing the collection. Use when deciding what breakout behaviour to
+  monitor, investigating a suspected Docker or Kubernetes breakout, or comparing escape
+  coverage across runtime sensors. Keywords: container escape, breakout, namespaces,
+  CAP_SYS_ADMIN, privileged, hostPath, kernel exploit, syscall. Do not use for Falco
+  rule syntax itself - use detecting-container-escape-with-falco-rules; for a static
+  configuration sweep use performing-container-escape-detection.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-container-escape-attempts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-operationalizing-misp-threat-feeds
+display_name: operationalizing-misp-threat-feeds
+description: Stand up MISP, enable and cache curated threat feeds (CIRCL, abuse.ch,
+  Feodo Tracker), apply warninglists to suppress false positives, query indicators
+  with PyMISP, and export attributes as auto-generated Suricata/Sigma/Wazuh detection
+  rules. Use when maturing a MISP instance to actively drive detection, curating threat
+  feeds with quality controls, or automating IOC-to-detection pipelines for the SIEM/IDS.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operationalizing-misp-threat-feeds
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

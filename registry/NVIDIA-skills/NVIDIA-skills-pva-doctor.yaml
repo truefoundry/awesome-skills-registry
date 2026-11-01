@@ -1,0 +1,18 @@
+id: NVIDIA-skills-pva-doctor
+display_name: pva-doctor
+description: Check whether a host is ready for requested NVIDIA PVA work. Use before
+  Spec, OpGen, Build-Test, or Debug. Verify references to the installed SDK documentation,
+  inspect only the requested capabilities, and prove that either NVVPU or ASIP/Chess
+  can compile target VPU code when L4T compilation is required. Report READY, READY_WITH_LIMITATIONS,
+  or NOT_READY. Do not install or configure software.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/pva-doctor
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

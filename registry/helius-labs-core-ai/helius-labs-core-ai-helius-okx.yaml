@@ -1,0 +1,17 @@
+id: helius-labs-core-ai-helius-okx
+display_name: helius-okx
+description: "Build Solana trading and intelligence applications combining OKX DEX\
+  \ aggregation with Helius infrastructure. Integration-only layer \u2014 describes\
+  \ when and how to compose OKX tools with Helius tools for swaps, token discovery,\
+  \ smart money signals, meme token analysis, and portfolio intelligence."
+authors:
+- helius-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /helius-skills/helius-okx
+  repo: helius-labs/core-ai
+metadata:
+  stars: 29
+added_at: '2026-11-01'

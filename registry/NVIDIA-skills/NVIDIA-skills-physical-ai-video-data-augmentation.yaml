@@ -1,0 +1,17 @@
+id: NVIDIA-skills-physical-ai-video-data-augmentation
+display_name: physical-ai-video-data-augmentation
+description: 'Use when running video data augmentation and auto-labeling workflows
+  on OSMO: flow selection, preflight, submit-time interpolation, monitoring, and output
+  retrieval. Trigger keywords: video data augmentation, data enrichment, auto labeling,
+  VDA demo, OSMO workflow, pseudo labeling.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/physical-ai-video-data-augmentation
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

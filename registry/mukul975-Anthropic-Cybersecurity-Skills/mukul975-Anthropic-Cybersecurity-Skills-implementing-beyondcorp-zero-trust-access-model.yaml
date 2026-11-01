@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-beyondcorp-zero-trust-access-model
+display_name: implementing-beyondcorp-zero-trust-access-model
+description: Implement Google's BeyondCorp zero trust access model using Cloud IAP,
+  Access Context Manager, Endpoint Verification, Chrome Enterprise Premium, and BeyondCorp
+  Enterprise Connectors to enforce identity- and device-aware access for VPN-less
+  application access. Use for replacing VPN, enforcing device posture checks, or securing
+  remote/hybrid access to GCP-hosted or on-prem apps; not for raw network-level protocols.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-beyondcorp-zero-trust-access-model
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: redis-agent-skills-redis-clustering
+display_name: redis-clustering
+description: Redis Cluster and replication guidance covering hash tags for multi-key
+  operations, avoiding CROSSSLOT errors, and reading from replicas to scale read-heavy
+  workloads. Use when designing keys for a sharded Redis Cluster, debugging CROSSSLOT
+  errors on MGET / SDIFF / pipelines, configuring a multi-key transaction in a cluster,
+  or routing reads to replicas for caches, analytics, or dashboards.
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/redis-clustering
+  repo: redis/agent-skills
+metadata:
+  stars: 171
+added_at: '2026-11-01'

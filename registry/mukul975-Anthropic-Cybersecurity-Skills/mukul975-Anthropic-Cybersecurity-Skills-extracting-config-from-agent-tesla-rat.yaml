@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-extracting-config-from-agent-tesla-rat
+display_name: extracting-config-from-agent-tesla-rat
+description: Extracts embedded configuration from Agent Tesla RAT samples, including
+  SMTP/FTP/Telegram exfiltration credentials, keylogger settings, and C2 endpoints,
+  via .NET decompilation and memory analysis. Use when analyzing a suspected or confirmed
+  Agent Tesla sample and you need to recover its exfiltration channel and C2 configuration
+  for threat intelligence or incident response.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/extracting-config-from-agent-tesla-rat
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

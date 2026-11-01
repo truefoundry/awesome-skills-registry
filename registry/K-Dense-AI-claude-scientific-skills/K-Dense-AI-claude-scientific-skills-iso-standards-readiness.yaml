@@ -1,0 +1,22 @@
+id: K-Dense-AI-claude-scientific-skills-iso-standards-readiness
+display_name: iso-standards-readiness
+description: Prepares and structurally reviews readiness evidence for ISO management-system
+  and laboratory-competence standards - ISO 13485 medical device QMS, ISO 14971 device
+  risk management, ISO/IEC 17025 testing and calibration laboratories, and ISO 15189
+  medical laboratories. Use when organizing declared scope, controlled documents,
+  risk-management files, scope of accreditation, traceability, CAPA, external-provider
+  controls, or bounded local evidence manifests, and when separating ISO certification
+  from laboratory accreditation, FDA QMSR inspection, CLIA certification, MDSAP, and
+  EU MDR/IVDR evidence boundaries. Not for legal applicability, compliance, certification,
+  or accreditation decisions; contains no clause text.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/iso-standards-readiness
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

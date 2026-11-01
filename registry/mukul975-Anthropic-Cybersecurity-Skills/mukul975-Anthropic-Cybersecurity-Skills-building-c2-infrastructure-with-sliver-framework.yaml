@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-c2-infrastructure-with-sliver-framework
+display_name: building-c2-infrastructure-with-sliver-framework
+description: Deploy and harden a Sliver C2 team server (BishopFox's Go-based adversary
+  emulation framework) with multi-protocol listeners (mTLS, HTTP/S, DNS, WireGuard),
+  redirectors, domain fronting, and multi-operator support for authorized red-team
+  operations. Use when standing up resilient C2 for a red-team engagement or generating
+  beacon/session implants that must survive blue-team detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-c2-infrastructure-with-sliver-framework
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

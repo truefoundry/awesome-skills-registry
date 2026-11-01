@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-aqua-security-for-container-scanning
+display_name: implementing-aqua-security-for-container-scanning
+description: Deploy Aqua Security's Trivy scanner to detect vulnerabilities, misconfigurations,
+  secrets, and license issues in container images across CI/CD pipelines and registries.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-aqua-security-for-container-scanning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

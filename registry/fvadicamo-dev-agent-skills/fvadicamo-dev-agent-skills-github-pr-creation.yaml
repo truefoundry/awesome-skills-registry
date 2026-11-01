@@ -1,0 +1,18 @@
+id: fvadicamo-dev-agent-skills-github-pr-creation
+display_name: github-pr-creation
+description: Creates GitHub Pull Requests with automated validation and task tracking.
+  Use when user wants to create PR, open pull request, submit for review, or check
+  if ready for PR. Analyzes commits, validates task completion, generates Conventional
+  Commits title and description, suggests labels. NOTE - for merging existing PRs,
+  use github-pr-merge instead.
+authors:
+- fvadicamo
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/github-workflow/skills/github-pr-creation
+  repo: fvadicamo/dev-agent-skills
+metadata:
+  stars: 72
+added_at: '2026-11-01'

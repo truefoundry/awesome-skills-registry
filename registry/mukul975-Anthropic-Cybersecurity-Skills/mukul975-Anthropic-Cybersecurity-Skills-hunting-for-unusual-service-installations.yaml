@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-unusual-service-installations
+display_name: hunting-for-unusual-service-installations
+description: Detects suspicious Windows service installations (MITRE ATT&CK T1543.003)
+  by parsing System event log Event ID 7045, analyzing service binary paths, and flagging
+  indicators of persistence mechanisms via Sysmon/EDR telemetry. Use when hunting
+  for new-service persistence after a suspected compromise, when Event ID 7045 fires
+  for an unfamiliar service, or during incident response to enumerate service-based
+  persistence on Windows hosts.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-unusual-service-installations
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

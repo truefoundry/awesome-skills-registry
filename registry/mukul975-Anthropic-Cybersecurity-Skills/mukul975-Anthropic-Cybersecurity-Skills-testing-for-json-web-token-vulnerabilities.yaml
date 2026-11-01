@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-json-web-token-vulnerabilities
+display_name: testing-for-json-web-token-vulnerabilities
+description: Tests JWT implementations for algorithm confusion, "none" algorithm bypass,
+  kid/jku parameter injection, and weak secret exploitation using jwt_tool and Burp
+  Suite's JWT Editor extension, aiming to achieve authentication bypass and privilege
+  escalation. Use when assessing JWT-based auth/session management, OAuth2/OIDC token
+  handling, or SSO systems during a security engagement.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-json-web-token-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

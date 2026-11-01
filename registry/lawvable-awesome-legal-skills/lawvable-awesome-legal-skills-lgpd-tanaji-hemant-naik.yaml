@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-lgpd-tanaji-hemant-naik
+display_name: lgpd
+description: "Expert LGPD compliance advisor for Brazil's Lei Geral de Prote\xE7\xE3\
+  o de Dados (Law 13,709/2018). Use this skill whenever a user asks about LGPD, Brazilian\
+  \ data protection, ANPD, personal data processing in Brazil, data subject rights\
+  \ under Brazilian law, legal bases for processing, sensitive data handling, DPO\
+  \ appointment in Brazil, data breach notification to ANPD, LGPD penalties (fines\
+  \ up to 2% of revenue / R$50M), international data transfers from Brazil, Brazil-EU\
+  \ mutual adequacy (January 2026 \u2014 SCCs/BCRs no longer needed for Brazil-EU\
+  \ transfers), LGPD gap assessments, privacy policy drafting for Brazilian operations,\
+  \ DPIA under LGPD, consent management, or comparing LGPD with GDPR. Trigger for\
+  \ any Brazil privacy or data protection question even if LGPD is not named explicitly."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/lgpd-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

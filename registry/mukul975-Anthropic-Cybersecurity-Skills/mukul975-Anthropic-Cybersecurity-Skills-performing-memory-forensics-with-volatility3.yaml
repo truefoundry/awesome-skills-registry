@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-memory-forensics-with-volatility3
+display_name: performing-memory-forensics-with-volatility3
+description: Analyze volatile memory (RAM) dumps using the Volatility 3 framework
+  to extract running processes, network connections, loaded modules, credentials,
+  and encryption keys, and to detect process hollowing, DLL injection, or hidden processes/rootkits.
+  Use during incident response on a compromised or suspect system when disk-based
+  forensics alone is insufficient and volatile evidence of malware or intrusion must
+  be recovered from memory.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-memory-forensics-with-volatility3
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

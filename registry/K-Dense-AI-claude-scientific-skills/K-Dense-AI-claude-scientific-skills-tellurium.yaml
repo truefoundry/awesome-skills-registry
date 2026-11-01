@@ -1,0 +1,18 @@
+id: K-Dense-AI-claude-scientific-skills-tellurium
+display_name: tellurium
+description: Simulates biochemical kinetic models from SBML or Antimony with Tellurium
+  and libRoadRunner, checks model units, compares deterministic parameter perturbations,
+  and exports and replays SBML plus SED-ML COMBINE archives. Use for reaction-network
+  time courses, kinetic parameters, concentration dynamics and reproducible simulation
+  experiments; steady-state constraint-based metabolic flux analysis belongs to cobrapy.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tellurium
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

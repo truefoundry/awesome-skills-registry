@@ -1,0 +1,20 @@
+id: google-skills-bigquery-udfs
+display_name: bigquery-udfs
+description: Creates, deploys, and troubleshoots BigQuery User-Defined Functions (UDFs)
+  and Remote Functions across SQL, JavaScript, Python, and Cloud Run endpoints. Use
+  when writing custom scalar or aggregate functions in BigQuery, installing PyPI packages
+  or Cloud Storage libraries in a Python or JavaScript UDF, or calling Google Cloud
+  and external APIs from a Python UDF (WITH CONNECTION) or Remote Function. Don't
+  use for standard BigQuery table/dataset CRUD (use bigquery-basics), DataFrames client
+  workflows (use bigquery-bigframes), or BigQuery ML models (use bigquery-ai-ml).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/bigquery-udfs
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

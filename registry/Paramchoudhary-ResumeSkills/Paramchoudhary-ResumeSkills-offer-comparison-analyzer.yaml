@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-offer-comparison-analyzer
+display_name: offer-comparison-analyzer
+description: Compare multiple job offers side-by-side with total compensation analysis
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/offer-comparison-analyzer
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

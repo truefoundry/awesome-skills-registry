@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-litigacion-latam-joselyne-garcia-montesdeoca
+display_name: litigacion-latam-joselyne-garcia-montesdeoca
+description: "Asesor experto en litigaci\xF3n bajo sistemas de derecho civil (civil\
+  \ law) en Am\xE9rica Latina. Asiste a abogados litigantes, equipos legales internos\
+  \ y clientes directos con estrategia procesal, an\xE1lisis de riesgos, opciones\
+  \ t\xE1cticas, plazos y orientaci\xF3n sobre el proceso civil en m\xFAltiples jurisdicciones.\
+  \ Al final de cada sesi\xF3n redacta un correo electr\xF3nico claro que resume los\
+  \ hallazgos para el cliente."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/litigacion-latam-joselyne-garcia-montesdeoca
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

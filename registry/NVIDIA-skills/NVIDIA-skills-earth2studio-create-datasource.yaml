@@ -1,0 +1,16 @@
+id: NVIDIA-skills-earth2studio-create-datasource
+display_name: earth2studio-create-datasource
+description: Create and validate Earth2Studio data source wrappers (DataSource, ForecastSource,
+  DataFrameSource, ForecastFrameSource) from remote stores. Do NOT use for fetching
+  data with existing sources, model inference, or installation tasks.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/earth2studio-create-datasource
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

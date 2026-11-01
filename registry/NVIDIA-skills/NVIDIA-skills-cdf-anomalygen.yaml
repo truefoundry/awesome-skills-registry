@@ -1,0 +1,17 @@
+id: NVIDIA-skills-cdf-anomalygen
+display_name: cdf-anomalygen
+description: "Use when running the CDF AnomalyGen pipeline over a defect dataset \u2014\
+  \ mask placement, fine-tuning, synthetic defect-image generation (SDG), evaluation,\
+  \ quality refinement, and pseudo-labeling \u2014 even when the user names only one\
+  \ stage."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cdf-anomalygen
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

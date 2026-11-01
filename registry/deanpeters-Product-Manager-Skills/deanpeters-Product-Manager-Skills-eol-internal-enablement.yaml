@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-eol-internal-enablement
+display_name: eol-internal-enablement
+description: Build the support FAQ, sales talking points, and objection handling teams
+  need before an EOL announcement. Use when customer-facing teams must be ready before
+  customers hear.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eol-internal-enablement
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

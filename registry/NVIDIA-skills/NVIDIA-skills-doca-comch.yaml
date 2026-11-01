@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-comch
+display_name: doca-comch
+description: "Use this skill when the user is doing hands-on DOCA Comch work on a\
+  \ host + BlueField pair \u2014 bringing up host \u2194 DPU PCIe control-plane messaging,\
+  \ picking server (DPU) vs client (host) roles, choosing slow-path send-task / recv-callback\
+  \ vs fast-path producer / consumer, querying max-msg-size or max-clients capabilities,\
+  \ registering connection callbacks, or debugging DOCA_ERROR_* returns from the Comch\
+  \ API. Trigger even when the user does not explicitly mention \"DOCA Comch\" or\
+  \ \"Comm Channel\" (renamed in DOCA 2.5) \u2014 typical implicit phrasings include\
+  \ \"send a control message from host to BlueField over PCIe\", \"DPU can't see the\
+  \ host representor\", \"DOCA_ERROR_NOT_PERMITTED on server_create\", \"DOCA_ERROR_AGAIN\
+  \ on task_send submit\", \"connect callback never fires\", or \"stream bulk data\
+  \ from a host driver to a DPU agent\". Refuse and route elsewhere for installing\
+  \ DOCA itself, BFB / firmware bring-up, non-Comch DOCA libraries, or deploying Comch\
+  \ apps at scale \u2014 those belong to other skills."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-comch
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

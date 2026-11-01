@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-api-gateway-access-logs
+display_name: analyzing-api-gateway-access-logs
+description: Parses API Gateway access logs (AWS API Gateway, Kong, Nginx) to detect
+  BOLA/IDOR attacks, rate limit bypass, credential scanning, and injection attempts.
+  Uses pandas for statistical analysis of request patterns and anomaly detection.
+  Use when investigating API abuse or building API-specific threat detection rules.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-api-gateway-access-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

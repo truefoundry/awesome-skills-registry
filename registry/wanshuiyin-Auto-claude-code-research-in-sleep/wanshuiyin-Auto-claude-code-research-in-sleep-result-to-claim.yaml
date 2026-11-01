@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-result-to-claim
+display_name: result-to-claim
+description: "Use when experiments complete to judge what claims the results support,\
+  \ what they don't, and what evidence is still missing. A secondary Codex agent evaluates\
+  \ results against intended claims and routes to next action (pivot, supplement,\
+  \ or confirm). Use after experiments finish \u2014 before writing the paper or running\
+  \ ablations."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/result-to-claim
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

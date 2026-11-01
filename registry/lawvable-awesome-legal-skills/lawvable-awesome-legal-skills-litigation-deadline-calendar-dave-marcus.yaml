@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-litigation-deadline-calendar-dave-marcus
+display_name: litigation-deadline-calendar
+description: 'Calendar litigation and arbitration deadlines from a scheduling order.
+  Parses a PDF scheduling order, identifies key dates, computes backward deadlines
+  using the applicable rules (Colorado CRCP, Federal FRCP, or arbitration forum rules
+  for AAA/JAMS), and generates an .ics calendar file for Outlook or Google Calendar
+  import. Use this skill whenever the user mentions: litigation deadlines, scheduling
+  order, case management order, deadline calendaring, discovery deadlines, trial preparation
+  deadlines, arbitration scheduling, or anything related to computing or tracking
+  court or arbitration deadlines. Also trigger when the user uploads a PDF that appears
+  to be a court scheduling order or arbitration scheduling order.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/litigation-deadline-calendar-dave-marcus
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-full-scope-red-team-engagement
+display_name: conducting-full-scope-red-team-engagement
+description: Plan and execute a comprehensive, MITRE ATT&CK-aligned red team engagement
+  spanning threat modeling, reconnaissance, initial access, and post-exploitation
+  to evaluate an organization's detection, prevention, and response against APT-style
+  behavior. Use when scoping or running a full-scope, objective-based engagement,
+  or purple-teaming against a specific threat actor's TTPs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-full-scope-red-team-engagement
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

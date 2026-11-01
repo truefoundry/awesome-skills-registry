@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-privacy-notice-generator-oliver-schmidt-prietz
+display_name: gdpr-privacy-notice-eu-oliver-schmidt-prietz
+description: "Draft GDPR/DSGVO-compliant privacy notices as .docx for any EU/EEA jurisdiction\
+  \ and audience. Use when user asks to create a privacy policy/notice, mentions \"\
+  Datenschutzerkl\xE4rung\", \"politique de confidentialit\xE9\", \"privacy notice\"\
+  , needs Art. 13/14 disclosures, AI Act transparency, cookie policy, or notices for\
+  \ applicants (\"Bewerber-Datenschutz\"), employees (\"Besch\xE4ftigten-Datenschutz\"\
+  ), B2B partners, or B2C customers. Covers DE (DSGVO+BDSG+TDDDG), FR (RGPD+LIL+LCEN),\
+  \ AT, IT, ES, NL, BE, IE, UK GDPR. Five notice types: Website/App, Applicant, Employee,\
+  \ Business Partner, B2C Customer."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/privacy-notice-generator-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

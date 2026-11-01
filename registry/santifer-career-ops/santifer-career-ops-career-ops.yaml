@@ -1,0 +1,17 @@
+id: santifer-career-ops-career-ops
+display_name: career-ops
+description: Open-source AI job search agent -- evaluate offers, generate CVs, scan
+  portals, track applications. Use when the user pastes a job URL or JD, asks to scan
+  portals, generate a CV/PDF, track applications, prepare for interviews, draft outreach/emails,
+  or run any career-ops mode.
+authors:
+- santifer
+is_official: false
+tags: []
+category: none
+source:
+  path: /.agents/skills/career-ops
+  repo: santifer/career-ops
+metadata:
+  stars: 79069
+added_at: '2026-11-01'

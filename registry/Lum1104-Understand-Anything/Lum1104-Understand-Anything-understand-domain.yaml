@@ -1,0 +1,16 @@
+id: Lum1104-Understand-Anything-understand-domain
+display_name: understand-domain
+description: Extract business domain knowledge from a codebase and generate an interactive
+  domain flow graph. Works standalone (lightweight scan) or derives from an existing
+  /understand knowledge graph.
+authors:
+- Lum1104
+is_official: false
+tags: []
+category: none
+source:
+  path: /understand-anything-plugin/skills/understand-domain
+  repo: Lum1104/Understand-Anything
+metadata:
+  stars: 89414
+added_at: '2026-11-01'

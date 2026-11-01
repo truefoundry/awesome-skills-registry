@@ -1,0 +1,17 @@
+id: RoundTable02-tutor-skills-tutor-setup
+display_name: tutor-setup
+description: "Transforms knowledge sources into an Obsidian StudyVault. Two modes:\
+  \ (1) Document Mode \u2014 PDF/text/web sources \u2192 study notes with practice\
+  \ questions. (2) Codebase Mode \u2014 source code project \u2192 onboarding vault\
+  \ for new developers. Mode is auto-detected based on project markers in CWD."
+authors:
+- RoundTable02
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tutor-setup
+  repo: RoundTable02/tutor-skills
+metadata:
+  stars: 1377
+added_at: '2026-11-01'

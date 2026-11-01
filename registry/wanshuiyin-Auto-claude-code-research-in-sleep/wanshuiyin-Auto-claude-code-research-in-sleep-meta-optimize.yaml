@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-meta-optimize
+display_name: meta-optimize
+description: "Analyze ARIS usage logs and propose optimizations to SKILL.md files,\
+  \ reviewer prompts, and workflow defaults. Outer-loop harness optimization inspired\
+  \ by Meta-Harness (Lee et al., 2026). Use when user says \"\u4F18\u5316\u6280\u80FD\
+  \", \"meta optimize\", \"improve skills\", \"\u5206\u6790\u4F7F\u7528\u8BB0\u5F55\
+  \", or wants to optimize ARIS's own harness components based on accumulated experience."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/meta-optimize
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

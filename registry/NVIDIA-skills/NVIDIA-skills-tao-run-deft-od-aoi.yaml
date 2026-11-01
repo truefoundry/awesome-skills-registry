@@ -1,0 +1,17 @@
+id: NVIDIA-skills-tao-run-deft-od-aoi
+display_name: tao-run-deft-od-aoi
+description: 'Run a binary industrial-inspection DEFT loop with TAO RT-DETR: measure
+  on frozen KPI/test roles, mine gap-similar real and clean images with SigLIP, accumulate
+  admitted COCO data, retrain from one base checkpoint, and select by KPI AP50. Use
+  for iterative AOI defect detection, not generic multiclass OD.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-run-deft-od-aoi
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

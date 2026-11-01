@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-runtime-admissibility-review-arkadiy-miteiko
+display_name: runtime-admissibility-review
+description: Determines whether a specific AI-agent action, output, recommendation,
+  or proposed commitment remains admissible for execution or institutional reliance
+  under current authority, delegated scope, evidence, facts, policy, risk, escalation,
+  and revocation conditions. Use this Skill before an enterprise or regulated AI agent
+  executes, updates records, triggers workflows, communicates externally, or before
+  an institution relies on an agentic output in a way that creates consequence.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/runtime-admissibility-review-arkadiy-miteiko
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

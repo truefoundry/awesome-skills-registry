@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-cobaltstrike-malleable-c2-profiles
+display_name: analyzing-cobaltstrike-malleable-c2-profiles
+description: Parse and analyze Cobalt Strike Malleable C2 profiles with dissect.cobaltstrike
+  (profiles and beacon-payload configs) and pyMalleableC2 (AST parsing) to extract
+  HTTP/DNS transforms, URIs, headers, sleep/jitter, and injection behavior, then generate
+  network detection signatures. Use when reverse-engineering a captured malleable
+  profile or building detections against Cobalt Strike Beacon traffic.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-cobaltstrike-malleable-c2-profiles
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

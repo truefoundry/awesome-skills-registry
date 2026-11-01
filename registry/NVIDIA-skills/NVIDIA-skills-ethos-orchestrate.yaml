@@ -1,0 +1,19 @@
+id: NVIDIA-skills-ethos-orchestrate
+display_name: ethos-orchestrate
+description: 'Entry point for an AI agent''s ETHOS.md: a durable snapshot of what
+  the agent is for, what it must not do, and what success looks like. Routes a request
+  to explore and capture intent (ethos-explore), or write or edit the file (ethos-write).
+  Owns the standard every ethos sub-flow follows. Use when the user asks "help me
+  write an ETHOS.md", "does my agent have an ETHOS.md?", "update my agent''s ETHOS.md",
+  or when you need to pick between the ethos sub-flows.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/ethos-orchestrate
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

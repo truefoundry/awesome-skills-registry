@@ -1,0 +1,21 @@
+id: K-Dense-AI-claude-scientific-skills-folklore-variant-evidence
+display_name: folklore-variant-evidence
+description: Retrieves ClinGen gene-disease validity assertions for a public gene
+  or disease, and reviews source-linked public evidence and literature for one supported
+  GRCh38 germline nuclear SNV or simple indel through Folklore Clinical Variant Interpretation
+  MCP. Used when a scientific agent must branch deterministically on resolved, ambiguous,
+  not-found, invalid, unsupported, or unavailable variant outcomes; chain a resolved
+  public variant into related literature or publication details; or preserve evidence
+  provenance without accepting patient, phenotype, family, segregation, or private
+  case data.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/folklore-variant-evidence
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nvshmem-collect-performance-data
+display_name: nvshmem-collect-performance-data
+description: Collect and package NVSHMEM put/get bandwidth, latency, and other perftest
+  results with system and topology evidence for performance sanity checks.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvshmem-collect-performance-data
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

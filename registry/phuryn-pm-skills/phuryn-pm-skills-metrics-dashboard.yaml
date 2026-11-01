@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-metrics-dashboard
+display_name: metrics-dashboard
+description: Define and design a product metrics dashboard with key metrics, data
+  sources, visualization types, and alert thresholds. Use when creating a metrics
+  dashboard, defining KPIs, setting up product analytics, or building a data monitoring
+  plan.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/metrics-dashboard
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

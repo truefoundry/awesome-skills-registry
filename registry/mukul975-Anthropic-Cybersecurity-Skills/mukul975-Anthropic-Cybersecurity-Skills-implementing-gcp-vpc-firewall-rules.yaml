@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-gcp-vpc-firewall-rules
+display_name: implementing-gcp-vpc-firewall-rules
+description: Implements and audits GCP VPC firewall rules using gcloud, covering auditing
+  overly permissive rules, creating restrictive ingress/egress rules, hierarchical
+  firewall policies, and monitoring rule effectiveness with VPC Flow Logs. Use when
+  deploying GCP workloads needing network access controls, auditing firewall configs,
+  or responding to Security Command Center findings; not for Cloud Armor or DNS-based
+  filtering.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-gcp-vpc-firewall-rules
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

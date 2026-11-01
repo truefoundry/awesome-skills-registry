@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-golden-ticket-forgery
+display_name: detecting-golden-ticket-forgery
+description: Detect Kerberos Golden Ticket forgery (e.g. Mimikatz-forged tickets)
+  by analyzing Windows Event ID 4769 for RC4 encryption downgrades (0x17), abnormal
+  ticket lifetimes, and krbtgt account anomalies using Splunk and Elastic SIEM queries.
+  Use when investigating suspected forged Kerberos tickets or krbtgt credential theft
+  in Active Directory.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-golden-ticket-forgery
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

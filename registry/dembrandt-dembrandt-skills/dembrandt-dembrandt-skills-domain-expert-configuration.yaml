@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-domain-expert-configuration
+display_name: domain-expert-configuration
+description: "Settings for experts who are not developers \u2014 domain language,\
+  \ sane defaults, grouping by professional concept. Use when designing settings panels,\
+  \ solver configuration or constraint editors."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/domain-expert-configuration
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

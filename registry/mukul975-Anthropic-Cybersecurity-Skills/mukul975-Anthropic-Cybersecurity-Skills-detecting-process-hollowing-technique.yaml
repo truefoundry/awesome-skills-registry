@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-process-hollowing-technique
+display_name: detecting-process-hollowing-technique
+description: Detect process hollowing (MITRE T1055.012) by analyzing memory-mapped
+  sections, hollowed process indicators, and parent-child anomalies using EDR telemetry,
+  Volatility's malfind plugin, pe-sieve, Hollows Hunter, and Sysmon Event ID 25. Use
+  when investigating a legitimate-looking process (svchost.exe, explorer.exe, rundll32.exe)
+  suspected of hosting injected code via NtUnmapViewOfSection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-process-hollowing-technique
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

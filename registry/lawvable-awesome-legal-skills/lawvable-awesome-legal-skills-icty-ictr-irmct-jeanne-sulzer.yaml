@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-icty-ictr-irmct-jeanne-sulzer
+display_name: icty-ictr-irmct-jeanne-sulzer
+description: "Verification-first methodology for the ICTY, the ICTR and the Residual\
+  \ Mechanism (IRMCT). Citations are verified against irmct.org, the Case Law and\
+  \ Unified Court Records databases, and legal-tools.org. Handles the IT/ICTR to MICT\
+  \ case-number transition (Karad\u017Ei\u0107, Mladi\u0107) and the protective-measures\
+  \ rule. Research aid, not legal advice. Part of the open-source \"Skills for International\
+  \ Justice\" library - methodology: github.com/jeannesulzer/international-criminal-tribunals-skills"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icty-ictr-irmct-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

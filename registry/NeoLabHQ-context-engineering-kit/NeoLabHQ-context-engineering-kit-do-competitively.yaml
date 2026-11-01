@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-do-competitively
+display_name: do-competitively
+description: Execute tasks through competitive multi-agent generation, meta-judge
+  evaluation specification, multi-judge evaluation, and evidence-based synthesis
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/do-competitively
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

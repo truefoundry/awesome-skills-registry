@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-access-recertification-with-saviynt
+display_name: performing-access-recertification-with-saviynt
+description: Configure and execute access recertification campaigns in Saviynt Enterprise
+  Identity Cloud to validate user entitlements, revoke excessive access, and maintain
+  compliance with SOX, SOC 2, and HIPAA. Use when launching or managing certification
+  campaigns for users/entitlements, remediating access review findings, or documenting
+  identity governance evidence for an audit.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-access-recertification-with-saviynt
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

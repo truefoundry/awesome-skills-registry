@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-kosovo-specialist-chambers-jeanne-sulzer
+display_name: ksc-jeanne-sulzer
+description: "Verification-first methodology for the Kosovo Specialist Chambers and\
+  \ Specialist Prosecutor's Office (The Hague, applying Kosovo law). Citations are\
+  \ verified against scp-ks.org before use; appeal registry numbers are cited only\
+  \ once confirmed. Covers Tha\xE7i et al., Mustafa, Pjet\xEBr Shala and Gucati &\
+  \ Haradinaj. Research aid, not legal advice. Part of the open-source \"Skills for\
+  \ International Justice\" library \u2014 methodology: github.com/jeannesulzer/international-criminal-tribunals-skills"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/kosovo-specialist-chambers-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

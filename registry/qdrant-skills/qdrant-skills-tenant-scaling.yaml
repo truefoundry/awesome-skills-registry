@@ -1,0 +1,17 @@
+id: qdrant-skills-tenant-scaling
+display_name: qdrant-tenant-scaling
+description: Guides Qdrant multi-tenant scaling. Use when someone asks 'how to scale
+  tenants', 'one collection per tenant?', 'tenant isolation', 'dedicated shards',
+  or reports tenant performance issues. Also use when multi-tenant workloads outgrow
+  shared infrastructure.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-scaling/scaling-data-volume/tenant-scaling
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

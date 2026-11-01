@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-status
+display_name: status
+description: Display the current state of the FPF knowledge base
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/fpf/skills/status
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

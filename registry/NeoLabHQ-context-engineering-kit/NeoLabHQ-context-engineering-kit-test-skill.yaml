@@ -1,0 +1,17 @@
+id: NeoLabHQ-context-engineering-kit-test-skill
+display_name: test-skill
+description: Use when creating or editing skills, before deployment, to verify they
+  work under pressure and resist rationalization - applies RED-GREEN-REFACTOR cycle
+  to process documentation by running baseline without skill, writing to address failures,
+  iterating to close loopholes
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/customaize-agent/skills/test-skill
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

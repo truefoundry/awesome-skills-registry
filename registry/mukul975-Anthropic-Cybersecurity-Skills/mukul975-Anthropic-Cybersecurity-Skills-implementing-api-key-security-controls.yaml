@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-key-security-controls
+display_name: implementing-api-key-security-controls
+description: Implements secure API key generation with sufficient entropy, server-side
+  hashing (SHA-256/bcrypt) instead of plaintext storage, per-key scoping to endpoints/IPs/rate
+  limits, zero-downtime rotation, and automated leak monitoring across GitHub repos,
+  logs, and client-side code. Use when designing API key formats, building key rotation
+  or revocation workflows, or protecting server-to-server API credentials from leakage,
+  brute force, and abuse.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-key-security-controls
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

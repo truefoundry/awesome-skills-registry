@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-without-prejudice-drafter-andrew-bird
+display_name: without-prejudice-drafter-andrew-bird
+description: "Writes a settlement letter on the right footing \u2014 and warns you\
+  \ when marking it 'without prejudice' won't actually keep it out of court. A genuine\
+  \ settlement letter is normally protected (the judge can't see it), but only if\
+  \ the substance is a real attempt to settle, and even then there are exceptions.\
+  \ The skill picks the correct footing \u2014 without prejudice (WP), without prejudice\
+  \ save as to costs (WPSATC / Calderbank), or open \u2014 drafts the finished letter,\
+  \ and surfaces the Unilever v Procter & Gamble exceptions that get WP material admitted\
+  \ despite the label, which a plain template won't flag. Built for juniors and in-house\
+  \ counsel drafting a settlement or Calderbank offer who need the footing right the\
+  \ first time. Use when the user asks to draft a WP letter, a Calderbank, a settlement\
+  \ letter, or wants to know whether material is likely protected from disclosure."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/without-prejudice-drafter-andrew-bird
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

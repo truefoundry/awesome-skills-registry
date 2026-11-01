@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-reid
+display_name: tao-train-reid
+description: Person re-identification (ReID). Learns discriminative embeddings to
+  match the same person across different camera views, based on metric learning. Use
+  when training, evaluating, exporting, or running inference for a TAO person re-identification
+  model. Trigger phrases include "train ReID", "person re-identification", "cross-camera
+  person matching", "ReID embeddings", "person re-id".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-reid
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

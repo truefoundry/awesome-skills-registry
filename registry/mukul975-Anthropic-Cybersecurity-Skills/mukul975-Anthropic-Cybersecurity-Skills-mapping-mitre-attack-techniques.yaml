@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-mapping-mitre-attack-techniques
+display_name: mapping-mitre-attack-techniques
+description: Maps observed adversary behaviors, security alerts, and detection rules
+  to MITRE ATT&CK techniques and sub-techniques to quantify detection coverage and
+  guide control prioritization. Use when building an ATT&CK-based coverage heatmap,
+  tagging SIEM alerts with technique IDs, aligning security controls to adversary
+  playbooks, or reporting threat exposure to executives. Activates for requests involving
+  ATT&CK Navigator, Sigma rules, MITRE D3FEND, or coverage gap analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mapping-mitre-attack-techniques
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

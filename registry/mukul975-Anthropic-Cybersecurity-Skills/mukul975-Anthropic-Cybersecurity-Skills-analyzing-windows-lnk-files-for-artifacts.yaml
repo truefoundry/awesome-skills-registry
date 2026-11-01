@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-windows-lnk-files-for-artifacts
+display_name: analyzing-windows-lnk-files-for-artifacts
+description: Parse Windows LNK shortcut files to extract target paths, MAC timestamps,
+  volume serial numbers, and machine identifiers for forensic timeline reconstruction.
+  Use when investigating recently-accessed files, tracking removable media or network
+  paths referenced by shortcuts, or building a DFIR timeline from LNK artifacts.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-windows-lnk-files-for-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-shadow-api-endpoints
+display_name: detecting-shadow-api-endpoints
+description: Discover and inventory shadow API endpoints that operate outside documented
+  OpenAPI/Swagger specs, using traffic analysis against API gateways (Kong, AWS API
+  Gateway, Envoy), cloud configuration scanning, and source code repository mining
+  for undocumented routes. Use when assessing API attack surface, auditing for forgotten
+  test environments or deprecated API versions still running, or building an API registration
+  governance policy.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-shadow-api-endpoints
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

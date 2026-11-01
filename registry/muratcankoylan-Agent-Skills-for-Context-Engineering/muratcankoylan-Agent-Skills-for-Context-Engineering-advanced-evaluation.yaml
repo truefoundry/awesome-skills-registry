@@ -1,0 +1,16 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-advanced-evaluation
+display_name: advanced-evaluation
+description: 'This skill should be used for advanced LLM evaluation: LLM-as-judge
+  systems, direct scoring, pairwise comparison, rubric calibration, evaluator bias
+  mitigation, confidence scoring, and automated quality assessment.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/advanced-evaluation
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

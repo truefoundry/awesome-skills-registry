@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-ioc-enrichment-pipeline-with-opencti
+display_name: building-ioc-enrichment-pipeline-with-opencti
+description: Build an automated IOC enrichment pipeline on OpenCTI (STIX 2.1 native
+  threat intel platform) using its internal enrichment connectors to pull context
+  from VirusTotal, Shodan, AbuseIPDB, and GreyNoise, correlate indicators with known
+  actors/campaigns, and score them for analyst prioritization. Use when deploying
+  OpenCTI or automating enrichment and confidence scoring of newly ingested indicators.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-ioc-enrichment-pipeline-with-opencti
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

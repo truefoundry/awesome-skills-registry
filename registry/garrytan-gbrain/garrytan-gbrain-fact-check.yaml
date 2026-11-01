@@ -1,0 +1,22 @@
+id: garrytan-gbrain-fact-check
+display_name: fact-check
+description: "Systematic claim-by-claim verification for any content before it ships.\
+  \ Modeled on professional fact-checking desks (The New Yorker, ProPublica, IFCN\
+  \ standards): extract every verifiable claim, check each against live citable sources\
+  \ (never training data), assign a 6-level confidence status, apply corrections,\
+  \ and produce a scored pass/fail report. Includes a data-derived-claims gate for\
+  \ outputs produced FROM the brain or a database: PRODUCER \u2260 VERIFIER (re-derive\
+  \ each claim via a different query path) and AFFILIATION \u2260 AUTHORSHIP (person\u2192\
+  thing claims resolve through typed edges), with delivery hard-blocked on unsupported\
+  \ claims."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/fact-check
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

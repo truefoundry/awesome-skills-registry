@@ -1,0 +1,16 @@
+id: cloudflare-skills-gateway-workers
+display_name: gateway-workers
+description: Build, debug, or review Cloudflare Workers invoked by the Forward action
+  in Gateway HTTP policies, including the GatewayMiddleware entrypoint, Gateway types,
+  context, and continuation.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/gateway-workers
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

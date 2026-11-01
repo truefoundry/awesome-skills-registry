@@ -1,0 +1,21 @@
+id: google-skills-agent-platform-eval-flywheel
+display_name: agent-platform-eval-flywheel
+description: "Measures and improves the quality of AI models and agents on Google\
+  \ Cloud using the Eval Quality Flywheel methodology. Use when generating synthetic\
+  \ user scenarios, evaluating an agent or model, building an eval dataset, picking\
+  \ or writing evaluation metrics, analyzing failures, comparing results before and\
+  \ after a fix, or when guidance is needed on Agent Platform eval methodology \u2014\
+  \ including dataset schema, LLM-as-judge scoring, and common failure causes. For\
+  \ fine-tuning, use agent-platform-tuning. For general production deployment, use\
+  \ agent-platform-deploy."
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-eval-flywheel
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

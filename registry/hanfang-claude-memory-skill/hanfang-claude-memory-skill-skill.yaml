@@ -1,0 +1,14 @@
+id: hanfang-claude-memory-skill-skill
+display_name: Skill
+description: You have a persistent hierarchical memory system at `~/.claude/memory/`.
+authors:
+- hanfang
+is_official: false
+tags: []
+category: none
+source:
+  path: /skill
+  repo: hanfang/claude-memory-skill
+metadata:
+  stars: 59
+added_at: '2026-11-01'

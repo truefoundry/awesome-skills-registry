@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-llm-guardrails-for-security
+display_name: implementing-llm-guardrails-for-security
+description: Implements input/output validation guardrails for LLM applications using
+  NVIDIA NeMo Guardrails (Colang), custom Python validators for PII detection, and
+  the Guardrails AI framework, intercepting user inputs (prompt injection, PII, off-topic
+  queries) and model outputs (hallucinations, toxic content, schema compliance). Use
+  when adding safety controls to an LLM app/chatbot/RAG pipeline or validating outputs
+  conform to expected schemas.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-llm-guardrails-for-security
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: NVIDIA-skills-tao-train-grounding-dino
+display_name: tao-train-grounding-dino
+description: "Grounding DINO for open-set object detection. Combines DINO-style detection\
+  \ with a BERT text encoder for language-guided detection \u2014 detects objects\
+  \ described by text prompts without a fixed class vocabulary. Use when training,\
+  \ evaluating, exporting, quantizing, or running inference for a TAO Grounding DINO\
+  \ model. Trigger phrases include \"train Grounding DINO\", \"open-vocabulary detection\"\
+  , \"text-prompted detector\", \"language-guided object detection\"."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-grounding-dino
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

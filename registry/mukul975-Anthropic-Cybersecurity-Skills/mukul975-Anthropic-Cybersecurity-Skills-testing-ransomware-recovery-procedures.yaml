@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-ransomware-recovery-procedures
+display_name: testing-ransomware-recovery-procedures
+description: Tests and validates ransomware recovery procedures - backup restore operations
+  (e.g. with Restic), RTO/RPO target verification, recovery sequencing, and clean-restore
+  validation - to confirm organizational resilience against destructive ransomware
+  attacks. Use when validating that recovery plans work under realistic conditions,
+  measuring RTO/RPO against business requirements, or testing restore integrity after
+  simulated encryption.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-ransomware-recovery-procedures
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

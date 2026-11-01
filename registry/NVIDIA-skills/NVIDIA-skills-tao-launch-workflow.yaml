@@ -1,0 +1,21 @@
+id: NVIDIA-skills-tao-launch-workflow
+display_name: tao-launch-workflow
+description: "The mandatory pre-launch gate and four-verb execution contract for every\
+  \ TAO workflow or action. Invoke BEFORE launching anything side-effecting \u2014\
+  \ AutoML, train, evaluate, inference, export, TensorRT engine generation, or DEFT/application\
+  \ workflows \u2014 on any execution platform. Covers platform selection, credentials,\
+  \ image confirmation, dataset intake, preflight, the launch review, job records,\
+  \ monitoring, and failure/retry classification. Trigger phrases include \"train\
+  \ this model\", \"run AutoML\", \"launch on SLURM/docker/k8s/brev/virtualenv\",\
+  \ \"evaluate my checkpoint\", \"start a TAO job\"."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-launch-workflow
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

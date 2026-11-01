@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-mbridge-perf-cuda-graphs
+display_name: nemo-mbridge-perf-cuda-graphs
+description: Validate and use CUDA graph capture in Megatron Bridge, including local
+  full-iteration graphs and Transformer Engine scoped graphs for attention, MLP, and
+  MoE modules.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-perf-cuda-graphs
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

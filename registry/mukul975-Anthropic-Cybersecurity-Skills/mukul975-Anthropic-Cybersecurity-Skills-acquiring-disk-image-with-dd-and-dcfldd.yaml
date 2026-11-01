@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-acquiring-disk-image-with-dd-and-dcfldd
+display_name: acquiring-disk-image-with-dd-and-dcfldd
+description: Create forensically sound bit-for-bit disk images with dd or dcfldd on
+  a Linux forensic workstation, preserving evidence integrity through hash verification
+  (MD5/SHA) during acquisition. Use when imaging a suspect drive, USB device, or memory
+  card for investigation, preserving volatile disk evidence during incident response,
+  or producing a verified copy for legal or law-enforcement proceedings before any
+  destructive analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/acquiring-disk-image-with-dd-and-dcfldd
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

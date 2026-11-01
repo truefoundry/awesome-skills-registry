@@ -1,0 +1,19 @@
+id: redis-agent-skills-redis-connections
+display_name: redis-connections
+description: Redis client and connection guidance covering connection pooling, multiplexing,
+  pipelining, client-side caching with RESP3, avoiding slow commands (KEYS, SMEMBERS,
+  HGETALL), and tuning socket timeouts. Use when configuring a Redis client (redis-py,
+  Jedis, Lettuce, NRedisStack), batching commands for throughput, eliminating per-request
+  connection creation, iterating large keyspaces with SCAN, enabling client-side caching
+  for read-heavy workloads, or setting connect and read timeouts.
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/redis-connections
+  repo: redis/agent-skills
+metadata:
+  stars: 171
+added_at: '2026-11-01'

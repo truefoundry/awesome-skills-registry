@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-aws-guardduty-findings-automation
+display_name: detecting-aws-guardduty-findings-automation
+description: Build automated AWS GuardDuty finding response pipelines using EventBridge
+  and Lambda to trigger real-time incident response, automatically quarantine compromised
+  resources, and route security notifications. Use when designing automated remediation
+  playbooks for GuardDuty findings across VPC Flow Logs, CloudTrail, DNS, EKS, or
+  S3 data events, or when reducing mean time to respond to cloud threats.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-aws-guardduty-findings-automation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

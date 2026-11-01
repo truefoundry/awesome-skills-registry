@@ -1,0 +1,18 @@
+id: google-skills-google-cloud-solution-multi-agent-security
+display_name: google-cloud-solution-multi-agent-security
+description: Designs, deploys, and secures Google Cloud Agent Gateway solutions. Use
+  when the user needs to configure multi-agent security, ingress (CLIENT_TO_AGENT),
+  or egress (AGENT_TO_ANYWHERE) patterns involving Model Armor, IAP, and Agent Registry.
+  Don't use for general Cloud Load Balancing or basic VPC setup not related to Agent
+  Gateways.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/google-cloud-solution-multi-agent-security
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

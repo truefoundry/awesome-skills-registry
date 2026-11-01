@@ -1,0 +1,15 @@
+id: NVIDIA-skills-paidf-cosmos-predict
+display_name: paidf-cosmos-predict
+description: Prepare and run PAIDF Cosmos Predict video generation for DEFT media
+  samples.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/paidf-cosmos-predict
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

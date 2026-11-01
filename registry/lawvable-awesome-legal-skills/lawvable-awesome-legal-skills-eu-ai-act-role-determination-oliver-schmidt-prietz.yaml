@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-role-determination-oliver-schmidt-prietz
+display_name: eu-ai-act-roles-oliver-schmidt-prietz
+description: "Determines the organization's role (provider, deployer, importer, distributor,\
+  \ or quasi-provider) and assesses Art. 25 quasi-provider risk of the EU AI Act.\
+  \ This skill should be used when the user asks to \"determine AI Act roles\", \"\
+  check if we are provider or deployer\", \"assess quasi-provider status\", \"check\
+  \ Art. 25 substantial modification\", \"check value chain responsibilities\", or\
+  \ mentions \"Betreiber\", \"Anbieter\", \"wesentliche Ver\xE4nderung\", or finetuning\
+  \ implications under the AI Act."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-role-determination-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

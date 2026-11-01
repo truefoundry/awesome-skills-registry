@@ -1,0 +1,20 @@
+id: czlonkowski-n8n-skills-n8n-subworkflows
+display_name: n8n-subworkflows
+description: "Build reusable, composable n8n sub-workflows. Use when extracting shared\
+  \ logic, building anything multi-step or reused across workflows, or any workflow\
+  \ over ~10 nodes \u2014 and whenever the user mentions sub-workflows, Execute Workflow,\
+  \ reuse, shared/common logic, modular workflows, \"Define Below\" inputs, waitForSubWorkflow,\
+  \ mode each vs all, or exposing a workflow as an agent tool. Covers typed sub-workflow\
+  \ inputs, all-vs-each execution, verb-first naming for discovery, stateless vs stateful\
+  \ design, and splitting by input shape."
+authors:
+- czlonkowski
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/n8n-subworkflows
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 6557
+added_at: '2026-11-01'

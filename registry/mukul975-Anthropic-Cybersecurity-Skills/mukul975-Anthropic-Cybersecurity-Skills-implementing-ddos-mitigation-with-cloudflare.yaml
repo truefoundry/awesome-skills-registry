@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-ddos-mitigation-with-cloudflare
+display_name: implementing-ddos-mitigation-with-cloudflare
+description: Configure Cloudflare DDoS protection with managed rulesets, rate limiting,
+  WAF rules, Bot Management, and origin protection to mitigate volumetric, protocol,
+  and application-layer attacks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-ddos-mitigation-with-cloudflare
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

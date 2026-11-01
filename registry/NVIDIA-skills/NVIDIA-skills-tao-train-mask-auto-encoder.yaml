@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-mask-auto-encoder
+display_name: tao-train-mask-auto-encoder
+description: Masked Auto-Encoder (MAE) for self-supervised pretraining and fine-tuning.
+  Masks random patches and reconstructs them to learn visual representations; supports
+  pretrain and finetune stages. Use when training, evaluating, exporting, or running
+  inference for a TAO MAE backbone. Trigger phrases include "pretrain MAE", "self-supervised
+  vision pretraining", "Masked Autoencoder", "Mask Auto-Encoder", "MAE fine-tune".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-mask-auto-encoder
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

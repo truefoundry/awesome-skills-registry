@@ -1,0 +1,25 @@
+id: NVIDIA-skills-doca-upgrade
+display_name: doca-upgrade
+description: 'Changing DOCA versions safely: upgrading or downgrading the host DOCA
+  packages, refreshing the BlueField BFB, bumping the NGC DOCA container tag, or rolling
+  back, with the discipline detect -> report -> ASK -> only then a guided upgrade.
+  Trigger on "is there a newer DOCA", "I want the newest DOCA features, can I just
+  apt upgrade in place", "should I move to the next release", "the upgrade stopped
+  midway and dpkg is in a broken state", "my component is being deprecated, what now",
+  or "roll me back", even without the word upgrade. Detect what is installed, find
+  the newer release, report the gap, then STOP and ask for explicit confirmation;
+  never upgrade automatically. Do not use it for a runtime error on an unchanged install
+  (doca-debug). Version detection alone belongs to doca-version, first-time install
+  to doca-setup, any hardware / firmware / reboot step to doca-hardware-safety, and
+  public-docs or sunset routing to doca-public-knowledge-map.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-upgrade
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

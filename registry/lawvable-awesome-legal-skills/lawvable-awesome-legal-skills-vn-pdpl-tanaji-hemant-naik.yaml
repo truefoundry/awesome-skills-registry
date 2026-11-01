@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-vn-pdpl-tanaji-hemant-naik
+display_name: vn-pdpl
+description: "Expert Vietnam Personal Data Protection Law (PDPL) compliance advisor\
+  \ for Law No. 91/2025/QH15 and implementing Decree 356/2025/ND-CP (effective January\
+  \ 1, 2026). Use this skill for gap analysis against the Vietnam PDPL, data subject\
+  \ rights fulfilment workflows, cross-border data transfer impact assessments, privacy\
+  \ notices and internal policies, breach notification procedures, sector-specific\
+  \ obligations (finance, AI, cloud, blockchain), and DPO qualification reviews. Trigger\
+  \ whenever a user mentions Vietnam data privacy, VN-PDPL, Ngh\u1ECB \u0111\u1ECB\
+  nh 356, Vietnamese personal data, or cross-border transfers involving Vietnamese\
+  \ citizens' data."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/vn-pdpl-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: mattpocock-skills-grilling
+display_name: grilling
+description: Grill the user relentlessly about a plan, decision, or idea. Use when
+  the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/productivity/grilling
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

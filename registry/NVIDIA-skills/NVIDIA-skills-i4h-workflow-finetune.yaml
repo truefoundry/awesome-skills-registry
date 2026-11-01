@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow-finetune
+display_name: i4h-workflow-finetune
+description: Fine-tune a manifest-backed GR00T or openpi remote Task on compatible
+  LeRobot data. Use for training; do not use for inference-only Tasks or checkpoint
+  rollout.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-finetune
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

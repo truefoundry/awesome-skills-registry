@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-browser-forensics-with-hindsight
+display_name: analyzing-browser-forensics-with-hindsight
+description: Parse Chromium-based browser databases with Hindsight to extract and
+  correlate browsing history, downloads, cookies, cached content, autofill data, saved
+  passwords, and extensions from Chrome, Edge, Brave, Opera, and Vivaldi into a unified
+  timeline (XLSX, JSON, or SQLite output). Use during incident response, insider-threat
+  investigations, or criminal cases when you need to reconstruct a user's web activity
+  from a browser profile.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-browser-forensics-with-hindsight
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

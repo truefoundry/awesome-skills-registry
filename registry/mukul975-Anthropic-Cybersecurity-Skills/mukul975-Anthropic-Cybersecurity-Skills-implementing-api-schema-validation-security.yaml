@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-schema-validation-security
+display_name: implementing-api-schema-validation-security
+description: Implements API schema validation using OpenAPI Specification and JSON
+  Schema documents, enforced both at the API gateway (runtime) and during development
+  (shift-left), to lock down request/response contracts and reject unknown properties.
+  Use when preventing injection attacks (SQLi, XSS, XXE), blocking mass assignment,
+  or stopping data leakage through unvalidated API responses.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-schema-validation-security
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

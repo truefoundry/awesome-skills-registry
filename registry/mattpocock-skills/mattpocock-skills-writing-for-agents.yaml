@@ -1,0 +1,15 @@
+id: mattpocock-skills-writing-for-agents
+display_name: writing-for-agents
+description: Writing documents for agents. Use when creating or editing skills, or
+  modifying AGENTS.md or CLAUDE.md.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/productivity/writing-for-agents
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-eu-cra-tanaji-hemant-naik
+display_name: eu-cra
+description: "Expert EU Cyber Resilience Act (CRA) advisor for Regulation (EU) 2024/2847\
+  \ \u2014 mandatory cybersecurity and vulnerability handling requirements for all\
+  \ products with digital elements (PDEs) sold in the EU. Use this skill for gap analysis,\
+  \ product classification (Default / Class I / Class II), conformity assessment route\
+  \ selection, CE marking, SBOM requirements, vulnerability and incident reporting\
+  \ to ENISA/CSIRTs, support period obligations, and manufacturer/importer/distributor\
+  \ duties. Trigger for EU CRA, Cyber Resilience Act, PDE compliance, Annex I requirements,\
+  \ SBOM EU, CE marking cybersecurity, or connected product security EU."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-cra-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

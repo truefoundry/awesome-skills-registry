@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-fee-arrangement-structuring-scott-margetts
+display_name: fee-arrangement-structuring
+description: 'AFA design, scope-to-fee matching, negotiation preparation, health check,
+  and scope dispute assessment for in-house legal ops teams managing outside counsel
+  arrangements. Design fee structures (fixed, capped, collar, blended, phased, success).
+  Assess whether scope supports a proposed AFA. Prepare commercial positions for fee
+  negotiations. Review existing AFAs against delivery data. Assess OOS claims and
+  build dispute response. Trigger on: ''structure the fee'', ''move off hourly'',
+  ''design an AFA'', ''does scope support a fixed fee?'', ''negotiate the fee'', ''renegotiate
+  the arrangement'', ''is our AFA holding?'', ''fee health check'', ''cap is being
+  approached'', ''firm is claiming OOS'', ''is this in scope?'', ''is this OOS?'',
+  ''AI should reduce the cost'', ''blended rate vs fixed'', ''collar arrangement'',
+  ''phased fees''.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/fee-arrangement-structuring-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

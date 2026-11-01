@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-indicator-lifecycle-management
+display_name: performing-indicator-lifecycle-management
+description: Tracks IOCs through discovery, enrichment/validation (VirusTotal, Shodan,
+  passive DNS), deployment to SIEM/IDS watchlists, hit-rate and false-positive monitoring,
+  confidence-score decay, and automated expiration using MISP/OpenCTI and STIX. Use
+  when building or maintaining a threat intelligence indicator lifecycle process,
+  aging out stale IOCs, or reducing analyst fatigue from low-quality indicators.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-indicator-lifecycle-management
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

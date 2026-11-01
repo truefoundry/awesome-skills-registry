@@ -1,0 +1,18 @@
+id: helius-labs-core-ai-helius-dflow
+display_name: helius-dflow
+description: Build Solana trading applications combining DFlow trading APIs with Helius
+  infrastructure. Covers spot swaps (imperative and declarative), prediction markets,
+  real-time market streaming, Proof KYC, the DFlow Agent CLI for autonomous trading,
+  transaction submission via Sender, fee optimization, shred-level streaming via LaserStream,
+  and wallet intelligence.
+authors:
+- helius-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /helius-skills/helius-dflow
+  repo: helius-labs/core-ai
+metadata:
+  stars: 29
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: NVIDIA-skills-jetson-video-benchmark
+display_name: jetson-video-benchmark
+description: Use when measuring Jetson Video Codec SDK or PyNvVideoCodec encode/decode
+  throughput, comparing presets or surfaces, testing codec-worker capacity with authenticated
+  samples and user media, or producing a clearly labeled documentation-derived planning
+  estimate when representative media is absent. Also use for a video request limited
+  to PSNR or SSIM, to apply the terminal scope response.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-video-benchmark
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

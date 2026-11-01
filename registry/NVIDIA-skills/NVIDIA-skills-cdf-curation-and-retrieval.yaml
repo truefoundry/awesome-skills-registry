@@ -1,0 +1,20 @@
+id: NVIDIA-skills-cdf-curation-and-retrieval
+display_name: cdf-curation-and-retrieval
+description: NVIDIA CDF curation and retrieval. Cosmos Curator video and image pipelines
+  (split, dedup, shard, annotate) with filtering, captioning, and embedding. Cosmos
+  Dataset Search ingest, search, and capability qualification. TAO data mining embeddings
+  and neighbor matching. Ships domain event catalogs, including workplace employee
+  conduct monitoring, which requires legal review before use. Use when a request names
+  Cosmos Curator, Cosmos Dataset Search, CDF, or their Make and CLI surfaces. Not
+  for model training, orchestration, or unrelated dataset questions.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cdf-curation-and-retrieval
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

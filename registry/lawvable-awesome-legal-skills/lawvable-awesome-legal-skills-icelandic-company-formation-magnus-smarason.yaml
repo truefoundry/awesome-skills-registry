@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-icelandic-company-formation-magnus-smarason
+display_name: Icelandic Company Formation
+description: "Use this skill when asked about forming, registering, or structuring\
+  \ a company in Iceland. Triggers on questions about Icelandic business entities\
+  \ (ehf, hf, sf, svf, ses), capital requirements, registration with Fyrirt\xE6kjaskr\xE1\
+  , governance structures, or choosing the right entity type."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icelandic-company-formation-magnus-smarason
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

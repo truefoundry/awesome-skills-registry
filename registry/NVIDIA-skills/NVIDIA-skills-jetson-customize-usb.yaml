@@ -1,0 +1,15 @@
+id: NVIDIA-skills-jetson-customize-usb
+display_name: jetson-customize-usb
+description: Enable/disable Jetson USB2/USB3 SS ports via kernel-DT overlay. Do NOT
+  use for UPHY lane allocation or ODMDATA edits.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-customize-usb
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

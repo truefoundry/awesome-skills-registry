@@ -1,0 +1,17 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-crash-triage
+display_name: asc-crash-triage
+description: Triage TestFlight crashes, beta feedback, and performance diagnostics
+  using asc. Use when the user asks about TF crashes, TestFlight crash reports, beta
+  tester feedback, app hangs, disk writes, launch diagnostics, or wants a crash summary
+  for a build or app.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-crash-triage
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow-e2e
+display_name: i4h-workflow-e2e
+description: Run the maintained workflow data-to-policy pipeline from recording through
+  checkpoint validation. Use for full end-to-end requests; do not use for one individual
+  stage.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-e2e
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

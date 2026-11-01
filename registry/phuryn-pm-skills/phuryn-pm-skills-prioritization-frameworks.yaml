@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-prioritization-frameworks
+display_name: prioritization-frameworks
+description: "Reference guide to 9 prioritization frameworks with formulas, when-to-use\
+  \ guidance, and templates \u2014 RICE, ICE, Kano, MoSCoW, Opportunity Score, and\
+  \ more. Use when selecting a prioritization method, comparing frameworks like RICE\
+  \ vs ICE, or learning how different prioritization approaches work."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/prioritization-frameworks
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

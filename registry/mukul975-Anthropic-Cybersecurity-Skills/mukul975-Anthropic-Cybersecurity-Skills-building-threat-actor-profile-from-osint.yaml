@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-actor-profile-from-osint
+display_name: building-threat-actor-profile-from-osint
+description: Build threat actor profiles by collecting OSINT from vendor reports,
+  paste sites, dark web forums, social media, and code repos, correlating indicators,
+  mapping adversary infrastructure with tools like Maltego and SpiderFoot, and producing
+  structured dossiers of motivations, capabilities, infrastructure, and TTPs. Use
+  when performing attribution or building an adversary dossier from open-source intelligence.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-actor-profile-from-osint
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

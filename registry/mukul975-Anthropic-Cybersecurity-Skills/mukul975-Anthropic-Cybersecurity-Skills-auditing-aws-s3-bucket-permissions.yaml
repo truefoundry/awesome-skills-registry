@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-aws-s3-bucket-permissions
+display_name: auditing-aws-s3-bucket-permissions
+description: Systematically audit AWS S3 bucket permissions to identify publicly accessible
+  buckets, overly permissive ACLs, misconfigured bucket policies, and missing encryption
+  settings using AWS CLI, S3audit, and Prowler to enforce least-privilege data access
+  controls.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-aws-s3-bucket-permissions
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

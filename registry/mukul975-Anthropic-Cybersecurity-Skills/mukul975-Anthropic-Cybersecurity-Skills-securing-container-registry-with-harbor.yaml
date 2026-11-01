@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-container-registry-with-harbor
+display_name: securing-container-registry-with-harbor
+description: 'Configures the security features of the Harbor open-source container
+  registry - integrated Trivy scanning, Cosign and Notary content trust policies,
+  project-level RBAC, immutable tag and retention rules, and OIDC authentication -
+  to enforce provenance and block deployment of vulnerable images. Use when deploying
+  or hardening Harbor, or when compliance requires that only signed and scanned images
+  can be pulled. Keywords: Harbor, project policy, content trust, immutable tag, retention,
+  robot account, OIDC, replication. Do not use for signing images with Cosign outside
+  a registry - use implementing-image-provenance-verification-with-cosign.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-container-registry-with-harbor
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

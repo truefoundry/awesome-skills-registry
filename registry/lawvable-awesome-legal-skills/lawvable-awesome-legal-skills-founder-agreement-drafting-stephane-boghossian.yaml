@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-founder-agreement-drafting-stephane-boghossian
+display_name: founder-agreement-drafting-stephane-boghossian
+description: "A drafting-and-review copilot for a founders' / co-founders' agreement\
+  \ \u2014 the terms fixing equity, vesting, IP, roles, control, deadlock, and departure\
+  \ between cofounders. Jurisdiction-agnostic, anchored on the Delaware C-corp default.\
+  \ Two modes: DRAFT (intake \u2192 equity & vesting \u2192 clauses \u2192 blocker\
+  \ triage \u2192 pre-signature check) and REVIEW (audit an existing agreement against\
+  \ an 18-clause checklist and red-flag scan). It handles the highest-dispute terms\
+  \ first-class: the equity split as documented reasoning (not a fake calculator),\
+  \ reverse vesting and the 83(b) clock, present-tense IP assignment (the Stanford\
+  \ v. Roche trap), leaver buyback and dead equity, and the deadlock clause most tools\
+  \ omit. It drafts for the venture, never one founder against another. Not legal\
+  \ advice."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/founder-agreement-drafting-stephane-boghossian
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

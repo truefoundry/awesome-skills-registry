@@ -1,0 +1,18 @@
+id: K-Dense-AI-claude-scientific-skills-pycalphad
+display_name: pycalphad
+description: Computes finite-temperature CALPHAD equilibria, phase fractions, and
+  phase compositions from thermodynamic TDB databases using pycalphad. Use for alloy
+  phase stability, equilibrium temperature sweeps, tie lines, lever-rule checks, or
+  reproducible phase-fraction calculations with explicit components and mole-fraction
+  conditions.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pycalphad
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

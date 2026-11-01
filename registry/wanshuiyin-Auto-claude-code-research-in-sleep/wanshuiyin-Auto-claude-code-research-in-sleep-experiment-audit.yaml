@@ -1,0 +1,19 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-experiment-audit
+display_name: experiment-audit
+description: "Audit experiment integrity before claiming results. Uses fresh-agent\
+  \ GPT-6-Astra review (same-family provisional in the base Codex mirror) to check\
+  \ for fake ground truth, score normalization fraud, phantom results, and insufficient\
+  \ scope. Use when user says \"\u5BA1\u8BA1\u5B9E\u9A8C\", \"check experiment integrity\"\
+  , \"audit results\", \"\u5B9E\u9A8C\u8BDA\u5B9E\u5EA6\", or after experiments complete\
+  \ before writing claims."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/experiment-audit
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

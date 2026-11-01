@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-train-pose-classification
+display_name: tao-train-pose-classification
+description: Pose classification using ST-GCN (Spatial Temporal Graph Convolutional
+  Network). Classifies skeleton sequences into action categories from pose-keypoint
+  data. Use when training, evaluating, exporting, or running inference for a TAO pose-classification
+  model. Trigger phrases include "train pose classification", "skeleton action recognition",
+  "ST-GCN", "keypoint sequence classifier".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-train-pose-classification
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

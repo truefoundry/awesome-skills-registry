@@ -1,0 +1,24 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-citation-crosscheck
+display_name: citation-crosscheck
+description: "Conditionally double-blind bibliographic cross-check (double-blind only\
+  \ when the host can isolate the web agent; a flag-only heuristic when isolation\
+  \ can't be attested): one agent extracts each cited entry verbatim from the local\
+  \ .bib, a second independently re-fetches the same paper's record from the web while\
+  \ blind to the .bib, and a third extractor emits a mechanical field-by-field delta\
+  \ to catch dropped/re-ordered authors, wrong years, wrong venues, and bad DOIs/arXiv\
+  \ ids. The main agent (never a shard) assigns the MATCH/MINOR/MISMATCH verdict per\
+  \ reference, and exports a side-by-side spreadsheet. Use when user says \"citation\
+  \ crosscheck\", \"double-blind citation check\", \"verify bib against scholar\"\
+  , \"bib field audit\", \"\u5F15\u7528\u4EA4\u53C9\u6838\u5BF9\", or before submission\
+  \ when bibliography FIELD accuracy (not just existence) must be certified."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/citation-crosscheck
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

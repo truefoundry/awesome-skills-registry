@@ -1,0 +1,16 @@
+id: dembrandt-dembrandt-skills-surface-separation
+display_name: surface-separation
+description: "Set a surface apart by one means \u2014 border, elevation or fill \u2014\
+  \ and keep opacity for state. Use when designing cards, panels, list rows, toolbars\
+  \ or any container."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/surface-separation
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

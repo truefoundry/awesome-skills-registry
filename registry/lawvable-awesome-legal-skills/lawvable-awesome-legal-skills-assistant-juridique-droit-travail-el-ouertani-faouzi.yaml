@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-assistant-juridique-droit-travail-el-ouertani-faouzi
+display_name: assistant-juridique-droit-travail
+description: "Orchestrateur multi-r\xF4les en droit du travail fran\xE7ais (salari\xE9\
+  , employeur, audit, conseil, veille, formation). Charger pour toute consultation\
+  \ prud'homale, r\xE9daction d'actes (non-concurrence, transaction, avertissement),\
+  \ audit de contrat ou d'accord d'entreprise, calcul d'indemnit\xE9s, conformit\xE9\
+  \ CCN, CSE, CDD, harc\xE8lement, temps de travail, veille chambre sociale ou audit\
+  \ social, avec tra\xE7abilit\xE9 obligatoire des sources."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/assistant-juridique-droit-travail-el-ouertani-faouzi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

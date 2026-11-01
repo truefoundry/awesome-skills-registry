@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nvshmem-get-started
+display_name: nvshmem-get-started
+description: Use when NVSHMEM beginners want a tutorial-style overview on assessment,
+  mental models, first C/C++ or Python NVSHMEM programs, compilation, launching, and
+  next steps.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvshmem-get-started
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

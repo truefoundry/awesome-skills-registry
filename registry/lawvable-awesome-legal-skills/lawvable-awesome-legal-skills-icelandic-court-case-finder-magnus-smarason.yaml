@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-icelandic-court-case-finder-magnus-smarason
+display_name: Icelandic Court Case Finder
+description: "Use this skill when asked to find, cite, analyze, or summarize Icelandic\
+  \ court decisions. Triggers on requests involving H\xE6stir\xE9ttur (Supreme Court),\
+  \ Landsr\xE9ttur (Court of Appeal), F\xE9lagsd\xF3mur (Labour Court), h\xE9ra\xF0\
+  sd\xF3mur (District Court) case law, or Icelandic legal precedent research."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icelandic-court-case-finder-magnus-smarason
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

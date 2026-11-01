@@ -1,0 +1,18 @@
+id: sanjay3290-ai-skills-google-slides
+display_name: google-slides
+description: 'Read and write Google Slides presentations - get text, find presentations,
+  create presentations, add slides, replace text, and manage slide content. Use when
+  user asks to: read a presentation, create slides, find slides, add a slide, replace
+  text in a presentation, or manage presentation content. Lightweight integration
+  with standalone OAuth authentication supporting full read/write access.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/google-slides
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

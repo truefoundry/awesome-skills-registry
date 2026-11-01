@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-soar-automation-with-phantom
+display_name: implementing-soar-automation-with-phantom
+description: Implements Security Orchestration, Automation, and Response (SOAR) workflows
+  using Splunk SOAR (formerly Phantom) to automate alert triage, IOC enrichment, containment
+  actions, and incident response playbooks. Use when SOC teams need to reduce manual
+  analyst work, standardize response procedures, or integrate multiple security tools
+  into automated workflows.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-soar-automation-with-phantom
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

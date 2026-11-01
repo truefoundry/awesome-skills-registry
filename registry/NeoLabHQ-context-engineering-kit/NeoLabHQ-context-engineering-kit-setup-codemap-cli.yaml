@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-setup-codemap-cli
+display_name: setup-codemap-cli
+description: Guide for setup Codemap CLI for intelligent codebase visualization and
+  navigation
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/mcp/skills/setup-codemap-cli
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-sentiment-analysis
+display_name: sentiment-analysis
+description: Analyze user feedback data to identify segments with sentiment scores,
+  JTBD, and product satisfaction insights. Use when analyzing user feedback at scale,
+  running sentiment analysis on reviews or surveys, or identifying satisfaction patterns.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-market-research/skills/sentiment-analysis
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

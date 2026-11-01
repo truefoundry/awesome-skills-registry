@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-fix-tests
+display_name: fix-tests
+description: Systematically fix all failing tests after business logic changes or
+  refactoring
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/tdd/skills/fix-tests
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

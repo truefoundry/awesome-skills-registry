@@ -1,0 +1,22 @@
+id: resend-resend-skills-resend
+display_name: resend
+description: "Use when working with the Resend email API \u2014 sending transactional\
+  \ emails (single or batch), receiving inbound emails via webhooks, managing email\
+  \ templates, tracking delivery events, managing domains, contacts, broadcasts, webhooks,\
+  \ API keys, inboxes (threads, labels, drafts, replies), automations, events, viewing\
+  \ API request logs, checking account usage and quotas, or setting up the Resend\
+  \ SDK. Always use this skill when the user mentions Resend, even for simple tasks\
+  \ like \"send an email with Resend\" \u2014 the skill contains critical gotchas\
+  \ (idempotency keys, webhook verification, template variable syntax) that prevent\
+  \ common production issues."
+authors:
+- resend
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/resend
+  repo: resend/resend-skills
+metadata:
+  stars: 208
+added_at: '2026-11-01'

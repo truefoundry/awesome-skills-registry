@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-subdomain-enumeration-with-subfinder
+display_name: performing-subdomain-enumeration-with-subfinder
+description: Enumerate subdomains of target domains using ProjectDiscovery's Subfinder
+  passive reconnaissance tool to map the attack surface during security assessments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-subdomain-enumeration-with-subfinder
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

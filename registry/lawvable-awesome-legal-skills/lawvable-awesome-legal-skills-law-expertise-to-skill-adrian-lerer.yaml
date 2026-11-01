@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-law-expertise-to-skill-adrian-lerer
+display_name: law-expertise-to-skill-ignacio-adrian-lerer
+description: Turn a lawyer's bounded expertise, workflow, review standard, or legal
+  judgment pattern into a safe, inspectable legal AI skill. Use when a user provides
+  legal memos, comments, checklists, negotiation notes, review habits, compliance
+  playbooks, or professional feedback and wants a reusable Lawve-style skill. Do not
+  impersonate the lawyer or claim to reproduce a person; distill only authorized,
+  source-bounded capability.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/law-expertise-to-skill-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-shaders
+display_name: makepad-2.0-shaders
+description: "CRITICAL: Use for Makepad 2.0 shader system. Triggers on: makepad shader,\
+  \ Sdf2d, pixel shader, draw_bg, draw_text, draw_quad, makepad gpu, shader function,\
+  \ pixel fn, vertex fn, instance, uniform, shader variable, sdf, premultiply, Pal.premul,\
+  \ GaussShadow, makepad graphics, custom draw, DrawQuad, DrawVector, \u7740\u8272\
+  \u5668, \u50CF\u7D20, \u6E32\u67D3, \u81EA\u5B9A\u4E49\u7ED8\u5236, \u8DDD\u79BB\
+  \u573A"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-shaders
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

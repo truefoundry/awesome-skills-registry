@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-giurisprudenza-lampo-giovanna-panucci
+display_name: giurisprudenza-lampo
+description: "Ricerca giurisprudenziale rapida per ottenere un quadro di orientamento\
+  \ iniziale su un tema giuridico. Si attiva con \"giurisprudenza-lampo [tema]\",\
+  \ \"cerca giurisprudenza su [tema]\", \"sentenze su [tema]\", \"pronunce su [tema]\"\
+  , \"orientamento giurisprudenziale su [tema]\", o qualsiasi variante che chieda\
+  \ di cercare sentenze, pronunce, massime, orientamenti giurisprudenziali o precedenti\
+  \ su un argomento giuridico. Usa questa skill anche quando l'utente dice \"cosa\
+  \ dice la giurisprudenza su\", \"ci sono sentenze su\", \"precedenti su\", \"come\
+  \ si \xE8 espressa la Cassazione/il TAR/il Consiglio di Stato su\"."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/giurisprudenza-lampo-giovanna-panucci
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

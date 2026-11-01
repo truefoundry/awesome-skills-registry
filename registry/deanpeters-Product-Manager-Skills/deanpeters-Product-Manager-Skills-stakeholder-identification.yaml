@@ -1,0 +1,15 @@
+id: deanpeters-Product-Manager-Skills-stakeholder-identification
+display_name: stakeholder-identification
+description: Map every stakeholder before engaging anyone. Use when launching an initiative,
+  scoping discovery, or building an engagement plan from scratch.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/stakeholder-identification
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

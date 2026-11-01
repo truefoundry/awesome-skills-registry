@@ -1,0 +1,17 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-dsl
+display_name: makepad-2.0-dsl
+description: 'CRITICAL: Use for Makepad 2.0 DSL syntax and property system. Triggers
+  on: makepad dsl, script_mod!, makepad syntax, makepad property, makepad 2.0 syntax,
+  colon syntax, merge operator, named instance, let binding, mod.widgets, register_widget,
+  script_component, type_default, widgets_internal'
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-dsl
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

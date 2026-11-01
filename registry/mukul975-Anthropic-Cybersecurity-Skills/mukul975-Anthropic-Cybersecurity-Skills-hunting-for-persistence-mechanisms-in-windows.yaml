@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-persistence-mechanisms-in-windows
+display_name: hunting-for-persistence-mechanisms-in-windows
+description: Systematically hunts for adversary persistence mechanisms across Windows
+  endpoints, covering registry Run/RunOnce keys, services, startup folders, scheduled
+  tasks, and WMI event subscriptions. Use when performing a broad persistence sweep
+  during incident response or building SIEM detections that cover the full range of
+  Windows persistence techniques (MITRE T1547).
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-persistence-mechanisms-in-windows
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

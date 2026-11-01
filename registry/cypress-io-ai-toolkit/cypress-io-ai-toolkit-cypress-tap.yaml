@@ -1,0 +1,20 @@
+id: cypress-io-ai-toolkit-cypress-tap
+display_name: cypress-tap
+description: Drives a running Cypress open-mode session through `cypress tap` to run
+  and rerun specs, wait for fresh results, inspect reporter and command logs, and
+  query or rewind the app under test through DOM, accessibility, styles, and snapshots.
+  Use when authoring or debugging Cypress e2e or component specs, discovering selectors,
+  diagnosing failures, or verifying test behavior without GUI interaction. Not for
+  one-shot headless runs. Requires Cypress 15.21+, a Chromium-family browser, and
+  a running `cypress open` session.
+authors:
+- cypress-io
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cypress-tap
+  repo: cypress-io/ai-toolkit
+metadata:
+  stars: 46
+added_at: '2026-11-01'

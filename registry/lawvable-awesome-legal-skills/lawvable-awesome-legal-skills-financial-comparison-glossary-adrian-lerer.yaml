@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-financial-comparison-glossary-adrian-lerer
+display_name: financial-comparison-glossary-ignacio-adrian-lerer
+description: Use when a calculator, financial model, investor memo, due diligence
+  report, risk review, dashboard, or client-facing explanation needs clear distinctions
+  between accounting and finance concepts such as cash flow vs profit, EBIT vs EBITDA,
+  CapEx vs OpEx, debt vs equity, market value vs book value, ROI vs ROE, assets vs
+  liabilities, and accounting vs finance.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/financial-comparison-glossary-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

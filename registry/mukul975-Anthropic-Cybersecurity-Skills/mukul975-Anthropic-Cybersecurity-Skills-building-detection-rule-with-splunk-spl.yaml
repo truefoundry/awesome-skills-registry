@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-detection-rule-with-splunk-spl
+display_name: building-detection-rule-with-splunk-spl
+description: Build effective detection rules using Splunk Search Processing Language
+  (SPL) correlation searches to identify security threats in SOC environments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-detection-rule-with-splunk-spl
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

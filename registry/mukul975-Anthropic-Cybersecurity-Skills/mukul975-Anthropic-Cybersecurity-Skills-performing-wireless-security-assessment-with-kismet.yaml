@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-wireless-security-assessment-with-kismet
+display_name: performing-wireless-security-assessment-with-kismet
+description: Conduct wireless network security assessments using Kismet to detect
+  rogue access points, hidden SSIDs, weak encryption, and unauthorized clients through
+  passive RF monitoring.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-wireless-security-assessment-with-kismet
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

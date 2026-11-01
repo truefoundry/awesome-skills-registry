@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-tree-of-thoughts
+display_name: tree-of-thoughts
+description: Execute tasks through systematic exploration, pruning, and expansion
+  using Tree of Thoughts methodology with meta-judge evaluation specifications and
+  multi-agent evaluation
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/tree-of-thoughts
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

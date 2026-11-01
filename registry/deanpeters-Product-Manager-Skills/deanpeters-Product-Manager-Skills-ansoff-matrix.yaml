@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-ansoff-matrix
+display_name: ansoff-matrix
+description: Map evidence-backed growth options across the Ansoff Matrix with risk-rated
+  sequencing. Use when the question is where the next tranche of growth comes from,
+  and at what risk.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ansoff-matrix
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

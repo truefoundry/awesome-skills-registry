@@ -1,0 +1,16 @@
+id: kreuzberg-dev-kreuzberg-xberg-chunking
+display_name: xberg-chunking
+description: Use when splitting extracted text into chunks for LLM context windows
+  or RAG ingestion. Covers chunk size, overlap, markdown/yaml/semantic chunkers, tokenizer-based
+  sizing, and the standalone `chunk` command.
+authors:
+- kreuzberg-dev
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/xberg-chunking
+  repo: kreuzberg-dev/kreuzberg
+metadata:
+  stars: 9491
+added_at: '2026-11-01'

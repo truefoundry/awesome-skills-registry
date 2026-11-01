@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-terraform-infrastructure-for-security
+display_name: auditing-terraform-infrastructure-for-security
+description: Auditing Terraform infrastructure-as-code for security misconfigurations
+  using Checkov, tfsec, Terrascan, and OPA/Rego policies to detect overly permissive
+  IAM policies, public resource exposure, missing encryption, and insecure defaults
+  before cloud deployment.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-terraform-infrastructure-for-security
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

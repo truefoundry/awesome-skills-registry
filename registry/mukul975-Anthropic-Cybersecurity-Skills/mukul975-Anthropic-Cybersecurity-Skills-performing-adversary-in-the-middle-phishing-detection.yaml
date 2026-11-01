@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-adversary-in-the-middle-phishing-detection
+display_name: performing-adversary-in-the-middle-phishing-detection
+description: Detect and respond to Adversary-in-the-Middle (AiTM) phishing attacks
+  that use reverse proxy kits like EvilProxy, Evilginx, and Tycoon 2FA to bypass MFA
+  and steal session tokens, correlating Azure AD/Entra sign-in logs, SIEM alerts,
+  and EDR telemetry. Use when investigating suspected MFA-bypass phishing or session
+  token theft, or building detection and response playbooks against reverse-proxy
+  phishing kits.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-adversary-in-the-middle-phishing-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-make-video-covers-with-transloadit
+display_name: transform-make-video-covers-with-transloadit
+description: Make cover images from a local video, using regular frames, exact offsets
+  or smart selection through the video-covers Builtin and the official Transloadit
+  CLI.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-make-video-covers-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

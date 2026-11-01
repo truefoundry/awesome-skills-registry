@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-legal-guidance-vault-michael-cremata
+display_name: legal-guidance-vault
+description: "Helps a lawyer build and use a personalized Legal Guidance Vault \u2014\
+  \ a local folder of structured, privilege-marked entries capturing legal guidance\
+  \ they've given, searchable later by topic, person, or product. Use this skill when\
+  \ the user says \"set up my vault,\" \"archive this meeting/email/thread/doc,\"\
+  \ \"log the guidance I gave on [topic],\" \"save my notes from [meeting],\" \"what\
+  \ did I say about [topic],\" \"find the time I advised [person] on [topic],\" or\
+  \ \"search my vault for [topic].\" Runs a setup interview to learn the user's tool\
+  \ stack (meeting notes, calendar, email, docs, messaging, vault location), then\
+  \ generates a customized vault prompt they can reuse in any future Claude session\
+  \ to start archiving and retrieving guidance."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-guidance-vault-michael-cremata
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,23 @@
+id: google-skills-gke-platform-security
+display_name: gke-platform-security
+description: Plans, configures, and hardens platform-level Google Kubernetes Engine
+  (GKE) cluster security. Covers cluster add-ons (Secret Manager enablement), RBAC
+  hardening (disabling insecure bindings, audit tools), Binary Authorization, Secrets
+  Encryption (--database-encryption-key), Security Posture (--security-posture), enabling
+  Shielded Nodes, GKE Sandbox cluster enablement, GKE IAM roles, and cross-service
+  authentication IAM patterns. Use when securing cluster control planes, hardening
+  GKE RBAC, enabling Shielded Nodes, enabling GKE Sandbox runtime, enabling cluster-wide
+  security add-ons, or managing GKE IAM roles. Don't use for Workload Identity (use
+  gke-workload-identity) or workload-level security (SecretProviderClass, PSS, NetPol,
+  gVisor pod runtimeClassName; use gke-workload-security).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-platform-security
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

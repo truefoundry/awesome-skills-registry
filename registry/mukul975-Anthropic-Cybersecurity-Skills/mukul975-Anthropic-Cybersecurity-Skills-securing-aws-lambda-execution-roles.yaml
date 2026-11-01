@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-aws-lambda-execution-roles
+display_name: securing-aws-lambda-execution-roles
+description: Hardens AWS Lambda execution roles by writing least-privilege IAM policies,
+  applying permission boundaries, restricting resource-based policies, validating
+  permissions with IAM Access Analyzer, and enforcing role scoping through SCPs. Use
+  when deploying new Lambda functions, remediating overly permissive Lambda roles
+  found in an audit, or building reusable least-privilege IAM role templates for serverless
+  teams.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-aws-lambda-execution-roles
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

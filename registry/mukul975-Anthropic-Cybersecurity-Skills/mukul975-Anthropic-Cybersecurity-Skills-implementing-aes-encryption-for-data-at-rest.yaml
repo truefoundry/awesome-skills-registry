@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-aes-encryption-for-data-at-rest
+display_name: implementing-aes-encryption-for-data-at-rest
+description: Guides implementing AES-256 encryption in GCM mode (FIPS 197) for files
+  and data stores at rest, covering key derivation, IV/nonce management, and authenticated
+  encryption. Use when deploying or configuring encryption for data at rest, establishing
+  controls to meet compliance requirements, or reviewing an implementation during
+  a security assessment.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-aes-encryption-for-data-at-rest
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

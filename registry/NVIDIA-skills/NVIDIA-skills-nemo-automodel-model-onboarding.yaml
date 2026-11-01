@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nemo-automodel-model-onboarding
+display_name: nemo-automodel-model-onboarding
+description: Guide for onboarding new model architectures into NeMo AutoModel, including
+  architecture discovery, implementation patterns, registration, and validation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-automodel-model-onboarding
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

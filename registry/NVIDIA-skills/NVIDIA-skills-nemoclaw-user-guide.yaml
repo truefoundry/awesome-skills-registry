@@ -1,0 +1,18 @@
+id: NVIDIA-skills-nemoclaw-user-guide
+display_name: nemoclaw-user-guide
+description: Guides human users' AI agents to the NemoClaw docs MCP server and canonical
+  Fern documentation in Markdown form. Use when users ask how to install, configure,
+  operate, troubleshoot, secure, or learn NemoClaw with an AI coding assistant. Trigger
+  keywords - nemoclaw docs, use nemoclaw with ai agent, nemoclaw mcp docs, nemoclaw
+  install help, nemoclaw quickstart, nemoclaw markdown docs, llms.txt, agent skills.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemoclaw-user-guide
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

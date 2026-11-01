@@ -1,0 +1,19 @@
+id: NVIDIA-skills-nemo-fabric-integrate
+display_name: nemo-fabric-integrate
+description: "Use this skill when integrating NVIDIA NeMo Fabric into a consumer application,\
+  \ service, evaluation harness, or platform through the typed Python SDK \u2014 translating\
+  \ the consumer's own application, job, or deployment config into an in-memory FabricConfig,\
+  \ choosing the single-invocation convenience API or an explicitly started runtime,\
+  \ validating with plan and doctor, and consuming normalized results, artifacts,\
+  \ and telemetry."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-fabric-integrate
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

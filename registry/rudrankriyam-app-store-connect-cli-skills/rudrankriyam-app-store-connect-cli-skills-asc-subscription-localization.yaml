@@ -1,0 +1,17 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-subscription-localization
+display_name: asc-subscription-localization
+description: Bulk-localize subscription, subscription-group, and in-app purchase display
+  names across App Store locales using asc, including API 4.4.1 version-scoped v2
+  resources. Use when filling or updating subscription/IAP names and descriptions
+  without App Store Connect UI work.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-subscription-localization
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

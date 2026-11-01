@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-command-and-control-communication
+display_name: analyzing-command-and-control-communication
+description: Analyzes malware C2 communication over HTTP, HTTPS, DNS, and custom protocols
+  to reverse-engineer beacon patterns, command structures, data encoding, and infrastructure
+  (primary servers, fallback domains, dead drops). Use after reverse engineering reveals
+  network traffic needing protocol analysis or when building detection signatures
+  for a framework like Cobalt Strike, Metasploit, or Sliver.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-command-and-control-communication
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

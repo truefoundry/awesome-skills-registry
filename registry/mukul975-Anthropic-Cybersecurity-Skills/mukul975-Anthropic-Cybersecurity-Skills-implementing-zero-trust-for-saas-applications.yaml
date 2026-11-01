@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-zero-trust-for-saas-applications
+display_name: implementing-zero-trust-for-saas-applications
+description: Secures SaaS apps (Microsoft 365, Google Workspace, Salesforce, Slack)
+  via CASB/SSPM deployment, conditional access policies, OAuth app governance, and
+  session-level DLP controls enforcing identity verification and device compliance.
+  Use when adding MFA/device-compliance conditional access, discovering shadow IT,
+  governing OAuth consent grants, or applying session controls to sensitive SaaS data.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-zero-trust-for-saas-applications
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

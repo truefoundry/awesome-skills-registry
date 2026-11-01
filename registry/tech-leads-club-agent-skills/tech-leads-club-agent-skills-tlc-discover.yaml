@@ -1,0 +1,18 @@
+id: tech-leads-club-agent-skills-tlc-discover
+display_name: tlc-discover
+description: Interviews an unshaped idea into a verdict and a design document - decisions,
+  flows, schema, contracts - that anyone can plan from without having been in the
+  room. Use when the user says "research this", "help me understand this problem",
+  "should we build this", "discovery", "explore this problem", or "tlc-discover".
+  Do NOT use to cut a finished design into tasks, or to implement.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(development)/tlc-discover
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 7120
+added_at: '2026-11-01'

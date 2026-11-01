@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-investigating-insider-threat-indicators
+display_name: investigating-insider-threat-indicators
+description: Investigates insider threat indicators including data exfiltration attempts,
+  unauthorized access patterns, policy violations, and pre-departure behaviors using
+  SIEM analytics, DLP alerts, and HR data correlation. Use when SOC teams receive
+  insider threat referrals from HR, detect anomalous data movement by employees, or
+  need to build investigation timelines for potential insider threats.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/investigating-insider-threat-indicators
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

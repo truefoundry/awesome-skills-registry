@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-patent-novelty-check
+display_name: patent-novelty-check
+description: "Assess patent novelty and non-obviousness against prior art. Use when\
+  \ user says \"\u4E13\u5229\u67E5\u65B0\", \"patent novelty\", \"\u53EF\u4E13\u5229\
+  \u6027\u8BC4\u4F30\", \"patentability check\", or wants to evaluate if an invention\
+  \ is patentable."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/patent-novelty-check
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

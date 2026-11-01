@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-propose-hypotheses
+display_name: propose-hypotheses
+description: Execute complete FPF cycle from hypothesis generation to decision
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/fpf/skills/propose-hypotheses
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

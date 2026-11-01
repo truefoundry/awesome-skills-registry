@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-humaniseur-juridique-gary-haas
+display_name: lawyerscrib
+description: "Les LLM \xE9crivent du juridique qui ressemble \xE0 du juridique sans\
+  \ en \xEAtre. Formules creuses, attributions vagues, hedging syst\xE9matique, latin\
+  \ d\xE9coratif : un praticien rep\xE8re ces tics en trois lignes. Un juge aussi.\
+  \ LawyerScrib est un skill pour Claude Code et Cursor qui nettoie ces traces. Il\
+  \ scanne 17 patterns typiques de l'\xE9criture IA appliqu\xE9e au droit fran\xE7\
+  ais (conclusions, consultations, notes, mails, actes) et r\xE9\xE9crit chaque passage\
+  \ pour retrouver le ton d'un avocat qui argumente, pas d'un mod\xE8le qui r\xE9\
+  dige. Le r\xE9sultat : un texte engag\xE9, pr\xE9cis, avec des r\xE9f\xE9rences\
+  \ sourc\xE9es et une position claire. Pas un texte neutre qui \"reste \xE0 disposition\
+  \ pour tout compl\xE9ment\"."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/humaniseur-juridique-gary-haas
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

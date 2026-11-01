@@ -1,0 +1,17 @@
+id: gokapso-agent-skills-integrate-whatsapp-calling
+display_name: integrate-whatsapp-calling
+description: Connect voice agents to WhatsApp Calling through Kapso. Use for Calling
+  setup, signed call webhooks, inbound answering, outbound permission and dialing,
+  native recordings and transcripts, or debugging signaling and media with Pipecat,
+  Pipecat Cloud, ElevenLabs Agents, or another provider.
+authors:
+- gokapso
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/integrate-whatsapp-calling
+  repo: gokapso/agent-skills
+metadata:
+  stars: 195
+added_at: '2026-11-01'

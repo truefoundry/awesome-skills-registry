@@ -1,0 +1,22 @@
+id: K-Dense-AI-claude-scientific-skills-genomic-intelligence
+display_name: genomic-intelligence
+description: "Predicts regulatory features, gene structure, and expression directly\
+  \ from DNA sequence using Genomic Intelligence's hosted transformer DNA language\
+  \ models \u2014 no local GPU or model weights. Six tasks over a REST API and a hosted\
+  \ MCP server (keyless public demo): promoter regions, splice donor/acceptor sites,\
+  \ enhancer activity, chromatin state, sequence-to-expression (log TPM), and de-novo\
+  \ gene annotation, plus a composite find-genes-then-predict-expression workflow.\
+  \ Use when the user has a gene symbol, a genomic region, or a DNA/FASTA sequence\
+  \ and wants any of these predictions, mentions Genomic Intelligence, genomicintelligence.ai,\
+  \ api.genomicintelligence.ai, or mcp.genomicintelligence.ai."
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/genomic-intelligence
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

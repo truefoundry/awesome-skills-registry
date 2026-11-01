@@ -1,0 +1,14 @@
+id: mattpocock-skills-retro
+display_name: retro
+description: Conduct a retrospective on a coding session.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/retro
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

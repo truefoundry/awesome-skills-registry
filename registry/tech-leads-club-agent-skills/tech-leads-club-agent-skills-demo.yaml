@@ -1,0 +1,21 @@
+id: tech-leads-club-agent-skills-demo
+display_name: demo
+description: Record a demo video of a web app feature or flow on a real desktop (Docker,
+  Xvfb, XFCE, real X cursor), producing an mp4 plus a click/hover/scroll/type telemetry
+  file. Takes a flow description, an existing demo name or path, or init. Use when
+  the user says "record a demo of the checkout", "gravar um demo dessa feature", "make
+  a screencast of this flow", "video for the changelog", "re-record the checkout demo",
+  "refresh the demo video", or "demo init". Do NOT use for general browser testing
+  or automation that needs no video (use playwright-skill), page debugging or network
+  inspection (use chrome-devtools), or static screenshots.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(web-automation)/demo
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 7120
+added_at: '2026-11-01'

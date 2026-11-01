@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-finetune-cosmos-reason
+display_name: tao-finetune-cosmos-reason
+description: Shared Cosmos3 frontend that explicitly routes Cosmos Framework and Cosmos-RL,
+  validates runtime model/video-dataset/SLURM inputs, consumes an SQSH or packaged
+  backend image, optionally plans explicit clean source builds, prepares checkpoints,
+  validates the first update in-process, and returns token-weighted losses and task-aware
+  accuracy.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-finetune-cosmos-reason
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

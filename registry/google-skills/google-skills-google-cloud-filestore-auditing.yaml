@@ -1,0 +1,20 @@
+id: google-skills-google-cloud-filestore-auditing
+display_name: google-cloud-filestore-auditing
+description: Audits Filestore instances on Google Cloud across projects for disaster
+  recovery readiness (missing or stale backups), security access governance (overly
+  permissive NFS export rules, 0.0.0.0/0 exposure, missing ROOT_SQUASH), and reliability
+  compliance (Physical Zone Isolation PZI and Physical Zone Separation PZS). Use when
+  assessing storage health posture, auditing NFS export permissions, identifying unprotected
+  file shares, or validating zone failure domains. Don't use for Cloud Storage buckets,
+  Persistent Disk, or NetApp Volumes.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/google-cloud-filestore-auditing
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

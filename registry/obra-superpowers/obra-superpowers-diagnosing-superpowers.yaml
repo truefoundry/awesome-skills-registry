@@ -1,0 +1,18 @@
+id: obra-superpowers-diagnosing-superpowers
+display_name: diagnosing-superpowers
+description: "Use when a superpowers session went wrong and your human partner wants\
+  \ to know why \u2014 repeated work, ignored plans, stumbles, poor results, a skill\
+  \ that didn't fire, \"it took too long\", \"why is it so expensive\", \"what is\
+  \ it doing\" \u2014 or wants to build a bug report for the superpowers maintainers,\
+  \ for the current session or a past one identified by id or path, on any harness."
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/diagnosing-superpowers
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-lgpd-sentinel-rafael-mastronardi
+display_name: lgpd-sentinel-rafael-mastronardi
+description: "Orienta\xE7\xE3o LGPD para opera\xE7\xF5es de tratamento no Brasil.\
+  \ Cobre bases legais (Art. 7\xBA e Art. 11), RIPD, incidentes (Arts. 48-49), direitos\
+  \ dos titulares (Art. 18) e transfer\xEAncias internacionais. Triggers: LGPD, RIPD,\
+  \ ANPD, prote\xE7\xE3o de dados, dados pessoais, consentimento, encarregado, DPO\
+  \ Brasil, incidente de dados, leg\xEDtimo interesse."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/lgpd-sentinel-rafael-mastronardi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

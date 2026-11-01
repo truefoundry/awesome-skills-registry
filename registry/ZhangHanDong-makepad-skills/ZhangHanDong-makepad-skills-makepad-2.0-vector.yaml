@@ -1,0 +1,18 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-vector
+display_name: makepad-2.0-vector
+description: "CRITICAL: Use for Makepad 2.0 Vector graphics widget. Triggers on: makepad\
+  \ vector, Vector widget, SVG path, makepad path, makepad circle, makepad gradient,\
+  \ makepad tween, vector animation, Gradient, RadGradient, Filter, DropShadow, Group\
+  \ transform, vector drawing, inline SVG, \u77E2\u91CF\u56FE\u5F62, SVG, \u8DEF\u5F84\
+  , \u6E10\u53D8, \u77E2\u91CF\u52A8\u753B"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-vector
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

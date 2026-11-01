@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-originality-in-european-copyright-joris-deene
+display_name: originality-in-european-copyright-joris-deene
+description: "a skill that determines whether a given subject matter qualifies for\
+  \ copyright protection under EU law by applying the Cofemel two-step test (concept\
+  \ of work + originality), grounded in fifteen CJEU judgments (including the most\
+  \ recent Mio/Konektra and Calinescu) and the four EU directive provisions on originality.\
+  \ It argues from one of two positions: pro-rightsholder (establishing that the work\
+  \ is original) or pro-alleged-infringer (contesting work status or originality via\
+  \ the four exclusion grounds \u2014 technical function, rule-dictated outcome, sweat\
+  \ of the brow, idea/functionality). It includes sector-specific modules for photography,\
+  \ software/GUI, sporting events, databases, applied art, functional texts, derivative\
+  \ works/critical editions, and multimedia works."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/originality-in-european-copyright-joris-deene
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

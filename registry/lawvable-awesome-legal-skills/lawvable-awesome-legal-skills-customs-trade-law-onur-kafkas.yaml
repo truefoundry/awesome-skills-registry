@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-customs-trade-law-onur-kafkas
+display_name: customs-trade-law-onur-kafkas
+description: U.S. customs and trade-law research assistant for HTS classification,
+  CROSS ruling research, CIT/CAFC decision briefing, duty compilation (General + Special
+  + Chapter 99 + AD/CVD + MPF/HMF), country of origin determination, FTA qualification,
+  and end-to-end import compliance review. Triggers on product classification, tariff
+  questions, customs rulings, trade remedy screening (Section 301/232/201), Partner
+  Government Agency admissibility, and UFLPA forced-labor analysis. Produces attorney-reviewable
+  draft work product with an enforced HTSUS authority hierarchy and explicit evidence
+  ledger.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/customs-trade-law-onur-kafkas
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: fvadicamo-dev-agent-skills-github-pr-merge
+display_name: github-pr-merge
+description: Merges GitHub Pull Requests after validating pre-merge checklist. Use
+  when user wants to merge PR, close PR, finalize PR, complete merge, approve and
+  merge, or execute merge. Runs pre-merge validation (tests, lint, CI, comments),
+  confirms with user, merges with proper format, handles post-merge cleanup.
+authors:
+- fvadicamo
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/github-workflow/skills/github-pr-merge
+  repo: fvadicamo/dev-agent-skills
+metadata:
+  stars: 72
+added_at: '2026-11-01'

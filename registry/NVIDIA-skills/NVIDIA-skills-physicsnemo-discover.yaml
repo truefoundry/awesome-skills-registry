@@ -1,0 +1,20 @@
+id: NVIDIA-skills-physicsnemo-discover
+display_name: physicsnemo-discover
+description: "Official NVIDIA-authored guidance for navigating PhysicsNeMo \u2014\
+  \ pick the model, datapipe, or example for a SciML/AI4Science task (surrogates,\
+  \ forecasting, downscaling, physics-informed, inverse, generative). Points at existing\
+  \ files via live repo search; never writes code. Do NOT use for installation or\
+  \ environment setup, training-loop or other code authoring/scaffolding, contributor/CI/packaging\
+  \ questions, repo-specific questions in physicsnemo-sym/-cfd/-curator, or general\
+  \ (non-physics) ML/PyTorch."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/physicsnemo-discover
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

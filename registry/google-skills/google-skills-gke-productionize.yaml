@@ -1,0 +1,20 @@
+id: google-skills-gke-productionize
+display_name: gke-productionize
+description: Orchestrates comprehensive production readiness reviews and assessments
+  for GKE clusters and workloads across scalability, security, reliability, observability,
+  backup/DR, and cost optimization. Use when asked to productionize, prepare, assess,
+  audit, or review a GKE cluster or workload before going live to production. Don't
+  use for deep-dive single-domain implementation (use specific domain skills like
+  gke-workload-scaling, gke-platform-security, gke-workload-security, gke-service-networking,
+  gke-reliability instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-productionize
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

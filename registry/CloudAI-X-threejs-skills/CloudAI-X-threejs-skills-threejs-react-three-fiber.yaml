@@ -1,0 +1,17 @@
+id: CloudAI-X-threejs-skills-threejs-react-three-fiber
+display_name: threejs-react-three-fiber
+description: 'Building three.js scenes from React with React Three Fiber and drei:
+  renderer setup, the scene graph as JSX, frame-loop, state and loading hooks, pointer
+  events, and adaptive performance, on WebGL or with WebGPU and TSL. Use when writing
+  React components that render three.js.'
+authors:
+- CloudAI-X
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/threejs-react-three-fiber
+  repo: CloudAI-X/threejs-skills
+metadata:
+  stars: 3888
+added_at: '2026-11-01'

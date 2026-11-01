@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-chronology-builder-andrew-bird
+display_name: chronology-builder-andrew-bird
+description: "Builds a litigation chronology from the disclosure bundle itself \u2014\
+  \ every entry attributed to its source document, behind a CPR 31.22 implied-undertaking\
+  \ check, because documents disclosed in English proceedings may only be used for\
+  \ those proceedings. Adds a privilege screen and case-theory significance tagging,\
+  \ so the output is court-facing work product, not a loose timeline. Use when the\
+  \ user asks to build a chronology or timeline from a disclosure bundle, a matter\
+  \ file, or witness statements, or says 'build the chron', 'what happened when',\
+  \ or needs a Statement of Facts ready timeline."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/chronology-builder-andrew-bird
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

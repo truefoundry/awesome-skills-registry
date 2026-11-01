@@ -1,0 +1,17 @@
+id: metalbear-co-skills-mirrord-up
+display_name: mirrord-up
+description: Helps users run multiple concurrent mirrord sessions from a single mirrord-up.yaml
+  (compose-style multi-service local debugging). Use when the user mentions mirrord
+  up, mirrord-up.yaml, mirrord up init, debugging several related microservices together,
+  or managing multiple mirrord sessions' lifecycle in one command.
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-up
+  repo: metalbear-co/skills
+metadata:
+  stars: 29
+added_at: '2026-11-01'

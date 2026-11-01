@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-swiss-legal-source-and-authority-triage-enrique-g-zbinden
+display_name: swiss-legal-source-authority-triage-enrique-g-zbinden
+description: Swiss legal source and authority triage. Use when a user asks a Swiss
+  legal, regulatory, compliance, contract, employment, corporate, litigation, IP,
+  tax, privacy, public-law, fintech, register, or cantonal-law question; when Swiss
+  law may apply; or when an AI legal answer needs source routing across federal, cantonal,
+  communal, regulator, register, contractual, professional, soft-law, multilingual,
+  or open-data layers.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/swiss-legal-source-and-authority-triage-enrique-g-zbinden
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

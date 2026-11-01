@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-scanning-container-images-with-grype
+display_name: scanning-container-images-with-grype
+description: 'Scans container images, filesystems, and SBOMs for known CVEs with Anchore
+  Grype, matching Syft-generated SBOM packages against NVD, GitHub Advisories, and
+  OS-specific feeds with configurable severity thresholds and failure gates. Use when
+  Grype or Syft is the chosen toolchain, when scanning an existing SBOM rather than
+  an image, or when gating a build on severity. Keywords: Grype, Syft, SBOM, NVD,
+  GitHub Advisory, --fail-on, severity threshold. Do not use when the toolchain is
+  Trivy - use scanning-docker-images-with-trivy.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scanning-container-images-with-grype
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

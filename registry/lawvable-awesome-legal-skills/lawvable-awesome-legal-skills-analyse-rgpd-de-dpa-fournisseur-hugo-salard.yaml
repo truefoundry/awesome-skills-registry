@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-analyse-rgpd-de-dpa-fournisseur-hugo-salard
+display_name: analyse-dpa-fournisseur-hugo-salard
+description: "Analyse syst\xE9matique d'un Data Processing Agreement (DPA) au regard\
+  \ de l'article 28 RGPD, des lignes directrices EDPB 07/2020 et 02/2024, des CCT\
+  \ 2021 (d\xE9cision d'ex\xE9cution 2021/914), des recommandations EDPB 01/2020 (mesures\
+  \ suppl\xE9mentaires post-Schrems II), et du R\xE8glement (UE) 2024/1689 (R\xE8\
+  glement IA). Produit un rapport structur\xE9 clause par clause (18 clauses : 13\
+  \ obligatoires + 5 compl\xE9mentaires) avec diagnostic \U0001F7E2/\U0001F7E1/\U0001F534\
+  , rem\xE9diations pr\xEAtes \xE0 ins\xE9rer, analyse d\xE9taill\xE9e des transferts\
+  \ internationaux, v\xE9rification R\xE8glement IA, et questions \xE0 poser au fournisseur.\
+  \ Triggers : \"analyse de DPA\", \"audit DPA\", \"v\xE9rifier un DPA\", \"DPA fournisseur\"\
+  , \"data processing agreement\", \"art. 28 RGPD\", \"sous-traitant RGPD\", \"n\xE9\
+  gociation DPA\", \"review DPA\", \"conformit\xE9 contrat sous-traitance\"."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyse-rgpd-de-dpa-fournisseur-hugo-salard
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

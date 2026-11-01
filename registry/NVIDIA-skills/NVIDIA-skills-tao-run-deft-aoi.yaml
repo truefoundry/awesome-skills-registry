@@ -1,0 +1,22 @@
+id: NVIDIA-skills-tao-run-deft-aoi
+display_name: tao-run-deft-aoi
+description: 'Run the full DEFT AOI improvement loop for NVIDIA TAO VisualChangeNet
+  / ChangeNet PCB inspection models: baseline evaluate, RCA, Cosmos AnomalyGen / AMP
+  synthetic defects, k-NN mining, retraining, and deployment gating against a customer-defined
+  primary metric and optional constraints. Use only when the request identifies an
+  AOI / automated-optical-inspection, PCB-defect, VisualChangeNet, or ChangeNet workflow.
+  Supports air-gapped/offline runs with pre-staged assets. Never infer AOI from generic
+  iterative-improvement language. Do not use for CLIP / SigLIP image retrieval, attribute-labelled
+  image data, standalone TAO training, one-off inference, generic anomaly generation,
+  or RCA-only analysis.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-run-deft-aoi
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

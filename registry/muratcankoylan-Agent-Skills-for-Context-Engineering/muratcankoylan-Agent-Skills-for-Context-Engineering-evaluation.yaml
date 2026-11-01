@@ -1,0 +1,16 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-evaluation
+display_name: evaluation
+description: 'This skill should be used when building agent evaluation systems: deterministic
+  checks, regression suites, multi-dimensional rubrics, quality gates, production
+  monitoring, baseline comparison, and outcome measurement for agent pipelines.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/evaluation
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

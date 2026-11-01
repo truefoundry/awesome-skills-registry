@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-policies-for-kubernetes
+display_name: implementing-network-policies-for-kubernetes
+description: 'Writes portable upstream Kubernetes NetworkPolicy YAML - default-deny-all,
+  DNS egress, namespace and pod selector rules - that works on any conformant CNI
+  such as Calico or Cilium. Use when segmentation must stay CNI-portable, introducing
+  a default-deny posture, or restricting east-west traffic between pods and namespaces
+  without depending on a vendor CRD. Keywords: NetworkPolicy, default deny, podSelector,
+  namespaceSelector, ingress, egress, CNI portable. Do not use for Calico-specific
+  resources - use implementing-kubernetes-network-policy-with-calico.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-policies-for-kubernetes
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

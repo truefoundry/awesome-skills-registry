@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-agent-authority-charter-builder-arkadiy-miteiko
+display_name: agent-authority-charter-builder-arkadiy-miteiko
+description: Creates an Agent Authority Charter for enterprise or regulated AI agents
+  before deployment. Use this Skill when a user needs to define what an AI agent is
+  allowed to do, who delegated authority to it, what actions are permitted or prohibited,
+  when human approval is required, what evidence must be preserved, and how the agent
+  can be suspended, revoked, or escalated.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/agent-authority-charter-builder-arkadiy-miteiko
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

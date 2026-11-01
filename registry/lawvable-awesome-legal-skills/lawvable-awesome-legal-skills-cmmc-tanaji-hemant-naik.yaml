@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-cmmc-tanaji-hemant-naik
+display_name: cmmc
+description: 'Expert CMMC 2.0 (Cybersecurity Maturity Model Certification) advisor
+  for US defense contractors and subcontractors in the Defense Industrial Base (DIB).
+  Use this skill whenever a user asks about CMMC 2.0, CMMC Level 1, Level 2, or Level
+  3, DoD cybersecurity compliance, NIST SP 800-171, CUI (Controlled Unclassified Information)
+  protection, System Security Plan (SSP), Plan of Action & Milestones (POA&M), C3PAO
+  assessments, DIBCAC audits, self-assessment, SPRS score, or any requirement under
+  DFARS 252.204-7012 or 7021. Also trigger for: "CMMC gap analysis", "CMMC readiness",
+  "FCI protection", "CUI scoping", "CMMC practices", "DoD contract cybersecurity",
+  "defense supply chain security", or "prime contractor flow-down requirements".'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cmmc-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

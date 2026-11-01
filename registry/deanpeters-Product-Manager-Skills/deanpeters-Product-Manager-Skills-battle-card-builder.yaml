@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-battle-card-builder
+display_name: battle-card-builder
+description: "Research and draft a competitive battle card from public evidence \u2014\
+  \ every claim labeled and sourced. Use when a rep needs a field-action card, not\
+  \ a research report."
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/battle-card-builder
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

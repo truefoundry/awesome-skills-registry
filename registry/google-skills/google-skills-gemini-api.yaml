@@ -1,0 +1,18 @@
+id: google-skills-gemini-api
+display_name: gemini-api
+description: Use when the user asks about using Gemini in an enterprise environment
+  or explicitly mentions Vertex AI, Google Cloud, or Agent Platform. Guides the usage
+  of the Gemini API on Agent Platform with the Google Gen AI SDK. Covers SDK usage
+  (Python, JS/TS, Go, Java, C#), capabilities like multimodal inputs, tools, media
+  generation, caching, batch prediction, and Live API.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gemini-api
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: qdrant-skills-diagnosis
+display_name: qdrant-search-quality-diagnosis
+description: Diagnoses Qdrant search quality issues. Use when someone reports 'results
+  are bad', 'wrong results', 'not relevant results', 'missing matches', 'recall is
+  low', 'approximate search worse than exact', 'which embedding model', 'should I
+  fine-tune my embedding model', 'quality dropped after quantization', 'how to measure
+  retrieval quality', 'build a golden set', 'ground truth dataset', 'how to score
+  recall@k', or 'is my improvement real / statistically significant'. Also use when
+  search quality degrades without obvious changes.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-search-quality/diagnosis
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

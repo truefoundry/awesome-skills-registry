@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-auto-review-loop
+display_name: auto-review-loop
+description: Autonomous multi-round research review loop. Uses a fresh Codex agent
+  or selected Gemini, Grok, or Claude Code reviewer, implements fixes, and re-reviews
+  until positive assessment or max rounds reached. Use when user says "auto review
+  loop", "review until it passes", or wants autonomous iterative improvement.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/auto-review-loop
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: NVIDIA-skills-nvflare-fed-stats
+display_name: nvflare-fed-stats
+description: "Compute federated statistics over tabular data (count, sum, mean, stddev,\
+  \ var, histogram, quantile, noise-protected min/max) and image data (count, failure_count,\
+  \ pixel-intensity histogram) across NVFLARE sites via FedStatsRecipe \u2014 automatic\
+  \ and non-interactive from the dataset, feature names (header or supplied), and\
+  \ optionally a README or notes declaring which statistics to compute; do not use\
+  \ for model training conversion, hierarchical statistics, deployment, POC/production\
+  \ lifecycle, or failed-job diagnosis."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvflare-fed-stats
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

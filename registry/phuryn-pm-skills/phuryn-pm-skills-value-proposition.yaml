@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-value-proposition
+display_name: value-proposition
+description: "Design a detailed value proposition using a 6-part JTBD template \u2014\
+  \ Who, Why, What before, How, What after, Alternatives. Use when creating a value\
+  \ proposition, analyzing customer value delivery, or articulating why customers\
+  \ should choose your product."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-strategy/skills/value-proposition
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

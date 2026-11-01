@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-statute-briefer-seth-chandler
+display_name: statute-briefer
+description: Brief statutes and legislative Acts using the MAPS + RULES framework.
+  Use when briefing statutes, analyzing legislative text, mapping statutory structure,
+  extracting rule-modules from provisions, applying statutes to scenarios, or any
+  statutory analysis task. Triggers include "brief this statute," "analyze this Act,"
+  "map the statute," "apply [statute] to [scenario]," "what are the elements of [provision],"
+  "statutory analysis," or references to codified sections (such as 42 U.S.C. sections
+  or Texas Health & Safety Code). Supports two modes - (A) text-only briefing for
+  structural analysis, and (B) scenario-driven briefing that applies statutory provisions
+  to specific facts.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/statute-briefer-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

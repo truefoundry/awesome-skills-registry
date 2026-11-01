@@ -1,0 +1,19 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-proof-orchestrator
+display_name: proof-orchestrator
+description: "Manage a stateful, run-directory-based proof project with Codex: continuation\
+  \ across runs, run-local source bookkeeping, manual GPT Pro handoff packages when\
+  \ a local attempt stalls, and an optional DeepSeek second opinion as additional\
+  \ evidence only. Use when the user asks for proof-run orchestration, a GPT Pro handoff,\
+  \ or cross-run proof continuation \u2014 use /proof-writer for ordinary proof drafting\
+  \ and /proof-checker for rigorous verification or submission acceptance."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/proof-orchestrator
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

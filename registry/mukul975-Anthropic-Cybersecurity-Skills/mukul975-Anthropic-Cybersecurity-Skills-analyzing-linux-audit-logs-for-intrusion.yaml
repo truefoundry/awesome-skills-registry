@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-linux-audit-logs-for-intrusion
+display_name: analyzing-linux-audit-logs-for-intrusion
+description: Uses the Linux Audit framework (auditd) with ausearch and aureport utilities
+  to detect intrusion attempts, unauthorized access, privilege escalation, and suspicious
+  system activity. Covers audit rule configuration, log querying, timeline reconstruction,
+  and integration with SIEM platforms. Activates for requests involving auditd analysis,
+  Linux audit log investigation, ausearch queries, aureport summaries, or host-based
+  intrusion detection on Linux.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-linux-audit-logs-for-intrusion
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

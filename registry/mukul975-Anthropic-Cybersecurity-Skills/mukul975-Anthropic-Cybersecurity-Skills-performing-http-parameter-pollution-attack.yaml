@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-http-parameter-pollution-attack
+display_name: performing-http-parameter-pollution-attack
+description: Executes HTTP Parameter Pollution attacks that inject duplicate request
+  parameters to bypass input validation, WAF rules, and other security controls when
+  front-end and back-end systems parse duplicate parameters differently. Use during
+  web application penetration testing to test for parameter parsing inconsistencies
+  or WAF/validation bypass.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-http-parameter-pollution-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

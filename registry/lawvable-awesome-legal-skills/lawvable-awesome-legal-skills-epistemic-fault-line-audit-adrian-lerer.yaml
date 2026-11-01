@@ -1,0 +1,16 @@
+id: lawvable-awesome-legal-skills-epistemic-fault-line-audit-adrian-lerer
+display_name: epistemic-fault-line-audit-ignacio-adrian-lerer
+description: Audits legal AI outputs, prompts, skills, workflows and MCP/tool instructions
+  for fluent but unsupported reasoning, missing evidence, overconfidence, hidden assumptions,
+  weak causal links and absent human-review gates.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/epistemic-fault-line-audit-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

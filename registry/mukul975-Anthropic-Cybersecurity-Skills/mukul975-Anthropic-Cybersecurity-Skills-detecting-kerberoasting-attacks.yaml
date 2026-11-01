@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-kerberoasting-attacks
+display_name: detecting-kerberoasting-attacks
+description: Detect Kerberoasting attacks by monitoring for anomalous Kerberos TGS
+  requests (Event ID 4769) targeting service accounts with SPNs, which attackers request
+  offline to crack service account passwords. Use when hunting for MITRE T1558 credential
+  access activity or investigating suspected service account password cracking attempts
+  in Active Directory Kerberos logs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-kerberoasting-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nv-generate-mr-brain
+display_name: nv-generate-mr-brain
+description: Used for generating synthetic T1, T2, FLAIR, SWI, or MRA brain MRI volumes
+  with NV-Generate-CTMR MR-Brain v1. Not for production training data.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nv-generate-mr-brain
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

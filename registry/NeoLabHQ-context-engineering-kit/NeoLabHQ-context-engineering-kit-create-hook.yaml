@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-create-hook
+display_name: create-hook
+description: Create and configure git hooks with intelligent project analysis, suggestions,
+  and automated testing
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/customaize-agent/skills/create-hook
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

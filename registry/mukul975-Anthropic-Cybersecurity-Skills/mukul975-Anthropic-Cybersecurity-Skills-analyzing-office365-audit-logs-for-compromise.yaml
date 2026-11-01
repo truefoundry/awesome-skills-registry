@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-office365-audit-logs-for-compromise
+display_name: analyzing-office365-audit-logs-for-compromise
+description: Parse Office 365 Unified Audit Logs via Microsoft Graph API to detect
+  email forwarding rule creation, inbox delegation, suspicious OAuth app grants, and
+  other indicators of account compromise.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-office365-audit-logs-for-compromise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

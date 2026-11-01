@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-eth
+display_name: doca-eth
+description: "Use this skill for hands-on DOCA Ethernet packet-queue work on a BlueField\
+  \ DPU or ConnectX NIC \u2014 bringing up a `doca_eth_rxq` or `doca_eth_txq` on a\
+  \ port / representor / SF, picking among the four `enum doca_eth_rxq_type` values\
+  \ (`_REGULAR` / `_CYCLIC` / `_MANAGED_MEMPOOL` / `_SHARED_MEMPOOL`), sizing burst\
+  \ or scatter-gather length against the `_cap_*` queries, submitting `doca_eth_txq_task_send`\
+  \ / `_lso_send` (carrying packet `doca_buf`s \u2014 no `doca_eth_frame` struct exists),\
+  \ or debugging DOCA_ERROR_* from an Ethernet call. `doca_eth_rxq` and `doca_eth_txq`\
+  \ are two Core contexts; one `doca_ctx_start()` does not cover both. Trigger on\
+  \ implicit phrasings: \"my RX queue is up but no packets arrive\", \"send-task returns\
+  \ AGAIN at line rate\", \"which queue type for fixed-MTU ingress\", \"device open\
+  \ fails without sudo\", or \"is L3 checksum offload available here\". Refuse and\
+  \ route elsewhere for installing DOCA, flow-rule / steering programming, host\u2194\
+  DPU control messaging, or RDMA data movement."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-eth
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

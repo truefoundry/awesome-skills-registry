@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-word-editor-antoine-louis
+display_name: Word Editor
+description: "Edit, query, and transform Word documents (.docx) with the SuperDoc\
+  \ CLI. Use when the user asks to read, search, modify, format, comment, track changes,\
+  \ or review changes in .docx files. Triggers on any task involving Word documents\
+  \ \u2014 text replacement, redlining, contract markup, template filling, bulk edits,\
+  \ content extraction, or document review."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/word-editor-antoine-louis
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

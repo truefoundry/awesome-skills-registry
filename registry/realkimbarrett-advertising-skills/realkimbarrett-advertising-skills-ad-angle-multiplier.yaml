@@ -1,0 +1,15 @@
+id: realkimbarrett-advertising-skills-ad-angle-multiplier
+display_name: ad-angle-multiplier
+description: Expand a core idea into multiple distinct ad angles. Trigger on "more
+  ads", "creative testing", "scale campaigns".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operator-os/ad-angle-multiplier
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

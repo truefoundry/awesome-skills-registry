@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-cloud-incident-response
+display_name: conducting-cloud-incident-response
+description: Respond to security incidents in AWS, Azure, and GCP via identity-based
+  containment, cloud-native log analysis (CloudTrail, Azure Activity Logs, GCP Audit
+  Logs), resource isolation, and forensic evidence acquisition adapted for ephemeral
+  cloud infrastructure. Use when CSPM alerts or audit logs show compromised cloud
+  credentials, unauthorized IAM changes, or a breach spanning cloud services.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-cloud-incident-response
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: RoundTable02-tutor-skills-tutor
+display_name: tutor
+description: "Interactive quiz tutor for Obsidian StudyVault learning. Use when the\
+  \ user wants to: (1) Take a diagnostic assessment of their knowledge, (2) Study\
+  \ or review specific sections/topics, (3) Drill weak areas identified in previous\
+  \ sessions, (4) Check their learning progress or dashboard, or says things like\
+  \ \"quiz me\", \"test me\", \"let's study\", \"/tutor\", \"\uD559\uC2B5\", \"\uD034\
+  \uC988\", \"\uD3C9\uAC00\"."
+authors:
+- RoundTable02
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tutor
+  repo: RoundTable02/tutor-skills
+metadata:
+  stars: 1377
+added_at: '2026-11-01'

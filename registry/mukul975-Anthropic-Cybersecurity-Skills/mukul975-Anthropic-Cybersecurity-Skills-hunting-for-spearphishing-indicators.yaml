@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-spearphishing-indicators
+display_name: hunting-for-spearphishing-indicators
+description: Hunt for spearphishing campaign indicators across email logs, endpoint
+  telemetry, and network data to detect targeted email attacks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-spearphishing-indicators
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

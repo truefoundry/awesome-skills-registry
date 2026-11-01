@@ -1,0 +1,14 @@
+id: mattpocock-skills-chief-of-staff
+display_name: chief-of-staff
+description: Pursue a long-running goal in a single session by co-ordinating subagents.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/chief-of-staff
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

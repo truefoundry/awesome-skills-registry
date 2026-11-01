@@ -1,0 +1,19 @@
+id: fvadicamo-dev-agent-skills-github-pr-review
+display_name: github-pr-review
+description: Handles PR review comments and feedback resolution. Use when user wants
+  to resolve PR comments, handle review feedback, fix review comments, address PR
+  review, check review status, respond to reviewer, verify PR readiness, review PR
+  comments, analyze review feedback, evaluate PR comments, assess review suggestions,
+  or triage PR comments. Fetches comments via GitHub CLI, classifies by severity,
+  applies fixes with user confirmation, commits with proper format, replies to threads.
+authors:
+- fvadicamo
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/github-workflow/skills/github-pr-review
+  repo: fvadicamo/dev-agent-skills
+metadata:
+  stars: 72
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: fvadicamo-dev-agent-skills-git-commit
+display_name: git-commit
+description: Creates git commits following Conventional Commits format with type/scope/subject.
+  Use when user wants to commit changes, create commit, save work, or stage and commit.
+  Enforces project-specific conventions from CLAUDE.md.
+authors:
+- fvadicamo
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/github-workflow/skills/git-commit
+  repo: fvadicamo/dev-agent-skills
+metadata:
+  stars: 72
+added_at: '2026-11-01'

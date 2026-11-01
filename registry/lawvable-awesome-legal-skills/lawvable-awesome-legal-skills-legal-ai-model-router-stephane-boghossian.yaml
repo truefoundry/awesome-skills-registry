@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-legal-ai-model-router-stephane-boghossian
+display_name: legal-ai-model-router-stephane-boghossian
+description: "Routes any legal task to the right LLM, like OpenRouter but for legal\
+  \ work and grounded in benchmarks instead of brand loyalty. Built from mid-2026\
+  \ legal evals (legalbenchmarks.ai, Vals AI \xD7 Stanford LegalBench across 124 models,\
+  \ Harvey's Legal Agent Benchmark, the Atticus Project's CUAD/MAUD/ACORD) plus translation\
+  \ evidence (WMT25, SwiLTra-Bench, ArabLegalEval). Covers five verticals: contract\
+  \ drafting, info extraction, legal research, contract review, and legal translation\
+  \ (including Arabic/MENA). Each asks up to four questions (cost, speed, accuracy/stakes,\
+  \ privacy/jurisdiction/language), then returns a primary model, a fallback, what\
+  \ to avoid, and what a human must verify. Core principle: capability is not controllability,\
+  \ so every route ends with a verification step. Not legal advice; a lawyer owns\
+  \ the output."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-ai-model-router-stephane-boghossian
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

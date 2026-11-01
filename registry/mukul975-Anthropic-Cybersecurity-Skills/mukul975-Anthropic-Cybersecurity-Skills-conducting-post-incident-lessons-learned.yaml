@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-post-incident-lessons-learned
+display_name: conducting-post-incident-lessons-learned
+description: Facilitate structured post-incident reviews to identify root causes,
+  document what worked and failed, and produce actionable recommendations to improve
+  future incident response.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-post-incident-lessons-learned
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

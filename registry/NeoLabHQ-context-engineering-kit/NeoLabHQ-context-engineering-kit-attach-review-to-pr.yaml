@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-attach-review-to-pr
+display_name: attach-review-to-pr
+description: Add line-specific review comments to pull requests using GitHub CLI API
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/git/skills/attach-review-to-pr
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

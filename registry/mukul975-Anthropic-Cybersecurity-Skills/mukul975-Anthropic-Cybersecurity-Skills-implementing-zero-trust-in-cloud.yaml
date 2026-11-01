@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-zero-trust-in-cloud
+display_name: implementing-zero-trust-in-cloud
+description: Guides zero trust implementation across AWS, Azure, and GCP per NIST
+  SP 800-207 and BeyondCorp principles, covering identity-centric access, micro-segmentation,
+  continuous verification, device trust assessment, and Identity-Aware Proxy deployment.
+  Use when migrating from perimeter security to identity-centric access, removing
+  VPN dependency, or designing micro-segmentation for multi-cloud workloads.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-zero-trust-in-cloud
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

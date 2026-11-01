@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-monetization-strategy
+display_name: monetization-strategy
+description: Brainstorm 3-5 monetization strategies with audience fit, risks, and
+  validation experiments. Use when exploring revenue models, evaluating pricing strategies,
+  or deciding how to monetize a product.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-strategy/skills/monetization-strategy
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

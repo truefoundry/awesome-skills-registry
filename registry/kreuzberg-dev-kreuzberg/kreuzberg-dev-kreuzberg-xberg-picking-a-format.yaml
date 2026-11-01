@@ -1,0 +1,16 @@
+id: kreuzberg-dev-kreuzberg-xberg-picking-a-format
+display_name: xberg-picking-a-format
+description: "Use when choosing an output format for extracted documents \u2014 plain\
+  \ text, markdown, djot, HTML, JSON, or DocTags. Maps consumer (LLM, parser, archive)\
+  \ to the right `--format` / `--content-format` pair."
+authors:
+- kreuzberg-dev
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/xberg-picking-a-format
+  repo: kreuzberg-dev/kreuzberg
+metadata:
+  stars: 9491
+added_at: '2026-11-01'

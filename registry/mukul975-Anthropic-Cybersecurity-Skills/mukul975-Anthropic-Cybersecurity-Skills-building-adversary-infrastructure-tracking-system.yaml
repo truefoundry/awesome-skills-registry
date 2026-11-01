@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-adversary-infrastructure-tracking-system
+display_name: building-adversary-infrastructure-tracking-system
+description: Build an automated adversary infrastructure tracking system in Python
+  (dnspython, python-whois, shodan, networkx) that pivots across passive DNS, certificate
+  transparency logs, WHOIS records, and IP enrichment to map threat-actor C2 networks
+  and flag newly registered domains matching known patterns. Use when pivoting from
+  known indicators to discover related C2 infrastructure or maintaining a continuously
+  updated map of a threat actor's network.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-adversary-infrastructure-tracking-system
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

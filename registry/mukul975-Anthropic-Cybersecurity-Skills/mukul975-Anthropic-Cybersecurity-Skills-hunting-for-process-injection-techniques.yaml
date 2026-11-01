@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-process-injection-techniques
+display_name: hunting-for-process-injection-techniques
+description: "Detects process injection techniques (MITRE T1055) \u2014 including\
+  \ CreateRemoteThread injection, process hollowing, and DLL injection \u2014 by analyzing\
+  \ Sysmon Event IDs 8 (CreateRemoteThread) and 10 (ProcessAccess) alongside EDR process\
+  \ telemetry. Use when hunting for in-memory code injection or defense evasion via\
+  \ legitimate process abuse on Windows endpoints."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-process-injection-techniques
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

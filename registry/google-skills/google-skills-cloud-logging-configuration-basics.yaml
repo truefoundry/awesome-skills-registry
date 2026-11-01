@@ -1,0 +1,18 @@
+id: google-skills-cloud-logging-configuration-basics
+display_name: cloud-logging-configuration-basics
+description: 'Configure single-project Cloud Logging on Google Cloud: regional log
+  buckets, log sinks, log views, restricting or hiding sensitive logs in the default
+  view (_Default) filter, IAM permissions for views (Logs View Accessor, IAM conditions),
+  logs-based metrics, log exclusions, and sampling. Don''t use for cross-project logging
+  or multi-project setups.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-logging-configuration-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

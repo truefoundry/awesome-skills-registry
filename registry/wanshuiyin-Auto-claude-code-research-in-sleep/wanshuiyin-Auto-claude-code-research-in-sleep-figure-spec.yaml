@@ -1,0 +1,19 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-figure-spec
+display_name: figure-spec
+description: "Generate deterministic publication-quality architecture, workflow, and\
+  \ pipeline diagrams from structured JSON (FigureSpec) into editable SVG. Use when\
+  \ user says \"\u67B6\u6784\u56FE\", \"workflow \u56FE\", \"pipeline \u56FE\", \"\
+  \u786E\u5B9A\u6027\u77E2\u91CF\u56FE\", \"figure spec\", \"draw architecture\",\
+  \ or needs precise, editable, publication-ready vector diagrams. Preferred over\
+  \ AI illustration for formal architecture/workflow figures."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/figure-spec
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

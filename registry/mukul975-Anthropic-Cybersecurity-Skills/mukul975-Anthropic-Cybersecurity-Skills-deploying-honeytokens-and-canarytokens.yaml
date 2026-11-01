@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-deploying-honeytokens-and-canarytokens
+display_name: deploying-honeytokens-and-canarytokens
+description: Plants Canarytokens-based decoy artifacts (honey credentials, DNS tokens,
+  web-bug URLs, AWS keys, documents, kubeconfigs) using Thinkst's open-source Canarytokens
+  project and alerts via email or webhook when a token is touched. Use for high-fidelity
+  intrusion detection in low-telemetry areas like file shares or credential stores,
+  or to catch credential dumping and data-theft staging.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/deploying-honeytokens-and-canarytokens
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

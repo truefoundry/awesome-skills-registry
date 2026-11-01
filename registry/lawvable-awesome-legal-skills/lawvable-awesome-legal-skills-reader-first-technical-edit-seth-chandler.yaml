@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-reader-first-technical-edit-seth-chandler
+display_name: reader-first-technical-edit
+description: "Edit mathematically, empirically, or technically dense papers for readers\
+  \ outside the author\u2019s specialty, including empirical legal scholarship, law-and-economics\
+  \ models, and legal-technology research. Clarifies terminology, antecedents, study\
+  \ design, and claim\u2013statistic relationships while checking equations, numbers,\
+  \ quotations, and citations against the source. Use to clarify exposition or de-jargonize\
+  \ a technical draft; not to rewrite briefs or doctrinal arguments. Produces an edited\
+  \ draft and audit memo. Full integrity checks and original-format rendering require\
+  \ suitable extraction, code execution, and document tools; otherwise provides proposed\
+  \ edits with verification limits disclosed."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/reader-first-technical-edit-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

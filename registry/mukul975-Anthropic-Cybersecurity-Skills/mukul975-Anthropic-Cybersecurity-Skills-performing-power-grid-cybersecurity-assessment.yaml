@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-power-grid-cybersecurity-assessment
+display_name: performing-power-grid-cybersecurity-assessment
+description: Conduct cybersecurity assessments of power grid infrastructure spanning
+  generation, transmission substations, distribution, and EMS control centers, covering
+  NERC CIP compliance verification, IEC 61850 (GOOSE/MMS) substation protocol analysis,
+  and synchrophasor (PMU) network security against threats like Industroyer/CrashOverride.
+  Use for periodic NERC CIP assessments, substation automation or EMS/SCADA security
+  reviews, or regional entity compliance audits; not for non-BES systems or generic
+  OT assessments without power grid specifics.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-power-grid-cybersecurity-assessment
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

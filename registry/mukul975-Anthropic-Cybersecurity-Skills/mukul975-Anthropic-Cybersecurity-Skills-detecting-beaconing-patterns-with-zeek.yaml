@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-beaconing-patterns-with-zeek
+display_name: detecting-beaconing-patterns-with-zeek
+description: Performs statistical analysis of Zeek conn.log connection intervals to
+  detect C2 beaconing patterns. Uses the ZAT library to load Zeek logs into Pandas
+  DataFrames, calculates inter-arrival time standard deviation, and flags periodic
+  connections with low jitter. Use when hunting for command-and-control callbacks
+  in network data.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-beaconing-patterns-with-zeek
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

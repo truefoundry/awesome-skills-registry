@@ -1,0 +1,19 @@
+id: qdrant-skills-qdrant-sizing
+display_name: qdrant-sizing
+description: Sizes a Qdrant deployment before it is provisioned. Use when someone
+  asks 'how much RAM do I need', 'how many nodes', 'how big should my cluster be',
+  'sizing', 'capacity planning', 'will N vectors fit', 'what instance type should
+  I pick', or gives a vector count and dimensions and asks what to provision. Also
+  use when an existing estimate needs checking before hardware or a cluster tier is
+  bought.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-sizing
+  repo: qdrant/skills
+metadata:
+  stars: 267
+added_at: '2026-11-01'

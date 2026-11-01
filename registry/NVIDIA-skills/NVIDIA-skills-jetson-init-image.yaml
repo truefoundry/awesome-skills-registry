@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-init-image
+display_name: jetson-init-image
+description: Extract Jetson Linux + sample-rootfs tarballs and run apply_binaries.sh
+  for the active target, then record bsp_image in the profile. Use after jetson-init-target;
+  not for source-tree setup.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-init-image
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

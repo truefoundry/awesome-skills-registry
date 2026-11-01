@@ -1,0 +1,22 @@
+id: NVIDIA-skills-doca-verbs
+display_name: doca-verbs
+description: 'Raw verbs inside DOCA Core (doca-verbs): direct control of QP, CQ, PD,
+  SRQ and address-handle objects through doca_verbs_context and doca_verbs_qp_create
+  / doca_verbs_qp_modify / doca_verbs_cq_create, porting libibverbs code into DOCA
+  Core, or a QP attribute, opcode or WR flag the doca-rdma task API does not expose.
+  Trigger on "raw QP attribute the task API does not expose", "porting libibverbs
+  code", "IO_FAILED on WR submit", "QP state transition rejected", or "attach a congestion-control
+  group", even without naming doca-verbs. Refuse and route elsewhere for ordinary
+  doca-rdma / doca-eth / doca-rmax workloads, DOCA install, Core internals, and general
+  libibverbs theory.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-verbs
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-insider-threat-investigation
+display_name: performing-insider-threat-investigation
+description: Investigates insider threat incidents involving employees, contractors,
+  or trusted partners who misuse authorized access to steal data, sabotage systems,
+  or violate security policies, combining digital forensics, user behavior analytics,
+  and HR/legal coordination to build an evidence-based case. Use when DLP alerts flag
+  large data transfers to personal cloud storage or USB devices, when UBA detects
+  anomalous access patterns for a user account, or when investigating employee data
+  theft, privilege misuse, or internal threat detection requests.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-insider-threat-investigation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

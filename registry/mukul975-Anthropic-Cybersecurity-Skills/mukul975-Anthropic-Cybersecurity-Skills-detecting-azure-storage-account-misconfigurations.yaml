@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-azure-storage-account-misconfigurations
+display_name: detecting-azure-storage-account-misconfigurations
+description: Audit Azure Blob and ADLS storage accounts for public access exposure,
+  weak or long-lived SAS tokens, missing encryption at rest, disabled HTTPS-only traffic,
+  and outdated TLS versions, using the azure-mgmt-storage Python SDK to generate a
+  risk-scored report. Use when assessing an Azure subscription's storage accounts
+  for misconfiguration, building cloud security posture checks, or investigating a
+  suspected data exposure via public blob access.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-azure-storage-account-misconfigurations
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

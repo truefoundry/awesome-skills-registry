@@ -1,0 +1,19 @@
+id: nextlevelbuilder-ui-ux-pro-max-skill-banner-design
+display_name: banner-design
+description: 'Design banners for social media, ads, website heroes, creative assets,
+  and print. Multiple art direction options with optional generated or supplied visuals.
+  Actions: design, create, generate banner. Platforms: Facebook, Twitter/X, LinkedIn,
+  YouTube, Instagram, Google Display, website hero, print. Styles: minimalist, gradient,
+  bold typography, photo-based, illustrated, geometric, retro, glassmorphism, 3D,
+  neon, duotone, editorial, collage.'
+authors:
+- nextlevelbuilder
+is_official: false
+tags: []
+category: none
+source:
+  path: /.claude/skills/banner-design
+  repo: nextlevelbuilder/ui-ux-pro-max-skill
+metadata:
+  stars: 143418
+added_at: '2026-11-01'

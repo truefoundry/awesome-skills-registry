@@ -1,0 +1,15 @@
+id: dembrandt-dembrandt-skills-clone-website
+display_name: clone-website
+description: Rebuild a live web page 1:1 from measurement into Figma, Penpot or code,
+  then verify it. Use when reproducing a page or checking a rebuild against the original.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/clone-website
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

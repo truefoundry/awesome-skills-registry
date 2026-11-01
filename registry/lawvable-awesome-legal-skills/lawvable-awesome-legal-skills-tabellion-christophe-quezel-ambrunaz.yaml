@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-tabellion-christophe-quezel-ambrunaz
+display_name: tabellion
+description: "Transforme un mod\xE8le juridique (.docx ou .odt : contrat, conclusions,\
+  \ assignation, courrier type, proc\xE8s-verbal\u2026) en formulaire HTML autonome,\
+  \ ex\xE9cut\xE9 hors ligne, qui produit sans IA le document compl\xE9t\xE9, fid\xE8\
+  le au mod\xE8le, dans son format d'origine : parties optionnelles et alternatives,\
+  \ listes r\xE9p\xE9t\xE9es, accords, montants et dates en lettres, calculs, num\xE9\
+  rotation et renvois. D\xE9clencher d\xE8s que l'utilisateur veut \xAB transformer\
+  \ ce mod\xE8le en formulaire \xBB, \xAB automatiser un mod\xE8le \xBB, un \xAB mod\xE8\
+  le \xE0 remplir \xBB ou un \xAB g\xE9n\xE9rateur d'actes \xBB, r\xE9utiliser r\xE9\
+  guli\xE8rement un contrat ou une trame, ou demande \xAB fais-moi un mod\xE8le de\
+  \ \u2026 \xE0 remplir \xBB ; aussi pour faire \xE9voluer un formulaire tabellion\
+  \ existant. Pas pour compl\xE9ter une seule fois un document. Comp\xE9tence cr\xE9\
+  \xE9e par Christophe Qu\xE9zel-Ambrunaz, Universit\xE9 Savoie Mont Blanc (V.1.1)."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tabellion-christophe-quezel-ambrunaz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

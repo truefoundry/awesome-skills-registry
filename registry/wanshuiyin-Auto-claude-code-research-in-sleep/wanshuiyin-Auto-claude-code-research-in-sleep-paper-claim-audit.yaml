@@ -1,0 +1,19 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-claim-audit
+display_name: paper-claim-audit
+description: "Zero-context verification that every number, comparison, and scope claim\
+  \ in the paper matches raw result files. Uses a fresh Codex reviewer with no prior\
+  \ context; base output is same-family provisional. Use when user says \"\u5BA1\u67E5\
+  \u8BBA\u6587\u6570\u636E\", \"check paper claims\", \"verify numbers\", \"\u8BBA\
+  \u6587\u6570\u5B57\u6838\u5BF9\", or before submission to ensure paper-to-evidence\
+  \ fidelity."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-claim-audit
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-api-gateway-with-aws-waf
+display_name: securing-api-gateway-with-aws-waf
+description: Secures AWS API Gateway endpoints with AWS WAF by configuring managed
+  rule groups for OWASP Top 10 protection, custom rate-limiting rules, bot control,
+  IP reputation filtering, and WAF metric monitoring. Use when deploying API Gateway
+  endpoints that need protection against common web attacks, or when implementing
+  rate limiting and throttling to prevent API abuse and DDoS.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-api-gateway-with-aws-waf
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

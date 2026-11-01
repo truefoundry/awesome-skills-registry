@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-gemini-search
+display_name: gemini-search
+description: Search research papers via Gemini for broad literature discovery. Use
+  when user says "gemini search", "gemini papers", "search with gemini", or wants
+  AI-powered literature discovery beyond arXiv/Semantic Scholar indexes.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/gemini-search
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

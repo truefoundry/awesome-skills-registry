@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-experiment-queue
+display_name: experiment-queue
+description: "SSH job queue for multi-seed/multi-config ML experiments with OOM-aware\
+  \ retry, stale-screen cleanup, and wave-transition race prevention. Use when user\
+  \ says \"batch experiments\", \"\u961F\u5217\u5B9E\u9A8C\", \"run grid\", \"multi-seed\
+  \ sweep\", \"auto-chain experiments\", or when /run-experiment is insufficient for\
+  \ 10+ jobs that need orchestration."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/experiment-queue
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-threat-protection-with-apigee
+display_name: implementing-api-threat-protection-with-apigee
+description: Implements API threat protection using Google Apigee reverse-proxy policies,
+  including JSON/XML threat protection, OAuth 2.0 enforcement, SpikeArrest rate limiting,
+  regex-based threat detection, and Advanced API Security for detecting malicious
+  clients. Use when shielding APIs proxied through Apigee against OWASP API Security
+  Top 10 threats and malicious client abuse patterns.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-threat-protection-with-apigee
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

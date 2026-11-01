@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-business-email-compromise
+display_name: detecting-business-email-compromise
+description: Detect Business Email Compromise (BEC) fraud, where attackers impersonate
+  executives or vendors to trick employees into wire transfers or data disclosure
+  without malicious links, using email gateway rules, behavioral analytics, and financial
+  process controls. Use when investigating a suspected executive/vendor impersonation
+  email or building detection rules for social-engineering fund-transfer fraud.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-business-email-compromise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

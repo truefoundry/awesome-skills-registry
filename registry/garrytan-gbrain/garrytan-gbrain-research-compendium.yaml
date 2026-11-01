@@ -1,0 +1,21 @@
+id: garrytan-gbrain-research-compendium
+display_name: research-compendium
+description: "Deep-research a topic end to end and produce a permanent, reusable knowledge\
+  \ asset: archive every primary source verbatim (gated by the user's privacy/retention\
+  \ posture), write one 1:1 summary per source, then synthesize a single self-contained\
+  \ compendium page. Depth is a dial (base synthesis \u2192 grounded primaries \u2192\
+  \ books + counter-canon \u2192 saturation), each level an idempotent superset of\
+  \ the one below. Distinct from data-research (structured trackers) and perplexity-research\
+  \ (web deltas): this produces prose knowledge synthesis backed by an archived source\
+  \ corpus."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/research-compendium
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-write-tests
+display_name: write-tests
+description: Add missing test coverage for your local code changes by generating new
+  test files (covers uncommitted and untracked changes, or the latest commit if everything
+  is committed). Use when you want write tests for new logic or increase test coverage.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/tdd/skills/write-tests
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

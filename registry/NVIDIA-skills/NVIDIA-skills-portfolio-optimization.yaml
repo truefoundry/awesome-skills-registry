@@ -1,0 +1,16 @@
+id: NVIDIA-skills-portfolio-optimization
+display_name: portfolio-optimization
+description: Use when a user asks to build, optimize, backtest, rebalance, or analyze
+  a stock portfolio with Mean-CVaR, Mean-Variance/SOCP variance caps, efficient frontiers,
+  scenario generation, or NVIDIA cuOpt.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/portfolio-optimization
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

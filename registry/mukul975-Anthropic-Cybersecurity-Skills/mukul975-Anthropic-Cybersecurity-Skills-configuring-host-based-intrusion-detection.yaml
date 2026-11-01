@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-host-based-intrusion-detection
+display_name: configuring-host-based-intrusion-detection
+description: Configures host-based intrusion detection systems (HIDS) to monitor endpoint
+  file integrity, system calls, and configuration changes for security violations.
+  Use when deploying OSSEC, Wazuh, or AIDE for endpoint monitoring, building file
+  integrity monitoring (FIM) policies, or meeting compliance requirements for change
+  detection. Activates for requests involving HIDS configuration, file integrity monitoring,
+  OSSEC/Wazuh deployment, or host-based detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-host-based-intrusion-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-ldap-security-hardening
+display_name: configuring-ldap-security-hardening
+description: Hardens LDAP directory services against credential harvesting, LDAP injection,
+  anonymous binding, and channel-binding bypass by enforcing LDAPS, channel binding,
+  and LDAP signing. Use when securing an LDAP or Active Directory environment against
+  these attack classes or auditing directory service configurations for these vulnerabilities.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-ldap-security-hardening
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

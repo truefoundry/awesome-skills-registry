@@ -1,0 +1,21 @@
+id: NVIDIA-skills-nemotron-customize
+display_name: nemotron-customize
+description: 'Plan, configure, and chain repo-native Nemotron customization steps
+  into single-step or multi-step pipelines: curation, translation, SFT/PEFT (AutoModel
+  or Megatron-Bridge), pretraining/CPT, RL alignment (DPO/RLVR/GRPO/RLHF), BYOB/MCQ
+  benchmarks, checkpoint conversion, ModelOpt optimization, env profiles, and evaluation
+  of trained checkpoints or existing/hosted endpoints. Use when a request names a
+  Nemotron step or workflow, or asks to clean, translate, train, fine-tune, align,
+  convert, optimize, evaluate, or compose these into a pipeline. Do NOT use for frontend/dashboard/visualization
+  work, generic ML advice, billing/access, or non-Nemotron coding tasks.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemotron-customize
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

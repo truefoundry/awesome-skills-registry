@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-soc-metrics-and-kpi-tracking
+display_name: building-soc-metrics-and-kpi-tracking
+description: Builds SOC performance metrics and KPI tracking dashboards measuring
+  Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), alert quality ratios, analyst
+  productivity, and detection coverage using SIEM data. Use when SOC leadership needs
+  operational visibility, continuous improvement tracking, or executive-level reporting
+  on security operations effectiveness.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-soc-metrics-and-kpi-tracking
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

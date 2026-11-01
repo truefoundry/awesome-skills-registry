@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-convert-markdown-to-pdf-with-transloadit
+display_name: transform-convert-markdown-to-pdf-with-transloadit
+description: Convert a local Office document, HTML, Markdown or text file to PDF using
+  the convert-to-pdf Builtin and the official Transloadit CLI. Includes the existing
+  Markdown-to-PDF workflow.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-convert-markdown-to-pdf-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

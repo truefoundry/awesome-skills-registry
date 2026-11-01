@@ -1,0 +1,15 @@
+id: NVIDIA-skills-jetson-init-source
+display_name: jetson-init-source
+description: 'Set up the BSP source workspace: Linux_for_Tegra overlay tracker, bsp_sources,
+  Crosstool-NG toolchain. Use after jetson-init-image; not for fetching inputs.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-init-source
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: transloadit-skills-transform-capture-webpage-with-transloadit
+display_name: transform-capture-webpage-with-transloadit
+description: Capture a public webpage or local HTML as an image or PDF using the capture-webpage
+  Builtin and the official Transloadit CLI.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-capture-webpage-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

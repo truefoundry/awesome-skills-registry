@@ -1,0 +1,15 @@
+id: jthack-ffuf_claude_skill-ffuf-skill
+display_name: ffuf-web-fuzzing
+description: Expert guidance for ffuf web fuzzing during penetration testing, including
+  authenticated fuzzing with raw requests, auto-calibration, and result analysis
+authors:
+- jthack
+is_official: false
+tags: []
+category: none
+source:
+  path: /ffuf-skill
+  repo: jthack/ffuf_claude_skill
+metadata:
+  stars: 214
+added_at: '2026-11-01'

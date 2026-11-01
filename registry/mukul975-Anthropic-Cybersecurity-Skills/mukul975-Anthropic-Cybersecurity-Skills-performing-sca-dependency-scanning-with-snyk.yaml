@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-sca-dependency-scanning-with-snyk
+display_name: performing-sca-dependency-scanning-with-snyk
+description: This skill covers implementing Software Composition Analysis (SCA) using
+  Snyk to detect vulnerable open-source dependencies in CI/CD pipelines. It addresses
+  scanning package manifests and lockfiles, automated fix pull request generation,
+  license compliance checking, continuous monitoring of deployed applications, and
+  integration with GitHub, GitLab, and Jenkins pipelines.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-sca-dependency-scanning-with-snyk
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

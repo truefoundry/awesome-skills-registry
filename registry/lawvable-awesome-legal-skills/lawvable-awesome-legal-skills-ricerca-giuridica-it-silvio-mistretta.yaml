@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-ricerca-giuridica-it-silvio-mistretta
+display_name: ricerca-giuridica-it
+description: "Ricerca giuridica su fonti italiane e UE: normativa, prassi e giurisprudenza\
+  \ in ogni materia (civile, penale, amministrativo, lavoro, tributario e specialistiche).\
+  \ Usare quando l'utente chiede di trovare, inquadrare o citare una norma (\"cosa\
+  \ dice l'articolo...\", \"quale legge disciplina...\", \"\xE8 ancora in vigore...\"\
+  , \"che estremi ha...\"), cercare sentenze, massime o orientamenti, verificare la\
+  \ vigenza di una disposizione, verificare una citazione o l'esistenza di una pronuncia\
+  \ (\"questa sentenza esiste?\", \"controlla le citazioni di questo atto\"), cercare\
+  \ precedenti a favore e contro una tesi (\"conformi e difformi\", \"sentenze pro\
+  \ e contro\"), trovare un CCNL o le decisioni di ABF, ACF, AGCM o del Garante, creare\
+  \ un documento fondato su fonti (atti, pareri, clausole, contratti, memorie, diffide),\
+  \ o impostare una strategia processuale (\"come imposto la causa\", \"come gestiresti\
+  \ questo caso\", \"conviene agire o transigere\"), anche quando la fonte non \xE8\
+  \ nominata. Non usare per domande non giuridiche."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ricerca-giuridica-it-silvio-mistretta
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

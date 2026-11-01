@@ -1,0 +1,19 @@
+id: google-skills-gke-storage
+display_name: gke-storage
+description: Manages GKE storage, including PVCs, PersistentVolumes, and Filestore.
+  Use when configuring GKE storage or creating PVCs. For GCS FUSE mounts, use google-cloud-storage-fuse.
+  For diagnosing storage failures (volume attach/mount errors, disk performance/node
+  storage pressure, or Cloud Storage FUSE OOM), use gke-storage-troubleshooting. Don't
+  use for database administration or replication strategies outside volume provisioning
+  context.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-storage
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

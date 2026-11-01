@@ -1,0 +1,16 @@
+id: kreuzberg-dev-kreuzberg-xberg-extracting-tables
+display_name: xberg-extracting-tables
+description: Use when extracting tabular data from PDFs, spreadsheets, or images.
+  Covers layout-aware table detection, table model selection, output formats (markdown
+  / JSON cells), and known limits.
+authors:
+- kreuzberg-dev
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/xberg-extracting-tables
+  repo: kreuzberg-dev/kreuzberg
+metadata:
+  stars: 9491
+added_at: '2026-11-01'

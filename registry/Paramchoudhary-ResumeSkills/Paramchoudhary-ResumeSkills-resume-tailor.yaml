@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-resume-tailor
+display_name: resume-tailor
+description: Customize resume for specific job postings while maintaining truthfulness
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resume-tailor
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

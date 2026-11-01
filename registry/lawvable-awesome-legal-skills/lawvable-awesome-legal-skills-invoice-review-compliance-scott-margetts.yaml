@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-invoice-review-compliance-scott-margetts
+display_name: invoice-review-compliance
+description: 'Invoice review, non-compliance flagging, rejection communication, billing
+  trend analysis, and conversation preparation for in-house legal ops teams managing
+  outside counsel. Review invoices against billing guidelines; flag block billing,
+  prohibited fees, rate violations, staffing violations, late submission. Produce
+  line-item review report and approval note. Draft rejection letter to outside counsel.
+  Build invoice review checklist. Analyse billing trends across multiple invoices
+  and produce a structured conversation guide for the relationship review. Identify
+  systemic patterns and produce formal non-compliance notice. Trigger on: ''review
+  this invoice'', ''flag billing issues'', ''check invoice against guidelines'', ''write
+  the rejection letter'', ''build an invoice checklist'', ''block billing'', ''UTBMS'',
+  ''billing non-compliance'', ''analyse our invoices'', ''billing trends'', ''prep
+  for the billing conversation'', ''relationship review'', ''the firm keeps doing
+  this'', ''escalate''.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/invoice-review-compliance-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

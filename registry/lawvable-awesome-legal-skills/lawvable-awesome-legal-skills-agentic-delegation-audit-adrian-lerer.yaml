@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-agentic-delegation-audit-adrian-lerer
+display_name: lawve-agentic-delegation-audit-ignacio-adrian-lerer
+description: 'Use when a lawyer, legal team, or client needs to assess AI agents that
+  can act on someone''s behalf: send messages, search, draft, file, pay, delete, connect
+  to accounts, use tools, or rely on external data. Produces a practical delegation,
+  oversight, accountability, and control audit for legal operations.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/agentic-delegation-audit-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-web-application-scanning-with-nikto
+display_name: performing-web-application-scanning-with-nikto
+description: Runs Nikto, an open-source web server and web application scanner, to
+  test over 7,000 potentially dangerous files/programs, check for outdated versions
+  across 1,250+ servers, and identify XSS, SQL injection, misconfigurations, default
+  credentials, and vulnerable CGI scripts. Use when performing web application vulnerability
+  scanning, security assessments, scheduled security testing, or validating web server
+  security controls.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-web-application-scanning-with-nikto
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

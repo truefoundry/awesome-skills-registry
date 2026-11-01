@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-cryptomining-in-cloud
+display_name: detecting-cryptomining-in-cloud
+description: This skill teaches security teams how to detect and respond to unauthorized
+  cryptocurrency mining operations in cloud environments. It covers identifying cryptomining
+  indicators through compute usage anomalies, network traffic patterns to mining pools,
+  GuardDuty CryptoCurrency findings, and runtime process monitoring on EC2, ECS, EKS,
+  and Azure Automation workloads.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-cryptomining-in-cloud
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

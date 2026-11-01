@@ -1,0 +1,14 @@
+id: mattpocock-skills-wait-what
+display_name: wait-what
+description: 'Stop. That last message did not land: re-pitch it.'
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/productivity/wait-what
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: sanjay3290-ai-skills-google-docs
+display_name: google-docs
+description: 'Interact with Google Docs - create documents, search by title, read
+  content, and edit text. Use when user asks to: create a Google Doc, find a document,
+  read doc content, add text to a doc, or replace text in a document. Lightweight
+  alternative to full Google Workspace MCP server with standalone OAuth authentication.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/google-docs
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

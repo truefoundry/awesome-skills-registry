@@ -1,0 +1,15 @@
+id: NVIDIA-skills-jetson-video-recipe
+display_name: jetson-video-recipe
+description: Use when turning a Jetson encoder use case into one surface-neutral recipe
+  with native Video Codec SDK and PyNvVideoCodec projections.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-video-recipe
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-pass-the-ticket-attack
+display_name: conducting-pass-the-ticket-attack
+description: Perform Pass-the-Ticket (PtT) lateral movement by extracting Kerberos
+  TGT/TGS tickets from LSASS memory on a compromised host and injecting them into
+  another session to impersonate the ticket owner without knowing their password.
+  Use during authorized post-exploitation to move laterally or escalate access via
+  stolen Kerberos tickets, or to validate detections for Kerberos ticket theft and
+  reuse.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-pass-the-ticket-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

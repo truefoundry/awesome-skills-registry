@@ -1,0 +1,18 @@
+id: NoizAI-skills-music-video
+display_name: music-video
+description: "Build a music video from an existing song and lyrics, either as p5.js/p5.brush\
+  \ animation or by assembling local images and clips. Use when the user mentions\
+  \ a music video, MV, lyric video, visualizer, storyboard, \u97F3\u4E50\u89C6\u9891\
+  , \u6B4C\u8BCD\u52A8\u753B, or MV\u5408\u6210. Do not use it to compose the song,\
+  \ generate sound effects, or call an image or video generation API."
+authors:
+- NoizAI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/music-video
+  repo: NoizAI/skills
+metadata:
+  stars: 532
+added_at: '2026-11-01'

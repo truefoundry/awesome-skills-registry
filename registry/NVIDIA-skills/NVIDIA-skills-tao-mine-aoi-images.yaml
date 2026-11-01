@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-mine-aoi-images
+display_name: tao-mine-aoi-images
+description: "Runs the DEFT embed-then-mine workflow for VCN AOI iterations \u2014\
+  \ embeds the gap-analysis target parquet, embeds a source pool, and mines nearest-neighbour\
+  \ source images for downstream augmentation. Use as the immediate next step after\
+  \ `tao-route-visual-changenet-samples` when expanding a real-image augmentation\
+  \ queue from the mining subset."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-mine-aoi-images
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

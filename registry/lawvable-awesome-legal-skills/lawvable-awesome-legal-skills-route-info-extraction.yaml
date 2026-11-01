@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-route-info-extraction
+display_name: route-info-extraction
+description: "Pick the right LLM for LEGAL INFO EXTRACTION \u2014 pulling facts, clauses,\
+  \ dates, parties, obligations, and structured fields out of contracts and legal\
+  \ documents. Vendor-neutral routing grounded in mid-2026 benchmarks (legalbenchmarks.ai\
+  \ Info Extraction; CUAD/MAUD/ACORD). Asks up to 4 quick questions (cost, speed,\
+  \ accuracy/stakes, privacy/jurisdiction/language), then recommends a primary model\
+  \ + fallback + what to avoid + what a human must verify. Use when someone asks \"\
+  which model should I use to extract clauses/data from these documents\", \"best\
+  \ AI for contract data extraction\", \"route this extraction task\", or is about\
+  \ to pull structured fields from legal docs without a fixed model."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-ai-model-router-stephane-boghossian/skills/route-info-extraction
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-aws-iam-privilege-escalation
+display_name: detecting-aws-iam-privilege-escalation
+description: Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaining
+  policy analysis to identify overly permissive policies, dangerous permission combinations,
+  and least-privilege violations
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-aws-iam-privilege-escalation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

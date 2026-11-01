@@ -1,0 +1,24 @@
+id: NVIDIA-skills-doca-version
+display_name: doca-version
+description: 'DOCA version handling: detect the installed release and validate the
+  four-way match across pkg-config doca-common, applications/VERSION, doca_caps --version,
+  and bfver/mlnx-release on BlueField; reason about NGC tags; look up whether a capability
+  exists on this release; diagnose build-vs-runtime drift. Use this skill alongside
+  doca-debug when a symptom smells of version skew: "built but nothing on the wire",
+  "undefined reference to a symbol the docs claim exists", "DOCA_ERROR_NOT_SUPPORTED
+  at runtime", "what does latest mean for this tag", or "is my LTS still supported".
+  Once all four sources match, the component''s build / run workflow belongs to its
+  own library, service or tool skill. Refuse install / package choice (doca-setup),
+  per-library API questions (matching library skill), DOCA_ERROR_* taxonomy (doca-programming-guide),
+  and the general debug ladder (doca-debug).'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-version
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-foundationpose-pipeline
+display_name: foundationpose-pipeline
+description: Adapt BOP datasets, run the FoundationPose perception pipeline with TAO
+  depth, and evaluate or re-score pose results. Use for dataset runs and result comparisons;
+  environment installation belongs to foundationpose-setup.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/foundationpose-pipeline
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: NVIDIA-skills-dgx-spark-skills
+display_name: dgx-spark-skills
+description: Use for NVIDIA DGX Spark and related GB10 system identification, capacity,
+  troubleshooting, known issues, updates, recovery, playbooks, examples, NVIDIA Sync,
+  clustering, Custom Apps, Field Diagnostics, or support evidence. Always route through
+  this skill. Do not use for Apache Spark or unrelated meanings of spark.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/dgx-spark-skills
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

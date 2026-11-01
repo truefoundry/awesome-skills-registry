@@ -1,0 +1,21 @@
+id: sanjay3290-ai-skills-apple-container
+display_name: apple-container
+description: "Apple's open-source `container` CLI to build, run, and manage OCI/Linux\
+  \ containers as lightweight per-container VMs on Apple-silicon macOS \u2014 no Docker\
+  \ daemon required. Use when the user mentions the `container` CLI, \"apple container\"\
+  , running or building containers on macOS without Docker/Podman, `container run`,\
+  \ `container build`, `container images`, `container system start`, pushing/pulling\
+  \ images to a registry, or container networking on macOS. This is Apple's `container`\
+  \ tool specifically (repo `apple/container`), NOT Docker, Podman, containerd, nerdctl,\
+  \ or Kubernetes \u2014 the CLI is Docker-like but is a different tool."
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/apple-container
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

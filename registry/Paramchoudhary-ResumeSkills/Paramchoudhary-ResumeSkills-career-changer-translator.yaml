@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-career-changer-translator
+display_name: career-changer-translator
+description: Translate skills from one industry to another, identify transferable
+  skills
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/career-changer-translator
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

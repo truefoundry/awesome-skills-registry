@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-judge
+display_name: judge
+description: Launch a meta-judge then a judge sub-agent to evaluate results produced
+  in the current conversation
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/judge
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-intercepting-mobile-traffic-with-burpsuite
+display_name: intercepting-mobile-traffic-with-burpsuite
+description: Intercepts and analyzes HTTP/HTTPS traffic from mobile applications using
+  Burp Suite proxy to identify insecure API communications, authentication flaws,
+  data leakage, and server-side vulnerabilities. Use when performing mobile application
+  penetration testing, assessing API security, or evaluating client-server communication
+  patterns. Activates for requests involving mobile traffic interception, Burp Suite
+  mobile proxy, API security testing, or mobile HTTPS analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/intercepting-mobile-traffic-with-burpsuite
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

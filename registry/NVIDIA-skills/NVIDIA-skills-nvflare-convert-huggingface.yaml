@@ -1,0 +1,18 @@
+id: NVIDIA-skills-nvflare-convert-huggingface
+display_name: nvflare-convert-huggingface
+description: Convert existing Hugging Face Transformers Trainer or TRL SFTTrainer
+  training code into an NVFLARE federated job using flare.patch(trainer), local validation,
+  and job export; use when the user names Hugging Face or preliminary source inspection
+  identifies one Hugging Face owner, and not for manual PyTorch loops, Lightning,
+  inference-only pipelines, deployment, or experiment workflows.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nvflare-convert-huggingface
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

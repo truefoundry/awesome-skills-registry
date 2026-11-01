@@ -1,0 +1,19 @@
+id: google-skills-gke-basics
+display_name: gke-basics
+description: Manages core GKE cluster provisioning, credentials, Autopilot vs Standard
+  selection, and workload deployment. Use when creating GKE clusters, fetching kubectl
+  credentials, or deciding between Autopilot and Standard modes. Don't use for Workload
+  Identity (use gke-workload-identity), GKE networking (use gke-networking), security
+  hardening (use gke-platform-security or gke-workload-security), or cluster upgrades
+  (use gke-upgrades).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

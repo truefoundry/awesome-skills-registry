@@ -1,0 +1,17 @@
+id: helius-labs-core-ai-helius-jupiter
+display_name: helius-jupiter
+description: Build Solana DeFi applications combining Jupiter APIs with Helius infrastructure.
+  Covers token swaps (Swap API V2), lending/borrowing (Lend protocol), limit orders
+  (Trigger), DCA (Recurring), token/price data, transaction submission via Sender,
+  fee optimization, real-time streaming, and wallet intelligence.
+authors:
+- helius-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /helius-skills/helius-jupiter
+  repo: helius-labs/core-ai
+metadata:
+  stars: 29
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-quick-assessment-oliver-schmidt-prietz
+display_name: eu-ai-act-triage-oliver-schmidt-prietz
+description: "Fast 15-25 minute triage for preliminary EU AI Act classification and\
+  \ compliance assessment. This skill should be used when the user asks to \"do a\
+  \ quick AI Act assessment\", \"check if the AI Act applies to us\", \"run a preliminary\
+  \ classification\", \"do an AI Act triage\", \"quick check\", \"preliminary assessment\"\
+  , \"Schnellpr\xFCfung\", \"Ersteinsch\xE4tzung\", or needs a fast initial assessment\
+  \ before committing to full analysis."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-quick-assessment-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

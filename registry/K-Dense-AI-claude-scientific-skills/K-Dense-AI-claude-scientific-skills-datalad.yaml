@@ -1,0 +1,21 @@
+id: K-Dense-AI-claude-scientific-skills-datalad
+display_name: datalad
+description: Retrieves, versions, and publishes scientific datasets with DataLad and
+  git-annex, and captures computational provenance with datalad run, rerun, and containers-run.
+  Use when cloning or fetching data from OpenNeuro, DANDI, datasets.datalad.org, or
+  any DataLad dataset; when a file in a dataset reads as a broken symlink or a small
+  pointer instead of real data; when an analysis needs a machine-readable record of
+  how each output was produced so it can be re-executed; or when publishing a dataset
+  to siblings such as a GitHub repository plus a storage remote. Also use to decide
+  between DataLad and plain Git for a data-carrying repository.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/datalad
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

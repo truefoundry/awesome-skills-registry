@@ -1,0 +1,18 @@
+id: cloudflare-skills-cf-cli
+display_name: cf-cli
+description: "Cloudflare's official cf CLI (beta) for the public Cloudflare API and\
+  \ Workers projects. Use for finding and running Cloudflare commands from the terminal\
+  \ \u2014 sign-in and profiles, cf cli search, cf schema, cf deploy/dev/build, resource\
+  \ commands for DNS, zones, D1, KV, and R2 \u2014 and for choosing between cf and\
+  \ Wrangler in a project."
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cf-cli
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

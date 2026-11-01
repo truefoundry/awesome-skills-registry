@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-scope-change-controller-scott-margetts
+display_name: scope-change-controller-scott-margetts
+description: "Scope management for legal matters \u2014 baseline capture, in-flight\
+  \ change control, OOS documentation, and scope retrospective. Use when asked to\
+  \ review scoping assumptions, assess whether work is in or out of scope, draft a\
+  \ scope change notice, track scope changes, prepare an OOS justification, run an\
+  \ OOS report, prepare a scope call agenda, or review what changed on a matter. Trigger\
+  \ on: 'scope change', 'out of scope', 'OOS', 'scope creep', 'is this in scope',\
+  \ 'the client wants us to also', 'additional work', 'scope review', 'what changed\
+  \ from the original scope', 'we need to revisit the quote', 'the budget assumed',\
+  \ 'OOS report', 'scope call with the client', 'run a scope report'."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scope-change-controller-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

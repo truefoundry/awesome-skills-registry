@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-container-security-scanning-with-trivy
+display_name: performing-container-security-scanning-with-trivy
+description: 'Runs Trivy across every target type it supports - container images,
+  filesystems, Git repositories, and Kubernetes clusters - for OS and dependency vulnerabilities,
+  IaC misconfiguration, exposed secrets, and licences, generating CycloneDX or SPDX
+  SBOMs. Use when integrating Trivy into CI/CD, deploying the Trivy Kubernetes operator,
+  scanning non-image targets, or triaging results at scale. Keywords: Trivy, trivy
+  k8s, operator, SBOM, CycloneDX, SPDX, misconfig, secret scanning. Do not use for
+  a single Docker image scan - use scanning-docker-images-with-trivy.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-container-security-scanning-with-trivy
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

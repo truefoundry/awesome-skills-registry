@@ -1,0 +1,16 @@
+id: NVIDIA-skills-tao-generate-od-defects
+display_name: tao-generate-od-defects
+description: Run AnomalyGenNext 1.1 inference from a native testcase or a prepared
+  generation plan, then publish validated fine-grained and binary COCO labels. Use
+  for synthetic object-detection defect generation, not model training.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-generate-od-defects
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

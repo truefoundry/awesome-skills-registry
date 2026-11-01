@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-rfp-pitch-management-scott-margetts
+display_name: rfp-pitch-management
+description: 'RFP creation, distribution, evaluation, and shortlisting for in-house
+  legal teams selecting outside counsel. Draft a new legal services RFP from scratch,
+  evaluate firm responses against weighted criteria, produce a shortlist recommendation
+  with selection rationale for GC sign-off, or design the end-to-end RFP process from
+  scratch. Trigger on: ''draft an RFP'', ''run an RFP process'', ''evaluate firm responses'',
+  ''score the RFP submissions'', ''which firms should we shortlist'', ''selection
+  recommendation'', ''how do we run a panel RFP'', ''RFP for legal services'', ''pitch
+  process'', ''firm selection process'', ''compare the proposals'', ''we''re reviewing
+  our panel'', ''panel refresh RFP'', ''we need to go to market'', ''request for proposal'',
+  ''evaluate the pitches'', ''which firm won the RFP'', ''write a legal RFP'', ''RFP
+  evaluation criteria'', ''design the RFP process'', ''how do we weight the criteria''.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/rfp-pitch-management-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

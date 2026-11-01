@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-customize-clocks
+display_name: jetson-customize-clocks
+description: Use to lock/cap Jetson CPU/GPU/EMC clocks, toggle EMC/CPU DVFS, or change
+  cpufreq governors by editing BPMP DTB and nvpower.sh pre-flash. Do NOT use for live
+  tuning or nvpmodel edits.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-customize-clocks
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

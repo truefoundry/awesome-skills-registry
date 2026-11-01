@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-judge-with-debate
+display_name: judge-with-debate
+description: Evaluate solutions through multi-round debate between independent judges
+  until consensus
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/judge-with-debate
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-disclosure-strategy-mapper-larissa-meredith-flister
+display_name: disclosure-strategy-mapper-larissa-meredith-flister
+description: 'This skill maps disclosure strategy from a case summary, pleading, chronology,
+  or early case theory: the document categories that will matter, likely custodians,
+  adverse material, evidential gaps, search themes, and the risks worth confronting
+  early.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/disclosure-strategy-mapper-larissa-meredith-flister
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

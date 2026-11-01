@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-eol-stakeholder-sequence
+display_name: eol-stakeholder-sequence
+description: Plan who to talk to about a sunset, in what order, and what each conversation
+  must cover. Use when an EOL decision is made and you want the landmines found before
+  the announcement.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eol-stakeholder-sequence
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-obligations-mapper-oliver-schmidt-prietz
+display_name: eu-ai-act-obligations-oliver-schmidt-prietz
+description: Maps the full set of legal obligations for the EU AI Act based on role
+  + risk tier, producing an actionable compliance matrix with RACI assignments and
+  implementation priorities. This skill should be used when the user asks to "map
+  AI Act obligations", "check what we need to do under the AI Act", "create a compliance
+  checklist", "check deployer obligations", "assess provider duties", or mentions
+  Art. 26, Art. 16-17, AI literacy Art. 4, DPIA, fundamental rights assessment, or
+  "Pflichtenkatalog" under the AI Act.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-obligations-mapper-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

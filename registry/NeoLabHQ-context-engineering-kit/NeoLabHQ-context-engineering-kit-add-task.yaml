@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-add-task
+display_name: add-task
+description: creates draft task file in .specs/tasks/draft/ with original user intent
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sdd/skills/add-task
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

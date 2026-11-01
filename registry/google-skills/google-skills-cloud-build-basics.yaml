@@ -1,0 +1,17 @@
+id: google-skills-cloud-build-basics
+display_name: cloud-build-basics
+description: Teaches the fundamentals of Cloud Build on Google Cloud. Covers core
+  concepts, API enablement, console navigation to the Build History page, and the
+  end-to-end workflow for creating and manually running a basic build trigger. Do
+  not use for managing private pools or complex pipeline architectures.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-build-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

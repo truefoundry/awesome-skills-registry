@@ -1,0 +1,16 @@
+id: prompt-security-clawsec-clawsec-feed
+display_name: clawsec-feed
+description: Security advisory feed package for OpenClaw-related threats and vulnerabilities.
+  The upstream feed is updated daily; local automation is handled by clawsec-suite
+  or the operator.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/clawsec-feed
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

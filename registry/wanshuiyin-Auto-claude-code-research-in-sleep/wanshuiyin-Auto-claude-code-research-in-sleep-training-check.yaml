@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-training-check
+display_name: training-check
+description: Periodically check WandB metrics during training to catch problems early
+  (NaN, loss divergence, idle GPUs). Avoids wasting GPU hours on broken runs. Use
+  when training is running and you want automated health checks.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/training-check
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

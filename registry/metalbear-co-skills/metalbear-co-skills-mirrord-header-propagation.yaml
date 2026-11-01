@@ -1,0 +1,26 @@
+id: metalbear-co-skills-mirrord-header-propagation
+display_name: mirrord-header-propagation
+description: Makes a codebase propagate W3C baggage (the `baggage` header carrying
+  `mirrord-session=<key>`) end to end, so mirrord HTTP filters, preview environments,
+  and queue splitting can route a whole request chain to one developer's session.
+  Detects existing OpenTelemetry, Datadog, or other tracing that can already propagate
+  baggage and enables it; otherwise adds a small propagation layer. Covers inbound/outbound
+  HTTP and gRPC, publishing to and consuming from Kafka, RabbitMQ, SQS/SNS, GCP Pub/Sub,
+  Azure Service Bus, NATS, Redis Pub/Sub, BullMQ and Temporal, per-message context
+  restore in consumers, and storage hand-offs such as a GCS signed URL upload that
+  triggers Pub/Sub or an S3 presigned upload that triggers SQS. Ends with a report
+  of every flow found and which ones still drop the header. Use when the user asks
+  to propagate headers, baggage, tracestate, the mirrord session key, or trace context
+  across services or queues, or when a mirrord filter matches the first service but
+  not downstream services or queue consumers.
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-header-propagation
+  repo: metalbear-co/skills
+metadata:
+  stars: 29
+added_at: '2026-11-01'

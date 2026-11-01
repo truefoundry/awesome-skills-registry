@@ -1,0 +1,16 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-screenshot-resize
+display_name: asc-screenshot-resize
+description: Resize and validate App Store screenshots with current asc screenshot-size
+  data and macOS sips. Use when preparing or fixing screenshots for App Store Connect
+  submission.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-screenshot-resize
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

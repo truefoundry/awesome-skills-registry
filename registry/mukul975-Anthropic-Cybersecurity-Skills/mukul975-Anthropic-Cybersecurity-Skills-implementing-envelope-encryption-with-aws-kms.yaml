@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-envelope-encryption-with-aws-kms
+display_name: implementing-envelope-encryption-with-aws-kms
+description: Implements envelope encryption with AWS KMS, encrypting data locally
+  with a data encryption key (DEK) and protecting that DEK with a KMS-managed key
+  (KEK), covering the encrypt/decrypt flow, KMS key types, and security validation
+  criteria. Use when designing key management for encrypting large or numerous data
+  objects on AWS, or when reducing direct KMS API call volume.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-envelope-encryption-with-aws-kms
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

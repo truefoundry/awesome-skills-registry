@@ -1,0 +1,16 @@
+id: ognjengt-founder-skills-prd-generator
+display_name: prd-generator
+description: Generates professional PRD (Product Requirements Document) files optimized
+  for AI coding tools. Takes a rough product idea, asks clarifying questions, and
+  outputs a structured PDF ready to feed into AI coding assistants.
+authors:
+- ognjengt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/prd-generator
+  repo: ognjengt/founder-skills
+metadata:
+  stars: 653
+added_at: '2026-11-01'

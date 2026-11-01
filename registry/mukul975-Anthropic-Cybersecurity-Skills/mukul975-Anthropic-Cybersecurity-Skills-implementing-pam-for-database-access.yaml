@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-pam-for-database-access
+display_name: implementing-pam-for-database-access
+description: Deploy privileged access management for database systems including Oracle,
+  SQL Server, PostgreSQL, and MySQL, covering session proxy configuration, credential
+  vaulting, query auditing, dynamic credential generation, and least-privilege database
+  roles. Use when securing DBA access, implementing database PAM controls, or auditing
+  privileged database sessions.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-pam-for-database-access
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

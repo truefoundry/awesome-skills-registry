@@ -1,0 +1,15 @@
+id: indranilbanerjee-digital-marketing-pro-video-packaging
+display_name: video-packaging
+description: 'Package a video: title and thumbnail-text pairs that never repeat words,
+  or critique them. "why is no one clicking this video"'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/video-packaging
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 920
+added_at: '2026-11-01'

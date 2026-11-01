@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-iec-62443-security-zones
+display_name: implementing-iec-62443-security-zones
+description: "Designs security zones and conduits for industrial control systems (IACS)\
+  \ per IEC 62443-3-2 \u2014 risk-based zone partitioning, Security Level target (SL-T)\
+  \ assignment, conduit controls, and firewall microsegmentation validated against\
+  \ the Purdue Reference Model. Use when designing OT network zones for a new facility,\
+  \ retrofitting zones into a flat OT network, or upgrading VLAN-only segmentation\
+  \ for IEC 62443-3-2 compliance."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-iec-62443-security-zones
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

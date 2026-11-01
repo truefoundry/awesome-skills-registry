@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-academic-cv-builder
+display_name: academic-cv-builder
+description: Format CVs for academic positions with publications, grants, and teaching
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/academic-cv-builder
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

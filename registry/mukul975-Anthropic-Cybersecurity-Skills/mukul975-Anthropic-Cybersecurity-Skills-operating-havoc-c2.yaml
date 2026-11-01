@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-operating-havoc-c2
+display_name: operating-havoc-c2
+description: Deploy a Havoc C2 team server with Yaotl malleable profiles, generate
+  evasive Demon agents using indirect syscalls and sleep obfuscation, and run post-exploitation
+  and pivoting operations. Use during authorized, rules-of-engagement-bound red-team
+  engagements for adversary emulation requiring a full C2 lifecycle (server setup,
+  evasive implant generation, tasking, and lateral pivoting).
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operating-havoc-c2
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-suspicious-powershell-execution
+display_name: detecting-suspicious-powershell-execution
+description: Hunt for suspicious PowerShell execution (T1059.001) such as encoded
+  commands, download cradles, AMSI bypass, and constrained language mode evasion using
+  EDR telemetry (CrowdStrike, Microsoft Defender for Endpoint), Sysmon, and SIEM queries
+  (Splunk, Elastic). Use when proactively threat hunting, triaging EDR/SIEM alerts,
+  or scoping an incident involving malicious PowerShell activity.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-suspicious-powershell-execution
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

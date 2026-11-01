@@ -1,0 +1,23 @@
+id: NVIDIA-skills-doca-dms
+display_name: doca-dms
+description: 'Operate NVIDIA DOCA Management Service on a BlueField, Arm/x86 host,
+  or Kubernetes pod: from DOCA 3.5 the local `dms-cli` (one command per YANG path,
+  no server), and the `dmsd` + `dmspe` service: choose deployment and authentication,
+  configure `-allowed_users` and `dmsgroup`, use gNMI Get/Set, run supported gNOI
+  workflows, and debug frontend/backend failures. Trigger even without "DMS" for "manage
+  a remote BlueField over gRPC", "gNOI reboot from orchestrator", or fleet-management
+  requests. SAFETY: reboot, OS install, factory-reset, and managed-file deletion are
+  destructive and require target-bound explicit confirmation; never invoke them speculatively.
+  Route installation and library/API build questions elsewhere, and route telemetry
+  streaming and aggregation to doca-dts (DOCA Telemetry Service).'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-dms
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

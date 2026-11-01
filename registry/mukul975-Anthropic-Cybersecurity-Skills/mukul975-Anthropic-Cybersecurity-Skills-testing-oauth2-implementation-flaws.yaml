@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-oauth2-implementation-flaws
+display_name: testing-oauth2-implementation-flaws
+description: Tests OAuth 2.0 and OpenID Connect implementations for authorization
+  code interception, redirect URI manipulation, CSRF in OAuth flows, token leakage,
+  scope escalation, and PKCE bypass, using Burp Suite Professional and the EsPReSSO
+  extension to probe the authorization server, client, and token handling. Use when
+  assessing OAuth2/OIDC flows or SSO systems for misconfigurations enabling account
+  takeover.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-oauth2-implementation-flaws
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

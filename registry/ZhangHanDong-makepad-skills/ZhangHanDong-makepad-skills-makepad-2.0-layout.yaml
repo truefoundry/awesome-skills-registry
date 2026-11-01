@@ -1,0 +1,19 @@
+id: ZhangHanDong-makepad-skills-makepad-2.0-layout
+display_name: makepad-2.0-layout
+description: "CRITICAL: Use for Makepad 2.0 layout system. Triggers on: makepad layout,\
+  \ makepad width, makepad height, makepad flex, makepad flow, makepad padding, makepad\
+  \ margin, makepad spacing, makepad align, makepad sizing, Fill, Fit, Inset, Flow.Down,\
+  \ Flow.Right, ScrollXView, ScrollYView, \u5E03\u5C40, \u5BF9\u9F50, \u95F4\u8DDD\
+  , \u586B\u5145, \u6392\u7248, \u6EDA\u52A8\u89C6\u56FE, \u5C3A\u5BF8, \u5BBD\u5EA6\
+  , \u9AD8\u5EA6"
+authors:
+- ZhangHanDong
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/makepad-2.0-layout
+  repo: ZhangHanDong/makepad-skills
+metadata:
+  stars: 752
+added_at: '2026-11-01'

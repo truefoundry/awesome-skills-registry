@@ -1,0 +1,19 @@
+id: stripe-ai-connect-required-verification-information
+display_name: connect-required-verification-information
+description: Use this skill when the user asks what information a Stripe Connect connected
+  account must provide for verification, onboarding, KYC, or account requirements;
+  when they need to compare requirements between connected-account setups; or when
+  they ask which verification fields, documents, or business details are required
+  for a particular platform country, account country, business type, dashboard, service
+  agreement, or capability.
+authors:
+- stripe
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/connect-required-verification-information
+  repo: stripe/ai
+metadata:
+  stars: 2018
+added_at: '2026-11-01'

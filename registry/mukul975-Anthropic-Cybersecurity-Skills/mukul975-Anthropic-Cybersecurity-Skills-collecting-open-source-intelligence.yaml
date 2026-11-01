@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-collecting-open-source-intelligence
+display_name: collecting-open-source-intelligence
+description: Collects and synthesizes open-source intelligence (OSINT) about threat
+  actors, malicious infrastructure, and attack campaigns using publicly available
+  data sources, passive reconnaissance tools, and dark web monitoring. Use when investigating
+  external threat actor infrastructure, performing pre-engagement reconnaissance for
+  authorized red team assessments, or enriching CTI reports with publicly available
+  adversary context. Activates for requests involving Maltego, Shodan, OSINT framework,
+  SpiderFoot, or infrastructure reconnaissance.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/collecting-open-source-intelligence
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

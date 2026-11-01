@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-insider-data-exfiltration-via-dlp
+display_name: detecting-insider-data-exfiltration-via-dlp
+description: Detects insider data exfiltration by analyzing DLP policy violations,
+  file access patterns, upload volume anomalies, and off-hours activity in endpoint
+  and cloud logs. Uses pandas for behavioral analytics and statistical baselines.
+  Use when investigating insider threats or building user behavior analytics for data
+  loss prevention.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-insider-data-exfiltration-via-dlp
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

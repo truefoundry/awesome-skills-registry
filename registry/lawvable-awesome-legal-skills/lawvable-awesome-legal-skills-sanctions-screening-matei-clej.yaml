@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-sanctions-screening-matei-clej
+display_name: sanctions-screening
+description: "Screen a client, counterparty, payer or corporate against the sanctions\
+  \ lists published by the designating authorities themselves \u2014 the UK Sanctions\
+  \ List (FCDO), OFSI, the UN Security Council, the EU consolidated list and OFAC's\
+  \ SDN and non-SDN lists. Use when onboarding, before taking a payment, before completing\
+  \ a transaction, or whenever a name must be checked against sanctions. Produces\
+  \ candidates and provenance, never a clearance: the record names every list searched\
+  \ with its publication date and count, states what was NOT searched, and ends at\
+  \ a blank decision block. Fails closed \u2014 a cache that is missing, damaged,\
+  \ truncated or stale is reported NOT SEARCHED and the process exits non-zero, so\
+  \ nothing can read an incomplete run as clean. Matches across transliteration, diacritics,\
+  \ homoglyphs and initials, because nobody spells a name the way the publisher does.\
+  \ Standard library only; screening opens no network connection."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sanctions-screening-matei-clej
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

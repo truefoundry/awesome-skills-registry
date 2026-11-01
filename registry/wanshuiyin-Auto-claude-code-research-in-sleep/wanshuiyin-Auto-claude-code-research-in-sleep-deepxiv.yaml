@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-deepxiv
+display_name: deepxiv
+description: Search and progressively read open-access academic papers through DeepXiv.
+  Use when the user wants layered paper access, section-level reading, trending papers,
+  or DeepXiv-backed literature retrieval.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/deepxiv
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

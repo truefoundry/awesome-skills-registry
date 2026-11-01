@@ -1,0 +1,16 @@
+id: sanjay3290-ai-skills-elevenlabs
+display_name: elevenlabs
+description: Convert documents and text to audio using ElevenLabs text-to-speech.
+  Use this skill when the user wants to create a podcast, narrate a document, read
+  aloud text, generate audio from a file, or convert text to speech.
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/elevenlabs
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

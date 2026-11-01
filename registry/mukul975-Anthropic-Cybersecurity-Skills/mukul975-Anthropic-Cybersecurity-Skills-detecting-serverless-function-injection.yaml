@@ -1,0 +1,22 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-serverless-function-injection
+display_name: detecting-serverless-function-injection
+description: Detects and prevents code injection attacks targeting serverless functions
+  (AWS Lambda, Azure Functions, Google Cloud Functions) through event source poisoning,
+  malicious layer injection, runtime command execution, and IAM privilege escalation
+  via function modification. The analyst combines static analysis of function code,
+  CloudTrail event correlation, runtime behavior monitoring, and IAM policy auditing
+  to identify injection vectors across the expanded serverless attack surface including
+  API Gateway, S3, SQS, DynamoDB Streams, and CloudWatch event triggers. Activates
+  for requests involving Lambda security assessment, serverless injection detection,
+  function event poisoning analysis, or serverless privilege escalation investigation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-serverless-function-injection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

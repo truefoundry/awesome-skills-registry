@@ -1,0 +1,17 @@
+id: mattpocock-skills-to-tickets
+display_name: to-tickets
+description: Break a plan, spec, or the current conversation into a set of tracer-bullet
+  tickets, each declaring its blocking edges, published to the configured tracker
+  (edges as text in one file per ticket locally, or native blocking links on a real
+  tracker).
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/to-tickets
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

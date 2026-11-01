@@ -1,0 +1,17 @@
+id: resend-resend-skills-email-best-practices
+display_name: email-best-practices
+description: Use when building email features, emails going to spam, high bounce rates,
+  setting up SPF/DKIM/DMARC authentication, implementing email capture, ensuring compliance
+  (CAN-SPAM, GDPR, CASL), handling webhooks, retry logic, making emails accessible
+  (alt text, headings, contrast, screen readers), or deciding transactional vs marketing.
+authors:
+- resend
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/email-best-practices
+  repo: resend/resend-skills
+metadata:
+  stars: 208
+added_at: '2026-11-01'

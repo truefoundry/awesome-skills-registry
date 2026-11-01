@@ -1,0 +1,18 @@
+id: garrytan-gbrain-chat-connectors
+display_name: chat-connectors
+description: "Connect a ChatGPT or Claude account and sync its conversation history\
+  \ into the brain automatically. Cookie paste-in is the primary lane; sync is incremental\
+  \ (watermark + trailing-window gap-heal), and can run on a schedule via autopilot\
+  \ or host cron. Distinct from the export-file lane (that lives in conversation-archive)\
+  \ \u2014 this is the LIVE, account-connected, auto-scraping path."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/chat-connectors
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

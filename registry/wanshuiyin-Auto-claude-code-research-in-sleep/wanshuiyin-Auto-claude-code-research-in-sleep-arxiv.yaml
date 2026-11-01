@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-arxiv
+display_name: arxiv
+description: Search, download, and summarize academic papers from arXiv. Use when
+  user says "search arxiv", "download paper", "fetch arxiv", "arxiv search", "get
+  paper pdf", or wants to find and save papers from arXiv to the local paper library.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/arxiv
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

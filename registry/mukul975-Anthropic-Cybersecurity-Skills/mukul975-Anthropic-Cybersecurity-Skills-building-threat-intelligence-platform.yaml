@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-intelligence-platform
+display_name: building-threat-intelligence-platform
+description: Design and deploy a Threat Intelligence Platform (TIP) by integrating
+  open-source CTI tools (MISP, OpenCTI, TheHive, Cortex) into a unified system with
+  feed ingestion pipelines, enrichment workflows, STIX/TAXII interoperability, and
+  analyst dashboards. Use when architecting or standing up a centralized CTI platform
+  to collect, analyze, and disseminate threat intelligence across a security team.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-intelligence-platform
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

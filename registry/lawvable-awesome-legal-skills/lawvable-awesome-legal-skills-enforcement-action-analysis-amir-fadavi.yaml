@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-enforcement-action-analysis-amir-fadavi
+display_name: enforcement-action-analysis-amir-fadavi
+description: "Analyze any OFAC or OFSI enforcement action \u2014 by URL, pasted text,\
+  \ or uploaded document \u2014 and produce a structured root cause analysis as a\
+  \ formatted Excel (.xlsx) spreadsheet. Use this skill whenever a user names, links\
+  \ to, pastes, or uploads an OFAC or OFSI enforcement action and asks for any of\
+  \ the following: root cause analysis, compliance gaps, what went wrong, lessons\
+  \ learned, organizational self-assessment, or remediation planning. Also trigger\
+  \ when a user asks \"analyze this enforcement action\", \"what were the root causes\"\
+  , \"turn this into a checklist\", or \"how do I make sure this doesn't happen to\
+  \ us\". Outputs a single-sheet .xlsx table with six columns: Root Cause | What Went\
+  \ Wrong | How It Went Wrong | What Could Have Stopped It | Is my organization immune\
+  \ to this? (Yes/No/Partial) | Notes."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/enforcement-action-analysis-amir-fadavi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

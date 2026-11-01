@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-capability-admission-check-adrian-lerer
+display_name: ignacio-lerer-capability-admission-check
+description: Screens AI Skills, MCP servers, plugins, and agent tools before installation
+  or activation using provenance, static inspection, least privilege, version pinning,
+  and PASS/REVIEW/BLOCK decisions. Use when a user asks whether an agent capability
+  is safe, wants to install a Skill or MCP, reviews a marketplace or GitHub artifact,
+  or reassesses a changed capability. Do not use as an antivirus guarantee, a runtime
+  sandbox, or a substitute for professional incident response.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/capability-admission-check-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

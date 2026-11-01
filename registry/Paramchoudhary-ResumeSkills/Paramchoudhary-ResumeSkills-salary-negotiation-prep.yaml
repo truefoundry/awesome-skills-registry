@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-salary-negotiation-prep
+display_name: salary-negotiation-prep
+description: Research market rates, build negotiation strategy, and create counter-offer
+  scripts
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/salary-negotiation-prep
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

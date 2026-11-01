@@ -1,0 +1,16 @@
+id: yusufkaraaslan-Skill_Seekers-skill-seekers
+display_name: skill-builder
+description: Automatically detect source types and build AI skills using Skill Seekers.
+  Use when the user wants to create skills from documentation, repos, PDFs, videos,
+  or other knowledge sources.
+authors:
+- yusufkaraaslan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skill-seekers
+  repo: yusufkaraaslan/Skill_Seekers
+metadata:
+  stars: 15262
+added_at: '2026-11-01'

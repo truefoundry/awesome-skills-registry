@@ -1,0 +1,17 @@
+id: NeoLabHQ-context-engineering-kit-root-cause-tracing
+display_name: root-cause-tracing
+description: Use when errors occur deep in execution and you need to trace back to
+  find the original trigger - systematically traces bugs backward through call stack,
+  adding instrumentation when needed, to identify source of invalid data or incorrect
+  behavior
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/kaizen/skills/root-cause-tracing
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

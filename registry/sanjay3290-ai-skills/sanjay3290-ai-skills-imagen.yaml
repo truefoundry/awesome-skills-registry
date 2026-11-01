@@ -1,0 +1,17 @@
+id: sanjay3290-ai-skills-imagen
+display_name: imagen
+description: Generate images using Google Gemini's image generation capabilities.
+  Use this skill when the user needs to create, generate, or produce images for any
+  purpose including UI mockups, icons, illustrations, diagrams, concept art, placeholder
+  images, or visual representations.
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/imagen
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

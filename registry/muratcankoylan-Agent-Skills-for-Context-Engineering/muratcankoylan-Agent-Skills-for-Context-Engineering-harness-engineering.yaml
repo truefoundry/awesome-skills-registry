@@ -1,0 +1,16 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-harness-engineering
+display_name: harness-engineering
+description: 'This skill should be used when designing autonomous agent harnesses:
+  research loops, evaluation scaffolds, locked and editable surfaces, durable logs,
+  novelty gates, pruning, rollback, PR preparation, and human approval boundaries.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/harness-engineering
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

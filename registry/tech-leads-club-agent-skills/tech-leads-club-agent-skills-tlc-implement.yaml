@@ -1,0 +1,19 @@
+id: tech-leads-club-agent-skills-tlc-implement
+display_name: tlc-implement
+description: Implements work already planned - a plan.md from tlc-plan, or a small
+  ticket - by freezing it into checks with proofs, building, and proving every check
+  with a script and an independent Verifier before declaring done. Use when the user
+  says "implement this plan", "build this ticket", "implement this spec", "write the
+  checks", "verify work", or "tlc-implement". Do NOT use when nobody has decided what
+  to build, or to plan a feature that needs one (that is tlc-plan).
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(development)/tlc-implement
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 7120
+added_at: '2026-11-01'

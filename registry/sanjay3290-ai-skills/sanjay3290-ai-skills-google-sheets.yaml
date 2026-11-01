@@ -1,0 +1,19 @@
+id: sanjay3290-ai-skills-google-sheets
+display_name: google-sheets
+description: 'Read and write Google Sheets spreadsheets - get content, update cells,
+  append rows, fetch specific ranges, search for spreadsheets, and view metadata.
+  Use when user asks to: read a spreadsheet, update cells, add data to Google Sheets,
+  find a spreadsheet, check sheet contents, export spreadsheet data, or get cell values.
+  Lightweight integration with standalone OAuth authentication supporting full read/write
+  access.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/google-sheets
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

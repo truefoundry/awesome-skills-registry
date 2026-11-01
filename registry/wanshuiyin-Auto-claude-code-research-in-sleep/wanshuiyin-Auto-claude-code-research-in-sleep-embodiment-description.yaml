@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-embodiment-description
+display_name: embodiment-description
+description: "Write detailed embodiment descriptions for patent specifications. Use\
+  \ when user says \"\u64B0\u5199\u5B9E\u65BD\u4F8B\", \"write embodiment\", \"\u5B9E\
+  \u65BD\u4F8B\u63CF\u8FF0\", \"detailed description\", or wants to describe how to\
+  \ practice an invention."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/embodiment-description
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-workflow-to-skill-adrian-lerer
+display_name: workflow-to-skill
+description: Converts a proven, repeated professional workflow into a portable and
+  inspectable AI Skill with clear triggers, inputs, steps, outputs, verification,
+  recovery, and limits. Use when a user asks to make a workflow reusable, package
+  a process as a Skill, or preserve a successful multi-step method. Do not use for
+  speculative processes that have not been performed or concretely specified.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/workflow-to-skill-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

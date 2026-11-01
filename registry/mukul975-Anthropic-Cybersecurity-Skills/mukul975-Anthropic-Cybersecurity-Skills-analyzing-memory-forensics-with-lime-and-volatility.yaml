@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-memory-forensics-with-lime-and-volatility
+display_name: analyzing-memory-forensics-with-lime-and-volatility
+description: Performs Linux memory acquisition using LiME (Linux Memory Extractor)
+  kernel module and analysis with Volatility 3 framework. Extracts process lists,
+  network connections, bash history, loaded kernel modules, and injected code from
+  Linux memory images. Use when performing incident response on compromised Linux
+  systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-memory-forensics-with-lime-and-volatility
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

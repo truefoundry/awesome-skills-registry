@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-do-in-parallel
+display_name: do-in-parallel
+description: Run independent tasks concurrently across multiple files or targets using
+  parallel sub-agents, with per-task model selection and LLM-as-a-judge verification.
+  Use when tasks do not depend on each other and can run side by side.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/do-in-parallel
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

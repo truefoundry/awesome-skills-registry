@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-user-segmentation
+display_name: user-segmentation
+description: Segment users from feedback data based on behavior, JTBD, and needs.
+  Identifies at least 3 distinct user segments. Use when segmenting a user base, analyzing
+  diverse user feedback, or building a segmentation model.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-market-research/skills/user-segmentation
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

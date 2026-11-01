@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-cohort-analysis
+display_name: cohort-analysis
+description: "Perform cohort analysis on user engagement data \u2014 retention curves,\
+  \ feature adoption trends, and segment-level insights. Use when analyzing user retention\
+  \ by cohort, studying feature adoption over time, investigating churn patterns,\
+  \ or identifying engagement trends."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-data-analytics/skills/cohort-analysis
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

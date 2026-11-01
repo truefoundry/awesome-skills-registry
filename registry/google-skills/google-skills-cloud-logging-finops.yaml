@@ -1,0 +1,22 @@
+id: google-skills-cloud-logging-finops
+display_name: cloud-logging-finops
+description: 'Audits Cloud Logging costs for a Google Cloud project: the charges for
+  log entries written to log buckets, the services, log streams and severities that
+  drive them, and the log sinks that route them. Reconciles Cloud Billing export costs
+  with Cloud Monitoring volume metrics, and generates a FinOps report with charts
+  and copy-paste exclusion filters. Use when auditing Cloud Logging spend, finding
+  logging waste, identifying top logging contributors, generating log cost reduction
+  reports, or creating log sink exclusion filters. Don''t use for querying log entries
+  (use cloud-logging-query-generation), configuring Cloud Monitoring alerts, or querying
+  metrics/traces.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-logging-finops
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

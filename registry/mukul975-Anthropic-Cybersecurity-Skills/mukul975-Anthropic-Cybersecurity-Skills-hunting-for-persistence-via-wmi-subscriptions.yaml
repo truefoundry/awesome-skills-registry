@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-persistence-via-wmi-subscriptions
+display_name: hunting-for-persistence-via-wmi-subscriptions
+description: Hunts for adversary persistence via WMI event subscriptions (MITRE T1546.003)
+  by monitoring the creation of WMI event filters, consumers, and filter-to-consumer
+  bindings that trigger malicious code execution on system events. Use when investigating
+  fileless, trigger-based persistence on Windows hosts or auditing WMI repository
+  contents for malicious event subscriptions.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-persistence-via-wmi-subscriptions
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

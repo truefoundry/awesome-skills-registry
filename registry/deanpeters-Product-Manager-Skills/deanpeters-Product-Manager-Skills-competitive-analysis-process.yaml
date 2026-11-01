@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-competitive-analysis-process
+display_name: competitive-analysis-process
+description: Orchestrate a complete competitive analysis across six steps, from landscape
+  to strategic direction. Use when you need the full picture, not a single scan or
+  card.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/competitive-analysis-process
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

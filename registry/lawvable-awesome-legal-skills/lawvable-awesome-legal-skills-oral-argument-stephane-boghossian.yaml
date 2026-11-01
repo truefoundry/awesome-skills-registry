@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-oral-argument-stephane-boghossian
+display_name: oral-argument
+description: 'Prepare a lawyer for an adversarial proceeding the way Neal Katyal''s
+  "Harvey" prepared him for the SCOTUS tariffs argument: profile the tribunal from
+  their prior opinions and questions, predict the specific questions you will face,
+  map narrow "escape routes" each judge can walk through without abandoning prior
+  commitments, and spar adversarially until only the strongest answers survive. The
+  model is the sparring partner. The human still wins the case. Use when: preparing
+  for oral argument, appellate argument, motion hearing, evidentiary hearing, deposition
+  (taking or defending), arbitration, mediation, or any proceeding where a known decision-maker
+  will fire questions at you in real time. Also useful for stress-testing a brief
+  before filing. Proactively suggest when: the user mentions an upcoming hearing/argument
+  with named judges or arbitrators, drafts a brief and wants it pressure-tested, asks
+  "what will Justice X / Judge Y ask me," or talks about preparing for a specific
+  bench.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/oral-argument-stephane-boghossian
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

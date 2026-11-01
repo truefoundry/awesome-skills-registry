@@ -1,0 +1,16 @@
+id: realkimbarrett-advertising-skills-generic-language-killer
+display_name: generic-language-killer
+description: Remove vague, corporate, or AI-sounding language and replace it with
+  clear, specific, human wording. Trigger on "improve copy", "sounds generic", "too
+  fluffy".
+authors:
+- realkimbarrett
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/qa/generic-language-killer
+  repo: realkimbarrett/advertising-skills
+metadata:
+  stars: 769
+added_at: '2026-11-01'

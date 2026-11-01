@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-cloud-penetration-testing
+display_name: conducting-cloud-penetration-testing
+description: This skill outlines methodologies for performing authorized penetration
+  testing against AWS, Azure, and GCP cloud environments. It covers understanding
+  the shared responsibility model for testing scope, leveraging cloud-specific attack
+  tools like Pacu and ScoutSuite, exploiting IAM misconfigurations, testing for SSRF
+  to cloud metadata services, and reporting findings aligned to MITRE ATT&CK Cloud
+  matrix.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-cloud-penetration-testing
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

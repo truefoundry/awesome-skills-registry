@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-intelligence-feed-integration
+display_name: building-threat-intelligence-feed-integration
+description: Builds automated threat intelligence feed integration pipelines connecting
+  STIX/TAXII feeds, open-source threat intel, and commercial TI platforms into SIEM
+  and security tools for real-time IOC matching and alerting. Use when SOC teams need
+  to operationalize threat intelligence by automating feed ingestion, normalization,
+  scoring, and distribution to detection systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-intelligence-feed-integration
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

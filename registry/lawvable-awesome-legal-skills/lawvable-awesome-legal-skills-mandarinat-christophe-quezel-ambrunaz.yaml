@@ -1,0 +1,27 @@
+id: lawvable-awesome-legal-skills-mandarinat-christophe-quezel-ambrunaz
+display_name: mandarinat
+description: "Assistant acad\xE9mique des enseignants-chercheurs en droit (professeurs,\
+  \ ma\xEEtres de conf\xE9rences, doctorants, ATER, charg\xE9s de TD). Six t\xE2ches\
+  \ : recherche juridique approfondie \xE0 dominante doctrinale ; relecture de documents\
+  \ (th\xE8ses, articles, copies, m\xE9moires) avec commentaires Word, v\xE9rification\
+  \ des r\xE9f\xE9rences, indices de plagiat ou d'IA, coh\xE9rence argumentative ;\
+  \ sujets et corrig\xE9s d'examen ; mise \xE0 jour de cours, d'ouvrages et de documents\
+  \ ; cr\xE9ation de cours avec support Word et PowerPoint ou Slides ; fiches de TD.\
+  \ Recherche outill\xE9e (LibreJustice, OpenLegi, Themia, LegalDataHunter, doctrine\
+  \ HAL/OpenAlex), noyau anti-hallucination avec tableau de v\xE9rification remis\
+  \ en document s\xE9par\xE9. \xC0 utiliser pour toute demande li\xE9e \xE0 l'enseignement\
+  \ ou \xE0 la recherche en droit \u2014 cours, TD, examen, sujet, corrig\xE9, dissertation,\
+  \ commentaire d'arr\xEAt, relecture, mise \xE0 jour, bibliographie, recherche doctrinale\
+  \ \u2014 m\xEAme si la skill n'est pas nomm\xE9e. Pas pour les QCM ni les exercices\
+  \ rapides (skill qcm-exercices)."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mandarinat-christophe-quezel-ambrunaz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

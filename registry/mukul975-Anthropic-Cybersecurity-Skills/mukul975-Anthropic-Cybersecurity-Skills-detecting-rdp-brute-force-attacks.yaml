@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-rdp-brute-force-attacks
+display_name: detecting-rdp-brute-force-attacks
+description: Detect RDP brute force attacks by parsing Windows Security Event Logs
+  (EVTX files, via python-evtx) for failed logon patterns (Event ID 4625, Logon Type
+  10/3), correlating with successful logons (Event ID 4624), and analyzing NLA failures
+  and source IP frequency. Use when investigating exposed RDP endpoints, building
+  SIEM detection rules for credential guessing, or confirming whether a compromised
+  account followed a brute-force pattern.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-rdp-brute-force-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

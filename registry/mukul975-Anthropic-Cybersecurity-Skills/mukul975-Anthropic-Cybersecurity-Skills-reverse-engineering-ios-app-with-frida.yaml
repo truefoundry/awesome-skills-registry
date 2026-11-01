@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-reverse-engineering-ios-app-with-frida
+display_name: reverse-engineering-ios-app-with-frida
+description: Reverse engineers iOS applications using Frida dynamic instrumentation
+  to understand internal logic, extract encryption keys, bypass security controls,
+  and discover hidden functionality without source code access. Use when performing
+  authorized iOS penetration testing, analyzing proprietary protocols, understanding
+  obfuscated logic, or extracting runtime secrets from iOS binaries. Activates for
+  requests involving iOS reverse engineering, Frida iOS hooking, Objective-C/Swift
+  method tracing, or iOS binary analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/reverse-engineering-ios-app-with-frida
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

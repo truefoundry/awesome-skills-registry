@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-illustration-image2
+display_name: paper-illustration-image2
+description: Generate publication-quality academic illustrations through a local Codex
+  app-server bridge that uses Codex native image generation. This is a separate experimental
+  alternative to `paper-illustration`, intended for Claude Code users who want a GPT-image-style
+  renderer without modifying the original skill.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-illustration-image2
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

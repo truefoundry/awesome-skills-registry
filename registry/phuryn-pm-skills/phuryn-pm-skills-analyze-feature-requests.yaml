@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-analyze-feature-requests
+display_name: analyze-feature-requests
+description: Analyze and prioritize a list of feature requests by theme, strategic
+  alignment, impact, effort, and risk. Use when reviewing customer feature requests,
+  triaging a backlog, or making prioritization decisions.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-discovery/skills/analyze-feature-requests
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

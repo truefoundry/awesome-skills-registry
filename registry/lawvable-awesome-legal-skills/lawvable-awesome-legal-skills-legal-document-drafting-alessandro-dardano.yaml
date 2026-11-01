@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-legal-document-drafting-alessandro-dardano
+display_name: legal-document-drafting-formatting-alessandro-dardano
+description: "Produces properly-formatted legal documents in Word (.docx). The user\
+  \ provides the substantive content (instructions, attached files, project knowledge);\
+  \ the skill handles document architecture and formatting. * No precedent or template\
+  \ required * Seven document families: agreements, corporate documents, litigation,\
+  \ memos, employment, policies, correspondence * Jurisdiction-agnostic \u2014 works\
+  \ across any legal system the user specifies * Multi-Chain numbering, defined-terms\
+  \ convention, structured recitals, atomic signature blocks * Also reformats existing\
+  \ .docx to a consistent house style * Works in Claude.ai, Cowork, and Claude for\
+  \ Word"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-document-drafting-alessandro-dardano
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-usb-device-connection-history
+display_name: analyzing-usb-device-connection-history
+description: Correlate Windows registry keys (USBSTOR, MountedDevices), Event Logs,
+  and setupapi.dev.log to reconstruct USB device connection history, first/last-plugged
+  timestamps, and drive letter mappings. Use when investigating removable media usage,
+  tracking device provenance, or building a timeline for suspected data exfiltration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-usb-device-connection-history
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

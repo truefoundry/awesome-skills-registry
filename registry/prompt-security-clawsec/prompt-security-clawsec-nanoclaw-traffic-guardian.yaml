@@ -1,0 +1,15 @@
+id: prompt-security-clawsec-nanoclaw-traffic-guardian
+display_name: nanoclaw-traffic-guardian
+description: NanoClaw runtime traffic monitoring baseline for host-side proxy inspection
+  with container-safe MCP and IPC status surfaces.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nanoclaw-traffic-guardian
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

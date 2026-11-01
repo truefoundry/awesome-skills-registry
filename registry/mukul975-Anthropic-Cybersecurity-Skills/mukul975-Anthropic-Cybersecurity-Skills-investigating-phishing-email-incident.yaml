@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-investigating-phishing-email-incident
+display_name: investigating-phishing-email-incident
+description: Investigates phishing email incidents from initial user report through
+  header analysis, URL/attachment detonation, impacted user identification, and containment
+  actions using SOC tools like Splunk, Microsoft Defender, and sandbox analysis platforms.
+  Use when a reported phishing email requires full incident investigation to determine
+  scope and impact.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/investigating-phishing-email-incident
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

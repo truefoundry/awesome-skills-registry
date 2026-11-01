@@ -1,0 +1,14 @@
+id: Paramchoudhary-ResumeSkills-portfolio-case-study-writer
+display_name: portfolio-case-study-writer
+description: Transform resume bullets into detailed portfolio case studies
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/portfolio-case-study-writer
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

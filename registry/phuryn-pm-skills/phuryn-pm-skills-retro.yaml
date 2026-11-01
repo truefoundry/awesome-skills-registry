@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-retro
+display_name: retro
+description: "Facilitate a structured sprint retrospective \u2014 what went well,\
+  \ what didn't, and prioritized action items with owners and deadlines. Use when\
+  \ running a retrospective, reflecting on a sprint, creating action items from team\
+  \ feedback, or learning how to run effective retros."
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/retro
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

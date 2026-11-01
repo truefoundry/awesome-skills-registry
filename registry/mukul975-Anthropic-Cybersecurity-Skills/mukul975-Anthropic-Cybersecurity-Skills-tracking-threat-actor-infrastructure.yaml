@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-tracking-threat-actor-infrastructure
+display_name: tracking-threat-actor-infrastructure
+description: Discovers and maps adversary-controlled infrastructure (C2 servers, phishing
+  domains, exploit-kit hosts, bulletproof hosting) by pivoting across passive DNS,
+  certificate transparency logs, Shodan/Censys scans, WHOIS records, and network fingerprints
+  (JARM/JA3S). Use when tracking threat actor infrastructure, expanding a known IOC
+  into related assets, or producing STIX-based threat intelligence during a CTI investigation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tracking-threat-actor-infrastructure
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

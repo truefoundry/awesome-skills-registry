@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-modbus-command-injection-attacks
+display_name: detecting-modbus-command-injection-attacks
+description: Detect command injection against Modbus TCP/RTU in ICS/SCADA environments
+  by monitoring unauthorized writes, anomalous function codes, malformed frames, and
+  deviations from communication baselines using ICS-aware IDS and deep packet inspection.
+  Use when deploying IDS for Modbus OT networks, investigating unauthorized PLC register/coil
+  changes, or responding to FrostyGoop-style Modbus attacks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-modbus-command-injection-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

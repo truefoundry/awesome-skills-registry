@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-azure-activity-logs-for-threats
+display_name: analyzing-azure-activity-logs-for-threats
+description: Queries Azure Monitor activity logs and sign-in logs via azure-monitor-query
+  to detect suspicious administrative operations, impossible travel, privilege escalation,
+  and resource modifications. Builds KQL queries for threat hunting in Azure environments.
+  Use when investigating suspicious Azure tenant activity or building cloud SIEM detections.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-azure-activity-logs-for-threats
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

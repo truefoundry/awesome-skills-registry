@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-video-capability
+display_name: jetson-video-capability
+description: Use when Jetson codec, profile, chroma, bit-depth, dimension, engine-count,
+  or operational support must be reconciled from live APIs, authenticated NVIDIA samples,
+  and NVIDIA documentation; also applies the content-DRM scope.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-video-capability
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

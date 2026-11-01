@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-patch-tuesday-response-process
+display_name: building-patch-tuesday-response-process
+description: Establish a repeatable operational process for triaging, testing, and
+  deploying Microsoft Patch Tuesday security updates (Windows, Office, Exchange, SQL
+  Server, Azure) via WSUS/SCCM within risk-based remediation SLAs, from advisory review
+  through validation. Use when building or improving a monthly patch management workflow
+  or prioritizing which CVEs to remediate first.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-patch-tuesday-response-process
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

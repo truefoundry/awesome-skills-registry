@@ -1,0 +1,19 @@
+id: stripe-ai-stripe-apps
+display_name: stripe-apps
+description: Build, modify, or review Stripe Apps and extensions using the relevant
+  documentation and reference guides. Use for custom Stripe Dashboard UI, stripe-app.yaml,
+  @stripe/ui-extension-sdk, @stripe/extensibility-sdk, script extensions, extension
+  interfaces, custom workflow actions, and apps that authenticate to Stripe or react
+  to events. Also use when deciding whether a Stripe extension can support the user's
+  billing or workflow requirements.
+authors:
+- stripe
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/stripe-apps
+  repo: stripe/ai
+metadata:
+  stars: 2018
+added_at: '2026-11-01'

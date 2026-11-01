@@ -1,0 +1,18 @@
+id: garrytan-gbrain-google-loops
+display_name: google-loops
+description: 'Set up and operate the Gmail/Calendar/Contacts connector and the open-loop
+  engine: who is waiting on the user, what they promised, and the context needed to
+  respond. Covers painless BYO OAuth setup (exactly two user interactions), the daily
+  `gbrain waiting` digest, loop closing/muting, and troubleshooting via the typed
+  error catalog.'
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/google-loops
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

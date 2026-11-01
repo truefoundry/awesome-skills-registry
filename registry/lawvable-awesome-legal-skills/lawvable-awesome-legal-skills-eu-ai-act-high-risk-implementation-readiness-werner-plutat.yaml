@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-high-risk-implementation-readiness-werner-plutat
+display_name: eu-ai-act-high-risk-implementation-readiness
+description: "Assess and operationalize implementation readiness for high-risk AI\
+  \ systems under the EU AI Act Annex III, including provider and deployer obligations,\
+  \ conformity assessment, post-market monitoring, and EU database registration. Use\
+  \ when users say things like \u201Cwe classified this as high-risk, what now?\u201D\
+  , \u201Cbuild an EU AI Act readiness plan\u201D, \u201Cassess our Annex III compliance\
+  \ gaps\u201D, \u201Cwhat do providers/deployers of high-risk AI need to implement?\u201D\
+  , \u201Cprepare for conformity assessment\u201D, or \u201Ccreate a high-risk AI\
+  \ implementation roadmap.\u201D"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-high-risk-implementation-readiness-werner-plutat
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

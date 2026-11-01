@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-hunt-hypothesis-framework
+display_name: building-threat-hunt-hypothesis-framework
+description: Build a systematic threat-hunt workflow that turns threat intelligence
+  and ATT&CK gap analysis into testable hypotheses, then executes and validates them
+  via EDR/SIEM queries (CrowdStrike, Defender, Splunk, Elastic, Sysmon, Velociraptor,
+  Sigma) and documents findings in a standardized hunt report. Use when planning or
+  running a proactive threat hunt or scoping compromise from an intel- or anomaly-driven
+  lead.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-hunt-hypothesis-framework
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

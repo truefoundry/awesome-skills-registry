@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-dns-logs-for-exfiltration
+display_name: analyzing-dns-logs-for-exfiltration
+description: Analyzes DNS query logs to detect data exfiltration via DNS tunneling,
+  DGA domain communication, and covert C2 channels using entropy analysis, query volume
+  anomalies, and subdomain length detection in SIEM platforms. Use when SOC teams
+  need to identify DNS-based threats that bypass traditional network security controls.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-dns-logs-for-exfiltration
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

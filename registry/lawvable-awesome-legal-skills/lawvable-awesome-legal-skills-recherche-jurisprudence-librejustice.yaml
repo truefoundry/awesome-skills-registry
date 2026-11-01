@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-recherche-jurisprudence-librejustice
+display_name: recherche-jurisprudence
+description: "Search and cite French and European case law with the LibreJustice MCP\
+  \ tools. Use whenever the user asks about court decisions (Cour de cassation, Conseil\
+  \ d'\xC9tat, cours d'appel, TJ/TA, CNDA, Conseil constitutionnel, CNIL, CEDH, CJUE),\
+  \ needs authorities for a brief, requ\xEAte, r\xE9f\xE9r\xE9 or consultation, wants\
+  \ to check how courts rule on an issue, or needs counts of decisions on a point,\
+  \ even if they never mention LibreJustice."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/recherche-jurisprudence-librejustice
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

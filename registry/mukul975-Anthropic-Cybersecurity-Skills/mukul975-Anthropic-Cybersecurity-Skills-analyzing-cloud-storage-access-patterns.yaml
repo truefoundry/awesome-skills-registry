@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-cloud-storage-access-patterns
+display_name: analyzing-cloud-storage-access-patterns
+description: Detect abnormal access in AWS S3, GCS, and Azure Blob Storage by analyzing
+  CloudTrail Data Events, GCS audit logs, and Azure Storage Analytics for after-hours
+  bulk downloads, new-IP access, and API-call spikes (e.g. GetObject) via statistical
+  baselines and time-series anomaly detection. Use when investigating suspected cloud
+  data exfiltration or building related detection rules.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-cloud-storage-access-patterns
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

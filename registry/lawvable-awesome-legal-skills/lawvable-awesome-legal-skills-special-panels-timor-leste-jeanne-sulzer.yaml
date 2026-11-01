@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-special-panels-timor-leste-jeanne-sulzer
+display_name: special-panels-timor-leste-jeanne-sulzer
+description: "Verification-first methodology for the Special Panels for Serious Crimes\
+  \ of the Dili District Court (UNTAET, 2000\u20132006). Citations are verified against\
+  \ JSMP, the UN archives and legal-tools.org. Covers the Los Palos case, the Serious\
+  \ Crimes Unit caseload (391 indicted; about 88 tried) and the SPSC-vs-Jakarta distinction.\
+  \ Research aid, not legal advice. Part of the open-source \"Skills for International\
+  \ Justice\" library \u2014 methodology: github.com/jeannesulzer/international-criminal-tribunals-skills"
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/special-panels-timor-leste-jeanne-sulzer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

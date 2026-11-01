@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-itar-tanaji-hemant-naik
+display_name: itar
+description: "Expert ITAR compliance advisor for US defense contractors, exporters,\
+  \ and manufacturers. Use this skill for any question about 22 CFR Parts 120-130,\
+  \ the United States Munitions List (USML), DDTC registration, export license applications\
+  \ (DSP-5/73/94), Technical Assistance Agreements (TAA), Manufacturing License Agreements\
+  \ (MLA), brokering regulations (Part 129), deemed export rules for foreign nationals,\
+  \ technology control plans, voluntary disclosures, violation mitigation, jurisdiction\
+  \ determination (ITAR vs EAR), or US Munitions List category scoping. Trigger even\
+  \ if the user doesn't say \"skill\" \u2014 any ITAR or US defense export control\
+  \ question should use this skill."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/itar-tanaji-hemant-naik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

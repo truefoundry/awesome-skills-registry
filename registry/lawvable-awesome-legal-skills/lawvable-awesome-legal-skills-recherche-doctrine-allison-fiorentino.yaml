@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-recherche-doctrine-allison-fiorentino
+display_name: recherche-doctrine
+description: "Recherche acad\xE9mique dans les bases de donn\xE9es de doctrine juridique\
+  \ fran\xE7aise, europ\xE9enne et internationale. Utiliser cette skill lorsque l'utilisateur\
+  \ demande de rechercher des articles de doctrine, des th\xE8ses, des ouvrages acad\xE9\
+  miques, ou des travaux universitaires en droit \u2014 y compris en droit compar\xE9\
+  . Sources principales : ISIDORE (agr\xE9gateur SHS du CNRS incluant Cairn.info,\
+  \ Pers\xE9e, OpenEdition), HAL (archive ouverte fran\xE7aise), OpenAlex (base ouverte\
+  \ mondiale 250M+ travaux), Semantic Scholar, CrossRef, Pers\xE9e (OAI direct), et\
+  \ CORE. Couvre la doctrine juridique francophone ET internationale avec workflow\
+  \ bilingue int\xE9gr\xE9 pour le droit compar\xE9. D\xE9clencher aussi pour : bibliographie\
+  \ comment\xE9e, \xE9tat de l'art, revue de litt\xE9rature juridique, recherche d'auteur,\
+  \ v\xE9rification de citation, analyse bibliom\xE9trique."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/recherche-doctrine-allison-fiorentino
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-gateway-security-controls
+display_name: implementing-api-gateway-security-controls
+description: Configures API gateways such as Kong, AWS API Gateway, Azure APIM, or
+  Apigee as a centralized security enforcement point, covering authentication enforcement,
+  rate limiting and throttling, request validation, IP allowlisting, TLS termination,
+  and threat protection. Use when securing API traffic at the gateway layer, setting
+  up gateway-level authentication and quota management, or centralizing API protection
+  before requests reach backend services.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-gateway-security-controls
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

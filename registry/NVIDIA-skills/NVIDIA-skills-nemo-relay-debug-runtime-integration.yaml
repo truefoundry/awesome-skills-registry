@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-relay-debug-runtime-integration
+display_name: nemo-relay-debug-runtime-integration
+description: Use this skill when NeMo Relay is installed or imported but application-side
+  runtime behavior is missing or incorrect, including load failures, inactive scopes,
+  missing events, and plugin or adaptive wiring problems.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-relay-debug-runtime-integration
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

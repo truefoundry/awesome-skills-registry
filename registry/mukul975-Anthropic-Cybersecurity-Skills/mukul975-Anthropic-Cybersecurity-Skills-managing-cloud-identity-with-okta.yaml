@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-managing-cloud-identity-with-okta
+display_name: managing-cloud-identity-with-okta
+description: 'Implement Okta as a centralized cloud identity provider: configure SSO
+  with AWS, Azure, and GCP, deploy phishing-resistant MFA with Okta FastPass, automate
+  user provisioning/deprovisioning, and enforce adaptive access policies on device
+  posture and risk signals. Use when standing up Okta SSO, rolling out FastPass MFA,
+  automating identity lifecycle, or building risk-based conditional access for cloud
+  environments.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/managing-cloud-identity-with-okta
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

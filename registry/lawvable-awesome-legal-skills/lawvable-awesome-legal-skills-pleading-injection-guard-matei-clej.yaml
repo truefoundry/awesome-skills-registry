@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-pleading-injection-guard-matei-clej
+display_name: pleading-injection-guard
+description: 'Detects prompt injection hidden in documents from the other side (pleadings,
+  skeletons, bundles, served evidence, opponents'' emails and attachments) before
+  an AI reads them, so the model is not turned against your client. Checks word by
+  word that the text an extractor hands the model was visibly drawn on the page: white,
+  near-white, covered, clipped, off-page, tiny, transparent and invisible-mode text
+  in PDF (ink test plus OCR); Word formatting resolved as Word does (styles, shading,
+  theme colours, scaling, off-page frames, fallbacks, unused headers); HTML/CSS, RTF,
+  email with attachments and zips, xlsx/pptx and legacy formats. Flags Unicode smuggling,
+  text addressed to an AI and authorities found only in hidden text. Fails closed.
+  Optional Read-tool hook. Use BEFORE any AI summary or analysis of an opposing or
+  third-party document. Triggers: ''scan for injection'', ''is this document safe'',
+  ''check the other side''s skeleton'', ''injection guard''.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pleading-injection-guard-matei-clej
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

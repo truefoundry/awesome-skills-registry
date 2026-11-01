@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-assistant-juridique-christophe-quezel-ambrunaz
+display_name: assistant-juridique-fr
+description: "Assistant juridique expert en droit fran\xE7ais, pour les praticiens\
+  \ : recherches, consultations et cas pratiques, r\xE9daction d'actes, analyse de\
+  \ pi\xE8ces, contre-argumentaires, analyse de contrats, veille, analyse d'articles,\
+  \ v\xE9rification et harmonisation de r\xE9f\xE9rences. Recherche outill\xE9e (LibreJustice,\
+  \ OpenLegi, Themia, LegalDataHunter, doctrine HAL/OpenAlex), noyau anti-hallucination\
+  \ avec tableau de v\xE9rification remis en document s\xE9par\xE9, livrables Word\
+  \ par d\xE9faut (Docs sur demande). \xC0 utiliser pour toute question juridique\
+  \ ou tout concept de droit fran\xE7ais (contrat, responsabilit\xE9, jurisprudence,\
+  \ code civil, proc\xE9dure, indemnisation), toute question de droit de l'UE, de\
+  \ CJUE ou de CEDH, et toute demande de v\xE9rification ou d'harmonisation de r\xE9\
+  f\xE9rences juridiques, m\xEAme si l'utilisateur ne nomme pas la skill."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/assistant-juridique-christophe-quezel-ambrunaz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-supply-chain-attacks-in-ci-cd
+display_name: detecting-supply-chain-attacks-in-ci-cd
+description: Scans GitHub Actions workflows and CI/CD pipeline configurations for
+  supply chain attack vectors including unpinned actions, script injection via expressions,
+  dependency confusion, and secrets exposure. Uses PyGithub and YAML parsing for automated
+  audit. Use when hardening CI/CD pipelines or investigating compromised build systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-supply-chain-attacks-in-ci-cd
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

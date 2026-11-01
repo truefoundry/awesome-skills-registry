@@ -1,0 +1,16 @@
+id: lawvable-awesome-legal-skills-word-editor-superdoc
+display_name: docx-processing-superdoc
+description: Edit, query, and transform Word documents with the SuperDoc CLI v1 operation
+  surface. Use when the user asks to read, search, modify, comment, or review changes
+  in .docx files.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/word-editor-superdoc
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

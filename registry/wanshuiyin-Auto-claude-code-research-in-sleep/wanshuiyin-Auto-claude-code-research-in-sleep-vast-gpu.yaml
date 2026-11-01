@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-vast-gpu
+display_name: vast-gpu
+description: Rent, manage, and destroy GPU instances on vast.ai. Use when user says
+  "rent gpu", "vast.ai", "rent a server", "cloud gpu", or needs on-demand GPU without
+  owning hardware.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/vast-gpu
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

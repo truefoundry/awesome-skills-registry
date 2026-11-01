@@ -1,0 +1,16 @@
+id: NVIDIA-skills-jetson-flash-image
+display_name: jetson-flash-image
+description: Use to flash a promoted BSP image to a Jetson DUT in RCM mode via flash.sh
+  or l4t_initrd_flash.sh. Do NOT use for BSP customization, image promotion, or carrier
+  derivation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-flash-image
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

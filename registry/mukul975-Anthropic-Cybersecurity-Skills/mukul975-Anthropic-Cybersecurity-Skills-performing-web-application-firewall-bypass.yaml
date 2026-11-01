@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-web-application-firewall-bypass
+display_name: performing-web-application-firewall-bypass
+description: Bypasses Web Application Firewall protections using encoding tricks,
+  HTTP method manipulation, parameter pollution, and payload obfuscation to smuggle
+  SQL injection, XSS, and other exploit payloads past WAF detection rules. Use when
+  a confirmed vulnerability is blocked by a WAF, during penetration tests or red team
+  engagements requiring bypass of perimeter security controls, or when evaluating
+  WAF rule effectiveness and bypass resistance.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-web-application-firewall-bypass
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

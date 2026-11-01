@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-network-flow-data-with-netflow
+display_name: analyzing-network-flow-data-with-netflow
+description: Parse NetFlow v9 and IPFIX records to detect volumetric anomalies, port
+  scanning, data exfiltration, and C2 beaconing patterns. Uses the Python netflow
+  library to decode flow records, builds traffic baselines, and applies statistical
+  analysis to identify flows with abnormal byte counts, connection durations, and
+  periodic timing patterns.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-network-flow-data-with-netflow
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,24 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-long-horizon-prompting
+display_name: long-horizon-prompting
+description: 'This skill should be used when writing, enhancing, or evaluating the
+  launch prompt for a long-running autonomous agent or a parallel multi-agent orchestration
+  attacking a hard problem: pseudo-formal task briefs that define terms and an exact
+  success predicate linguistically, enumerate non-counting outcomes, set persistence
+  rules with explicit stop and return conditions and effort floors, manage a diverse
+  portfolio of parallel approaches with an approach registry and blocked-route bookkeeping,
+  and gate the return on adversarial audit. Route agent topology and coordination
+  protocols to multi-agent-patterns, runtime control surfaces and loop governance
+  to harness-engineering, evaluator and quality-gate construction to evaluation, judge
+  design to advanced-evaluation, and compaction or memory mechanics to context-compression
+  and memory-systems.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/long-horizon-prompting
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

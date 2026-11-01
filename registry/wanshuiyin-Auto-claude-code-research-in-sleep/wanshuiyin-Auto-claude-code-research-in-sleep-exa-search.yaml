@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-exa-search
+display_name: exa-search
+description: AI-powered web search via Exa with content extraction. Use when user
+  says "exa search", "web search with content", "find similar pages", or needs broad
+  web results beyond academic databases (arXiv, Semantic Scholar).
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/exa-search
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

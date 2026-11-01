@@ -1,0 +1,24 @@
+id: NVIDIA-skills-tao-validate-recipe-transfer
+display_name: tao-validate-recipe-transfer
+description: Port a published computer vision paper's official code and training recipe
+  onto a customer's own dataset, or diagnose why such a transfer produced bad numbers.
+  Use this whenever someone wants to reproduce a CV paper, run a paper's repo on their
+  own images, fine-tune a published detection/segmentation/classification/keypoint
+  model on customer data, adapt a training recipe to a new dataset, or figure out
+  why a fine-tuned vision model scores well on validation but fails in production.
+  Also use for post-mortems on any failed or disappointing CV training run, and whenever
+  a user mentions mAP that looks too good, a model that "worked in training but not
+  in deployment", or transferring hyperparameters from a paper to their own data.
+  Trigger even if the user only says "train a model on my dataset" and a published
+  architecture or repo is involved.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-validate-recipe-transfer
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

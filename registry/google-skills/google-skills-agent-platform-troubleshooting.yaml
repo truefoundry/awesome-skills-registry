@@ -1,0 +1,23 @@
+id: google-skills-agent-platform-troubleshooting
+display_name: agent-platform-troubleshooting
+description: Troubleshoots Google Cloud Gemini Enterprise Agent Platform issues across
+  Agent Gateway, Agent Connectivity Templates (ACT), Agent Registry, Agent Identity,
+  Identity-Aware Proxy (IAP), Unified Access Policies (UAP), Model Armor, Semantic
+  Governance Policies (SGP), Cloud DNS peering, Private CA TrustConfig, Next-Hop Secure
+  Web Proxy (SWP), Explicit HTTPS Proxy (L4 AuthzPolicy), and Cloud Trace. Use when
+  agent requests fail with 401/403/404/498/500/503 or Code 13, Egress request is not
+  authorized, HTTP CONNECT fails with 404, Agent Runtime crashes on startup, or gateway/ACT/IAP/Model
+  Armor/SGP configs fail validation. Don't use for general Google Cloud Identity and
+  Access Management (IAM) debugging or networking issues unrelated to the Agent Platform
+  stack.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-troubleshooting
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

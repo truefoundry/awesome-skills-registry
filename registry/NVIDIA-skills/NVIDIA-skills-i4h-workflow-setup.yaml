@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow-setup
+display_name: i4h-workflow-setup
+description: Preflight and set up the root-level workflow runtime. Use for installation,
+  missing component environments, or third-party failures; do not use for rollout
+  validation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-setup
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

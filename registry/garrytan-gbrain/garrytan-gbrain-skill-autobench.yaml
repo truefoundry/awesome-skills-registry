@@ -1,0 +1,22 @@
+id: garrytan-gbrain-skill-autobench
+display_name: skill-autobench
+description: "Author an eval for an existing skill from its REAL usage history, not\
+  \ its spec. Mine invocations from the brain's conversation archive (conversations/)\
+  \ and per-harness session transcripts \u2014 a user correction after an invocation\
+  \ is the gold signal \u2014 then synthesize an eval_contract plus 4-8 replayable\
+  \ cases with honesty labels (SPEC-DERIVED vs HISTORY-IMPLIED) and stage the result\
+  \ at skills/<name>/eval/autobench-<date>.md as PENDING-HUMAN-APPROVAL. Never rewrites\
+  \ SKILL.md. Ships two guard companions: panel integrity (multi-model judging must\
+  \ prove each provider actually responded) and the fail-improve taxonomy (logged\
+  \ LLM-fallback cases convert to deterministic code over time)."
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skill-autobench
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

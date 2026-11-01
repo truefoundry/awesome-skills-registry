@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-ablation-planner
+display_name: ablation-planner
+description: Use when main results pass result-to-claim (`claim_supported = yes` or
+  `partial`) and ablation studies are needed for paper submission. A secondary Codex
+  agent designs ablations from a reviewer's perspective; the local executor reviews
+  feasibility and implements.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/ablation-planner
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: obra-superpowers-test-driven-development
+display_name: test-driven-development
+description: Use when implementing any feature or bugfix, before writing implementation
+  code
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/test-driven-development
+  repo: obra/superpowers
+metadata:
+  stars: 310056
+added_at: '2026-11-01'

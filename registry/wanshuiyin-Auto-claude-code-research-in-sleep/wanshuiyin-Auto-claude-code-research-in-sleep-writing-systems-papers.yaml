@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-writing-systems-papers
+display_name: writing-systems-papers
+description: "Paragraph-level structural blueprint for 10-12 page systems papers targeting\
+  \ OSDI, SOSP, ASPLOS, NSDI, and EuroSys. Provides page allocation, paragraph templates,\
+  \ and writing patterns. Use when user says \"\u5199\u7CFB\u7EDF\u8BBA\u6587\", \"\
+  systems paper structure\", \"OSDI paper\", \"SOSP paper\", or wants fine-grained\
+  \ structural guidance for a systems conference submission."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/writing-systems-papers
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

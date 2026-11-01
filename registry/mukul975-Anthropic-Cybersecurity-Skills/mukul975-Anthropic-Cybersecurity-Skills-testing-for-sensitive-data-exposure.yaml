@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-sensitive-data-exposure
+display_name: testing-for-sensitive-data-exposure
+description: Identifying sensitive data exposure vulnerabilities including API key
+  leakage, PII in responses, insecure storage, and unprotected data transmission during
+  security assessments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-sensitive-data-exposure
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

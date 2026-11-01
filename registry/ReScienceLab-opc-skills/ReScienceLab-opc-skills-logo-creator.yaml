@@ -1,0 +1,17 @@
+id: ReScienceLab-opc-skills-logo-creator
+display_name: logo-creator
+description: Create logos using AI image generation. Discuss style/ratio, generate
+  variations, iterate with user feedback, crop, remove background, and export as SVG.
+  Use when user wants to create a logo, icon, favicon, brand mark, mascot, emblem,
+  or design a logo.
+authors:
+- ReScienceLab
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/logo-creator
+  repo: ReScienceLab/opc-skills
+metadata:
+  stars: 1888
+added_at: '2026-11-01'

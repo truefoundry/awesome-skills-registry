@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-analyze-detection-kpi
+display_name: tao-analyze-detection-kpi
+description: Run TAO Data Services KPI analysis for object detection, comparing inference
+  annotations against ground truth to compute per-class TP/FP/FN/TN, precision, recall,
+  accuracy, and AP at a fixed IoU. Use when an object detection workflow needs per-class
+  mAP reported after inference, or when the user asks to "run KPI analyze", "compute
+  detection mAP", or "score my OD predictions against ground truth".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-analyze-detection-kpi
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

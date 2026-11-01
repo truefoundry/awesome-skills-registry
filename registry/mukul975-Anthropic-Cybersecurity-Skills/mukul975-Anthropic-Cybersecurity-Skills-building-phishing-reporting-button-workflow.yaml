@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-phishing-reporting-button-workflow
+display_name: building-phishing-reporting-button-workflow
+description: Implement a phishing report button (Microsoft 365 built-in Report button
+  or third-party like KnowBe4/Cofense) in email clients with a SOAR-driven automated
+  triage workflow that classifies reported emails, extracts IOCs, takes remediation
+  actions, and gives feedback to reporters. Use when deploying user-reported phishing
+  intake or automating triage of the resulting reporting mailbox.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-phishing-reporting-button-workflow
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

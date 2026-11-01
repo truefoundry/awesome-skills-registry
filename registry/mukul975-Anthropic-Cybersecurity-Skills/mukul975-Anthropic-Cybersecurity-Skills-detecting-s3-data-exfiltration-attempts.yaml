@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-s3-data-exfiltration-attempts
+display_name: detecting-s3-data-exfiltration-attempts
+description: Detecting data exfiltration attempts from AWS S3 buckets by analyzing
+  CloudTrail S3 data events, VPC Flow Logs, GuardDuty findings, Amazon Macie alerts,
+  and S3 access patterns to identify unauthorized bulk downloads and cross-account
+  data transfers.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-s3-data-exfiltration-attempts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

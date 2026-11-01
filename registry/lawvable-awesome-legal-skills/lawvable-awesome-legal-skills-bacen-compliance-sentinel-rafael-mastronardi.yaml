@@ -1,0 +1,27 @@
+id: lawvable-awesome-legal-skills-bacen-compliance-sentinel-rafael-mastronardi
+display_name: bacen-compliance-sentinel-rafael-mastronardi
+description: "Orienta\xE7\xE3o completa sobre conformidade com regulamenta\xE7\xF5\
+  es do Banco Central do Brasil: Resolu\xE7\xE3o CMN n\xBA 4.893/2021 (Pol\xEDtica\
+  \ de Seguran\xE7a Cibern\xE9tica), Resolu\xE7\xE3o BCB n\xBA 85/2021 (GRSIC), Open\
+  \ Finance Brasil (Resolu\xE7\xF5es BCB n\xBA 32/2020 e atualiza\xE7\xF5es), e demais\
+  \ normas prudenciais do BACEN. Cobre elabora\xE7\xE3o e revis\xE3o de Pol\xEDtica\
+  \ de Seguran\xE7a Cibern\xE9tica, Plano de A\xE7\xE3o e Resposta a Incidentes (PARI),\
+  \ Gest\xE3o de Riscos de Servi\xE7os de Informa\xE7\xE3o e Comunica\xE7\xE3o (GRSIC),\
+  \ consentimento e compartilhamento de dados no Open Finance, requisitos de API,\
+  \ gest\xE3o de terceiros (outsourcing) e san\xE7\xF5es do BACEN. Triggers: Bacen,\
+  \ Banco Central, CMN 4.893, Resolu\xE7\xE3o 4.893, seguran\xE7a cibern\xE9tica banc\xE1\
+  ria, PARI, GRSIC, Open Finance, Open Banking, compartilhamento de dados financeiros,\
+  \ consentimento Open Finance, API financeira, outsourcing banc\xE1rio, risco cibern\xE9\
+  tico, incidente cibern\xE9tico banco, LGPD financeira, fintech compliance, institui\xE7\
+  \xE3o financeira, DICT, Pix seguran\xE7a."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/bacen-compliance-sentinel-rafael-mastronardi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-ad-hoc-distribution
+display_name: asc-ad-hoc-distribution
+description: Prepare, publish, resume, and verify private iOS release-testing installs
+  with asc distribute. Use when distributing an IPA to registered devices outside
+  TestFlight, reconciling ad hoc profiles, publishing through caller-owned S3-compatible
+  storage, or diagnosing a resumable private distribution run.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-ad-hoc-distribution
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

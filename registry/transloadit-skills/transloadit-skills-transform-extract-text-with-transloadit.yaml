@@ -1,0 +1,15 @@
+id: transloadit-skills-transform-extract-text-with-transloadit
+display_name: transform-extract-text-with-transloadit
+description: Extract readable text or JSON from local PDFs, scans, photos and Office
+  documents using the extract-text Builtin and the official Transloadit CLI.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-extract-text-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 5
+added_at: '2026-11-01'

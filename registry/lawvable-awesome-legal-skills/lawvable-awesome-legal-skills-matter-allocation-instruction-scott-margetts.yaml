@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-matter-allocation-instruction-scott-margetts
+display_name: matter-allocation-instruction
+description: 'Firm-matter matching, matter instruction drafting, firm onboarding checklist,
+  and instruction audit for in-house legal ops teams. Match a new matter to the right
+  panel firm by practice area, jurisdiction, complexity, and cost tier. Produce a
+  structured matter instruction with scope, timeline, budget, staffing, and reporting
+  requirements. Generate an onboarding checklist covering conflict clearance, engagement
+  letter, OCG acknowledgment, e-billing setup, and platform access. Audit an existing
+  instruction for completeness and produce a remediation note. Trigger on: ''which
+  firm should handle this'', ''instruct the firm'', ''write the instruction'', ''matter
+  instruction template'', ''onboard the firm'', ''set up the matter'', ''conflict
+  check'', ''e-billing setup'', ''is our instruction complete'', ''review our instruction'',
+  ''instruction gap'', ''allocate this matter''.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/matter-allocation-instruction-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

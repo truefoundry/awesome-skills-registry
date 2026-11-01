@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-identity-aware-proxy-with-google-iap
+display_name: configuring-identity-aware-proxy-with-google-iap
+description: Configures Google Cloud Identity-Aware Proxy (IAP) via gcloud to enforce
+  per-request identity verification on Compute Engine, App Engine, Cloud Run, and
+  GKE, including IAM bindings, Access Context Manager access levels, session/reauth
+  settings, and service-account programmatic access. Use when replacing VPN access
+  with identity-based access to GCP backends or configuring context-aware, zero-trust
+  policies for Google Cloud services.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-identity-aware-proxy-with-google-iap
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

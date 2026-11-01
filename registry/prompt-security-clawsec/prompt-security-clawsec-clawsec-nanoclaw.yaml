@@ -1,0 +1,15 @@
+id: prompt-security-clawsec-clawsec-nanoclaw
+display_name: clawsec-nanoclaw
+description: Use when checking for security vulnerabilities in NanoClaw skills, before
+  installing new skills, or when asked about security advisories affecting the bot
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/clawsec-nanoclaw
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

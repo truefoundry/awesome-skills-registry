@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-validating-tpm-measured-boot-attestation
+display_name: validating-tpm-measured-boot-attestation
+description: Verifies TPM 2.0 measured-boot integrity and remote attestation with
+  tpm2-tools -- reading PCRs (tpm2_pcrread), replaying the boot event log, generating
+  and checking signed quotes (tpm2_quote/tpm2_checkquote), and sealing secrets to
+  a PCR policy. Use to confirm a system booted trusted firmware/kernel for Zero Trust
+  device posture, detect boot-chain tampering via PCR drift, or build a golden-value
+  baseline for fleet attestation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/validating-tpm-measured-boot-attestation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

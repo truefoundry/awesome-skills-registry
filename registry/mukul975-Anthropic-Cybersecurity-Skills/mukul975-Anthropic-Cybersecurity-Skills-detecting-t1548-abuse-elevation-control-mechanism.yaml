@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-t1548-abuse-elevation-control-mechanism
+display_name: detecting-t1548-abuse-elevation-control-mechanism
+description: Detect abuse of elevation control mechanisms (T1548), including Windows
+  UAC bypass via auto-elevating binaries like fodhelper.exe and Linux sudo/setuid/setgid
+  exploitation, by monitoring registry changes, integrity-level transitions, and parent-child
+  process relationships via Sysmon and Windows Security events. Use when hunting privilege-escalation
+  activity or validating elevation-abuse detection coverage.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-t1548-abuse-elevation-control-mechanism
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-fintech-agreement-drafting-stephane-boghossian
+display_name: fintech-agreement-drafting-stephane-boghossian
+description: "An end-to-end method for drafting and finalising a complex, multi-pillar\
+  \ regulated fintech agreement \u2014 from intake to signature. Authored from a senior\
+  \ fintech lawyer's manual: a licensed payment-services provider engaging a counterparty\
+  \ across agent cash-in/cash-out, QR payments, wallet e-payments, and a marketplace,\
+  \ each with its own regulatory profile. Runs five phases and fourteen steps: regulatory\
+  \ mapping (activity-to-licence matrix, grey-zone classification gates), architecture\
+  \ (framework-plus-sub-agreement structure, ring-fenced marketplace), the regulatory\u2013\
+  commercial balance (what flexes vs what cannot), core drafting (authority, float\
+  \ mechanics, hard-coded regulator caps, liability \u2014 all tracking control),\
+  \ execution-blocker triage, and a pre-signature check closing open blockers as conditions\
+  \ precedent. It refuses to invent licence-specific values or draft a representation\
+  \ as true without executed evidence. Use it to structure, draft, negotiate, or review\
+  \ any regulated payments contract."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/fintech-agreement-drafting-stephane-boghossian
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

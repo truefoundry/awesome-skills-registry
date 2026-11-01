@@ -1,0 +1,18 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-memory-systems
+display_name: memory-systems
+description: 'This skill should be used for persistent semantic memory in agent systems:
+  cross-session knowledge retention, entity tracking, temporal validity, graph or
+  vector retrieval, memory consolidation, and memory benchmark selection. Route file-backed
+  scratchpads to filesystem-context, handoff summaries to context-compression, and
+  token-efficiency tactics to context-optimization.'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/memory-systems
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 18263
+added_at: '2026-11-01'

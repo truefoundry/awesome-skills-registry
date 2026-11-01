@@ -1,0 +1,17 @@
+id: NVIDIA-skills-deepstream-import-vision-model
+display_name: deepstream-import-vision-model
+description: 'Use this skill to bring a supported object-detection vision model from
+  HuggingFace or NVIDIA NGC into an NVIDIA DeepStream pipeline with end-to-end automation:
+  ONNX download, SafeTensors export, TRT engine build, custom nvinfer bbox parser,
+  multi-stream benchmark, and PDF report. Object detection models only.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/deepstream-import-vision-model
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

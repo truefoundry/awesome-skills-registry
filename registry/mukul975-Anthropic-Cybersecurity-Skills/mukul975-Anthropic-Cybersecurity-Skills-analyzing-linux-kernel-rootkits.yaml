@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-linux-kernel-rootkits
+display_name: analyzing-linux-kernel-rootkits
+description: Detect kernel-level rootkits in Linux memory dumps using Volatility3
+  linux plugins (check_syscall, lsmod, hidden_modules), rkhunter system scanning,
+  and /proc vs /sys discrepancy analysis to identify hooked syscalls, hidden kernel
+  modules, and tampered system structures.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-linux-kernel-rootkits
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

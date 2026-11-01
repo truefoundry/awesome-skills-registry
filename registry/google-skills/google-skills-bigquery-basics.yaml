@@ -1,0 +1,16 @@
+id: google-skills-bigquery-basics
+display_name: bigquery-basics
+description: Manages datasets, tables, and jobs in BigQuery. Use when you need to
+  interact with BigQuery, run SQL queries, manage BigQuery resources (datasets, tables,
+  views), or perform basic data ingestion and analysis.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/bigquery-basics
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

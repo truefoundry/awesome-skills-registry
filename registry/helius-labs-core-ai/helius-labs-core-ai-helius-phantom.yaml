@@ -1,0 +1,17 @@
+id: helius-labs-core-ai-helius-phantom
+display_name: helius-phantom
+description: Build frontend Solana applications with Phantom Connect SDK and Helius
+  infrastructure. Covers React, React Native, and browser SDK integration, transaction
+  signing via Helius Sender, API key proxying, token gating, NFT minting, crypto payments,
+  real-time updates, and secure frontend architecture.
+authors:
+- helius-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /helius-skills/helius-phantom
+  repo: helius-labs/core-ai
+metadata:
+  stars: 29
+added_at: '2026-11-01'

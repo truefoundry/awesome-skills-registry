@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-draft-nda
+display_name: draft-nda
+description: Draft a detailed Non-Disclosure Agreement between two parties covering
+  information types, jurisdiction, and clauses needing legal review. Use when creating
+  confidentiality agreements or preparing an NDA for a partnership.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-toolkit/skills/draft-nda
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

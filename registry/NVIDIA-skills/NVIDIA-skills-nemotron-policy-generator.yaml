@@ -1,0 +1,18 @@
+id: NVIDIA-skills-nemotron-policy-generator
+display_name: nemotron-policy-generator
+description: "Generates BYO custom safety policies for NVIDIA Nemotron content-safety\
+  \ guardrails \u2014 Nemotron-Content-Safety-Reasoning-4B (text) and multimodal Nemotron-3-Content-Safety.\
+  \ Produces a Markdown policy, JSON taxonomy, and drop-in inference prompts. Maps\
+  \ rough words or an existing policy to V2 categories, adding custom categories or\
+  \ topic-following rules."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemotron-policy-generator
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-pricing-strategy
+display_name: pricing-strategy
+description: Analyze and design pricing strategies including pricing models, competitive
+  pricing analysis, willingness-to-pay estimation, and price elasticity. Use when
+  setting prices, evaluating pricing models, preparing for a pricing change, or comparing
+  freemium vs paid approaches.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-strategy/skills/pricing-strategy
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

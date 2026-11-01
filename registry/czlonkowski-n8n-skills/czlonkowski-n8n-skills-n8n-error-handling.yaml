@@ -1,0 +1,20 @@
+id: czlonkowski-n8n-skills-n8n-error-handling
+display_name: n8n-error-handling
+description: "Wire n8n error handling so failures are loud, structured, and recoverable.\
+  \ Use when building any webhook/API workflow, a scheduled or unattended workflow,\
+  \ or any path where a silent failure would drop user-visible work \u2014 and whenever\
+  \ the user mentions error handling, onError, continueErrorOutput, error branches/outputs,\
+  \ retries, retryOnFail, Respond to Webhook status codes, 4xx/5xx, Error Trigger,\
+  \ or \"my workflow fails silently\". Covers per-node error outputs and wiring, retry/self-healing,\
+  \ error-trigger workflows, and 4xx/5xx response shapes."
+authors:
+- czlonkowski
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/n8n-error-handling
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 6557
+added_at: '2026-11-01'

@@ -1,0 +1,17 @@
+id: phuryn-pm-skills-sql-queries
+display_name: sql-queries
+description: Generate SQL queries from natural language descriptions. Supports BigQuery,
+  PostgreSQL, MySQL, and other dialects. Reads database schemas from uploaded diagrams
+  or documentation. Use when writing SQL, building data reports, exploring databases,
+  or translating business questions into queries.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-data-analytics/skills/sql-queries
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

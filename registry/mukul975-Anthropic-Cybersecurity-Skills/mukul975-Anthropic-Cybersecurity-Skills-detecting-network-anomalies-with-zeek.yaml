@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-network-anomalies-with-zeek
+display_name: detecting-network-anomalies-with-zeek
+description: Deploy and configure Zeek (formerly Bro) to passively analyze network
+  traffic, generate structured connection/DNS/HTTP/SSL/file logs, detect anomalous
+  behavior, and write custom scripts for organization-specific threats. Use for passive
+  monitoring at network choke points, feeding SIEM/threat hunting with protocol metadata,
+  or retrospective log analysis during incident response; not a substitute for inline
+  IDS/IPS or host agents.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-network-anomalies-with-zeek
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-relay-instrument-context-isolation
+display_name: nemo-relay-instrument-context-isolation
+description: Use this skill when concurrent requests, async tasks, threads, workers,
+  goroutines, or agents need independent NeMo Relay scope stacks and correct ancestry
+  propagation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-relay-instrument-context-isolation
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

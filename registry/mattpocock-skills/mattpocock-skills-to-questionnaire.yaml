@@ -1,0 +1,15 @@
+id: mattpocock-skills-to-questionnaire
+display_name: to-questionnaire
+description: Turn a decision you can't fully answer into a questionnaire for someone
+  else to fill in.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/productivity/to-questionnaire
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

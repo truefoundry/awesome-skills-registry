@@ -1,0 +1,17 @@
+id: lawvable-awesome-legal-skills-nda-reviewer-anthropic
+display_name: nda-triage-anthropic
+description: Screen incoming NDAs and classify them as GREEN (standard), YELLOW (needs
+  review), or RED (significant issues). Use when a new NDA comes in from sales or
+  business development, when assessing NDA risk level, or when deciding whether an
+  NDA needs full counsel review.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/nda-reviewer-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

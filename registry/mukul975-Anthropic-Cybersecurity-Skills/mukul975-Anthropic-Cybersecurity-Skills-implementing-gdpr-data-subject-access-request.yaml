@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-gdpr-data-subject-access-request
+display_name: implementing-gdpr-data-subject-access-request
+description: Automates GDPR Data Subject Access Request (DSAR) workflows including
+  identity verification, PII discovery across databases and files using regex and
+  NER, data mapping, response templating per Article 15 requirements, deadline tracking,
+  and audit logging. Covers ICO/EDPB guidance compliance, exemption handling, and
+  scalable batch processing. Use when building or auditing DSAR response capabilities
+  under GDPR/UK GDPR.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-gdpr-data-subject-access-request
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

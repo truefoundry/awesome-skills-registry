@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-application-form-filler
+display_name: application-form-filler
+description: Fill out job application form fields with context-aware, tailored answers
+  drawn from the candidate's CV and the job description
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/application-form-filler
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

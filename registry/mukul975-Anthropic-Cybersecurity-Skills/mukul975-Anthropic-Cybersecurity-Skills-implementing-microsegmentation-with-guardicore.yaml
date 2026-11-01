@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-microsegmentation-with-guardicore
+display_name: implementing-microsegmentation-with-guardicore
+description: Implements microsegmentation with Akamai Guardicore Segmentation to map
+  application dependencies, visualize east-west traffic flows, and create granular,
+  least-privilege network policies across VMs, containers, bare metal, and cloud.
+  Use when blocking lateral movement in a data center or when PCI DSS/HIPAA compliance
+  requires validated network segmentation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-microsegmentation-with-guardicore
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

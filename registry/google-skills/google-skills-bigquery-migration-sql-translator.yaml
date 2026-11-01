@@ -1,0 +1,20 @@
+id: google-skills-bigquery-migration-sql-translator
+display_name: bigquery-migration-sql-translator
+description: Translates SQL queries, DDL schemas, and stored procedures from legacy
+  database dialects (Teradata, Oracle, Redshift, Snowflake, SparkSQL, HiveQL) to BigQuery
+  GoogleSQL using the BigQuery Migration Service (BQMS) MCP server. Use when translating
+  legacy SQL queries, migrating schemas or metadata zip archives, or configuring BigQuery
+  Migration Service (BQMS) YAML translation settings. Don't use for executing BigQuery
+  queries or managing datasets and tables (use bigquery-basics), diagnosing runtime
+  job errors (use bigquery-troubleshooting), or tuning slot reservations (use bigquery-optimization).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/bigquery-migration-sql-translator
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

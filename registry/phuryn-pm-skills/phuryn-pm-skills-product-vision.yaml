@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-product-vision
+display_name: product-vision
+description: Brainstorm an inspiring, achievable, and emotional product vision that
+  motivates teams and aligns stakeholders. Use when defining or refining a product
+  vision, creating a vision statement, or aligning the team around a shared direction.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-product-strategy/skills/product-vision
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

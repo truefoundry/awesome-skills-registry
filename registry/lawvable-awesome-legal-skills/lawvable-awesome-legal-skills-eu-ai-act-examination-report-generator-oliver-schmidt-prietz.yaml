@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-examination-report-generator-oliver-schmidt-prietz
+display_name: eu-ai-act-report-oliver-schmidt-prietz
+description: "Generates a formal, structured AI Act compliance assessment report suitable\
+  \ for legal files, audit trails, and regulatory inquiries. This skill should be\
+  \ used when the user asks to \"generate an AI Act report\", \"create a compliance\
+  \ assessment report\", \"document the AI Act analysis\", \"create a Pr\xFCfbericht\"\
+  , \"export as Word document\", or wants to consolidate prior AI Act skill outputs\
+  \ into a formal documented assessment."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-examination-report-generator-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

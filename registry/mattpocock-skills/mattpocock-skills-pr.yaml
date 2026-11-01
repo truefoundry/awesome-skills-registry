@@ -1,0 +1,14 @@
+id: mattpocock-skills-pr
+display_name: pr
+description: Use when writing a PR body.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/pr
+  repo: mattpocock/skills
+metadata:
+  stars: 308367
+added_at: '2026-11-01'

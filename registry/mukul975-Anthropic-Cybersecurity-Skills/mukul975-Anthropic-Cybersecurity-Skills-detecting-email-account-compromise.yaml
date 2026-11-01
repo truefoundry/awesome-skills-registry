@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-email-account-compromise
+display_name: detecting-email-account-compromise
+description: Detect compromised O365 and Google Workspace email accounts by analyzing
+  Unified Audit Logs and Azure AD sign-in logs for impossible travel, inbox rule creation/deletion
+  (Set-InboxRule, New-InboxRule), external mail forwarding rules, and unusual Microsoft
+  Graph API access or OAuth token use. Use when investigating suspected business email
+  compromise (BEC), account takeover, or mailbox persistence via malicious inbox rules.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-email-account-compromise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

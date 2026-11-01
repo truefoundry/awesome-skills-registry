@@ -1,0 +1,17 @@
+id: CloudAI-X-threejs-skills-threejs-performance
+display_name: threejs-performance
+description: 'Measuring and optimizing three.js speed: render statistics, memory counters,
+  fewer draw calls via merging, instancing, batching and LOD, fill rate, shadows,
+  CPU work per frame, shader stalls and GPU compute for particles, WebGL or WebGPU
+  with TSL. Use when a scene is slow, janks or exceeds memory.'
+authors:
+- CloudAI-X
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/threejs-performance
+  repo: CloudAI-X/threejs-skills
+metadata:
+  stars: 3888
+added_at: '2026-11-01'

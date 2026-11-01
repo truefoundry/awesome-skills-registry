@@ -1,0 +1,19 @@
+id: garrytan-gbrain-two-tier-extraction
+display_name: two-tier-extraction
+description: Tiered LLM extraction pattern for large corpus processing (email archives,
+  document dumps, transcript libraries). A utility-tier model triages and classifies
+  at speed; the reasoning tier does the default deep read; the deep tier is the escalation
+  for the highest-value content. Prevents spending deep-tier money on noise while
+  ensuring the important content gets the best eyes. A deterministic privacy wall
+  runs before any LLM call.
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/two-tier-extraction
+  repo: garrytan/gbrain
+metadata:
+  stars: 31398
+added_at: '2026-11-01'

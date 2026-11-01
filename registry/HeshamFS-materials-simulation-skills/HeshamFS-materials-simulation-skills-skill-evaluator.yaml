@@ -1,0 +1,23 @@
+id: HeshamFS-materials-simulation-skills-skill-evaluator
+display_name: skill-evaluator
+description: "Rigorously evaluate an Agent Skill end-to-end across ANY coding-agent\
+  \ CLI \u2014 verify its scripts emit the documented numbers (deterministic checks),\
+  \ test whether its description triggers on the right prompts, and measure whether\
+  \ an agent following the SKILL.md beats a no-skill baseline (with/without pass-rate\
+  \ delta, mean \xB1 stddev, benchmarked). Use whenever you need to test, benchmark,\
+  \ validate, grade, or quantify a skill's quality, check if a skill \"actually works,\"\
+  \ compare two skill versions, optimize a skill's triggering, or set up an eval suite\
+  \ \u2014 even if the user just says \"is this skill any good,\" \"does my skill\
+  \ work,\" or \"benchmark this skill.\" Drives Claude Code, OpenAI Codex, Antigravity\
+  \ (agy), Cursor, GitHub Copilot, Amp, opencode, or Grok in headless mode."
+authors:
+- HeshamFS
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/meta/skill-evaluator
+  repo: HeshamFS/materials-simulation-skills
+metadata:
+  stars: 83
+added_at: '2026-11-01'

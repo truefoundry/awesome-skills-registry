@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-keenable-search
+display_name: keenable-search
+description: Keyless web search and page fetch via Keenable. Use when user says "keenable
+  search", "web search without an API key", "fetch this page as markdown", or needs
+  broad web results beyond academic databases (arXiv, Semantic Scholar) with no search
+  API key set up.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/keenable-search
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-thesis-assesor-seth-chandler
+display_name: thesis-assesor
+description: 'Critically assess and improve a legal scholarly thesis, article idea,
+  student note, seminar-paper claim, or research agenda using Eugene Volokh''s novelty,
+  nonobviousness, utility, and soundness framework, connector-aware research, claim-specific
+  tests, and a sustainable adversarial pass. Produces a self-contained green-, yellow-,
+  or red-light report. Use when a law professor or law student asks whether a claim
+  is viable, novel, publishable, preempted, useful, worth pursuing, or better than
+  competing topics; or wants a thesis stress-tested, narrowed, repaired, or compared.
+  No connector is required: use connected legal and scholarly research when available,
+  public sources otherwise, and disclose any no-research fallback.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/thesis-assesor-seth-chandler
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

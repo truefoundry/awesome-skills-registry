@@ -1,0 +1,21 @@
+id: raintree-technology-apple-hig-skills-hig-components-dialogs
+display_name: hig-components-dialogs
+description: 'Apple HIG guidance for presentation components including alerts, action
+  sheets, popovers, sheets, and digit entry views. Use this skill when the user says
+  "should I use an alert or a sheet," "how do I show a confirmation dialog," "when
+  should I use a popover," "my modals are annoying users," or asks about alert design,
+  action sheet, popover, sheet, modal, dialog, digit entry, confirmation dialog, warning
+  dialog, modal presentation, non-modal content, destructive action confirmation,
+  or overlay UI patterns. Cross-references: hig-components-menus, hig-components-controls,
+  hig-components-search, hig-patterns.'
+authors:
+- raintree-technology
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hig-components-dialogs
+  repo: raintree-technology/apple-hig-skills
+metadata:
+  stars: 148
+added_at: '2026-11-01'

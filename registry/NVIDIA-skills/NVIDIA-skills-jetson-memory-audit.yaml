@@ -1,0 +1,15 @@
+id: NVIDIA-skills-jetson-memory-audit
+display_name: jetson-memory-audit
+description: Measure Jetson DRAM/NvMap usage and verify before/after memory reclamation
+  with live audit data.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/jetson-memory-audit
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

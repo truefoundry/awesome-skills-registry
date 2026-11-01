@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-detection-rules-with-sigma
+display_name: building-detection-rules-with-sigma
+description: Builds vendor-agnostic detection rules using the Sigma rule format for
+  threat detection across SIEM platforms including Splunk, Elastic, and Microsoft
+  Sentinel. Use when creating portable detection logic from threat intelligence, mapping
+  rules to MITRE ATT&CK techniques, or converting community Sigma rules into platform-specific
+  queries using sigmac or pySigma backends.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-detection-rules-with-sigma
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

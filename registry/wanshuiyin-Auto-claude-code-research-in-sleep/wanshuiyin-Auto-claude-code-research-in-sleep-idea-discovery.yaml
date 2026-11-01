@@ -1,0 +1,17 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-idea-discovery
+display_name: idea-discovery
+description: "Workflow 1: Full idea discovery pipeline to go from a broad research\
+  \ direction to validated, pilot-tested ideas. Use when user says \"\u627Eidea\u5168\
+  \u6D41\u7A0B\", \"idea discovery pipeline\", \"\u4ECE\u96F6\u5F00\u59CB\u627E\u65B9\
+  \u5411\", or wants the complete idea exploration workflow."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/idea-discovery
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 18370
+added_at: '2026-11-01'

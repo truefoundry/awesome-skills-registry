@@ -1,0 +1,18 @@
+id: NVIDIA-skills-bionemo-kermt-embed
+display_name: kermt-embed
+description: Extract per-molecule embeddings from any encoder-bearing KERMT checkpoint.
+  Use a local checkpoint or optionally download a pinned Hugging Face model bundle
+  using HF_TOKEN if configured. Run containerized embedding extraction and write model
+  bundles, per-readout .npy embeddings, canonical SMILES, and validity arrays to user-selected
+  host directories.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-kermt-embed
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

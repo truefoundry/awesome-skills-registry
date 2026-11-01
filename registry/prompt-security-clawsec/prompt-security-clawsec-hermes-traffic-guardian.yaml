@@ -1,0 +1,15 @@
+id: prompt-security-clawsec-hermes-traffic-guardian
+display_name: hermes-traffic-guardian
+description: Hermes runtime traffic monitoring baseline for opt-in proxy inspection,
+  egress detection, and attestation-aware traffic posture.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/hermes-traffic-guardian
+  repo: prompt-security/clawsec
+metadata:
+  stars: 1128
+added_at: '2026-11-01'

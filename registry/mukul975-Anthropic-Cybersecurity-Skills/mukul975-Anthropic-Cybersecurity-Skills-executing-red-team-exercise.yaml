@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-executing-red-team-exercise
+display_name: executing-red-team-exercise
+description: Run a stealthy, MITRE ATT&CK-mapped adversary emulation against an organization's
+  people, processes, and technology, using C2 infrastructure (Cobalt Strike, Sliver,
+  Brute Ratel, Mythic) through the full attack lifecycle to test SOC detection and
+  response rather than just find vulnerabilities. Use when executing a full-scope
+  red team exercise, adversary simulation/emulation, or a regulatory exercise (TIBER-EU,
+  CBEST, AASE, iCAST) with executive authorization and a signed Rules of Engagement
+  already in place.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/executing-red-team-exercise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

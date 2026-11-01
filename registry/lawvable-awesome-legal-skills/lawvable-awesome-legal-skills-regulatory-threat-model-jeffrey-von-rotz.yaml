@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-regulatory-threat-model-jeffrey-von-rotz
+display_name: regulatory-threat-model
+description: "Use when an application or system \u2014 including one built quickly\
+  \ with AI coding agents \u2014 needs a security review with regulatory grounding:\
+  \ a STRIDE threat model, a LINDDUN privacy threat model, a dependency exposure screen\
+  \ against live CVE / CISA-KEV / EPSS data, or a selected, non-exhaustive screen\
+  \ of which EU security obligations (GDPR, NIS2, Cyber Resilience Act, AI Act) may\
+  \ apply and which need determination. Orchestrates the server-enforced threat-modeling\
+  \ workflows of the Ansvar Gateway MCP connector and grounds every regulatory statement\
+  \ in officially published text fetched at answer time \u2014 scope, role, and application-date\
+  \ limits stated, never a compliance verdict. Never simulates a workflow and never\
+  \ answers legal questions from model memory."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/regulatory-threat-model-jeffrey-von-rotz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

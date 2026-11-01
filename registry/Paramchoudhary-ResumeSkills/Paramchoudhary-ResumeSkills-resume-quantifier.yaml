@@ -1,0 +1,15 @@
+id: Paramchoudhary-ResumeSkills-resume-quantifier
+display_name: resume-quantifier
+description: Find opportunities to add metrics and estimate numbers when exact data
+  unavailable
+authors:
+- Paramchoudhary
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resume-quantifier
+  repo: Paramchoudhary/ResumeSkills
+metadata:
+  stars: 2975
+added_at: '2026-11-01'

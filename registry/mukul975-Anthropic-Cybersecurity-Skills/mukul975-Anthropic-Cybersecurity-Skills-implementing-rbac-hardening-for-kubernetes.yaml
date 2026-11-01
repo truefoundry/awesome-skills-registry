@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-rbac-hardening-for-kubernetes
+display_name: implementing-rbac-hardening-for-kubernetes
+description: 'Hardens Kubernetes RBAC by designing least-privilege Roles and ClusterRoles,
+  auditing RoleBindings, eliminating cluster-admin sprawl, separating service accounts,
+  and integrating an external OIDC identity provider. Use when tightening cluster
+  access control, removing excessive ClusterRoleBindings, or hardening service-account
+  permissions against escalation and lateral movement. Keywords: RBAC, Role, ClusterRole,
+  RoleBinding, least privilege, service account, OIDC, cluster-admin. Do not use for
+  discovering existing escalation paths - use auditing-kubernetes-rbac-privilege-escalation.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-rbac-hardening-for-kubernetes
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-email-header-injection
+display_name: testing-for-email-header-injection
+description: Tests web application email functionality (contact forms, password reset,
+  newsletter subscriptions) for CRLF/SMTP header injection using Burp Suite and OWASP
+  ZAP, checking whether attackers can inject headers, modify recipients, or abuse
+  forms for spam relay. Use when testing any user-input-driven email-sending feature
+  during a penetration test.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-email-header-injection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-github-actions-workflows
+display_name: securing-github-actions-workflows
+description: 'Hardens GitHub Actions workflows against supply chain attacks, credential
+  theft, and privilege escalation: pinning actions to SHA digests, minimizing GITHUB_TOKEN
+  permissions, protecting secrets, preventing script injection in workflow expressions,
+  and requiring reviewers for workflow changes. Use when hardening GitHub Actions
+  workflows that handle secrets, deploy to production, or run with elevated permissions.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-github-actions-workflows
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

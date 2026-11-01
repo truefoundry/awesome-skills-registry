@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-extracting-windows-event-logs-artifacts
+display_name: extracting-windows-event-logs-artifacts
+description: Extract, parse, and analyze Windows Event Logs (EVTX) using Chainsaw,
+  Hayabusa, and EvtxECmd to detect lateral movement, persistence, and privilege escalation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/extracting-windows-event-logs-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

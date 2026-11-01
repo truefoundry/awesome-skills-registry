@@ -1,0 +1,17 @@
+id: NVIDIA-skills-rtvi-cv-customize-model
+display_name: rtvi-cv-customize-model
+description: How to swap the DeepStream CV detection model in the VSS Alerts Blueprint
+  verification (2d_cv) mode - covers ONNX export, custom bbox parsers, compose mount
+  gotchas, nvinfer config, runtime TRT engine build, deployment, and a segmentation-capable
+  model addendum handoff.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/rtvi-cv-customize-model
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

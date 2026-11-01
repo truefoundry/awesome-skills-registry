@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-campaign-attribution-evidence
+display_name: analyzing-campaign-attribution-evidence
+description: Systematically evaluate cyber-campaign evidence to attribute an operation
+  to a threat actor, using the Diamond Model and Analysis of Competing Hypotheses
+  (ACH) to weigh infrastructure overlaps, TTP consistency, malware code similarity,
+  and timing/language artifacts into confidence-weighted attribution assessments.
+  Use when an incident investigation needs a defensible attribution confidence level.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-campaign-attribution-evidence
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

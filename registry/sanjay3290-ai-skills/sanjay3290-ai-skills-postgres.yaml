@@ -1,0 +1,18 @@
+id: sanjay3290-ai-skills-postgres
+display_name: postgres
+description: 'Execute read-only SQL queries against multiple PostgreSQL databases.
+  Use when: (1) querying PostgreSQL databases, (2) exploring database schemas/tables,
+  (3) running SELECT queries for data analysis, (4) checking database contents. Supports
+  multiple database connections with descriptions for intelligent auto-selection.
+  Blocks all write operations (INSERT, UPDATE, DELETE, DROP, etc.) for safety.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/postgres
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 449
+added_at: '2026-11-01'

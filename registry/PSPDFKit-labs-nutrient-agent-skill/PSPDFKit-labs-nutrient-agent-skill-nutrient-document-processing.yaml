@@ -1,0 +1,19 @@
+id: PSPDFKit-labs-nutrient-agent-skill-nutrient-document-processing
+display_name: nutrient-document-processing
+description: Process documents with Nutrient DWS Processor. Use for PDF generation
+  and conversion, packet assembly, OCR, Processor JSON-content extraction, staged
+  redaction, watermarking, signing, password protection, optimization, PDF/A, or PDF/UA
+  output. Route high-fidelity markdown or spatial parsing to Nutrient Data Extraction,
+  and accessibility auto-tagging/validation to Nutrient Accessibility instead of treating
+  all three products as one API.
+authors:
+- PSPDFKit-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /nutrient-document-processing
+  repo: PSPDFKit-labs/nutrient-agent-skill
+metadata:
+  stars: 19
+added_at: '2026-11-01'

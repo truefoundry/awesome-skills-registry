@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-create-command
+display_name: create-command
+description: Interactive assistant for creating new Claude commands with proper structure,
+  patterns, and MCP tool integration
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/customaize-agent/skills/create-command
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

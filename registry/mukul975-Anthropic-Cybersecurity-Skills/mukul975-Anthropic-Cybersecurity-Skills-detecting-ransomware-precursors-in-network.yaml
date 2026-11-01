@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-ransomware-precursors-in-network
+display_name: detecting-ransomware-precursors-in-network
+description: Detects early-stage ransomware indicators in network traffic before encryption
+  begins, including initial access broker activity, command-and-control beaconing,
+  credential harvesting, reconnaissance scanning, and staging behavior. Uses network
+  detection tools (Zeek, Suricata, Arkime), SIEM correlation rules, and threat intelligence
+  feeds to identify ransomware precursor patterns such as Cobalt Strike beacons, Mimikatz
+  network signatures, and RDP brute-force attempts. Activates for requests involving
+  pre-ransomware detection, network-based ransomware indicators, or early warning
+  ransomware monitoring.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-ransomware-precursors-in-network
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

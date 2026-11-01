@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-cobalt-strike-beacon-configuration
+display_name: analyzing-cobalt-strike-beacon-configuration
+description: Extract and analyze Cobalt Strike beacon configuration from PE files
+  and memory dumps to identify C2 infrastructure, malleable profiles, and operator
+  tradecraft.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-cobalt-strike-beacon-configuration
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

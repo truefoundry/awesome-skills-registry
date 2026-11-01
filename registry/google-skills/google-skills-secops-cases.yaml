@@ -1,0 +1,19 @@
+id: google-skills-secops-cases
+display_name: secops-cases
+description: Manage Google Security Operations (SecOps) SOAR cases throughout their
+  lifecycle. Use when listing, creating, inspecting, updating, or closing SOAR cases;
+  adding investigative comments and notes; updating case priority or description;
+  or linking and grouping security alerts within cases. Supports both remote Google
+  SecOps MCP tools and local fallback tools. Don't use for SIEM UDM searches or detection
+  rule authoring.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/secops-cases
+  repo: google/skills
+metadata:
+  stars: 21724
+added_at: '2026-11-01'

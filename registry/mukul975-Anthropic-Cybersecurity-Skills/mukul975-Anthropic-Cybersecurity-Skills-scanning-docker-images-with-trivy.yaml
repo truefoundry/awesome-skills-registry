@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-scanning-docker-images-with-trivy
+display_name: scanning-docker-images-with-trivy
+description: 'Scans a Docker image with Trivy for vulnerabilities in OS packages and
+  language dependencies, misconfiguration, exposed secrets, and licence violations,
+  emitting SARIF, CycloneDX, or SPDX output. Use when scanning or gating a specific
+  image, wiring an image scan into CI/CD, or checking an image during an incident
+  investigation. Keywords: Trivy, image scan, --severity, --exit-code, SARIF, ignore
+  file, .trivyignore. Do not use for cluster-wide scanning or non-image targets -
+  use performing-container-security-scanning-with-trivy; when the toolchain is Grype
+  use scanning-container-images-with-grype.'
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scanning-docker-images-with-trivy
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

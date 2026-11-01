@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-ideal-customer-profile
+display_name: ideal-customer-profile
+description: Identify the Ideal Customer Profile (ICP) from research data with demographics,
+  behaviors, JTBD, and needs. Use when defining your ICP, analyzing PMF survey data,
+  or understanding who your best customers are.
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-go-to-market/skills/ideal-customer-profile
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27576
+added_at: '2026-11-01'

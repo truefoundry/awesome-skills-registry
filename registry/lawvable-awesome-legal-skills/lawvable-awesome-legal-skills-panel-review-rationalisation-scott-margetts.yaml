@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-panel-review-rationalisation-scott-margetts
+display_name: panel-review-rationalisation
+description: "Panel health assessment, firm exit management, coverage gap analysis,\
+  \ and panel refresh brief for in-house legal ops teams. Produce an annual Panel\
+  \ Health Report synthesising scorecard data, billing compliance, and step-out patterns\
+  \ into per-firm recommendations \u2014 Retain, Watch, Improvement Plan, or Exit\
+  \ Review. Produce a firm exit pack: formal exit notice with active matter transition\
+  \ plan, plus an internal exit record. Identify practice area, geographic, or tier\
+  \ gaps and produce a structured Coverage Gap Report with remediation options. Produce\
+  \ a Panel Refresh Brief as a scoped input to the RFP process. Trigger on: 'review\
+  \ our panel', 'annual panel review', 'is our panel working', 'which firms should\
+  \ we exit', 'write the exit notice', 'coverage gap', 'we don't have anyone for restructuring',\
+  \ 'refresh the panel', 'panel rationalisation', 'too many firms', 'step-out problem',\
+  \ 'do we have the right firms'."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/panel-review-rationalisation-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

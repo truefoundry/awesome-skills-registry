@@ -1,0 +1,17 @@
+id: K-Dense-AI-claude-scientific-skills-deepspot-m
+display_name: deepspot-m
+description: Generates transcriptome-wide virtual spatial transcriptomics from H&E
+  histology with DeepSpot-M. Used for predicted log1p-CPM expression from 224x224
+  tiles at about 20x, querying the released protein-coding gene panel by symbol, and
+  whole-slide prediction after resolution-aware tiling with histolab.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/deepspot-m
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 55544
+added_at: '2026-11-01'

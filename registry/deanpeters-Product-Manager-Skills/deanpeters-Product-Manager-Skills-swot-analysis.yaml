@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-swot-analysis
+display_name: swot-analysis
+description: "Build an evidence-cited SWOT of one company \u2014 yours or a competitor's\
+  \ \u2014 from public sources, ending with the S-O/W-T crossings. Use for strategy\
+  \ reviews, board prep, or competitor depth."
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/swot-analysis
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

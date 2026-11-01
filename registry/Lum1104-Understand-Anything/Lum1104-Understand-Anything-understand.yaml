@@ -1,0 +1,15 @@
+id: Lum1104-Understand-Anything-understand
+display_name: understand
+description: Analyze a codebase to produce an interactive knowledge graph for understanding
+  architecture, components, and relationships
+authors:
+- Lum1104
+is_official: false
+tags: []
+category: none
+source:
+  path: /understand-anything-plugin/skills/understand
+  repo: Lum1104/Understand-Anything
+metadata:
+  stars: 89414
+added_at: '2026-11-01'

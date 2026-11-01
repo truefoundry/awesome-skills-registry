@@ -1,0 +1,16 @@
+id: NVIDIA-skills-cuopt-multi-objective-exploration
+display_name: cuopt-multi-objective-exploration
+description: "Trace, complete, and interpret the Pareto frontier across competing\
+  \ objectives using repeated single-objective cuOpt solves (weighted-sum and \u03B5\
+  -constraint)."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cuopt-multi-objective-exploration
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

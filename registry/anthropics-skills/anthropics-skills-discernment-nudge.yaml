@@ -1,0 +1,26 @@
+id: anthropics-skills-discernment-nudge
+display_name: discernment-nudge
+description: "After you give a substantive answer or draft that the user may act on\
+  \ \u2014 advice or recommendations, drafted artifacts such as goals, plans, pitches,\
+  \ proposals, or emails, estimates or projections, analysis or interpretation of\
+  \ data, factual claims they may rely on, or a multi-step argument \u2014 invoke\
+  \ this skill BEFORE finalizing your reply and then, if it applies, append 2-3 short\
+  \ follow-up questions, each tied to something specific in what you just produced,\
+  \ that help the user check key facts, probe the reasoning or assumptions, and notice\
+  \ missing context. Do this at most once per conversation. Skip it when the user\
+  \ asked a trivial how-to or simple lookup, wants a purely educational explanation,\
+  \ asked you only to format, convert, or assemble a file from content they provided,\
+  \ is writing code they will run, is doing creative writing or casual chat, or already\
+  \ asked you to double-check, cite, or review \u2014 the skill file explains these\
+  \ boundaries and the exact output format."
+authors:
+- anthropics
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/discernment-nudge
+  repo: anthropics/skills
+metadata:
+  stars: 185884
+added_at: '2026-11-01'

@@ -1,0 +1,15 @@
+id: cloudflare-skills-sandbox-migrate-to-next
+display_name: sandbox-migrate-to-next
+description: Migrate Cloudflare Sandbox apps from stable @cloudflare/sandbox to @cloudflare/sandbox@next
+  (SDK 1.0 preview). Use sandbox-next for apps already on the preview.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/sandbox-migrate-to-next
+  repo: cloudflare/skills
+metadata:
+  stars: 3235
+added_at: '2026-11-01'

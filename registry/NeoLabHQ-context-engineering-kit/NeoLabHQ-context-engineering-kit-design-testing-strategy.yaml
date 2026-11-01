@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-design-testing-strategy
+display_name: design-testing-strategy
+description: Use before writing any type of tests. Distills 14 industry sources into
+  deterministic decision gates, schemas, and worked test examples.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/tdd/skills/design-testing-strategy
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

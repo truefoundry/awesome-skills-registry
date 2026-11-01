@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-transparency-assessor-oliver-schmidt-prietz
+display_name: eu-ai-act-transparency-assessor-oliver-schmidt-prietz
+description: Assesses which of the Art. 50(1)-(5) transparency obligations of the
+  EU AI Act apply to a given AI system's provider or deployer, grounded in the final
+  Code of Practice on Transparency of AI-Generated Content (June 2026) and the Commission's
+  draft Art. 50 Guidelines. Covers AI-chatbot disclosure, deepfake and synthetic-content
+  marking/watermarking, emotion-recognition and biometric-categorisation notices,
+  the machine-readable marking duty, the obviousness exceptions, and the implementation
+  timeline. Outputs a formal mini-report plus a per-obligation compliance checklist
+  with gap flags. For breadth-first tier triage use the EU AI Act System Classifier;
+  for raw Art. 50 text and Q&A use the EU AI Act Knowledge Base; for the full role
+  x tier matrix use the EU AI Act Obligations Mapper.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-transparency-assessor-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

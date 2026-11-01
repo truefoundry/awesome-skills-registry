@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-resource-planner-scott-margetts
+display_name: resource-planner-scott-margetts
+description: 'Team structure, gearing analysis, continuity planning, and competing
+  demand management for legal matters. Use when setting up a matter team, reviewing
+  whether work is being done at the right grade, planning cover for an unavailable
+  team member, or managing a resource conflict across matters. Trigger on: ''who should
+  be on this matter'', ''team structure'', ''gearing'', ''right people at the right
+  level'', ''partner is doing associate work'', ''cover for maternity leave'', ''who
+  has capacity'', ''team member leaving'', ''over-allocated'', ''staffing conflict'',
+  ''pinch point'', ''capacity problem'', ''how do we resource this'', ''team too senior'',
+  ''team too junior''.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resource-planner-scott-margetts
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

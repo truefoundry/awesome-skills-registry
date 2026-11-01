@@ -1,0 +1,15 @@
+id: dembrandt-dembrandt-skills-repeated-component-alignment
+display_name: repeated-component-alignment
+description: Cards, rows, tiles and cells are fixed slot models that stay aligned
+  when content length varies. Use when building or reviewing any repeated component.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/repeated-component-alignment
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 179
+added_at: '2026-11-01'

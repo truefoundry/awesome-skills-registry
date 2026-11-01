@@ -1,0 +1,18 @@
+id: NVIDIA-skills-hsb-flash
+display_name: hsb-flash
+description: Flash the FPGA on an HSB board connected to an NVIDIA devkit. Supports
+  HSB Lattice boards (FPGA versions 2407, 2412, 2507, 2510) and Leopard Imaging VB1940
+  "all-in-one" cameras (FPGA versions 2507, 2510). Uses release-specific YAML manifests
+  and board-type-specific program commands. Lattice and VB1940 commands must never
+  be mixed.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/hsb-flash
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

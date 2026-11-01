@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-secure-boot-bypass
+display_name: detecting-secure-boot-bypass
+description: Detect UEFI Secure Boot bypasses and bootkits such as BlackLotus and
+  Bootkitty by verifying Secure Boot state, checking dbx revocation currency, and
+  hashing EFI boot binaries against known-bad sets using mokutil, efi-readvar/dbxtool,
+  CHIPSEC, sbverify/pesign, and Windows Confirm-SecureBootUEFI. Use when auditing
+  fleet dbx rollout after a bootkit advisory or hunting for pre-OS persistence on
+  a suspected-compromised endpoint.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-secure-boot-bypass
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 35352
+added_at: '2026-11-01'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-bionemo-kermt-monitor
+display_name: kermt-monitor
+description: Check progress for a detached KERMT run (pretrain, finetune, or any kermt_run_detached
+  invocation). Reads run.json, queries docker for container state, tails the pretrain/finetune
+  log, and parses progress lines (epoch, step, val loss).
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-kermt-monitor
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

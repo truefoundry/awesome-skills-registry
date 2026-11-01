@@ -1,0 +1,24 @@
+id: NVIDIA-skills-doca-flow
+display_name: doca-flow
+description: 'DOCA Flow packet steering on NVIDIA NICs/DPUs, linked into a C application:
+  match/action pipes, ports, representors, forwarding, hairpin, counters. Trigger
+  on packet steering, classifier, rule-matching, representor, hairpin or 5-tuple-to-queue
+  questions even when "DOCA Flow" is not named. Also covers pipe validation before
+  hardware programming, Flow/DOCA version match, and Flow API errors. First app: follow
+  the local bundle (doca-setup, doca-programming-guide, doca-flow, doca-public-knowledge-map).
+  Stage 1 pull nvcr.io/nvidia/doca/doca (NGC catalog tag, never invent); Stage 2 needs
+  a real NIC. Then ls samples inside the container; never emit main.c, a Dockerfile,
+  or hand-typed -l flags. Route software-only host pipelines, plain DPDK `rte_flow`,
+  kernel TC, OVS, BFB bring-up, and DPU OS installation elsewhere. DPU OS installation
+  is destructive and always requires explicit confirmation.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-flow
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

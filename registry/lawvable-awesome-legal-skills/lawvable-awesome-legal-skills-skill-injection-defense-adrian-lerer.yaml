@@ -1,0 +1,20 @@
+id: lawvable-awesome-legal-skills-skill-injection-defense-adrian-lerer
+display_name: skill-injection-defense
+description: Audits legal AI skills, prompts, workflows, MCP/tool instructions, and
+  agent packages for prompt injection, malicious instructions, unsafe scripts, suspicious
+  metadata, credential exposure, exfiltration paths, persistence mechanisms, and supply-chain
+  risk. Use before installing, importing, publishing, promoting, modifying, or trusting
+  third-party or generated AI skills and legal workflows. Do not use as a generic
+  code review unless skill trust, workflow safety, prompt injection, or supply-chain
+  hygiene is in scope.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skill-injection-defense-adrian-lerer
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

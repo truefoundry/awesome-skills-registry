@@ -1,0 +1,15 @@
+id: deanpeters-Product-Manager-Skills-stakeholder-engagement-advisor
+display_name: stakeholder-engagement-advisor
+description: Plan engagement for a specific stakeholder. Use when preparing an outreach,
+  navigating resistance, or aligning a critical relationship before a key milestone.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/stakeholder-engagement-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 7811
+added_at: '2026-11-01'

@@ -1,0 +1,19 @@
+id: lawvable-awesome-legal-skills-eu-data-act-compliance-assessment-werner-plutat
+display_name: eu-data-act-compliance
+description: Assess obligations under Regulation (EU) 2023/2854 for connected products,
+  related services, statutory B2B data sharing, unfair data-contract terms, exceptional-need
+  B2G requests, data-processing-service switching, international governmental access,
+  interoperability, smart contracts, enforcement, and non-EU representatives. Use
+  for Data Act scope analysis, gap assessments, product and service design, request
+  handling, contract review, cloud exit planning, or cross-regulation mapping.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-data-act-compliance-assessment-werner-plutat
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

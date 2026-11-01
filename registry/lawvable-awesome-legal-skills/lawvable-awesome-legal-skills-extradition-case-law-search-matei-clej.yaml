@@ -1,0 +1,26 @@
+id: lawvable-awesome-legal-skills-extradition-case-law-search-matei-clej
+display_name: extradition-case-law-search-matei-clej
+description: "Searches the domestic courts of 122 jurisdictions \u2014 153 databases,\
+  \ 49 automated \u2014 for extradition and arrest-warrant surrender decisions, each\
+  \ in its own language and vocabulary. Answers the question no commercial database\
+  \ does: how are OTHER executing states treating this requesting state, or this ground?\
+  \ Searching by requesting state localises its name per jurisdiction (AE becomes\
+  \ 'Emiratele Arabe Unite' in Romania, 'Emirati Arabi Uniti' in Italy), so the sweep\
+  \ finds what those courts actually wrote. Every hit passes a relevance gate; every\
+  \ search leaves a dated report, so the research is reconstructable months later.\
+  \ Use when asked what foreign courts have said about surrender to a given state,\
+  \ whether any European court has refused extradition on prison conditions, assurances\
+  \ or Article 3, for comparative extradition research, or to build a foreign-authority\
+  \ section of an extradition argument. Not for domestic case law of the user's own\
+  \ jurisdiction, and never a substitute for reading the judgment."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/extradition-case-law-search-matei-clej
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

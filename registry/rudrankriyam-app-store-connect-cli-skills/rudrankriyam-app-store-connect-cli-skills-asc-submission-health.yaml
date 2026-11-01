@@ -1,0 +1,18 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-submission-health
+display_name: asc-submission-health
+description: Diagnose App Store submission blockers and operate review health with
+  asc, including readiness validation, repair routing, status monitoring, cancellation,
+  and retry decisions. Use when validation fails, a version is not in a valid state,
+  review status is unclear or stuck, or a failed submission must be repaired and retried.
+  For staging, upload, publication, and submission execution, use asc-release-flow.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-submission-health
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 1115
+added_at: '2026-11-01'

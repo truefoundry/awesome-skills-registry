@@ -1,0 +1,15 @@
+id: NVIDIA-skills-hsb-ip-packetizer
+display_name: hsb-ip-packetizer
+description: Choose or explain HSB Sensor RX packetizer fields for HOLOLINK_def.svh.
+  Do not use for full defs, validation, or runtime APB programming.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/hsb-ip-packetizer
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'

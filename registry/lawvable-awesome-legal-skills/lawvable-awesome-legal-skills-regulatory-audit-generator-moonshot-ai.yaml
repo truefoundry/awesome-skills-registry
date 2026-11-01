@@ -1,0 +1,18 @@
+id: lawvable-awesome-legal-skills-regulatory-audit-generator-moonshot-ai
+display_name: regulatory-audit-generator
+description: Builds compliance checklists for business scenarios involving GDPR, PIPL,
+  or advertising/data laws. Outputs a structured checklist with check items, legal
+  basis, risk levels, and actionable recommendations. Triggered by requests like "run
+  a compliance check," "GDPR/PIPL compliance," "pre-launch review," "privacy impact
+  assessment (PIA/DPIA)," or asking if a feature is compliant.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/regulatory-audit-generator-moonshot-ai
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 918
+added_at: '2026-11-01'

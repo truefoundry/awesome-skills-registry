@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-setup-serena-mcp
+display_name: setup-serena-mcp
+description: Guide for setup Serena MCP server for semantic code retrieval and editing
+  capabilities
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/mcp/skills/setup-serena-mcp
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1797
+added_at: '2026-11-01'

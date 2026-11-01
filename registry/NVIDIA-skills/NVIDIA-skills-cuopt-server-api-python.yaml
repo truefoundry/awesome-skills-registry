@@ -1,0 +1,15 @@
+id: NVIDIA-skills-cuopt-server-api-python
+display_name: cuopt-server-api-python
+description: "cuOpt REST server \u2014 start server, endpoints, Python/curl client\
+  \ examples. Use when the user is deploying or calling the REST API."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cuopt-server-api-python
+  repo: NVIDIA/skills
+metadata:
+  stars: 3806
+added_at: '2026-11-01'
