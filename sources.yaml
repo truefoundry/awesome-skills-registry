@@ -233,6 +233,8 @@ sources:
     skills_path: skills/
   - url: https://github.com/ZhangHanDong/makepad-skills
     skills_path: skills/
+  - url: https://github.com/zozo123/ariflow-swfactory
+    skills_path: skills/
 
   # Multi-skill repos (SKILL.md files in plugins/ subdirectory)
   - url: https://github.com/fvadicamo/dev-agent-skills
