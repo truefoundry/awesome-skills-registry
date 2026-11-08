@@ -1,0 +1,20 @@
+id: redis-agent-skills-redis-docs-mcp
+display_name: redis-docs-mcp
+description: "Working with the redis-docs MCP server (search / fetch / ask at redis.io/mcp)\
+  \ \u2014 how its index is shaped and how to read what it returns. Use when those\
+  \ tools are available and you are about to look something up in the Redis documentation,\
+  \ or when a result is confusing \u2014 fetch returned one short section instead\
+  \ of a page, several hits share one url, ids look like #sec:w1, metadata.version\
+  \ reads 1.0.0, a search came back empty, or ask was rate-limited or said the docs\
+  \ do not cover it. Also covers what redis.io does and does not index."
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/redis-docs-mcp
+  repo: redis/agent-skills
+metadata:
+  stars: 174
+added_at: '2026-11-08'

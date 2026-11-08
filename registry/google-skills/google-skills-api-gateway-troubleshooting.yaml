@@ -1,0 +1,23 @@
+id: google-skills-api-gateway-troubleshooting
+display_name: api-gateway-troubleshooting
+description: Diagnoses failing requests and deployment errors on Google Cloud API
+  Gateway. Use when calls through a gateway return 4xx or 5xx errors, including 429
+  and other quota errors, time out, or fail a CORS preflight; when `api-configs create`
+  fails with a service account, concurrency, or limit error, or `gateways create`
+  or `gateways update` fails; when a custom domain, load balancer, or TLS finding
+  involves a gateway; or when the user asks if Google is at fault. Don't use for Apigee,
+  Cloud Endpoints, or GKE Gateway API. For OpenAPI errors from `api-configs create`,
+  use api-gateway-openapi-spec-authoring; for setting up or changing API keys, JWTs,
+  or quotas, use api-gateway-backend-security-and-rate-limiting; for MCP `/mcp` errors,
+  use api-gateway-mcp-server.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/api-gateway-troubleshooting
+  repo: google/skills
+metadata:
+  stars: 23390
+added_at: '2026-11-08'

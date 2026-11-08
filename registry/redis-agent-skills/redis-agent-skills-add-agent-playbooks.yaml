@@ -1,0 +1,17 @@
+id: redis-agent-skills-add-agent-playbooks
+display_name: add-agent-playbooks
+description: Add Redis Iris Agent Playbooks to an existing agent. Use when approved
+  answers or repeatable procedures live in prompts, document retrieval, or a semantic
+  response cache. Connect or provision a Playbook, publish FAQs and Skills, and verify
+  the first application turn with optional review proposals.
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/add-agent-playbooks
+  repo: redis/agent-skills
+metadata:
+  stars: 174
+added_at: '2026-11-08'

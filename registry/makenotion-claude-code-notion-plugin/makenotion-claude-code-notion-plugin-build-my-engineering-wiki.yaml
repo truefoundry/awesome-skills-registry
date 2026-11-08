@@ -1,0 +1,16 @@
+id: makenotion-claude-code-notion-plugin-build-my-engineering-wiki
+display_name: notion-build-my-engineering-wiki
+description: Build a personalized Notion engineering home from technical docs, project
+  context, and chat or connected sources. Use to get started with an engineering wiki
+  and a clear view of current work.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/notion/build-my-engineering-wiki
+  repo: makenotion/claude-code-notion-plugin
+metadata:
+  stars: 503
+added_at: '2026-11-08'

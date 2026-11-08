@@ -1,0 +1,17 @@
+id: makenotion-notion-cookbook-set-up-my-project
+display_name: notion-set-up-my-project
+description: Create a useful initial Notion project home with tasks, docs, and meeting
+  notes, then work with the user to confirm the team and choose a Projects database.
+  Use when starting or organizing a project in Notion; routine task edits, status
+  reports, and implementing a technical spec are separate workflows.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mcp-clients/set-up-my-project
+  repo: makenotion/notion-cookbook
+metadata:
+  stars: 222
+added_at: '2026-11-08'

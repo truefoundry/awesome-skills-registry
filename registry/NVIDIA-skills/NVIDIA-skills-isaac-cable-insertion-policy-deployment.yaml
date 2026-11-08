@@ -1,0 +1,17 @@
+id: NVIDIA-skills-isaac-cable-insertion-policy-deployment
+display_name: isaac-cable-insertion-policy-deployment
+description: Export a trained Isaac Lab DisplayPort task-space checkpoint with LEAPP,
+  run it through Isaac ROS Deploy and Isaac Sim 6.0 in separate Docker containers,
+  verify training asset parity, and record insertion video and measured results. Use
+  for post-training simulation deployment and testing of cable insertion policies.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/isaac-cable-insertion-policy-deployment
+  repo: NVIDIA/skills
+metadata:
+  stars: 3888
+added_at: '2026-11-08'

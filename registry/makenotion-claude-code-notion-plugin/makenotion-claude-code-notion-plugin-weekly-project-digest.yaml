@@ -1,0 +1,16 @@
+id: makenotion-claude-code-notion-plugin-weekly-project-digest
+display_name: notion-weekly-project-digest
+description: Produces evidence-based weekly project or team updates by comparing reporting
+  periods, tasks, decisions, and blockers in Notion. Use for recurring status digests;
+  use spec-to-implementation for requirement-level implementation tracking.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/notion/weekly-project-digest
+  repo: makenotion/claude-code-notion-plugin
+metadata:
+  stars: 503
+added_at: '2026-11-08'

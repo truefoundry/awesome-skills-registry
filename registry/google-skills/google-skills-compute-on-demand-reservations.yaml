@@ -1,0 +1,19 @@
+id: google-skills-compute-on-demand-reservations
+display_name: compute-on-demand-reservations
+description: Inspects, verifies, and manages Google Compute Engine (GCE) On-Demand
+  reservations and analyzes consumed versus available reserved capacity. Use when
+  checking active reservation capacity, determining whether reserved VMs are available
+  or exhausted, verifying reservation targeting (automatic versus specific reservation),
+  or sharing reservations across projects. Don't use for Spot capacity advice (use
+  compute-spot-capacity-advice) or future calendar bookings (use compute-future-reservations).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/compute-on-demand-reservations
+  repo: google/skills
+metadata:
+  stars: 23390
+added_at: '2026-11-08'

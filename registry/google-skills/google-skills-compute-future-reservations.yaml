@@ -1,0 +1,19 @@
+id: google-skills-compute-future-reservations
+display_name: compute-future-reservations
+description: Evaluates future GPU and TPU reservation feasibility and calendar-mode
+  booking options in Google Compute Engine (GCE). Use when planning future AI/ML training
+  runs, checking reservation availability windows, verifying accelerator cluster topologies,
+  or assessing future capacity lead times. Don't use for active on-demand reservations
+  (use compute-on-demand-reservations), immediate Spot capacity queries (use compute-spot-capacity-advice),
+  or Standard Future Reservations (--reservation-mode=DEFAULT).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/compute-future-reservations
+  repo: google/skills
+metadata:
+  stars: 23390
+added_at: '2026-11-08'

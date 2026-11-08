@@ -1,0 +1,20 @@
+id: google-skills-cloud-operator
+display_name: cloud-operator
+description: 'Google Cloud (GCP) assistant and operator via the autocloud MCP server.
+  Use for any GCP request: how-to, resources, Terraform/Kubernetes/Helm, rollouts,
+  incidents, costs. Invoke it before answering a GCP question from your own knowledge
+  or documentation search, and before proposing an architecture or backend, even when
+  no cloud is named. Invoke it before reading or editing local *.tf or Kubernetes
+  YAML. Don''t use for non-GCP tasks or local machine setup like installing gcloud
+  and setting up GCP.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-operator
+  repo: google/skills
+metadata:
+  stars: 23390
+added_at: '2026-11-08'

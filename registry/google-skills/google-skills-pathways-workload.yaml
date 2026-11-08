@@ -1,0 +1,23 @@
+id: google-skills-pathways-workload
+display_name: pathways-workload
+description: Debugs failed, crashing or hung Pathways on Cloud workloads (JAX training
+  or inference on Cloud TPU in GKE, run as a JobSet, PathwaysJob or LeaderWorkerSet).
+  Reads Cloud Logging for every Pathways container (user workload, IFRT proxy, pathways-rm,
+  pathways-worker, colocated Python sidecar), node kernel logs and GKE events, then
+  reports the earliest real error, the root cause and a fix. Use when a Pathways workload
+  fails to start, crashes, restarts or stops making progress, or shows errors such
+  as IFRT proxy connection failures, DEADLINE_EXCEEDED lost connection to peer, host
+  OOM kills, ImagePullBackOff, or JAX and Pathways version mismatches. Don't use for
+  GKE workloads that don't use Pathways, or for creating clusters or deploying new
+  Pathways workloads.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/pathways-workload
+  repo: google/skills
+metadata:
+  stars: 23390
+added_at: '2026-11-08'

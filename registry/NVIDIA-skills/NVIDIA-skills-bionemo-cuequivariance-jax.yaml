@@ -1,0 +1,15 @@
+id: NVIDIA-skills-bionemo-cuequivariance-jax
+display_name: cuequivariance-jax
+description: Use when writing or debugging cuEquivariance JAX polynomials, irrep dictionaries,
+  Flax NNX layers, or CPU/CUDA execution and layouts.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/bionemo-cuequivariance-jax
+  repo: NVIDIA/skills
+metadata:
+  stars: 3888
+added_at: '2026-11-08'

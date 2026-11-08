@@ -1,0 +1,17 @@
+id: makenotion-notion-cookbook-meeting-prep
+display_name: notion-meeting-prep
+description: Prepares meeting agendas, internal pre-reads, and decision briefs using
+  Notion context and relevant research. Use for preparing the next or upcoming meeting,
+  meeting preparation, recurring meeting context, or updating meeting outcomes; use
+  knowledge-capture for a standalone record of an existing discussion.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mcp-clients/meeting-prep
+  repo: makenotion/notion-cookbook
+metadata:
+  stars: 222
+added_at: '2026-11-08'

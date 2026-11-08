@@ -1,0 +1,15 @@
+id: makenotion-claude-code-notion-plugin-setup
+display_name: notion-setup
+description: Set up Notion so your agents can remember your preferences, find your
+  work, and pick up where you left off.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/notion/setup
+  repo: makenotion/claude-code-notion-plugin
+metadata:
+  stars: 503
+added_at: '2026-11-08'

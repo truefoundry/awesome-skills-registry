@@ -1,0 +1,16 @@
+id: makenotion-notion-cookbook-organize-my-semester
+display_name: notion-organize-my-semester
+description: Organize a semester in Notion from course notes, syllabi, assignments,
+  and chat context. Use when getting organized for a course or semester to keep notes
+  clear and upcoming work easy to find.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mcp-clients/organize-my-semester
+  repo: makenotion/notion-cookbook
+metadata:
+  stars: 222
+added_at: '2026-11-08'

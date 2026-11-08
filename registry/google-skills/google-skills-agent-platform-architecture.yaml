@@ -1,0 +1,25 @@
+id: google-skills-agent-platform-architecture
+display_name: agent-platform-architecture
+description: Designs, engineers, and validates enterprise Gemini platform architectures.
+  Use when designing multi-project hierarchies (Host, Central Governance Hub, Runtime
+  Spoke, Tool/MCP Spoke), configuring Agent Gateway, authoring Agent Connectivity
+  Templates (ALL_TRAFFIC vs PRIVATE_RANGES_ONLY), deploying Secure Web Proxy (SWP)
+  with Policy-Based Routing (PBR) or Cross-Cloud mTLS Egress Hubs, configuring Private
+  CA TrustConfig with Internal ALB + Serverless NEG, implementing Unified Access Policies
+  (UAP Policy V2 CEL) and Semantic Governance (SGP), configuring 3P IdP Token Exchange
+  (EntraID/Ping/Okta via ext_proc + STS) or Agent Identity Auth Manager (SPIFFE),
+  enforcing Model Armor Floor Settings and Fail-Closed guardrails, deploying Cross-Project
+  Registry sync, binding ADK agents on Agent Runtime, or executing Day-2 lifecycle
+  operations. Don't use for read-only live log triage or incident diagnosis, or generic
+  Google Cloud Identity and Access Management (IAM) debugging.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-architecture
+  repo: google/skills
+metadata:
+  stars: 23390
+added_at: '2026-11-08'

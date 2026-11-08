@@ -1,0 +1,23 @@
+id: sanjay3290-ai-skills-gemini-api
+display_name: gemini-api
+description: "Call the Gemini API from the shell with Google's `gemini-api` CLI, when\
+  \ that binary is installed \u2014 text and reasoning, image generation and editing,\
+  \ text-to-speech, music, video, document/audio/video/YouTube analysis, transcription\
+  \ and captions, file uploads, and managed agents (Deep Research) run in the background.\
+  \ Use when the task needs a Gemini model or a second opinion from one, a generated\
+  \ image/voiceover/soundtrack/clip, an answer out of a PDF or recording, an SRT caption\
+  \ file, or a long-running research agent. Triggers: 'use gemini', 'ask gemini',\
+  \ 'gemini-api', 'generate an image', 'make a voiceover', 'transcribe this', 'analyze\
+  \ this PDF', 'deep research'. Not for writing application code against the Gemini\
+  \ SDK or Vertex AI."
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gemini-api
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 452
+added_at: '2026-11-08'

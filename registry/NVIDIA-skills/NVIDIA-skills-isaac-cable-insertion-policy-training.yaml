@@ -1,0 +1,18 @@
+id: NVIDIA-skills-isaac-cable-insertion-policy-training
+display_name: isaac-cable-insertion-policy-training
+description: Set up the standalone IsaacLabTraining package from NVIDIA-ISAAC-ROS/isaac_ros_manipulation,
+  then launch, monitor, resume, evaluate, and tune DisplayPort insertion policies
+  without a separate Isaac Lab source installation. Use for setup and campaign planning,
+  dependency repair, curriculum or PhysX troubleshooting, video evidence, and long
+  GPU runs.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/isaac-cable-insertion-policy-training
+  repo: NVIDIA/skills
+metadata:
+  stars: 3888
+added_at: '2026-11-08'

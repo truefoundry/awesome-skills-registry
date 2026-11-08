@@ -1,0 +1,16 @@
+id: makenotion-claude-code-notion-plugin-create-my-team-handbook
+display_name: notion-create-my-team-handbook
+description: Create a team handbook in Notion from scattered processes, team documents,
+  requests, and chat context. Make procedures easy to find, show who maintains them,
+  and track related requests.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/notion/create-my-team-handbook
+  repo: makenotion/claude-code-notion-plugin
+metadata:
+  stars: 503
+added_at: '2026-11-08'
