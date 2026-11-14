@@ -27,6 +27,10 @@ sources:
     skills_path: skills/
     is_official: true
 
+  - url: https://github.com/klingai-tech/claude-plugin
+    skills_path: skills/
+    is_official: true
+
   # --- Multi-skill repos (each skill_dir -> separate registry entry) ---
   - url: https://github.com/garrytan/gbrain
     skills_path: skills/
