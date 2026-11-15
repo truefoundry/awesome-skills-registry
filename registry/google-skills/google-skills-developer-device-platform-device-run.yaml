@@ -1,0 +1,21 @@
+id: google-skills-developer-device-platform-device-run
+display_name: developer-device-platform-device-run
+description: 'Runs automated, non-interactive jobs on remote Android devices with
+  Developer Device Platform (DDP) Device Run using `gcloud beta device-run sessions`:
+  native Android executables or shell scripts (for example CLI tools, custom runners,
+  test harnesses or benchmarks) and Android instrumentation tests, on one or many
+  devices, then waits for completion and collects per-device outputs and logs. Use
+  when running a binary or test suite on remote devices without an interactive connection.
+  Don''t use it for interactive device reservations, adb tunnels or screen streaming
+  (use developer-device-platform-basics), or for local devices.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/developer-device-platform-device-run
+  repo: google/skills
+metadata:
+  stars: 24272
+added_at: '2026-11-15'

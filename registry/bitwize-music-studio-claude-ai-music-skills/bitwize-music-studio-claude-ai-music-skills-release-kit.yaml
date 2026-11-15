@@ -1,0 +1,18 @@
+id: bitwize-music-studio-claude-ai-music-skills-release-kit
+display_name: release-kit
+description: Builds everything the DistroKid and SoundCloud upload forms ask for,
+  so uploading an album is pasting, not typing. It makes a page with every field and
+  a copy button, the audio and cover paths, and the checks to clear first. Nothing
+  touches either site. Use when the user is ready to upload an album, says "release
+  kit", "upload sheet", "get it ready for DistroKid" or "what do I paste into SoundCloud".
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/release-kit
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 668
+added_at: '2026-11-15'

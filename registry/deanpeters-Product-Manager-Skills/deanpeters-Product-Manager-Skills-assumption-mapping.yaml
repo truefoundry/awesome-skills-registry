@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-assumption-mapping
+display_name: assumption-mapping
+description: List the assumptions behind an idea and rank them by importance and evidence.
+  Use when a plan feels solid and you need to find the beliefs it rests on before
+  you commit.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/assumption-mapping
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-message-house
+display_name: message-house
+description: 'Build a message house: one roof message, three value pillars, sourced
+  proof, a foundation, and role and channel variants. Use when Marketing, Sales, and
+  partners each tell a different story.'
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/message-house
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

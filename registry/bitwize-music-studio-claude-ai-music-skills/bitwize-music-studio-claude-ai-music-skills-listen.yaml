@@ -1,0 +1,18 @@
+id: bitwize-music-studio-claude-ai-music-skills-listen
+display_name: listen
+description: Opens a track's Suno takes in the browser or in iTerm2 panes beside the
+  session, or plays takes and local audio in the terminal. Use when the user wants
+  to hear a take, compare takes, audition a generation, or says "play it" or "let
+  me hear it". Opening the song page is the default and is free; playing a new Suno
+  take in the terminal uses one download credit.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/listen
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 668
+added_at: '2026-11-15'

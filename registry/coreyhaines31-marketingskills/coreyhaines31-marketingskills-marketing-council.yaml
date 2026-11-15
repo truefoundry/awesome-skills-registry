@@ -1,0 +1,18 @@
+id: coreyhaines31-marketingskills-marketing-council
+display_name: marketing-council
+description: 'When the user wants several expert takes on a marketing decision, or
+  asks what a famous marketer would say about it: a simulated board (Seth Godin, David
+  Ogilvy, April Dunford, Byron Sharp, and more), each grounded in their documented
+  frameworks, where they disagree, and a recommendation. To execute, hand off to the
+  relevant skill.'
+authors:
+- coreyhaines31
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/marketing-council
+  repo: coreyhaines31/marketingskills
+metadata:
+  stars: 60343
+added_at: '2026-11-15'

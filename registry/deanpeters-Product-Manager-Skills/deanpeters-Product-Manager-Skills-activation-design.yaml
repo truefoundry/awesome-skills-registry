@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-activation-design
+display_name: activation-design
+description: Define the moment a new customer first gets real value, then design the
+  shortest path to it. Use when trials stall, installs sit idle, or onboarding is
+  a checklist nobody finishes.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/activation-design
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

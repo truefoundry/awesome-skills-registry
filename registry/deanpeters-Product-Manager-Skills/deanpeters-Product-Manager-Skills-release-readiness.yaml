@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-release-readiness
+display_name: release-readiness
+description: 'Check a release is safe to ship: tests, rollout, monitoring, rollback,
+  support. Use when a build is about to go out and you need to know what could hurt,
+  and how you''d undo it.'
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/release-readiness
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

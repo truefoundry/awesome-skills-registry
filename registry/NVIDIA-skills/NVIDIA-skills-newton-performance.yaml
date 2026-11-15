@@ -1,0 +1,19 @@
+id: NVIDIA-skills-newton-performance
+display_name: newton-performance
+description: Measure or improve the runtime, startup time, memory use, or throughput
+  of a Newton simulation that already behaves correctly, or review a Newton step loop
+  for performance problems such as CUDA graph capture mistakes and host synchronization.
+  Not for setting up simulations, general solver or API questions, debugging unstable
+  or incorrect physics without a performance goal, or optimizing Warp code that does
+  not use Newton.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/newton-performance
+  repo: NVIDIA/skills
+metadata:
+  stars: 3990
+added_at: '2026-11-15'

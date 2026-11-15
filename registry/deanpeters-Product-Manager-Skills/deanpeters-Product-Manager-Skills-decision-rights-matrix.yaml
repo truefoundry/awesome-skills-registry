@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-decision-rights-matrix
+display_name: decision-rights-matrix
+description: Define who decides, who is consulted, and who is told for key product
+  decisions, with one accountable person each. Use when decisions stall, get reopened,
+  or go to whoever pushes hardest.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/decision-rights-matrix
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-launch-plan
+display_name: launch-plan
+description: 'Build a launch plan sized by tier: owners, dates, go/no-go criteria,
+  and a readiness scorecard. Use when a launch needs every function ready at once
+  and nobody has defined ''ready''.'
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/launch-plan
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

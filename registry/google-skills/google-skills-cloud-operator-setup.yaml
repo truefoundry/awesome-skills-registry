@@ -1,0 +1,19 @@
+id: google-skills-cloud-operator-setup
+display_name: cloud-operator-setup
+description: 'Sets up the operator agent in a Google Cloud project via the autocloud
+  MCP server: picks the operator project, creates or checks the user''s operator agent,
+  saves the project, and offers to share the user''s existing Google Cloud operating
+  context with the operator agent''s memory. Use when the user runs this skill, asks
+  to set up the operator or create their operator agent, or chooses setup when the
+  cloud-operator skill asks. Don''t use for ordinary GCP requests or installing gcloud.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/cloud-operator-setup
+  repo: google/skills
+metadata:
+  stars: 24272
+added_at: '2026-11-15'

@@ -1,0 +1,18 @@
+id: bitwize-music-studio-claude-ai-music-skills-extend-take
+display_name: extend-take
+description: Carries a Suno take on from a point in its audio - more of a song that
+  stopped early, or a new second half for a take that went wrong late - and joins
+  the result into whole songs. Shows the cost and waits for a go-ahead. Use when the
+  user says a take "ends too soon", "cut off the last chorus", "extend it", "add the
+  bridge to this take" or "keep the first half and redo the rest".
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/extend-take
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 668
+added_at: '2026-11-15'

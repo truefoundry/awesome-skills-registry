@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-live-qa
+display_name: live-qa
+description: 'Running audience Q&A at an all-hands, AMA, webinar, launch, sprint review
+  or talk, or turning a session''s questions into a FAQ: collect, moderate, answer
+  and follow up every question. AskOne by default.'
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/live-qa
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27993
+added_at: '2026-11-15'

@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-usage-data-investigation
+display_name: usage-data-investigation
+description: Investigate what customers actually do from product analytics, with every
+  claim labeled Fact, Inference, or Assumption. Use when you need behavior evidence,
+  not opinions, before deciding.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/usage-data-investigation
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

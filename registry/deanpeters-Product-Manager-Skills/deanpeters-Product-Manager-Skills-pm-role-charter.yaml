@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-pm-role-charter
+display_name: pm-role-charter
+description: 'Write a one-page charter for a PM role: what it owns, decides, influences,
+  and is measured on. Use when expectations clash, scope creeps, or a PM is held accountable
+  for things they can''t control.'
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pm-role-charter
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-research-synthesis
+display_name: research-synthesis
+description: Turn raw interview notes and feedback into themes, insights, and opportunity
+  statements. Use when you have a pile of research and need to know what it says before
+  deciding anything.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/research-synthesis
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

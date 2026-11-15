@@ -1,0 +1,17 @@
+id: NVIDIA-skills-fastgen-runtime
+display_name: fastgen-runtime
+description: 'Resolve the execution context for an NVIDIA FastGen command: checkout
+  and interpreter, config path and override syntax, output/cache/data roots, run identity,
+  and distributed launch variables. Use it when preparing or debugging execution;
+  method selection belongs to fastgen-configure.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/fastgen-runtime
+  repo: NVIDIA/skills
+metadata:
+  stars: 3990
+added_at: '2026-11-15'

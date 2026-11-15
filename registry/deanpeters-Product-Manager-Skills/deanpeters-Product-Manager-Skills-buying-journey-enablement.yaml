@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-buying-journey-enablement
+display_name: buying-journey-enablement
+description: Map how a buying group buys, then assign the enablement asset for each
+  stage and role, for direct sales and partners. Use when Sales has a pile of assets
+  and customers still stall.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/buying-journey-enablement
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

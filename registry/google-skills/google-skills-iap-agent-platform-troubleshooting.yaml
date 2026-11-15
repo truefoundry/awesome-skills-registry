@@ -1,0 +1,24 @@
+id: google-skills-iap-agent-platform-troubleshooting
+display_name: iap-agent-platform-troubleshooting
+description: Diagnoses Identity-Aware Proxy (IAP) denials of outbound requests from
+  Gemini Enterprise Agent Platform agents that run on Agent Runtime and send traffic
+  through Agent Gateway. Use when an agent request fails with "Egress request is not
+  authorized", when Cloud Audit Logs show an IAP egressViaIAP decision with granted
+  false, when IAP audit entries are missing while debugging agent egress, or when
+  Access policies, IAP allow policies, policy bindings, or Agent Registry entries
+  might block agent egress. Don't use for Gemini model IAM permission errors (such
+  as aiplatform.endpoints.predict), Agent Platform API errors, or Agent Runtime deployment
+  or 500 errors (use agent-platform-troubleshooting instead). Don't use for setting
+  up, creating, or connecting an Agent Gateway, or for IAP web apps, IAP TCP forwarding,
+  or SSH.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/iap-agent-platform-troubleshooting
+  repo: google/skills
+metadata:
+  stars: 24272
+added_at: '2026-11-15'

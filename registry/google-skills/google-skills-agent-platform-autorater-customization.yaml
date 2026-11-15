@@ -1,0 +1,19 @@
+id: google-skills-agent-platform-autorater-customization
+display_name: agent-platform-autorater-customization
+description: Customizes an autorater (evaluation metric) for an AI agent so its grades
+  match the user's own judgment, starting from the agent's real trajectories. Use
+  when a user wants a metric tailored to their agent, wants to turn failing trajectories
+  into rubrics, says an existing autorater grades their agent wrong, or wants an autorater
+  to agree with human labels (autorater hillclimbing, judge calibration). Don't use
+  for quick evals with built-in metrics or for improving the agent itself (use agent-platform-eval-flywheel).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-autorater-customization
+  repo: google/skills
+metadata:
+  stars: 24272
+added_at: '2026-11-15'

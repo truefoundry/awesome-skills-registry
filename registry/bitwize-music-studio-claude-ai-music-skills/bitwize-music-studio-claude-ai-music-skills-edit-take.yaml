@@ -1,0 +1,20 @@
+id: bitwize-music-studio-claude-ai-music-skills-edit-take
+display_name: edit-take
+description: Fixes one thing in a Suno take without re-rolling the song - a word or
+  a line, a cut or added line, a time range redone, an instrument added or dropped
+  - and keeps the rest of the take's audio; also makes an instrumental version of
+  a take. Shows the cost and waits for a go-ahead. Use when the user likes a take
+  but something in it is wrong ("fix the word in line 3", "drop the synth", "redo
+  the bridge"), to apply a lyric or pronunciation fix made in the track file to a
+  take worth keeping, or when they want the take without its vocals.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/edit-take
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 668
+added_at: '2026-11-15'

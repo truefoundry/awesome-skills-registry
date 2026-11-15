@@ -1,0 +1,17 @@
+id: bitwize-music-studio-claude-ai-music-skills-sound-effects
+display_name: sound-effects
+description: Makes a sound effect, a one-shot or a loop for an album through Suno's
+  MCP server - rain for an intro, a riser, a vinyl crackle bed, a drum loop at a track's
+  tempo. Shows the cost and waits for a go-ahead. Use when the user asks for "a sound
+  of...", "an ambience", "a loop", "a sting" or "a sound effect" rather than a song.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sound-effects
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 668
+added_at: '2026-11-15'

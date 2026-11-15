@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-survey-design-advisor
+display_name: survey-design-advisor
+description: Decide whether a survey is the right tool, then shape it. Use when you're
+  about to send a survey and want to learn something real instead of collecting biased,
+  unusable answers.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/survey-design-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

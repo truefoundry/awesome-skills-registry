@@ -1,0 +1,24 @@
+id: google-skills-bigquery-migration-metadata-extractor
+display_name: bigquery-migration-metadata-extractor
+description: Extracts database catalog metadata and query logs from data warehouses
+  by running the DWH migration extractor locally or on a temporary Google Cloud VM
+  through the BigQuery Migration Cloud Extractor (credentials held in Secret Manager),
+  and inspects extracted `.zip` archives to report object and volume statistics. Use
+  when extracting database metadata or query logs from Snowflake, Redshift, Teradata,
+  Oracle, PostgreSQL, SQL Server, Hive, etc., deciding between local and cloud (Cloud
+  Extractor) extraction, or inspecting extracted dwh-migration-*.zip archives to print
+  post-extraction statistics. Don't use for SQL dialect translation (use bigquery-migration-sql-translator),
+  exporting table data to Parquet or CSV files (such as Snowflake `COPY INTO` unloads)
+  or loading it into BigQuery (use the BigQuery Data Transfer Service or bigquery-basics),
+  or validating migrated data.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/bigquery-migration-metadata-extractor
+  repo: google/skills
+metadata:
+  stars: 24272
+added_at: '2026-11-15'

@@ -1,0 +1,19 @@
+id: coreyhaines31-marketingskills-conversion-tracking
+display_name: conversion-tracking
+description: 'When the user wants to set up, audit, or fix conversion tracking to
+  Google Ads, Meta, GA4, LinkedIn, and TikTok, or asks why conversions are missing
+  or doubled: GTM, pixels, CAPI, Enhanced Conversions, offline imports. Fire on confirmed
+  success, not the submit click; verify a test conversion arrives; diagnose before
+  changing; offer free paths and disclose partner tools. For tracking plans, see analytics.
+  For attribution, see attribution. For bidding, see ads.'
+authors:
+- coreyhaines31
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conversion-tracking
+  repo: coreyhaines31/marketingskills
+metadata:
+  stars: 60343
+added_at: '2026-11-15'

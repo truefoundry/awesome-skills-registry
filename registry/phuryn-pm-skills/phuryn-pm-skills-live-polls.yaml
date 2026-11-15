@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-live-polls
+display_name: live-polls
+description: 'A poll or vote in a meeting, workshop or training: ''run a quick poll'',
+  dot-voting, a confidence vote, a word cloud, a quiz. Ask the room before the discussion
+  and decide with the result. AskOne by default.'
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-execution/skills/live-polls
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27993
+added_at: '2026-11-15'

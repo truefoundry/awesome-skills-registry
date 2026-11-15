@@ -1,0 +1,25 @@
+id: google-skills-bigquery-migration-validator
+display_name: bigquery-migration-validator
+description: 'Validates that tables migrated to BigQuery match their source (Teradata,
+  Snowflake, Oracle, Redshift, Databricks, PostgreSQL, SQL Server, MySQL, MariaDB,
+  Hive, Impala, Vertica) with the BigQuery Migration Service (BQMS) validation tool:
+  schema and data type comparison, column aggregate comparison, and row-level data
+  comparison. Use when generating or editing a validation config, running a validation,
+  choosing sampling or partitioning, fixing connection or driver errors, or investigating
+  validation results in BigQuery and Cloud Storage to decide which mismatches to fix.
+  Don''t use for SQL translation (use bigquery-migration-sql-translator), extracting
+  source database catalog metadata or query logs, generating SQL scripts (such as
+  COPY INTO) or exporting or unloading source tables to Parquet on Cloud Storage,
+  loading staged files into BigQuery (such as bq load), or general BigQuery query
+  failures and tuning (use bigquery-troubleshooting or bigquery-optimization).'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/bigquery-migration-validator
+  repo: google/skills
+metadata:
+  stars: 24272
+added_at: '2026-11-15'

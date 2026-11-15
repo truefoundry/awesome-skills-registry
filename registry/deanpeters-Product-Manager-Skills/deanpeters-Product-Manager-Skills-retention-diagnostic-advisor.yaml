@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-retention-diagnostic-advisor
+display_name: retention-diagnostic-advisor
+description: Find why customers leave or go quiet, then pick the fix that fits. Use
+  when churn or renewal numbers slipped and you need the cause before you launch a
+  retention program.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/retention-diagnostic-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-sales-value-narrative
+display_name: sales-value-narrative
+description: 'Build a sales value narrative: why change, why now, why us, value by
+  buying-group role, objections, and a do-not-say list. Use when Sales or partners
+  must explain value with claims they can defend.'
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sales-value-narrative
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

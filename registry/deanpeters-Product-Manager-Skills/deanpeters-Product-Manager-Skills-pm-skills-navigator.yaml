@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-pm-skills-navigator
+display_name: pm-skills-navigator
+description: Find the right PM skill for the situation on your desk. Use when you
+  don't know where you are in the product lifecycle or which skill in this library
+  to start with.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pm-skills-navigator
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 8022
+added_at: '2026-11-15'

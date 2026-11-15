@@ -1,0 +1,19 @@
+id: bitwize-music-studio-claude-ai-music-skills-suno-voice
+display_name: suno-voice
+description: Puts one of the user's saved Suno Voices on a track or a whole album
+  so /bitwize-music:generate sings in it, takes it off again, lists the Voices on
+  their Suno account, or gives them Suno's link to make a new one. Checks the Voice
+  exists first; nothing is generated or charged. Use when the user says "use my <name>
+  voice", "sing this album in <Voice>", "what voices do I have", "take the voice off
+  track 3" or "make a new voice".
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/suno-voice
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 668
+added_at: '2026-11-15'

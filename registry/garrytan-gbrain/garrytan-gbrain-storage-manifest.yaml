@@ -1,0 +1,17 @@
+id: garrytan-gbrain-storage-manifest
+display_name: storage-manifest
+description: 'The storage shelf: one card per item archived to object storage (B2,
+  Supabase Storage, S3). Register a card after a verified archive, find a card before
+  any restore, restore through the agent''s own restore skill with the card''s restore
+  form, then record the restore on the card.'
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/storage-manifest
+  repo: garrytan/gbrain
+metadata:
+  stars: 33009
+added_at: '2026-11-15'

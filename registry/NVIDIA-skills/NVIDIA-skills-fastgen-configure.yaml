@@ -1,0 +1,17 @@
+id: NVIDIA-skills-fastgen-configure
+display_name: fastgen-configure
+description: Create or adapt an NVIDIA FastGen experiment config for a network, task,
+  dataset and training objective, and pick a distillation method when none was chosen.
+  Use it whenever a FastGen run needs a new or modified config file or non-trivial
+  overrides.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/fastgen-configure
+  repo: NVIDIA/skills
+metadata:
+  stars: 3990
+added_at: '2026-11-15'

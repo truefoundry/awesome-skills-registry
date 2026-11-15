@@ -1,0 +1,18 @@
+id: NVIDIA-skills-fastgen-add-method
+display_name: fastgen-add-method
+description: 'Implement and validate a new NVIDIA FastGen training method or objective
+  (distillation, consistency, adversarial or fine-tuning variants) from a paper or
+  reference code: FastGenModel subclass, method config, gradients, student sampling
+  and tests. Use it whenever an algorithm is not expressible through the existing
+  method configs.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/fastgen-add-method
+  repo: NVIDIA/skills
+metadata:
+  stars: 3990
+added_at: '2026-11-15'

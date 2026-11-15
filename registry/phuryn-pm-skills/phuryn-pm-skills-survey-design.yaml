@@ -1,0 +1,16 @@
+id: phuryn-pm-skills-survey-design
+display_name: survey-design
+description: 'Writing or reviewing a survey or questionnaire: customer feedback, NPS,
+  CSAT, CES, pricing, market research, an in-app survey. Starts from the decision,
+  asks about facts, pilots it, and reports the sample honestly.'
+authors:
+- phuryn
+is_official: false
+tags: []
+category: none
+source:
+  path: /pm-market-research/skills/survey-design
+  repo: phuryn/pm-skills
+metadata:
+  stars: 27993
+added_at: '2026-11-15'

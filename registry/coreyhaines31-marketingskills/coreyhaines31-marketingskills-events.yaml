@@ -1,0 +1,18 @@
+id: coreyhaines31-marketingskills-events
+display_name: events
+description: 'When the user wants to plan, run, sponsor, or speak at events, or asks
+  whether an event or booth is worth the money: webinars, conferences, booths, meetups,
+  show-up rates, and follow-up into pipeline. For launches, see launch. For joint
+  webinars, see co-marketing. For community programs, see community-marketing. For
+  podcasts, see public-relations. For event emails, see emails.'
+authors:
+- coreyhaines31
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/events
+  repo: coreyhaines31/marketingskills
+metadata:
+  stars: 60343
+added_at: '2026-11-15'
