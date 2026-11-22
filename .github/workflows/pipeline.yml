@@ -15,7 +15,9 @@ permissions:
 
 jobs:
   update-registry:
-    runs-on: ubuntu-latest
+    runs-on:
+      group: public-runner-group
+      labels: "gh-pb-runners-2c"
     steps:
       - uses: actions/checkout@v4
         with:
